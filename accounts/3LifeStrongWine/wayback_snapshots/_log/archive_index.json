@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-01T07:43:31",
+  "last_updated": "2026-08-01T07:47:35",
   "html": {
     "https://web.archive.org/web/20241212040614if_/https://twitter.com/3LifeStrongWine/status/1867058351856648371": {
       "status": "done",
@@ -74058,13 +74058,13 @@
       "last_updated": "2026-08-01T06:11:10"
     },
     "https://video.twimg.com/ext_tw_video/1879047081928925184/pu/vid/avc1/590x1280/TqD5Omy0p29YgPpA.mp4?tag=12": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20250114070435_twitter_com_3LifeStrongWine_status_1879062037730558184.json"
       ],
-      "last_updated": "2026-08-01T06:11:13",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250114070435/https://video.twimg.com/ext_tw_video/1879047081928925184/pu/vid/avc1/590x1280/TqD5Omy0p29YgPpA.mp4?tag=12",
-      "miss_count": 2
+      "last_updated": "2026-08-01T07:44:47",
+      "last_reason": "HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20250114070435/https://video.twimg.com/ext_tw_video/1879047081928925184/pu/vid/avc1/590x1280/TqD5Omy0p29YgPpA.mp4?tag=12",
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/1879148617782702080/vid/avc1/720x1280/M8tSviA_DUPRiumq.mp4?tag=14": {
       "status": "done",
@@ -74281,9 +74281,9 @@
       "referenced_by": [
         "20250219055050_twitter_com_3LifeStrongWine_status_1892089440174047421.json"
       ],
-      "last_updated": "2026-08-01T06:11:22",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250219055050im_/https://video.twimg.com/amplify_video/1891759922481856512/vid/avc1/720x1280/_CHrSmNFjjUsyUjF.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f46afac8d10>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:45:19",
+      "last_reason": "HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20250219055050/https://video.twimg.com/amplify_video/1891759922481856512/vid/avc1/720x1280/_CHrSmNFjjUsyUjF.mp4?tag=14",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1892656416961495040/pu/vid/avc1/544x960/aio8xE5Zw5I5O9ol.mp4?tag=12": {
       "status": "done",
@@ -74318,18 +74318,18 @@
       "referenced_by": [
         "20250225164123_twitter_com_3LifeStrongWine_status_1894427483476562234.json"
       ],
-      "last_updated": "2026-08-01T06:11:27",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250225164123if_/https://video.twimg.com/tweet_video/GkpbggzXoAAtEPj.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f46af693aa0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:45:57",
+      "last_reason": "HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20250225164123/https://video.twimg.com/tweet_video/GkpbggzXoAAtEPj.mp4",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1900073042438758400/vid/avc1/1280x720/OTlO8tGlIrhAW8vE.mp4?tag=16": {
       "status": "failed",
       "referenced_by": [
         "20250313072735_twitter_com_3LifeStrongWine_status_1900086319713587546.json"
       ],
-      "last_updated": "2026-08-01T06:11:31",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250313072735im_/https://video.twimg.com/amplify_video/1900073042438758400/vid/avc1/1280x720/OTlO8tGlIrhAW8vE.mp4?tag=16 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f46afac8620>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:46:15",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250313072735/https://video.twimg.com/amplify_video/1900073042438758400/vid/avc1/1280x720/OTlO8tGlIrhAW8vE.mp4?tag=16 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f0791ac7fb0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1900540558785064960/vid/avc1/1080x1920/kc0ZRSkTGUOjsO-o.mp4?tag=16": {
       "status": "done",
@@ -74371,9 +74371,9 @@
       "referenced_by": [
         "20250320050541_twitter_com_3LifeStrongWine_status_1902587326523736503.json"
       ],
-      "last_updated": "2026-08-01T06:11:36",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250320050541if_/https://video.twimg.com/amplify_video/1902587155932966914/vid/avc1/590x1280/bjHOFsY5_62gci8A.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f46afaf0080>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:46:17",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250320050541/https://video.twimg.com/amplify_video/1902587155932966914/vid/avc1/590x1280/bjHOFsY5_62gci8A.mp4?tag=14 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f07916a3e00>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1902593143910100992/vid/avc1/1080x1920/uWITve2D2KYp_wVF.mp4?tag=16": {
       "status": "done",
@@ -74401,18 +74401,18 @@
       "referenced_by": [
         "20250325041552_twitter_com_3LifeStrongWine_status_1904386728368148537.json"
       ],
-      "last_updated": "2026-08-01T06:11:40",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250325041552im_/https://video.twimg.com/tweet_video/Gm26EjdX0AARRzw.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f46afaf0f20>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:46:19",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250325041552/https://video.twimg.com/tweet_video/Gm26EjdX0AARRzw.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f0791ad5e20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1904422850435698688/pu/vid/avc1/720x960/PXYZNJWUH_aIfXdK.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20250325081236_twitter_com_3LifeStrongWine_status_1904446303662379213.json"
       ],
-      "last_updated": "2026-08-01T06:11:45",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250325081236im_/https://video.twimg.com/ext_tw_video/1904422850435698688/pu/vid/avc1/720x960/PXYZNJWUH_aIfXdK.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f46afaca210>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:46:21",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250325081236/https://video.twimg.com/ext_tw_video/1904422850435698688/pu/vid/avc1/720x960/PXYZNJWUH_aIfXdK.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f0791ac51f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1904730684238995456/vid/avc1/712x608/t1XvESxs7jk9IIsV.mp4?tag=16": {
       "status": "done",
@@ -74469,9 +74469,9 @@
       "referenced_by": [
         "20250403091350_twitter_com_3LifeStrongWine_status_1907723204640268515.json"
       ],
-      "last_updated": "2026-08-01T06:11:49",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250403091350im_/https://video.twimg.com/tweet_video/GnmYC41aMAYBTi6.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f46afac9550>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:46:23",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250403091350/https://video.twimg.com/tweet_video/GnmYC41aMAYBTi6.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f0791ad78f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1908051270272954370/vid/avc1/720x1280/yBnM0BvFfwVKxLPg.mp4?tag=14": {
       "status": "done",
@@ -74514,9 +74514,9 @@
       "referenced_by": [
         "20250406093935_twitter_com_3LifeStrongWine_status_1908816848474546602.json"
       ],
-      "last_updated": "2026-08-01T06:11:54",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250406093935im_/https://video.twimg.com/tweet_video/Gn16nAtaQAAppeg.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f46afaf12b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:46:25",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250406093935/https://video.twimg.com/tweet_video/Gn16nAtaQAAppeg.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f079194c8c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1908906762893488128/pu/vid/avc1/804x720/hIJ3en9x8WlKqthQ.mp4?tag=12": {
       "status": "done",
@@ -74537,9 +74537,9 @@
       "referenced_by": [
         "20250407142444_twitter_com_3LifeStrongWine_status_1909250996834120019.json"
       ],
-      "last_updated": "2026-08-01T06:11:59",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250407142444im_/https://video.twimg.com/ext_tw_video/1909244799817048064/pu/vid/avc1/720x1280/Oj26DDvI1cD9cuL-.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f46afac9430>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:46:27",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250407142444/https://video.twimg.com/ext_tw_video/1909244799817048064/pu/vid/avc1/720x1280/Oj26DDvI1cD9cuL-.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f079194dc70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1910600016986857472/vid/avc1/1920x1080/Kc7pN0hMtTkEFR1g.mp4?tag=16": {
       "status": "done",
@@ -74617,9 +74617,9 @@
       "referenced_by": [
         "20250530095035_twitter_com_3LifeStrongWine_status_1928388563068174694.json"
       ],
-      "last_updated": "2026-08-01T06:12:04",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250530095035im_/https://video.twimg.com/ext_tw_video/1928276079460110337/pu/vid/avc1/720x1280/lqmW9Aq-z97L1X-F.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f46afacb470>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:46:30",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250530095035/https://video.twimg.com/ext_tw_video/1928276079460110337/pu/vid/avc1/720x1280/lqmW9Aq-z97L1X-F.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f0791ac61e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1928482131094970369/vid/avc1/1080x1920/Q7SMWCajh4_e8azU.mp4": {
       "status": "done",
@@ -74655,9 +74655,9 @@
       "referenced_by": [
         "20250607085236_twitter_com_3LifeStrongWine_status_1931273073396990076.json"
       ],
-      "last_updated": "2026-08-01T06:12:08",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250607085236im_/https://video.twimg.com/amplify_video/1931272572819456000/vid/avc1/590x1280/7YheE9--OYSZ9tOg.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f46afaf2150>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:46:34",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250607085236im_/https://video.twimg.com/amplify_video/1931272572819456000/vid/avc1/590x1280/7YheE9--OYSZ9tOg.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f079194c7d0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1931672090895355904/vid/avc1/1280x720/jgtdx81flqThKA71.mp4": {
       "status": "done",
@@ -74678,9 +74678,9 @@
       "referenced_by": [
         "20250609154448_twitter_com_3LifeStrongWine_status_1932101582201700494.json"
       ],
-      "last_updated": "2026-08-01T06:12:13",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250609154448im_/https://video.twimg.com/ext_tw_video/1932097856175005696/pu/vid/avc1/1280x720/VY1dWflpMp2SWk-2.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f46afaf1fa0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:46:36",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250609154448/https://video.twimg.com/ext_tw_video/1932097856175005696/pu/vid/avc1/1280x720/VY1dWflpMp2SWk-2.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f079194dd90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1932356054811299840/vid/avc1/810x720/oCbuAOMKl0EcSeAk.mp4": {
       "status": "done",
@@ -74701,27 +74701,27 @@
       "referenced_by": [
         "20250616121908_twitter_com_3LifeStrongWine_status_1934586539394392183.json"
       ],
-      "last_updated": "2026-08-01T06:12:17",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250616121908im_/https://video.twimg.com/amplify_video/1934582446634471424/vid/avc1/1280x720/ZcTfeKcKKycyKBQu.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f46afaf1ac0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:46:38",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250616121908/https://video.twimg.com/amplify_video/1934582446634471424/vid/avc1/1280x720/ZcTfeKcKKycyKBQu.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f0791ad6ed0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/GtvG_V5X0AEUMvu.mp4": {
       "status": "failed",
       "referenced_by": [
         "20250618153003_twitter_com_3LifeStrongWine_status_1935359362203271610.json"
       ],
-      "last_updated": "2026-08-01T06:12:21",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250618153003im_/https://video.twimg.com/tweet_video/GtvG_V5X0AEUMvu.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f46afaca420>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:46:43",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250618153003im_/https://video.twimg.com/tweet_video/GtvG_V5X0AEUMvu.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f079194cd40>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/GtxkmjGagAATZVU.mp4": {
       "status": "failed",
       "referenced_by": [
         "20250619090039_twitter_com_3LifeStrongWine_status_1935623750919274939.json"
       ],
-      "last_updated": "2026-08-01T06:12:26",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250619090039im_/https://video.twimg.com/tweet_video/GtxkmjGagAATZVU.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f46afaca3c0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:46:47",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250619090039im_/https://video.twimg.com/tweet_video/GtxkmjGagAATZVU.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f079194e7e0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1937704463512518656/vid/avc1/3840x2160/hyf4HLO5DMtNl2_A.mp4": {
       "status": "done",
@@ -74749,9 +74749,9 @@
       "referenced_by": [
         "20250726141036_twitter_com_3LifeStrongWine_status_1949110106253300110.json"
       ],
-      "last_updated": "2026-08-01T06:12:30",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250726141036im_/https://video.twimg.com/ext_tw_video/1949109896223596544/pu/vid/avc1/1280x720/yk7FtCWIkLSogEfT.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f46af93c860>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:46:52",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250726141036if_/https://video.twimg.com/ext_tw_video/1949109896223596544/pu/vid/avc1/1280x720/yk7FtCWIkLSogEfT.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0791ad6180>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1956745250074181632/pu/vid/avc1/720x1280/xVy4bdlHMIlsND73.mp4?tag=12": {
       "status": "done",
@@ -74801,9 +74801,9 @@
       "referenced_by": [
         "20260107035635_twitter_com_3LifeStrongWine_status_2008749578947088621.json"
       ],
-      "last_updated": "2026-08-01T06:12:34",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260107035635im_/https://video.twimg.com/amplify_video/2008686701431189509/vid/avc1/720x824/_GRlFcHVYogqFcT7.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f46afacaf90>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:46:57",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260107035635im_/https://video.twimg.com/amplify_video/2008686701431189509/vid/avc1/720x824/_GRlFcHVYogqFcT7.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f079194d9a0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1917199776078340096/vid/avc1/720x1082/RzMgajP8K53eA-uy.mp4?tag=14": {
       "status": "done",
@@ -74824,9 +74824,9 @@
       "referenced_by": [
         "20260118171839_twitter_com_3LifeStrongWine_status_2012937695186800646.json"
       ],
-      "last_updated": "2026-08-01T06:12:38",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260118171839im_/https://video.twimg.com/amplify_video/2012934149783384064/vid/avc1/720x1280/FSOutIcKYiDpTbwD.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f46afaf2b10>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:47:01",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260118171839im_/https://video.twimg.com/amplify_video/2012934149783384064/vid/avc1/720x1280/FSOutIcKYiDpTbwD.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f07916a39b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2015343916883877888/vid/avc1/720x1280/9kk3a8OnyjPkb75K.mp4": {
       "status": "done",
@@ -74896,9 +74896,9 @@
       "referenced_by": [
         "20260326141640_twitter_com_3LifeStrongWine_status_2037171883380989953.json"
       ],
-      "last_updated": "2026-08-01T06:12:42",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260326141640im_/https://video.twimg.com/amplify_video/2037171237638856704/vid/avc1/720x1280/zEF39FbpBM9kf5vv.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f46afaf2bd0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:47:05",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260326141640im_/https://video.twimg.com/amplify_video/2037171237638856704/vid/avc1/720x1280/zEF39FbpBM9kf5vv.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0791ad49b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2037252767127912449/vid/avc1/720x1280/sQko2iO-ME7uAZNh.mp4": {
       "status": "done",
@@ -74919,9 +74919,9 @@
       "referenced_by": [
         "20260327214726_twitter_com_3LifeStrongWine_status_2037647708836491291.json"
       ],
-      "last_updated": "2026-08-01T06:12:47",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260327214726im_/https://video.twimg.com/amplify_video/2037647648619143170/vid/avc1/1280x720/UIOKo4D_WlsD3Yoo.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f46af93cf80>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:47:09",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260327214726im_/https://video.twimg.com/amplify_video/2037647648619143170/vid/avc1/1280x720/UIOKo4D_WlsD3Yoo.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0791ad5e20>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2037650045189718016/vid/avc1/1280x720/wLkOrJLNsJvMQXLF.mp4": {
       "status": "done",
@@ -74942,27 +74942,27 @@
       "referenced_by": [
         "20260329170822_twitter_com_3LifeStrongWine_status_2038302257070915721.json"
       ],
-      "last_updated": "2026-08-01T06:12:51",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260329170822im_/https://video.twimg.com/amplify_video/2037965637746860032/vid/avc1/810x720/DqAljqMy0HuckNf1.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f46af93e6c0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:47:14",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260329170822im_/https://video.twimg.com/amplify_video/2037965637746860032/vid/avc1/810x720/DqAljqMy0HuckNf1.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f079194d430>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2039251909832564736/vid/avc1/720x1280/4yAGjXnYKRleMwK6.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260402150510_twitter_com_3LifeStrongWine_status_2039720803911209261.json"
       ],
-      "last_updated": "2026-08-01T06:12:55",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402150510im_/https://video.twimg.com/amplify_video/2039251909832564736/vid/avc1/720x1280/4yAGjXnYKRleMwK6.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f46afaf1940>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:47:18",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402150510im_/https://video.twimg.com/amplify_video/2039251909832564736/vid/avc1/720x1280/4yAGjXnYKRleMwK6.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f079194dca0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2041154779016228864/vid/avc1/720x1280/7AxacQ2OcBQL3kcL.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260406160526_twitter_com_3LifeStrongWine_status_2041185521989505480.json"
       ],
-      "last_updated": "2026-08-01T06:12:59",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406160526im_/https://video.twimg.com/amplify_video/2041154779016228864/vid/avc1/720x1280/7AxacQ2OcBQL3kcL.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f46afac8800>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:47:22",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406160526im_/https://video.twimg.com/amplify_video/2041154779016228864/vid/avc1/720x1280/7AxacQ2OcBQL3kcL.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0791ad5850>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2040547405201043456/vid/avc1/720x1236/AfnL0aLCaYBkfL5E.mp4": {
       "status": "done",
@@ -74976,27 +74976,27 @@
       "referenced_by": [
         "20260408021300_twitter_com_3LifeStrongWine_status_2041700807813558642.json"
       ],
-      "last_updated": "2026-08-01T06:13:03",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260408021300im_/https://video.twimg.com/amplify_video/2041464754007662592/vid/avc1/720x1280/PUR-m0eS4ILK5lEX.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f46afacb620>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:47:26",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260408021300im_/https://video.twimg.com/amplify_video/2041464754007662592/vid/avc1/720x1280/PUR-m0eS4ILK5lEX.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0791ad6c60>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2041177485635887104/pu/vid/avc1/720x1280/vhoN7FuLbp8_huGw.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20260408081146_twitter_com_3LifeStrongWine_status_2041791097685557736.json"
       ],
-      "last_updated": "2026-08-01T06:13:08",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260408081146im_/https://video.twimg.com/ext_tw_video/2041177485635887104/pu/vid/avc1/720x1280/vhoN7FuLbp8_huGw.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f46af93d9a0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:47:30",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260408081146im_/https://video.twimg.com/ext_tw_video/2041177485635887104/pu/vid/avc1/720x1280/vhoN7FuLbp8_huGw.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0791ac6060>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2049086271251759104/vid/avc1/720x1280/AO5zL8khwsOmu7nP.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260428114248_twitter_com_3LifeStrongWine_status_2049091962616304045.json"
       ],
-      "last_updated": "2026-08-01T06:13:12",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260428114248im_/https://video.twimg.com/amplify_video/2049086271251759104/vid/avc1/720x1280/AO5zL8khwsOmu7nP.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f46af93c8c0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T07:47:35",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260428114248im_/https://video.twimg.com/amplify_video/2049086271251759104/vid/avc1/720x1280/AO5zL8khwsOmu7nP.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f079194ce90>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2053415758101901312/vid/avc1/1280x720/UexZg1rgFHNWSFyH.mp4?tag=14": {
       "status": "done",
