@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2057320870952280556",
+    "created_at": "2026-05-21T04:58:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T05:58:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057325031450136804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1684753084545925120",
+          "start": 0,
+          "username": "baiwangao32"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057325031450136804",
+    "in_reply_to_user_id": "1684753084545925120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057323205073772754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baiwangao32 其实我还没上上班"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2057320870952280556",
+        "created_at": "2026-05-21T04:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T05:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057325031450136804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1684753084545925120",
+              "start": 0,
+              "username": "baiwangao32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057325031450136804",
+        "in_reply_to_user_id": "1684753084545925120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057323205073772754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baiwangao32 其实我还没上上班"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684753084545925120",
+        "conversation_id": "2057320870952280556",
+        "created_at": "2026-05-21T04:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T05:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057323205073772754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057323205073772754",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057320870952280556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 还真是 全是工作邮件 证明最近在忙工作"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花潭水深千尺  不及汪伦送我情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2878,
+          "following_count": 100,
+          "like_count": 6826,
+          "listed_count": 14,
+          "media_count": 3655,
+          "tweet_count": 14326
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T02:30:23.000Z",
+        "description": "less is more",
+        "id": "1684753084545925120",
+        "location": "American Canyon, CA",
+        "name": "Eric",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970081572612390912/0YdE-mXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 1425,
+          "like_count": 68694,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 903
+        },
+        "username": "baiwangao32",
+        "verified": false
+      }
+    ]
+  }
+}

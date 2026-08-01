@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1908906851997241570",
+    "created_at": "2025-04-06T15:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T16:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908907120172634158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1462285623943966720",
+          "start": 0,
+          "username": "Ruiuiui1227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908907120172634158",
+    "in_reply_to_user_id": "1462285623943966720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908906851997241570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruiuiui1227 一开口就知道起码是个厅级"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 47113,
+        "height": 720,
+        "media_key": "7_1908906762893488128",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1908906762893488128/pu/img/IdTi8kpmyp9jv45D.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1908906762893488128/pu/vid/avc1/300x270/85I5aN_Qps1GwuUk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1908906762893488128/pu/vid/avc1/402x360/LrbbG8svvuXvrWhN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1908906762893488128/pu/vid/avc1/804x720/hIJ3en9x8WlKqthQ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1908906762893488128/pu/pl/bYsgd6D-zF4MiIe_.m3u8?tag=12"
+          }
+        ],
+        "width": 804
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1908906851997241570",
+        "created_at": "2025-04-06T15:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T16:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908907120172634158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1462285623943966720",
+              "start": 0,
+              "username": "Ruiuiui1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908907120172634158",
+        "in_reply_to_user_id": "1462285623943966720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908906851997241570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruiuiui1227 一开口就知道起码是个厅级"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1908906762893488128"
+          ]
+        },
+        "author_id": "1462285623943966720",
+        "conversation_id": "1908906851997241570",
+        "created_at": "2025-04-06T15:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T16:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908906851997241570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ndAZhnEeFL",
+              "end": 30,
+              "expanded_url": "https://x.com/Ruiuiui1227/status/1908906851997241570/video/1",
+              "media_key": "7_1908906762893488128",
+              "start": 7,
+              "url": "https://t.co/ndAZhnEeFL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908906851997241570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说山东话: https://t.co/ndAZhnEeFL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "业余摄影｜我会永远站在过去热泪盈眶地读着你们的未来",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1491,
+          "following_count": 243,
+          "like_count": 7229,
+          "listed_count": 12,
+          "media_count": 2443,
+          "tweet_count": 9866
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-21T05:04:06.000Z",
+        "description": "想做一个幸福的女屌丝|不接推广｜过🚪只能加微信无任何福利｜自用vpn高速安全，9.9一年https://t.co/qyfy1D0mLq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youxuan.wiki/#/register?cod…",
+                "end": 67,
+                "expanded_url": "https://www.youxuan.wiki/#/register?code=yubihd5O",
+                "start": 44,
+                "url": "https://t.co/qyfy1D0mLq"
+              }
+            ]
+          }
+        },
+        "id": "1462285623943966720",
+        "location": "精神病院",
+        "name": "怕冷空气",
+        "pinned_tweet_id": "1860458766967406659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810719290632667136/J6mGnK8B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16363,
+          "following_count": 251,
+          "like_count": 34332,
+          "listed_count": 17,
+          "media_count": 2199,
+          "tweet_count": 8686
+        },
+        "username": "Ruiuiui1227",
+        "verified": false
+      }
+    ]
+  }
+}

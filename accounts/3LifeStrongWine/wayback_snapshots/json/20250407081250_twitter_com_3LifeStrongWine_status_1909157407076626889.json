@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1909153467274514659",
+    "created_at": "2025-04-07T08:12:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T09:12:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909157407076626889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592865779241734144",
+          "start": 0,
+          "username": "yuanyuan774"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909157407076626889",
+    "in_reply_to_user_id": "1592865779241734144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909157319037890701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanyuan774 一分钟5毛钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1909153467274514659",
+        "created_at": "2025-04-07T08:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T09:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909157407076626889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592865779241734144",
+              "start": 0,
+              "username": "yuanyuan774"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909157407076626889",
+        "in_reply_to_user_id": "1592865779241734144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909157319037890701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanyuan774 一分钟5毛钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592865779241734144",
+        "conversation_id": "1909153467274514659",
+        "created_at": "2025-04-07T08:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T09:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909157319037890701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909157319037890701",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909157194601541753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 我不理你了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909122304141148160/VzRDqCNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1493,
+          "following_count": 244,
+          "like_count": 7288,
+          "listed_count": 12,
+          "media_count": 2460,
+          "tweet_count": 9981
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-16T13:03:00.000Z",
+        "description": "不爱看滚出去",
+        "id": "1592865779241734144",
+        "location": "不接推广（不打钱不要骚扰我 ）（别他妈发几把了 操你妈）",
+        "name": "你是不是欠",
+        "pinned_tweet_id": "1909120054827921583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907366939682291712/aEdsg4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4565,
+          "following_count": 206,
+          "like_count": 16358,
+          "listed_count": 5,
+          "media_count": 512,
+          "tweet_count": 11429
+        },
+        "username": "yuanyuan774",
+        "verified": false
+      }
+    ]
+  }
+}

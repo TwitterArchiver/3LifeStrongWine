@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1886096879869702528",
+    "created_at": "2025-02-02T16:59:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T17:59:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886097213744685489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1463122799631888385",
+          "start": 0,
+          "username": "gyyywq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886097213744685489",
+    "in_reply_to_user_id": "1463122799631888385",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886096879869702528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gyyywq 啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1886096879869702528",
+        "created_at": "2025-02-02T16:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T17:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886097213744685489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1463122799631888385",
+              "start": 0,
+              "username": "gyyywq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886097213744685489",
+        "in_reply_to_user_id": "1463122799631888385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886096879869702528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gyyywq 啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1463122799631888385",
+        "conversation_id": "1886096879869702528",
+        "created_at": "2025-02-02T16:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T17:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886096879869702528"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1886096879869702528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我明天下午开学...有点崩溃..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 219,
+          "like_count": 6376,
+          "listed_count": 0,
+          "media_count": 1597,
+          "tweet_count": 6952
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-23T12:30:50.000Z",
+        "description": "07｜xxs｜极度消极｜当朋友圈发｜求美女互关🥺｜互关加v",
+        "id": "1463122799631888385",
+        "location": "西伯利亚挖土豆",
+        "name": "宫野未崎",
+        "pinned_tweet_id": "1555902031008878592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877951996575285248/7L3_A5sW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2069,
+          "following_count": 113,
+          "like_count": 3952,
+          "listed_count": 4,
+          "media_count": 32,
+          "tweet_count": 651
+        },
+        "username": "gyyywq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1867438490017026176",
+    "created_at": "2024-12-13T05:45:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T06:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867445818174976051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1732356232290222080",
+          "start": 0,
+          "username": "TNSZ8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867445818174976051",
+    "in_reply_to_user_id": "1732356232290222080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867438490017026176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TNSZ8964 怎么了我的朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1867438490017026176",
+        "created_at": "2024-12-13T05:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T06:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867445818174976051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "TNSZ8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867445818174976051",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867438490017026176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TNSZ8964 怎么了我的朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1867438490017026176",
+        "created_at": "2024-12-13T05:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T06:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867438490017026176"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1867438490017026176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没事。、再忍一个月好了，马上就过年了猪都会被吃掉的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "有时也想过花烂漫某天与世界无声道别， 可是偏偏有太多太多遗憾挂牵没画句点",
+        "id": "1529654419213541376",
+        "location": "长大是变温柔，是对所有人都温柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1865393368853090537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 181,
+          "like_count": 2150,
+          "listed_count": 4,
+          "media_count": 533,
+          "tweet_count": 3254
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "因为我是魔女啊｜我最爱的日出之国｜逃生舱：@yamikawayihime ｜私信只回门槛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 21,
+                "username": "yamikawayihime"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "白云山制药厂",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1846618745810440364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865121596278497280/oTkDj2u6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1870,
+          "following_count": 414,
+          "like_count": 3052,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 2163
+        },
+        "username": "TNSZ8964",
+        "verified": false
+      }
+    ]
+  }
+}

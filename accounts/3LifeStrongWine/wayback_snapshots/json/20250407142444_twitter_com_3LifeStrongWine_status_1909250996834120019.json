@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1909244837939028261",
+    "created_at": "2025-04-07T14:24:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T15:24:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909250996834120019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1843618227160518656",
+          "start": 0,
+          "username": "pingguozhi111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909250996834120019",
+    "in_reply_to_user_id": "1843618227160518656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909244837939028261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pingguozhi111 哈哈哈这个面膜"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10866,
+        "height": 1280,
+        "media_key": "7_1909244799817048064",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1909244799817048064/pu/img/q0xOAwywRsO8r7bH.jpg",
+        "public_metrics": {
+          "view_count": 66
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1909244799817048064/pu/vid/avc1/320x568/EBkTp_Nb67L_896E.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1909244799817048064/pu/vid/avc1/480x852/PkAZJbsN42QDwU7X.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1909244799817048064/pu/vid/avc1/720x1280/Oj26DDvI1cD9cuL-.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1909244799817048064/pu/pl/U4F8AKvrbXjazov3.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1909244837939028261",
+        "created_at": "2025-04-07T14:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T15:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909250996834120019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1843618227160518656",
+              "start": 0,
+              "username": "pingguozhi111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909250996834120019",
+        "in_reply_to_user_id": "1843618227160518656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909244837939028261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pingguozhi111 哈哈哈这个面膜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1909244799817048064"
+          ]
+        },
+        "author_id": "1843618227160518656",
+        "conversation_id": "1909244837939028261",
+        "created_at": "2025-04-07T14:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T15:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909244837939028261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0oWsqcSbr6",
+              "end": 52,
+              "expanded_url": "https://x.com/pingguozhi111/status/1909244837939028261/video/1",
+              "media_key": "7_1909244799817048064",
+              "start": 29,
+              "url": "https://t.co/0oWsqcSbr6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909244837939028261",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 226,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恁爹的。前天染的到今天我只洗了一次。紫色就全都掉光光了。 https://t.co/0oWsqcSbr6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909122304141148160/VzRDqCNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1495,
+          "following_count": 245,
+          "like_count": 7297,
+          "listed_count": 12,
+          "media_count": 2466,
+          "tweet_count": 10020
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-08T11:43:52.000Z",
+        "description": "阴暗恶毒的小老鼠一只 欢迎光临我的下水道^ ^",
+        "id": "1843618227160518656",
+        "location": "茧",
+        "name": "苹果汁🧃重度依赖",
+        "pinned_tweet_id": "1900131195108942078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904908229420998658/JkY7D4ow_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2388,
+          "following_count": 501,
+          "like_count": 9134,
+          "listed_count": 5,
+          "media_count": 230,
+          "tweet_count": 3038
+        },
+        "username": "pingguozhi111",
+        "verified": false
+      }
+    ]
+  }
+}

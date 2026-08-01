@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1882416097946923320",
+    "created_at": "2025-01-23T15:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T16:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882443718214734141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1881159839419912192",
+          "start": 0,
+          "username": "uuuuzy007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882443718214734141",
+    "in_reply_to_user_id": "1881159839419912192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882442953182093556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uuuuzy007 我初中最爱三菱uni-038了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1882416097946923320",
+        "created_at": "2025-01-23T15:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T16:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882443718214734141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1881159839419912192",
+              "start": 0,
+              "username": "uuuuzy007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882443718214734141",
+        "in_reply_to_user_id": "1881159839419912192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882442953182093556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uuuuzy007 我初中最爱三菱uni-038了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881159839419912192",
+        "conversation_id": "1882416097946923320",
+        "created_at": "2025-01-23T14:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T15:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882442953182093556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882442953182093556",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882416097946923320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 三菱我觉得也可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "白云山上白云泉，云自无心水自闲",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 223,
+          "like_count": 5986,
+          "listed_count": 7,
+          "media_count": 1407,
+          "tweet_count": 6345
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-20T02:00:42.000Z",
+        "description": "熟人别认出我",
+        "id": "1881159839419912192",
+        "name": "uuuuzy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881160398487117824/IkF3elNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 69,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 76
+        },
+        "username": "uuuuzy007",
+        "verified": false
+      }
+    ]
+  }
+}

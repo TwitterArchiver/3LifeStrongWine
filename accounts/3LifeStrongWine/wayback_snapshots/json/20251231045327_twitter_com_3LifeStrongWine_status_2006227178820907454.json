@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2006212323074302259",
+    "created_at": "2025-12-31T04:53:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T05:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006227178820907454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1863961550350065664",
+          "start": 0,
+          "username": "Selaginellaaaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006227178820907454",
+    "in_reply_to_user_id": "1863961550350065664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006227119370871138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Selaginellaaaaa 爬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2006212323074302259",
+        "created_at": "2025-12-31T04:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T05:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006227178820907454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1863961550350065664",
+              "start": 0,
+              "username": "Selaginellaaaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006227178820907454",
+        "in_reply_to_user_id": "1863961550350065664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006227119370871138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Selaginellaaaaa 爬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863961550350065664",
+        "conversation_id": "2006212323074302259",
+        "created_at": "2025-12-31T04:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T05:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006227119370871138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006227119370871138",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006212323074302259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我爱上的是遥远的理想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "pinned_tweet_id": "1992598033381638574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 166,
+          "like_count": 6631,
+          "listed_count": 13,
+          "media_count": 3074,
+          "tweet_count": 12364
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-03T15:01:06.000Z",
+        "description": "卷卷卷卷不动了就柏",
+        "id": "1863961550350065664",
+        "location": "拥抱解决了人类右边没有心跳的问题",
+        "name": "Selaginella",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876307978443522048/mt_EImdI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11572,
+          "following_count": 110,
+          "like_count": 12987,
+          "listed_count": 30,
+          "media_count": 456,
+          "tweet_count": 3973
+        },
+        "username": "Selaginellaaaaa",
+        "verified": false
+      }
+    ]
+  }
+}

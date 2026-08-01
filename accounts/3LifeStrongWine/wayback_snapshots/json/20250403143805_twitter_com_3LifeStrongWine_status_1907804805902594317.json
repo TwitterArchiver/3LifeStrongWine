@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1907802821338214744",
+    "created_at": "2025-04-03T14:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T15:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907804805902594317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1795843071177101315",
+          "start": 0,
+          "username": "Konkou111111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907804805902594317",
+    "in_reply_to_user_id": "1795843071177101315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907802821338214744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konkou111111 日々我之前还一直在想这里的々是什么意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1907802821338214744",
+        "created_at": "2025-04-03T14:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T15:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907804805902594317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1795843071177101315",
+              "start": 0,
+              "username": "Konkou111111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907804805902594317",
+        "in_reply_to_user_id": "1795843071177101315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907802821338214744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konkou111111 日々我之前还一直在想这里的々是什么意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795843071177101315",
+        "conversation_id": "1907802821338214744",
+        "created_at": "2025-04-03T14:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T15:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907802821338214744"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907802821338214744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来写叠字的时候第二个字用“々”代替是一种甲骨文的简写习惯，我之前每次看见这个字符的时候我都会很不爽，因为我觉得这样写字的人好懒🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1485,
+          "following_count": 228,
+          "like_count": 7153,
+          "listed_count": 12,
+          "media_count": 2367,
+          "tweet_count": 9582
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-29T15:42:24.000Z",
+        "description": "｜无论如何先拿起笔来｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%97%A0%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%97%A0%E6%95%8C%E6%89%A3%E6%89%A3",
+                "start": 0,
+                "url": "https://t.co/2YX5mljdGV"
+              }
+            ]
+          }
+        },
+        "id": "1795843071177101315",
+        "location": "属于我的角落",
+        "name": "无敌扣扣",
+        "pinned_tweet_id": "1903093472485101895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839264646626164736/k5lnuquo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4755,
+          "following_count": 72,
+          "like_count": 5412,
+          "listed_count": 11,
+          "media_count": 222,
+          "tweet_count": 2195
+        },
+        "url": "https://t.co/2YX5mljdGV",
+        "username": "Konkou111111",
+        "verified": false
+      }
+    ]
+  }
+}

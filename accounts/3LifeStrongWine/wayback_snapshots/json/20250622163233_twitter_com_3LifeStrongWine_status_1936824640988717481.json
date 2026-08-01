@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1936823976967450769",
+    "created_at": "2025-06-22T16:32:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T17:32:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936824640988717481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1687517394837905408",
+          "start": 0,
+          "username": "ChestnutKing4ev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936824640988717481",
+    "in_reply_to_user_id": "1687517394837905408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936824514312364159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChestnutKing4ev 栗子博士"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1936823976967450769",
+        "created_at": "2025-06-22T16:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T17:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936824640988717481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1687517394837905408",
+              "start": 0,
+              "username": "ChestnutKing4ev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936824640988717481",
+        "in_reply_to_user_id": "1687517394837905408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936824514312364159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChestnutKing4ev 栗子博士"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687517394837905408",
+        "conversation_id": "1936823976967450769",
+        "created_at": "2025-06-22T16:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T17:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936824514312364159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936824514312364159",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936824409400193465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 没有 栗子还在读研🫢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "泛黄的老照片里讲述了一个什么样的故事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我会带你去看这世界上最独一无二的风景",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586,
+          "following_count": 208,
+          "like_count": 7508,
+          "listed_count": 11,
+          "media_count": 2853,
+          "tweet_count": 11612
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-04T17:34:43.000Z",
+        "description": "纯绿｜🚪5200不陪聊｜不线下｜推广自辨｜只有此一个账号 其他平台谨防被骗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chestnutahan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chestnutahan",
+                "start": 0,
+                "url": "https://t.co/Ov0LQDvQrV"
+              }
+            ]
+          }
+        },
+        "id": "1687517394837905408",
+        "name": "栗子大王",
+        "pinned_tweet_id": "1925201206915510644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888237206260830208/ZF8kdYZs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12411,
+          "following_count": 323,
+          "like_count": 2537,
+          "listed_count": 20,
+          "media_count": 202,
+          "tweet_count": 3676
+        },
+        "url": "https://t.co/Ov0LQDvQrV",
+        "username": "ChestnutKing4ev",
+        "verified": false
+      }
+    ]
+  }
+}

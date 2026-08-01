@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1882368467170673000",
+    "created_at": "2025-01-23T18:27:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T19:27:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882495487745634495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "886560923518779396",
+          "start": 0,
+          "username": "Rippin_C"
+        },
+        {
+          "end": 23,
+          "id": "1774063407559512064",
+          "start": 10,
+          "username": "lightly_wind"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882495487745634495",
+    "in_reply_to_user_id": "886560923518779396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882445557563785328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rippin_C @lightly_wind 这个我也想吃🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1882368467170673000",
+        "created_at": "2025-01-23T18:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T19:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882495487745634495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "886560923518779396",
+              "start": 0,
+              "username": "Rippin_C"
+            },
+            {
+              "end": 23,
+              "id": "1774063407559512064",
+              "start": 10,
+              "username": "lightly_wind"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882495487745634495",
+        "in_reply_to_user_id": "886560923518779396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882445557563785328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rippin_C @lightly_wind 这个我也想吃🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882445554770444289"
+          ]
+        },
+        "author_id": "886560923518779396",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1882368467170673000",
+        "created_at": "2025-01-23T15:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T16:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882445557563785328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1774063407559512064",
+              "start": 0,
+              "username": "lightly_wind"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DhTO7LIDOI",
+              "end": 50,
+              "expanded_url": "https://x.com/Rippin_C/status/1882445557563785328/photo/1",
+              "media_key": "3_1882445554770444289",
+              "start": 27,
+              "url": "https://t.co/DhTO7LIDOI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882445557563785328",
+        "in_reply_to_user_id": "1774063407559512064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882368467170673000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lightly_wind 看看我的火锅！(✪▽✪) https://t.co/DhTO7LIDOI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "凡所有相  皆是虚妄",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1339,
+          "following_count": 224,
+          "like_count": 6065,
+          "listed_count": 7,
+          "media_count": 1418,
+          "tweet_count": 6453
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-16T12:19:30.000Z",
+        "description": "电波系&碎碎念&白日梦；喜欢可爱单纯的和病娇崩坏的事物。",
+        "id": "886560923518779396",
+        "location": "拉格朗日点L3",
+        "name": "涟漪Rippin( •̥́ ˍ •̀ू )",
+        "pinned_tweet_id": "1868307262353387919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866074489811050496/1fKKoD10_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 853,
+          "like_count": 20346,
+          "listed_count": 5,
+          "media_count": 507,
+          "tweet_count": 3708
+        },
+        "username": "Rippin_C",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T13:17:38.000Z",
+        "description": "这里是风风，一个立誓不对任何人恶语相向的笨蛋机器人ෆ╹ .̮ ╹ෆ/想成为像暖言猫猫一样用语言温暖身边所有人的人(◍•ᴗ•◍)✧*/不排斥任何观点和立场也不歧视任何人( ◜‿◝ )♡/从深渊中醒来过所以尽力去帮助身边处于痛苦和迷茫的人♡ ᒪ∅ᐯᕮ ♡/有烦恼可以和我说说哦，请你喝奶茶(´∩｡• ᵕ •｡∩`)",
+        "id": "1774063407559512064",
+        "location": "异世界，王国都城，上城区",
+        "name": "温柔的风穿堂过（住在咖啡店的电子宠物）",
+        "pinned_tweet_id": "1882119700173459944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774063486559207424/dSsXFsSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 442,
+          "like_count": 5997,
+          "listed_count": 7,
+          "media_count": 120,
+          "tweet_count": 1601
+        },
+        "username": "lightly_wind",
+        "verified": false
+      }
+    ]
+  }
+}

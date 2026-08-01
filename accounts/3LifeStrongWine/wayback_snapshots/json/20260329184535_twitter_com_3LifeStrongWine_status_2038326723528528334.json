@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2038220557246968024",
+    "created_at": "2026-03-29T18:45:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T19:45:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038326723528528334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1958040873071165440",
+          "start": 0,
+          "username": "whgODBKASz80177"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038326723528528334",
+    "in_reply_to_user_id": "1958040873071165440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038319349677895971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whgODBKASz80177 等我回宿舍试试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2038220557246968024",
+        "created_at": "2026-03-29T18:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T19:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038326723528528334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1958040873071165440",
+              "start": 0,
+              "username": "whgODBKASz80177"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038326723528528334",
+        "in_reply_to_user_id": "1958040873071165440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038319349677895971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whgODBKASz80177 等我回宿舍试试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958040873071165440",
+        "conversation_id": "2038220557246968024",
+        "created_at": "2026-03-29T18:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T19:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038319349677895971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038319349677895971",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 307,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038318491527241850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 我请教了deepseek🤓其实也没啥，先煮面，水别倒太多，然后煮配菜，最后快关火的时候把汤包倒进去，搅和搅和，就这样😆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我对你的爱换来句对不起",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VnXMe"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2042,
+          "following_count": 181,
+          "like_count": 6884,
+          "listed_count": 13,
+          "media_count": 3479,
+          "tweet_count": 13630
+        },
+        "url": "https://t.co/3g5y5VnXMe",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-20T05:38:26.000Z",
+        "description": "我叫小雨",
+        "id": "1958040873071165440",
+        "name": "rain",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035381509327392768/HZuvmM3x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1690,
+          "following_count": 32,
+          "like_count": 1834,
+          "listed_count": 12,
+          "media_count": 19,
+          "tweet_count": 626
+        },
+        "username": "whgODBKASz80177",
+        "verified": false
+      }
+    ]
+  }
+}

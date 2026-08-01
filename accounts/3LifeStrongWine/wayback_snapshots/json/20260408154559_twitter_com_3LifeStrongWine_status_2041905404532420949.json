@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2041905348160709111",
+    "created_at": "2026-04-08T15:45:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T16:45:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041905404532420949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "909909858949922818",
+          "start": 0,
+          "username": "rnpgpsl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041905404532420949",
+    "in_reply_to_user_id": "909909858949922818",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041905348160709111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rnpgpsl 有妹妹吗你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2041905348160709111",
+        "created_at": "2026-04-08T15:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041905404532420949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "909909858949922818",
+              "start": 0,
+              "username": "rnpgpsl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041905404532420949",
+        "in_reply_to_user_id": "909909858949922818",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041905348160709111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rnpgpsl 有妹妹吗你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "909909858949922818",
+        "conversation_id": "2041905348160709111",
+        "created_at": "2026-04-08T15:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041905348160709111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3lifestrongwin…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/3lifestrongwine/status/2040706184102170710",
+              "start": 25,
+              "url": "https://t.co/EDYkLmDdEN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041905348160709111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040706184102170710",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有人送我一台最新最火最热的摩托罗拉（（（（（ https://t.co/EDYkLmDdEN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我一定带你脱离苦海我答应过你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2050,
+          "following_count": 188,
+          "like_count": 6882,
+          "listed_count": 13,
+          "media_count": 3519,
+          "tweet_count": 13826
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-18T22:39:50.000Z",
+        "description": "虾头看黄男 （确信）| 什么都干区主包 | 精神红脖子| 48州可飞技术支持劳动力｜有加急需求请用 discord/tg/手机号找我 | 进群🚪/熟人 | 曾经一个人舌战群儒和一群软件工程的隔空互骂 | 脸皮厚+不要脸 | 我是傻逼 | qq爆毙 | 极端反软件工程",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/marketplace/pr…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/marketplace/profile/100014905743315/?ref=permalink&mibextid=dXMIcH",
+                "start": 0,
+                "url": "https://t.co/gP2ETYbaE1"
+              }
+            ]
+          }
+        },
+        "id": "909909858949922818",
+        "location": "Atlanta, GA",
+        "name": "工程，不写代码，反傻B，鴇鵬機工|Tokiho Engineering",
+        "pinned_tweet_id": "2039379857327480915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820028776660492288/LMoi-kVA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10933,
+          "following_count": 6493,
+          "like_count": 157014,
+          "listed_count": 26,
+          "media_count": 6586,
+          "tweet_count": 91854
+        },
+        "url": "https://t.co/gP2ETYbaE1",
+        "username": "rnpgpsl",
+        "verified": false
+      }
+    ]
+  }
+}

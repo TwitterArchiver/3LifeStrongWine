@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1882450638300446840",
+    "created_at": "2025-01-23T15:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T16:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882454025389633853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1670104340856713218",
+          "start": 0,
+          "username": "KKarsus26189"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882454025389633853",
+    "in_reply_to_user_id": "1670104340856713218",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882453931722477761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KKarsus26189 amd 7000series"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1882450638300446840",
+        "created_at": "2025-01-23T15:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T16:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882454025389633853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1670104340856713218",
+              "start": 0,
+              "username": "KKarsus26189"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882454025389633853",
+        "in_reply_to_user_id": "1670104340856713218",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882453931722477761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KKarsus26189 amd 7000series"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670104340856713218",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "1882450638300446840",
+        "created_at": "2025-01-23T15:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T16:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882453931722477761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882453931722477761",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882450638300446840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 也可能是英特尔的锅，13和14代CPU貌似问题很多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "白云山上白云泉，云自无心水自闲",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 223,
+          "like_count": 6001,
+          "listed_count": 7,
+          "media_count": 1411,
+          "tweet_count": 6367
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-17T16:21:26.000Z",
+        "description": "Just a cat. 发疯为主",
+        "id": "1670104340856713218",
+        "name": "Karsus K",
+        "pinned_tweet_id": "1764860939436966006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1670443785938173952/qvAQ1HIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 302,
+          "like_count": 2744,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 2156
+        },
+        "username": "KKarsus26189",
+        "verified": false
+      }
+    ]
+  }
+}

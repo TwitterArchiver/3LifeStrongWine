@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1894392895656137144",
+    "created_at": "2025-02-25T14:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T15:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894393008382251400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1837843837349449728",
+          "start": 0,
+          "username": "yuzhoushuijiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894393008382251400",
+    "in_reply_to_user_id": "1837843837349449728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894392895656137144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuzhoushuijiao 想吃饺子了一定是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1894392895656137144",
+        "created_at": "2025-02-25T14:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T15:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894393008382251400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1837843837349449728",
+              "start": 0,
+              "username": "yuzhoushuijiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894393008382251400",
+        "in_reply_to_user_id": "1837843837349449728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894392895656137144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuzhoushuijiao 想吃饺子了一定是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837843837349449728",
+        "conversation_id": "1894392895656137144",
+        "created_at": "2025-02-25T14:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T15:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894392895656137144"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1894392895656137144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好多活人关注我啊……为啥关注煮啵…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1414,
+          "following_count": 233,
+          "like_count": 6878,
+          "listed_count": 10,
+          "media_count": 2032,
+          "tweet_count": 8281
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-22T13:18:18.000Z",
+        "description": "反差纯爱好文明",
+        "id": "1837843837349449728",
+        "name": "宇宙水饺",
+        "pinned_tweet_id": "1892580225839440326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839328108958371840/4vrL_ap9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5647,
+          "following_count": 136,
+          "like_count": 8166,
+          "listed_count": 9,
+          "media_count": 771,
+          "tweet_count": 5910
+        },
+        "username": "yuzhoushuijiao",
+        "verified": false
+      }
+    ]
+  }
+}

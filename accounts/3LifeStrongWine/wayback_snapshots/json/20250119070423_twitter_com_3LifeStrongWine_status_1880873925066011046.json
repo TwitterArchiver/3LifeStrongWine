@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880873917356953600"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1880873925066011046",
+    "created_at": "2025-01-19T07:04:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T08:04:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1880873925066011046"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/g211AVYQzs",
+          "end": 34,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1880873925066011046/photo/1",
+          "media_key": "3_1880873917356953600",
+          "start": 11,
+          "url": "https://t.co/g211AVYQzs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880873925066011046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又把这破玩意下回来了 https://t.co/g211AVYQzs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_1880873917356953600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gho03M9b0AAV3-o.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880873917356953600"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1880873925066011046",
+        "created_at": "2025-01-19T07:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T08:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880873925066011046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g211AVYQzs",
+              "end": 34,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1880873925066011046/photo/1",
+              "media_key": "3_1880873917356953600",
+              "start": 11,
+              "url": "https://t.co/g211AVYQzs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880873925066011046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又把这破玩意下回来了 https://t.co/g211AVYQzs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花究竟开出什么样的结果",
+        "id": "1529654419213541376",
+        "location": "夢在心上心便溫柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879527429754269696/Ip8jHko0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 233,
+          "like_count": 5509,
+          "listed_count": 7,
+          "media_count": 1290,
+          "tweet_count": 5894
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927552615300153344"
+      ],
+      "media_source_tweet_id": [
+        "1927552746435100947"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1927566814868816003",
+    "created_at": "2025-05-28T03:25:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T04:25:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927566814868816003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "935075650553069568",
+          "start": 3,
+          "username": "shinoharaMia181"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q6Xk4XpZu6",
+          "end": 65,
+          "expanded_url": "https://x.com/shinoharaMia181/status/1927552746435100947/photo/1",
+          "media_key": "3_1927552615300153344",
+          "start": 42,
+          "url": "https://t.co/Q6Xk4XpZu6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927566814868816003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927552746435100947",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shinoharaMia181: 很快？已经是了!😀☝️\nBYD人傻声音大 https://t.co/Q6Xk4XpZu6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 507,
+        "media_key": "3_1927552615300153344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsAK5BjXQAAuGaG.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927552615300153344"
+          ],
+          "media_source_tweet_id": [
+            "1927552746435100947"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1927566814868816003",
+        "created_at": "2025-05-28T03:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T04:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927566814868816003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "935075650553069568",
+              "start": 3,
+              "username": "shinoharaMia181"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q6Xk4XpZu6",
+              "end": 65,
+              "expanded_url": "https://x.com/shinoharaMia181/status/1927552746435100947/photo/1",
+              "media_key": "3_1927552615300153344",
+              "start": 42,
+              "url": "https://t.co/Q6Xk4XpZu6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927566814868816003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927552746435100947",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shinoharaMia181: 很快？已经是了!😀☝️\nBYD人傻声音大 https://t.co/Q6Xk4XpZu6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927552615300153344"
+          ]
+        },
+        "author_id": "935075650553069568",
+        "conversation_id": "1927552746435100947",
+        "created_at": "2025-05-28T02:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T03:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927552746435100947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q6Xk4XpZu6",
+              "end": 44,
+              "expanded_url": "https://x.com/shinoharaMia181/status/1927552746435100947/photo/1",
+              "media_key": "3_1927552615300153344",
+              "start": 21,
+              "url": "https://t.co/Q6Xk4XpZu6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927552746435100947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "很快？已经是了!😀☝️\nBYD人傻声音大 https://t.co/Q6Xk4XpZu6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "闻有三山不知处，茂陵松柏满西风",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912318298353487872/R3xfbIV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1526,
+          "following_count": 239,
+          "like_count": 7430,
+          "listed_count": 11,
+          "media_count": 2688,
+          "tweet_count": 10965
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2017-11-27T09:19:42.000Z",
+        "description": "中国人です、Chinese。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shinoharaMia181",
+                "end": 23,
+                "expanded_url": "https://t.me/shinoharaMia181",
+                "start": 0,
+                "url": "https://t.co/kJT331rS8q"
+              }
+            ]
+          }
+        },
+        "id": "935075650553069568",
+        "location": "阿拉德大陆",
+        "name": "Dawn Light",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899624437844238336/XtQUYTtT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2486,
+          "following_count": 641,
+          "like_count": 30383,
+          "listed_count": 13,
+          "media_count": 2936,
+          "tweet_count": 44422
+        },
+        "url": "https://t.co/kJT331rS8q",
+        "username": "shinoharaMia181",
+        "verified": false
+      }
+    ]
+  }
+}

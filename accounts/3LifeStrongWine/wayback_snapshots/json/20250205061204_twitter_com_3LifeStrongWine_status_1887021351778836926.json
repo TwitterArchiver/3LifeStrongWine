@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1887021113735258364",
+    "created_at": "2025-02-05T06:12:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T07:12:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887021351778836926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1830502698996940800",
+          "start": 0,
+          "username": "Jeremy00520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887021351778836926",
+    "in_reply_to_user_id": "1830502698996940800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887021113735258364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jeremy00520 右边是火鸡面？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1887021113735258364",
+        "created_at": "2025-02-05T06:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T07:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887021351778836926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1830502698996940800",
+              "start": 0,
+              "username": "Jeremy00520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887021351778836926",
+        "in_reply_to_user_id": "1830502698996940800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887021113735258364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jeremy00520 右边是火鸡面？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887021099285929985"
+          ]
+        },
+        "author_id": "1830502698996940800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1887021113735258364",
+        "created_at": "2025-02-05T06:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T07:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887021113735258364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a4RitSqdhk",
+              "end": 23,
+              "expanded_url": "https://x.com/Jeremy00520/status/1887021113735258364/photo/1",
+              "media_key": "3_1887021099285929985",
+              "start": 0,
+              "url": "https://t.co/a4RitSqdhk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887021113735258364",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/a4RitSqdhk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 221,
+          "like_count": 6467,
+          "listed_count": 9,
+          "media_count": 1631,
+          "tweet_count": 7100
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-02T07:07:22.000Z",
+        "description": "None",
+        "id": "1830502698996940800",
+        "location": "Neptune",
+        "name": "糖醋里脊",
+        "pinned_tweet_id": "1884253169607397429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871136959558823936/uML1SkZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1790,
+          "following_count": 401,
+          "like_count": 31374,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 11095
+        },
+        "username": "Jeremy00520",
+        "verified": false
+      }
+    ]
+  }
+}

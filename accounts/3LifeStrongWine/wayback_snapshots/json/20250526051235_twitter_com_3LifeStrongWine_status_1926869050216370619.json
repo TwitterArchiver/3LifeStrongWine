@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1926667888867377394",
+    "created_at": "2025-05-26T05:12:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T06:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926869050216370619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1142269209138720769",
+          "start": 0,
+          "username": "2SJ7ntKBdEtTKrM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926869050216370619",
+    "in_reply_to_user_id": "1142269209138720769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926844578553790588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2SJ7ntKBdEtTKrM 这个很有实力了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1926667888867377394",
+        "created_at": "2025-05-26T05:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T06:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926869050216370619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1142269209138720769",
+              "start": 0,
+              "username": "2SJ7ntKBdEtTKrM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926869050216370619",
+        "in_reply_to_user_id": "1142269209138720769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926844578553790588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2SJ7ntKBdEtTKrM 这个很有实力了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1142269209138720769",
+        "conversation_id": "1926667888867377394",
+        "created_at": "2025-05-26T03:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T04:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926844578553790588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926844578553790588",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926667888867377394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 徕卡m240p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "闻有三山不知处，茂陵松柏满西风",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912318298353487872/R3xfbIV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1526,
+          "following_count": 236,
+          "like_count": 7412,
+          "listed_count": 11,
+          "media_count": 2672,
+          "tweet_count": 10877
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-22T03:12:56.000Z",
+        "description": "中度抑郁（？）+轻度焦虑（？）中....                                       魔法喵：@owl8964cat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "owl8964cat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2sj7ntkbdettkrm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2sj7ntkbdettkrm",
+                "start": 0,
+                "url": "https://t.co/5Fim7CNIiI"
+              }
+            ]
+          }
+        },
+        "id": "1142269209138720769",
+        "name": "不爱吃麦当劳の魔法使",
+        "pinned_tweet_id": "1880290913727226114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919772351656558595/dFSkHTIL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 632,
+          "like_count": 18278,
+          "listed_count": 3,
+          "media_count": 104,
+          "tweet_count": 3527
+        },
+        "url": "https://t.co/5Fim7CNIiI",
+        "username": "2SJ7ntKBdEtTKrM",
+        "verified": false
+      }
+    ]
+  }
+}

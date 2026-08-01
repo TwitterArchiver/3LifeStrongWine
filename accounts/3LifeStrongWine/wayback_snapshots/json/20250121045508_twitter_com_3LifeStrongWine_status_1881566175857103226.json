@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1881566167451807744"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1881566175857103226",
+    "created_at": "2025-01-21T04:55:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T05:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1881566175857103226"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qbvHJMBStr",
+          "end": 35,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1881566175857103226/photo/1",
+          "media_key": "3_1881566167451807744",
+          "start": 12,
+          "url": "https://t.co/qbvHJMBStr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881566175857103226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "先寄四张，再去买点邮票 https://t.co/qbvHJMBStr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1881566167451807744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhyqddhbsAA--oi.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881566167451807744"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1881566175857103226",
+        "created_at": "2025-01-21T04:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T05:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881566175857103226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qbvHJMBStr",
+              "end": 35,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1881566175857103226/photo/1",
+              "media_key": "3_1881566167451807744",
+              "start": 12,
+              "url": "https://t.co/qbvHJMBStr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881566175857103226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "先寄四张，再去买点邮票 https://t.co/qbvHJMBStr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "白云山上白云泉，云自无心水自闲",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 231,
+          "like_count": 5837,
+          "listed_count": 8,
+          "media_count": 1359,
+          "tweet_count": 6179
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

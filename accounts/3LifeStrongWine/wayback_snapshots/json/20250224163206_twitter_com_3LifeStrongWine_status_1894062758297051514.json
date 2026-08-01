@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1894060494308171906",
+    "created_at": "2025-02-24T16:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T17:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894062758297051514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1839696962918223872",
+          "start": 0,
+          "username": "qikong27547159"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894062758297051514",
+    "in_reply_to_user_id": "1839696962918223872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894060494308171906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qikong27547159 人本过客无来处，休说故里在何方\n随遇而安无不可，人间到处有花香"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1894060494308171906",
+        "created_at": "2025-02-24T16:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T17:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894062758297051514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1839696962918223872",
+              "start": 0,
+              "username": "qikong27547159"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894062758297051514",
+        "in_reply_to_user_id": "1839696962918223872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894060494308171906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qikong27547159 人本过客无来处，休说故里在何方\n随遇而安无不可，人间到处有花香"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839696962918223872",
+        "conversation_id": "1894060494308171906",
+        "created_at": "2025-02-24T16:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T17:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894060494308171906"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1894060494308171906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在哪生活都像是临时的 甚至在网上也像是飘来飘去 不想混任何一个圈子 不愿意和人有太多交集 虽然会好奇地探出头看看外面热闹的景象 一旦被注意到又会很后悔赶紧缩回来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 226,
+          "like_count": 6808,
+          "listed_count": 10,
+          "media_count": 2014,
+          "tweet_count": 8225
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-27T16:02:00.000Z",
+        "description": "他们走了 在夕阳下沿着小路 空中的月亮和星星 不过是孩子们稀奇古怪的幻想",
+        "id": "1839696962918223872",
+        "location": "🤫",
+        "name": "柒mo",
+        "pinned_tweet_id": "1870980993328500984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890488110397681664/4DmM7pXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 65,
+          "like_count": 3842,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1299
+        },
+        "username": "qikong27547159",
+        "verified": false
+      }
+    ]
+  }
+}

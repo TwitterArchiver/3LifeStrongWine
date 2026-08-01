@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1882485382593515665",
+    "created_at": "2025-01-23T17:53:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T18:53:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882486927166968115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781712570497552384",
+          "start": 0,
+          "username": "siinaaki0912"
+        },
+        {
+          "end": 30,
+          "id": "1863961550350065664",
+          "start": 14,
+          "username": "Selaginellaaaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882486927166968115",
+    "in_reply_to_user_id": "1781712570497552384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882486468075278743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siinaaki0912 @Selaginellaaaaa 胖海参"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1882485382593515665",
+        "created_at": "2025-01-23T17:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T18:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882486927166968115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781712570497552384",
+              "start": 0,
+              "username": "siinaaki0912"
+            },
+            {
+              "end": 30,
+              "id": "1863961550350065664",
+              "start": 14,
+              "username": "Selaginellaaaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882486927166968115",
+        "in_reply_to_user_id": "1781712570497552384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882486468075278743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siinaaki0912 @Selaginellaaaaa 胖海参"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781712570497552384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229372198469633",
+              "name": "Dogecoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229372198469633",
+              "name": "Dogecoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1139229372198469633",
+              "name": "Dogecoin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1882485382593515665",
+        "created_at": "2025-01-23T17:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T18:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882486468075278743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1863961550350065664",
+              "start": 0,
+              "username": "Selaginellaaaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882486468075278743",
+        "in_reply_to_user_id": "1863961550350065664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882485949961249146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Selaginellaaaaa 瞎说，这叫珠圆玉润（doge）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "白云山上白云泉，云自无心水自闲",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1336,
+          "following_count": 225,
+          "like_count": 6041,
+          "listed_count": 7,
+          "media_count": 1415,
+          "tweet_count": 6425
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-20T15:52:51.000Z",
+        "description": "叫我小秋就好\n06/155cm/38kg/sub/宅/",
+        "id": "1781712570497552384",
+        "location": "被操蛋的生活強姦ing……",
+        "name": "椎名_秋",
+        "pinned_tweet_id": "1876568812927262887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877969458557562880/Bxtqz4Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15401,
+          "following_count": 433,
+          "like_count": 4073,
+          "listed_count": 23,
+          "media_count": 496,
+          "tweet_count": 4084
+        },
+        "username": "siinaaki0912",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-03T15:01:06.000Z",
+        "description": "🤔\n箱子https://t.co/pBBjJNdESv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/selaginell925",
+                "end": 27,
+                "expanded_url": "https://ngl.link/selaginell925",
+                "start": 4,
+                "url": "https://t.co/pBBjJNdESv"
+              }
+            ]
+          }
+        },
+        "id": "1863961550350065664",
+        "location": "叫我卷柏就行",
+        "name": "Selaginella",
+        "pinned_tweet_id": "1869234973783491050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876307978443522048/mt_EImdI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4996,
+          "following_count": 76,
+          "like_count": 6367,
+          "listed_count": 7,
+          "media_count": 219,
+          "tweet_count": 2128
+        },
+        "username": "Selaginellaaaaa",
+        "verified": false
+      }
+    ]
+  }
+}

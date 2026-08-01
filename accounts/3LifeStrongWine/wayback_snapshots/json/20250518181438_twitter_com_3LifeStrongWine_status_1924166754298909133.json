@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1923199243797291501",
+    "created_at": "2025-05-18T18:14:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T19:14:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924166754298909133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1462285623943966720",
+          "start": 0,
+          "username": "Ruiuiui1227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924166754298909133",
+    "in_reply_to_user_id": "1462285623943966720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923199243797291501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruiuiui1227 哭悲…不好的回忆上来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1923199235111124992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrCTg8kaAAAv_xd.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1923199243797291501",
+        "created_at": "2025-05-18T18:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T19:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924166754298909133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1462285623943966720",
+              "start": 0,
+              "username": "Ruiuiui1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924166754298909133",
+        "in_reply_to_user_id": "1462285623943966720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923199243797291501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruiuiui1227 哭悲…不好的回忆上来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923199235111124992"
+          ]
+        },
+        "author_id": "1462285623943966720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1923199243797291501",
+        "created_at": "2025-05-16T02:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T03:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923199243797291501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vy3D5wp7rG",
+              "end": 38,
+              "expanded_url": "https://x.com/Ruiuiui1227/status/1923199243797291501/photo/1",
+              "media_key": "3_1923199235111124992",
+              "start": 15,
+              "url": "https://t.co/Vy3D5wp7rG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923199243797291501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6707,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈的记春梦怎么没有那么清楚？ https://t.co/Vy3D5wp7rG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "闻有三山不知处，茂陵松柏满西风",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912318298353487872/R3xfbIV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 235,
+          "like_count": 7401,
+          "listed_count": 11,
+          "media_count": 2649,
+          "tweet_count": 10752
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-21T05:04:06.000Z",
+        "description": "想做一个幸福的女屌丝|不接推广｜过🚪只能加微信无任何福利｜自用vpn高速安全，9.9一年https://t.co/qyfy1D0mLq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youxuan.wiki/#/register?cod…",
+                "end": 67,
+                "expanded_url": "https://www.youxuan.wiki/#/register?code=yubihd5O",
+                "start": 44,
+                "url": "https://t.co/qyfy1D0mLq"
+              }
+            ]
+          }
+        },
+        "id": "1462285623943966720",
+        "location": "精神病院",
+        "name": "怕冷空气",
+        "pinned_tweet_id": "1860458766967406659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810719290632667136/J6mGnK8B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20826,
+          "following_count": 281,
+          "like_count": 36001,
+          "listed_count": 22,
+          "media_count": 2426,
+          "tweet_count": 9481
+        },
+        "username": "Ruiuiui1227",
+        "verified": false
+      }
+    ]
+  }
+}

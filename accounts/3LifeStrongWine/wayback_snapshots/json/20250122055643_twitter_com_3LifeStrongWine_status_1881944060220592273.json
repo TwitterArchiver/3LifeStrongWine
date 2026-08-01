@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1881944051894935552"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1881944060220592273",
+    "created_at": "2025-01-22T05:56:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T06:56:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1881944060220592273"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OjbccjCpff",
+          "end": 30,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1881944060220592273/photo/1",
+          "media_key": "3_1881944051894935552",
+          "start": 7,
+          "url": "https://t.co/OjbccjCpff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881944060220592273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "早起一盏清茶 https://t.co/OjbccjCpff"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1881944051894935552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gh4CJOxbYAAluS8.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881944051894935552"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1881944060220592273",
+        "created_at": "2025-01-22T05:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T06:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881944060220592273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OjbccjCpff",
+              "end": 30,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1881944060220592273/photo/1",
+              "media_key": "3_1881944051894935552",
+              "start": 7,
+              "url": "https://t.co/OjbccjCpff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881944060220592273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早起一盏清茶 https://t.co/OjbccjCpff"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "白云山上白云泉，云自无心水自闲",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 231,
+          "like_count": 5922,
+          "listed_count": 7,
+          "media_count": 1385,
+          "tweet_count": 6265
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

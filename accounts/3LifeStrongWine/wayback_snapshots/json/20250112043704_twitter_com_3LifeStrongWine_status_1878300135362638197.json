@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1878299281280696535",
+    "created_at": "2025-01-12T04:37:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T05:37:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878300135362638197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845491203124441093",
+          "start": 0,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878300135362638197",
+    "in_reply_to_user_id": "1845491203124441093",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878299731425890807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_huacs 🫠🫠🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1878299281280696535",
+        "created_at": "2025-01-12T04:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T05:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878300135362638197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845491203124441093",
+              "start": 0,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878300135362638197",
+        "in_reply_to_user_id": "1845491203124441093",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878299731425890807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_huacs 🫠🫠🫠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845491203124441093",
+        "conversation_id": "1878299281280696535",
+        "created_at": "2025-01-12T04:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T05:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878299731425890807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878299731425890807",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878299281280696535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 经典理科"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "分享从我眼中看到的世界🌸｜雨季里我和你的青春一起坐过了站，而我会站在原地热泪盈眶地读你的未来",
+        "id": "1529654419213541376",
+        "location": "风的目的地.",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1117,
+          "following_count": 210,
+          "like_count": 5023,
+          "listed_count": 7,
+          "media_count": 1135,
+          "tweet_count": 5369
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "余华成霜祝你天天开心21.8🚪（只是单车の生活）",
+        "id": "1845491203124441093",
+        "location": "上海",
+        "name": "✿余华˃ʍ˂成霜❀",
+        "pinned_tweet_id": "1877579646536949978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871195962116542464/MibsFv1v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 543,
+          "like_count": 22367,
+          "listed_count": 4,
+          "media_count": 595,
+          "tweet_count": 3845
+        },
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

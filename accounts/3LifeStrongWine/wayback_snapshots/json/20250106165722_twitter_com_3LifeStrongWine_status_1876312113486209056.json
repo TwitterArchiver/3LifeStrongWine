@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1876309631234150782",
+    "created_at": "2025-01-06T16:57:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T17:57:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876312113486209056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1645154173707755520",
+          "start": 0,
+          "username": "lx101067"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876312113486209056",
+    "in_reply_to_user_id": "1645154173707755520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876309631234150782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lx101067 听歌真的是治愈灵魂的过程"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1876309631234150782",
+        "created_at": "2025-01-06T16:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T17:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876312113486209056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1645154173707755520",
+              "start": 0,
+              "username": "lx101067"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876312113486209056",
+        "in_reply_to_user_id": "1645154173707755520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876309631234150782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lx101067 听歌真的是治愈灵魂的过程"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876309628910530560"
+          ]
+        },
+        "author_id": "1645154173707755520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1876309631234150782",
+        "created_at": "2025-01-06T16:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T17:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876309631234150782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8J2P19Kt8f",
+              "end": 47,
+              "expanded_url": "https://x.com/lx101067/status/1876309631234150782/photo/1",
+              "media_key": "3_1876309628910530560",
+              "start": 24,
+              "url": "https://t.co/8J2P19Kt8f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876309631234150782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听歌让我逃避现实世界享受一丝幸福  看电影也是 https://t.co/8J2P19Kt8f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "雨季里我和你的青春一起坐过了站，而我会站在原地热泪盈眶地读你的未来",
+        "id": "1529654419213541376",
+        "location": "Destination of the Wind",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 212,
+          "like_count": 4205,
+          "listed_count": 7,
+          "media_count": 933,
+          "tweet_count": 4760
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-09T19:58:23.000Z",
+        "description": "碎碎念/发疯/自娱自乐博主/死高p线下查无此人/互关随意加v爱你们     (*´  `*)/提问箱https://t.co/u3K4SfdO0k防走丢小号:@in67luvNight",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 79,
+                "username": "in67luvNight"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/night36853/",
+                "end": 73,
+                "expanded_url": "https://ngl.link/night36853/",
+                "start": 50,
+                "url": "https://t.co/u3K4SfdO0k"
+              }
+            ]
+          }
+        },
+        "id": "1645154173707755520",
+        "location": "🚪67陪聊and开放朋友圈",
+        "name": "Night",
+        "pinned_tweet_id": "1865760014247555294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875051015826989056/m4nxrsMV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2200,
+          "following_count": 608,
+          "like_count": 7670,
+          "listed_count": 5,
+          "media_count": 768,
+          "tweet_count": 6146
+        },
+        "username": "lx101067",
+        "verified": false
+      }
+    ]
+  }
+}

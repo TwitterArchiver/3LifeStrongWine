@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931300717513617408"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1931300728263647409",
+    "created_at": "2025-06-07T10:42:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T11:42:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931300728263647409"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lxsFFBx2Tr",
+          "end": 45,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1931300728263647409/photo/1",
+          "media_key": "3_1931300717513617408",
+          "start": 22,
+          "url": "https://t.co/lxsFFBx2Tr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931300728263647409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "受不了了橙色真的好好看🚬🚬🚬蓝色已经看腻了 https://t.co/lxsFFBx2Tr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1931300717513617408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs1bxSXbMAAwcP4.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931300717513617408"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1931300728263647409",
+        "created_at": "2025-06-07T10:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T11:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931300728263647409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lxsFFBx2Tr",
+              "end": 45,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1931300728263647409/photo/1",
+              "media_key": "3_1931300717513617408",
+              "start": 22,
+              "url": "https://t.co/lxsFFBx2Tr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931300728263647409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "受不了了橙色真的好好看🚬🚬🚬蓝色已经看腻了 https://t.co/lxsFFBx2Tr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "时光足够温柔了吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 240,
+          "like_count": 7435,
+          "listed_count": 11,
+          "media_count": 2742,
+          "tweet_count": 11167
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

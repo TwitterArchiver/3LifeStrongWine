@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1867243090161107293",
+    "created_at": "2024-12-13T13:57:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T14:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867569442001236315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1580907538127949824",
+          "start": 0,
+          "username": "yuluoshanl"
+        },
+        {
+          "end": 25,
+          "id": "1544171637171400704",
+          "start": 12,
+          "username": "LAZY_lazyyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867569442001236315",
+    "in_reply_to_user_id": "1580907538127949824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867543508879650894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuluoshanl @LAZY_lazyyyy 好看好看！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1867243090161107293",
+        "created_at": "2024-12-13T13:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T14:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867569442001236315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1580907538127949824",
+              "start": 0,
+              "username": "yuluoshanl"
+            },
+            {
+              "end": 25,
+              "id": "1544171637171400704",
+              "start": 12,
+              "username": "LAZY_lazyyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867569442001236315",
+        "in_reply_to_user_id": "1580907538127949824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867543508879650894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuluoshanl @LAZY_lazyyyy 好看好看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867543503930372098"
+          ]
+        },
+        "author_id": "1580907538127949824",
+        "conversation_id": "1867243090161107293",
+        "created_at": "2024-12-13T12:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T13:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867543508879650894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1544171637171400704",
+              "start": 0,
+              "username": "LAZY_lazyyyy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qebZyzd6pp",
+              "end": 46,
+              "expanded_url": "https://x.com/yuluoshanl/status/1867543508879650894/photo/1",
+              "media_key": "3_1867543503930372098",
+              "start": 23,
+              "url": "https://t.co/qebZyzd6pp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867543508879650894",
+        "in_reply_to_user_id": "1544171637171400704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867243090161107293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LAZY_lazyyyy 等考完了继续做！ https://t.co/qebZyzd6pp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "有时也想过花烂漫某天与世界无声道别， 可是偏偏有太多太多遗憾挂牵没画句点",
+        "id": "1529654419213541376",
+        "location": "长大是变温柔，是对所有人都温柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1865393368853090537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 183,
+          "like_count": 2234,
+          "listed_count": 5,
+          "media_count": 552,
+          "tweet_count": 3337
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-14T13:05:35.000Z",
+        "description": "希望天天开心。不要随便相信别人，不要转发我帖子，不接推广，随缘回fo，除互关不加v。",
+        "id": "1580907538127949824",
+        "location": "🚪188好友位",
+        "name": "Yyyˇ",
+        "pinned_tweet_id": "1813791185846386957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867219748012093440/Hh7fAV0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5261,
+          "following_count": 164,
+          "like_count": 14494,
+          "listed_count": 11,
+          "media_count": 524,
+          "tweet_count": 5344
+        },
+        "username": "yuluoshanl",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-05T04:09:51.000Z",
+        "description": "我的人生底色就是奸淫懒馋//宝宝: @4inLOVElazyyyy//锁评推广自辨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "4inLOVElazyyyy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mi.le.mile-yun.com/index.php#/reg…",
+                "end": 23,
+                "expanded_url": "https://mi.le.mile-yun.com/index.php#/register?code=z3JzWQIA",
+                "start": 0,
+                "url": "https://t.co/4xh8VvnsCu"
+              }
+            ]
+          }
+        },
+        "id": "1544171637171400704",
+        "location": "自用vpn👉🏻",
+        "name": "参见小懒",
+        "pinned_tweet_id": "1867158624512184536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824024524419182592/MIoUhHvV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20658,
+          "following_count": 964,
+          "like_count": 60110,
+          "listed_count": 53,
+          "media_count": 1499,
+          "tweet_count": 33397
+        },
+        "url": "https://t.co/4xh8VvnsCu",
+        "username": "LAZY_lazyyyy",
+        "verified": false
+      }
+    ]
+  }
+}

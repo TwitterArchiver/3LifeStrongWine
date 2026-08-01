@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896600675146158080"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1896600683392213303",
+    "created_at": "2025-03-03T16:36:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T17:36:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896600683392213303"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PlXtuCwRBb",
+          "end": 30,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1896600683392213303/photo/1",
+          "media_key": "3_1896600675146158080",
+          "start": 7,
+          "url": "https://t.co/PlXtuCwRBb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896600683392213303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我上课就这样 https://t.co/PlXtuCwRBb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1997,
+        "media_key": "3_1896600675146158080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlIUQ_LaUAAcbZJ.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896600675146158080"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1896600683392213303",
+        "created_at": "2025-03-03T16:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T17:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896600683392213303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PlXtuCwRBb",
+              "end": 30,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1896600683392213303/photo/1",
+              "media_key": "3_1896600675146158080",
+              "start": 7,
+              "url": "https://t.co/PlXtuCwRBb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896600683392213303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我上课就这样 https://t.co/PlXtuCwRBb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1410,
+          "following_count": 231,
+          "like_count": 6921,
+          "listed_count": 11,
+          "media_count": 2092,
+          "tweet_count": 8482
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

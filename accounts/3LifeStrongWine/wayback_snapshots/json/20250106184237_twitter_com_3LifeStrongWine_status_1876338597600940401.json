@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1876251781640147197",
+    "created_at": "2025-01-06T18:42:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T19:42:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876338597600940401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1806577888751427584",
+          "start": 0,
+          "username": "maggiebai48"
+        },
+        {
+          "end": 25,
+          "id": "1507211443938025472",
+          "start": 13,
+          "username": "suqingming2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876338597600940401",
+    "in_reply_to_user_id": "1806577888751427584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876338160604700702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maggiebai48 @suqingming2 我日，辣的番茄炒蛋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1876251781640147197",
+        "created_at": "2025-01-06T18:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T19:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876338597600940401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1806577888751427584",
+              "start": 0,
+              "username": "maggiebai48"
+            },
+            {
+              "end": 25,
+              "id": "1507211443938025472",
+              "start": 13,
+              "username": "suqingming2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876338597600940401",
+        "in_reply_to_user_id": "1806577888751427584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876338160604700702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maggiebai48 @suqingming2 我日，辣的番茄炒蛋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806577888751427584",
+        "conversation_id": "1876251781640147197",
+        "created_at": "2025-01-06T18:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T19:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876338160604700702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1507211443938025472",
+              "start": 0,
+              "username": "suqingming2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876338160604700702",
+        "in_reply_to_user_id": "1507211443938025472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876251781640147197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suqingming2 就我加青红辣椒么（惊恐）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "雨季里我和你的青春一起坐过了站，而我会站在原地热泪盈眶地读你的未来",
+        "id": "1529654419213541376",
+        "location": "Destination of the Wind",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 209,
+          "like_count": 4266,
+          "listed_count": 7,
+          "media_count": 933,
+          "tweet_count": 4794
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-28T06:38:47.000Z",
+        "description": "#les 带我去欣赏你盛开的繁花",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "les"
+              }
+            ]
+          }
+        },
+        "id": "1806577888751427584",
+        "location": "北爱尔兰",
+        "name": "枫铃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851462131079942144/7JSnVhtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 980,
+          "like_count": 10228,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 1710
+        },
+        "username": "maggiebai48",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T04:23:16.000Z",
+        "description": "喜欢玩粥，究极集批",
+        "id": "1507211443938025472",
+        "location": "清明节葬于海底",
+        "name": "清明",
+        "pinned_tweet_id": "1836698662291873928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834878778570371072/4aEm7Lky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 559,
+          "like_count": 67692,
+          "listed_count": 2,
+          "media_count": 439,
+          "tweet_count": 8420
+        },
+        "username": "suqingming2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1867601997571960957",
+    "created_at": "2024-12-13T16:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T17:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867602835082277045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845491203124441093",
+          "start": 0,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867602835082277045",
+    "in_reply_to_user_id": "1845491203124441093",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867602358618009632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_huacs 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1867601997571960957",
+        "created_at": "2024-12-13T16:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T17:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867602835082277045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845491203124441093",
+              "start": 0,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867602835082277045",
+        "in_reply_to_user_id": "1845491203124441093",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867602358618009632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_huacs 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867602356038512642"
+          ]
+        },
+        "author_id": "1845491203124441093",
+        "conversation_id": "1867601997571960957",
+        "created_at": "2024-12-13T16:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T17:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867602358618009632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VgX9YpS5cB",
+              "end": 45,
+              "expanded_url": "https://x.com/yu_huacs/status/1867602358618009632/photo/1",
+              "media_key": "3_1867602356038512642",
+              "start": 22,
+              "url": "https://t.co/VgX9YpS5cB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867602358618009632",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867601997571960957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 布什各门 https://t.co/VgX9YpS5cB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "有时也想过花烂漫某天与世界无声道别， 可是偏偏有太多太多遗憾挂牵没画句点",
+        "id": "1529654419213541376",
+        "location": "长大是变温柔，是对所有人都温柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1865393368853090537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 189,
+          "like_count": 2278,
+          "listed_count": 5,
+          "media_count": 565,
+          "tweet_count": 3391
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "有一辆闪电venge（卖了）和tfsa06（过年卖）还有捷安特OCR（坏了）的一个单车佬，不喜欢拉伸，喜欢吃美食!骑台子，可以一起zwift，经常碎碎念，没有安全感请秒回我，骑车的时候所有信息都看不见!梦想买一辆绿刃team版のscott addict",
+        "id": "1845491203124441093",
+        "location": "上海&奉贤   我会出现在奉贤海湾",
+        "name": "余华成霜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856230683670392836/pCizLv8Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 311,
+          "like_count": 9946,
+          "listed_count": 2,
+          "media_count": 184,
+          "tweet_count": 1415
+        },
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

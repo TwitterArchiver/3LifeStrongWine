@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1884716114468626582",
+    "created_at": "2025-01-29T21:31:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T22:31:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884716114468626582"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3lifestrongwin…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/3lifestrongwine/status/1884715933102727568",
+          "start": 36,
+          "url": "https://t.co/dWUjb2zsdm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884716114468626582",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884715933102727568",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他妈连帖都不发的我拿什么给你写明信片，我是上帝吗知道你心里想的所有事情 https://t.co/dWUjb2zsdm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1884716114468626582",
+        "created_at": "2025-01-29T21:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T22:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884716114468626582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3lifestrongwin…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/3lifestrongwine/status/1884715933102727568",
+              "start": 36,
+              "url": "https://t.co/dWUjb2zsdm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884716114468626582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884715933102727568",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他妈连帖都不发的我拿什么给你写明信片，我是上帝吗知道你心里想的所有事情 https://t.co/dWUjb2zsdm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1884715933102727568",
+        "created_at": "2025-01-29T21:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T22:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884715933102727568"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884715933102727568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个时间适合慢慢地仔仔细细地阅读你们的帖，细嚼慢咽每一句话每一个字，感受着不同灵魂的温度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1371,
+          "following_count": 217,
+          "like_count": 6266,
+          "listed_count": 9,
+          "media_count": 1513,
+          "tweet_count": 6736
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

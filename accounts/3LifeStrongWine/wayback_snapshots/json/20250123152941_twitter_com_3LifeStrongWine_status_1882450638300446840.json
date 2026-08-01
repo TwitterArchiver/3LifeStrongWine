@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1882450638300446840",
+    "created_at": "2025-01-23T15:29:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T16:29:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1882450638300446840"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3LifeStrongWin…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/3LifeStrongWine/status/1882445128201363464",
+          "start": 49,
+          "url": "https://t.co/5uBVsXr0FO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882450638300446840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882445128201363464",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们说，这地平线打不开的原因，是我更新了系统背大锅，还是我把内存频率往上超了1200MHz背大锅 https://t.co/5uBVsXr0FO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1882450638300446840",
+        "created_at": "2025-01-23T15:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T16:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882450638300446840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3LifeStrongWin…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/3LifeStrongWine/status/1882445128201363464",
+              "start": 49,
+              "url": "https://t.co/5uBVsXr0FO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882450638300446840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882445128201363464",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们说，这地平线打不开的原因，是我更新了系统背大锅，还是我把内存频率往上超了1200MHz背大锅 https://t.co/5uBVsXr0FO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1882445128201363464",
+        "created_at": "2025-01-23T15:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T16:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882445128201363464"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1882445128201363464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给你们讲个笑话，我电脑带不动地平线4，不仅连游戏都打不开，还给我电脑整蓝屏了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "白云山上白云泉，云自无心水自闲",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 223,
+          "like_count": 5998,
+          "listed_count": 7,
+          "media_count": 1408,
+          "tweet_count": 6356
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

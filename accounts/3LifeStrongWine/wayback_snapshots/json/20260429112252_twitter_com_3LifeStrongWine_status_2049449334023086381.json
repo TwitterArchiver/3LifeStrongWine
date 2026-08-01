@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2049394336522272934",
+    "created_at": "2026-04-29T11:22:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T12:22:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049449334023086381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1151388238533156864",
+          "start": 0,
+          "username": "walker_at1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049449334023086381",
+    "in_reply_to_user_id": "1151388238533156864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049430882281488807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@walker_at1 我导师给写的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2049394336522272934",
+        "created_at": "2026-04-29T11:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T12:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049449334023086381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1151388238533156864",
+              "start": 0,
+              "username": "walker_at1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049449334023086381",
+        "in_reply_to_user_id": "1151388238533156864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049430882281488807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@walker_at1 我导师给写的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1151388238533156864",
+        "conversation_id": "2049394336522272934",
+        "created_at": "2026-04-29T10:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049430882281488807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049430882281488807",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 739,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049394336522272934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 恭喜但是为什么落款时间填七月，一般不都是五月吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花潭水深千尺  不及汪伦送我情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2479,
+          "following_count": 115,
+          "like_count": 6908,
+          "listed_count": 13,
+          "media_count": 3586,
+          "tweet_count": 14122
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-17T07:08:42.000Z",
+        "description": "",
+        "id": "1151388238533156864",
+        "name": "Walker",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958235198392590336/DpDjvrEg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 67,
+          "like_count": 490,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 110
+        },
+        "username": "walker_at1",
+        "verified": false
+      }
+    ]
+  }
+}

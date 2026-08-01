@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931347878628438016"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1931347927437562242",
+    "created_at": "2025-06-07T13:50:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T14:50:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931347927437562242"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/STIEbgJQYn",
+          "end": 37,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1931347927437562242/photo/1",
+          "media_key": "3_1931347878628438016",
+          "start": 14,
+          "url": "https://t.co/STIEbgJQYn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931347927437562242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "换上新衣服的小相机。谁喜欢 https://t.co/STIEbgJQYn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1931347878628438016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs2GqbNaMAA3OLI.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931347878628438016"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1931347927437562242",
+        "created_at": "2025-06-07T13:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T14:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931347927437562242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/STIEbgJQYn",
+              "end": 37,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1931347927437562242/photo/1",
+              "media_key": "3_1931347878628438016",
+              "start": 14,
+              "url": "https://t.co/STIEbgJQYn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931347927437562242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "换上新衣服的小相机。谁喜欢 https://t.co/STIEbgJQYn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "时光足够温柔了吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 240,
+          "like_count": 7436,
+          "listed_count": 11,
+          "media_count": 2746,
+          "tweet_count": 11180
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

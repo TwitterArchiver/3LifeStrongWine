@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1890245127077310802",
+    "created_at": "2025-02-14T04:19:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T05:19:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890254586029699335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1678058596339433472",
+          "start": 0,
+          "username": "Ruo_Haruka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890254586029699335",
+    "in_reply_to_user_id": "1678058596339433472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890254434430767135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruo_Haruka 网申已经不行了，实在不行就先随便办一张用着吧"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1890254434430767135].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1890254434430767135",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1890254434430767135"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1890245127077310802",
+        "created_at": "2025-02-14T04:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T05:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890254586029699335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1678058596339433472",
+              "start": 0,
+              "username": "Ruo_Haruka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890254586029699335",
+        "in_reply_to_user_id": "1678058596339433472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890254434430767135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruo_Haruka 网申已经不行了，实在不行就先随便办一张用着吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 218,
+          "like_count": 6535,
+          "listed_count": 10,
+          "media_count": 1849,
+          "tweet_count": 7618
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-09T15:08:54.000Z",
+        "description": "假的JK/碎碎念的日常/咖啡续命",
+        "id": "1678058596339433472",
+        "name": "汐宝今天喝什么",
+        "pinned_tweet_id": "1882920614941626591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886833922644013056/9gTm4aaU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 364,
+          "like_count": 23382,
+          "listed_count": 8,
+          "media_count": 510,
+          "tweet_count": 1188
+        },
+        "username": "Ruo_Haruka",
+        "verified": false
+      }
+    ]
+  }
+}

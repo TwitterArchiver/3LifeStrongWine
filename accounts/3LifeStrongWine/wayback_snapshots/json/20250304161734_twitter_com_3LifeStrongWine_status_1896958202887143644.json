@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1896958202887143644",
+    "created_at": "2025-03-04T16:17:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T17:17:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896958202887143644"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3lifestrongwin…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/3lifestrongwine/status/1896957296917541202",
+          "start": 45,
+          "url": "https://t.co/QbGChQrdep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896958202887143644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896957296917541202",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "明天要早起上班，十点睡着了，十一点半被室友吵醒，突然开始烦躁，他不用去医院，我该去医院了 https://t.co/QbGChQrdep"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1896957289137160192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlNYmp0bwAAmDjD.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1896958202887143644",
+        "created_at": "2025-03-04T16:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T17:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896958202887143644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3lifestrongwin…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/3lifestrongwine/status/1896957296917541202",
+              "start": 45,
+              "url": "https://t.co/QbGChQrdep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896958202887143644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896957296917541202",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "明天要早起上班，十点睡着了，十一点半被室友吵醒，突然开始烦躁，他不用去医院，我该去医院了 https://t.co/QbGChQrdep"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896957289137160192"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1896957296917541202",
+        "created_at": "2025-03-04T16:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T17:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896957296917541202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WIcNMYDYoW",
+              "end": 30,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1896957296917541202/photo/1",
+              "media_key": "3_1896957289137160192",
+              "start": 7,
+              "url": "https://t.co/WIcNMYDYoW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896957296917541202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又该去一趟了 https://t.co/WIcNMYDYoW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1417,
+          "following_count": 232,
+          "like_count": 6921,
+          "listed_count": 11,
+          "media_count": 2102,
+          "tweet_count": 8498
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

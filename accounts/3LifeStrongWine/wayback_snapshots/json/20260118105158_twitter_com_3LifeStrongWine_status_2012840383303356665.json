@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012840372582469632",
+        "3_2012840372347555840",
+        "3_2012840372578275328",
+        "3_2012840372305547264"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2012839300594036952",
+    "created_at": "2026-01-18T10:51:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T11:51:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012840383303356665"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cGg5ulSdlc",
+          "end": 113,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/2012840383303356665/photo/1",
+          "media_key": "3_2012840372582469632",
+          "start": 90,
+          "url": "https://t.co/cGg5ulSdlc"
+        },
+        {
+          "display_url": "pic.x.com/cGg5ulSdlc",
+          "end": 113,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/2012840383303356665/photo/1",
+          "media_key": "3_2012840372347555840",
+          "start": 90,
+          "url": "https://t.co/cGg5ulSdlc"
+        },
+        {
+          "display_url": "pic.x.com/cGg5ulSdlc",
+          "end": 113,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/2012840383303356665/photo/1",
+          "media_key": "3_2012840372578275328",
+          "start": 90,
+          "url": "https://t.co/cGg5ulSdlc"
+        },
+        {
+          "display_url": "pic.x.com/cGg5ulSdlc",
+          "end": 113,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/2012840383303356665/photo/1",
+          "media_key": "3_2012840372305547264",
+          "start": 90,
+          "url": "https://t.co/cGg5ulSdlc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012840383303356665",
+    "in_reply_to_user_id": "1529654419213541376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012839300594036952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就好像是我已经在物理卷子上写了最佳答案但是一个不懂物理的人非要给我瞎涂改，然后我又要重来一遍，就这样还是觉得裤子选的不满意要换，真的以后别给我找这种事干了，我也就是跟我妈有耐心。 https://t.co/cGg5ulSdlc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012840372582469632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-8Lp4VX0AAyoau.jpg",
+        "width": 906
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2012840372347555840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-8Lp3dXUAA2G3x.jpg",
+        "width": 908
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2012840372578275328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-8Lp4UX0AAwpin.jpg",
+        "width": 854
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2012840372305547264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-8Lp3TWUAA28Yp.jpg",
+        "width": 912
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2012839291475378176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-8Kq85WwAAoZnL.jpg",
+        "width": 911
+      },
+      {
+        "height": 1730,
+        "media_key": "3_2012839291458564096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-8Kq81WMAA2V3-.jpg",
+        "width": 912
+      },
+      {
+        "height": 591,
+        "media_key": "3_2012839291475415040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-8Kq85XUAAnR6r.jpg",
+        "width": 663
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012840372582469632",
+            "3_2012840372347555840",
+            "3_2012840372578275328",
+            "3_2012840372305547264"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2012839300594036952",
+        "created_at": "2026-01-18T10:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T11:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012840383303356665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cGg5ulSdlc",
+              "end": 113,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/2012840383303356665/photo/1",
+              "media_key": "3_2012840372582469632",
+              "start": 90,
+              "url": "https://t.co/cGg5ulSdlc"
+            },
+            {
+              "display_url": "pic.x.com/cGg5ulSdlc",
+              "end": 113,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/2012840383303356665/photo/1",
+              "media_key": "3_2012840372347555840",
+              "start": 90,
+              "url": "https://t.co/cGg5ulSdlc"
+            },
+            {
+              "display_url": "pic.x.com/cGg5ulSdlc",
+              "end": 113,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/2012840383303356665/photo/1",
+              "media_key": "3_2012840372578275328",
+              "start": 90,
+              "url": "https://t.co/cGg5ulSdlc"
+            },
+            {
+              "display_url": "pic.x.com/cGg5ulSdlc",
+              "end": 113,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/2012840383303356665/photo/1",
+              "media_key": "3_2012840372305547264",
+              "start": 90,
+              "url": "https://t.co/cGg5ulSdlc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012840383303356665",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012839300594036952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就好像是我已经在物理卷子上写了最佳答案但是一个不懂物理的人非要给我瞎涂改，然后我又要重来一遍，就这样还是觉得裤子选的不满意要换，真的以后别给我找这种事干了，我也就是跟我妈有耐心。 https://t.co/cGg5ulSdlc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012839291475378176",
+            "3_2012839291458564096",
+            "3_2012839291475415040"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "2012839300594036952",
+        "created_at": "2026-01-18T10:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T11:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012839300594036952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XfO9w10DDk",
+              "end": 97,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/2012839300594036952/photo/1",
+              "media_key": "3_2012839291475378176",
+              "start": 74,
+              "url": "https://t.co/XfO9w10DDk"
+            },
+            {
+              "display_url": "pic.x.com/XfO9w10DDk",
+              "end": 97,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/2012839300594036952/photo/1",
+              "media_key": "3_2012839291458564096",
+              "start": 74,
+              "url": "https://t.co/XfO9w10DDk"
+            },
+            {
+              "display_url": "pic.x.com/XfO9w10DDk",
+              "end": 97,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/2012839300594036952/photo/1",
+              "media_key": "3_2012839291475415040",
+              "start": 74,
+              "url": "https://t.co/XfO9w10DDk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012839300594036952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈带了一天我妈闺蜜孩子买衣服我只能说中式教育pua你赢了，我费劲白咧教15岁青春期的孩子大方自信地为自己做选择，结果还是不如人家亲妈一句不。 https://t.co/XfO9w10DDk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "云和山和风和雨，轻轻地流过我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VnXMe"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "pinned_tweet_id": "1992598033381638574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1658,
+          "following_count": 172,
+          "like_count": 6792,
+          "listed_count": 12,
+          "media_count": 3170,
+          "tweet_count": 12748
+        },
+        "url": "https://t.co/3g5y5VnXMe",
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

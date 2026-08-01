@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1882367084031799430",
+    "created_at": "2025-01-24T04:57:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T05:57:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882653882159120673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "700636039887482881",
+          "start": 0,
+          "username": "ei_brk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882653882159120673",
+    "in_reply_to_user_id": "700636039887482881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882652759662678257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ei_brk 可以拿拂尘抽你吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1882367084031799430",
+        "created_at": "2025-01-24T04:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T05:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882653882159120673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "700636039887482881",
+              "start": 0,
+              "username": "ei_brk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882653882159120673",
+        "in_reply_to_user_id": "700636039887482881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882652759662678257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ei_brk 可以拿拂尘抽你吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "700636039887482881",
+        "conversation_id": "1882367084031799430",
+        "created_at": "2025-01-24T04:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T05:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882652759662678257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882652759662678257",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882367084031799430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 可以干吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "凡所有相  皆是虚妄",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1358,
+          "following_count": 223,
+          "like_count": 6088,
+          "listed_count": 7,
+          "media_count": 1421,
+          "tweet_count": 6487
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2016-02-19T11:00:23.000Z",
+        "description": "环游世界",
+        "id": "700636039887482881",
+        "location": "Yau Tsim Mong District",
+        "name": "我是小小旺",
+        "pinned_tweet_id": "1312243244109971456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783331350558433280/90fIJz2o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 1818,
+          "like_count": 12973,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 781
+        },
+        "username": "ei_brk",
+        "verified": false
+      }
+    ]
+  }
+}

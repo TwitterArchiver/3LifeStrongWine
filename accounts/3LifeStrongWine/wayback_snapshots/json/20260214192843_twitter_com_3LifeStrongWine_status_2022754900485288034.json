@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022754894030184448"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2022733746890510565",
+    "created_at": "2026-02-14T19:28:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T20:28:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022754900485288034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1712477803252432897",
+          "start": 0,
+          "username": "jingyu813363"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oZYPvtJH3r",
+          "end": 37,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/2022754900485288034/photo/1",
+          "media_key": "3_2022754894030184448",
+          "start": 14,
+          "url": "https://t.co/oZYPvtJH3r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022754900485288034",
+    "in_reply_to_user_id": "1712477803252432897",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022733746890510565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingyu813363 https://t.co/oZYPvtJH3r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022754894030184448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBJE2-5aIAAzNVI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022754894030184448"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2022733746890510565",
+        "created_at": "2026-02-14T19:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T20:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022754900485288034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1712477803252432897",
+              "start": 0,
+              "username": "jingyu813363"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oZYPvtJH3r",
+              "end": 37,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/2022754900485288034/photo/1",
+              "media_key": "3_2022754894030184448",
+              "start": 14,
+              "url": "https://t.co/oZYPvtJH3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022754900485288034",
+        "in_reply_to_user_id": "1712477803252432897",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022733746890510565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingyu813363 https://t.co/oZYPvtJH3r"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712477803252432897",
+        "conversation_id": "2022733746890510565",
+        "created_at": "2026-02-14T18:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T19:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022733746890510565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "21’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1djGX…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1djGXWWXweRKZ",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 寻找doi男嘉宾",
+              "unwound_url": "https://twitter.com/i/spaces/1djGXWWXweRKZ/peek",
+              "url": "https://t.co/v6yk6wuroL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022733746890510565",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 995,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 54,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/v6yk6wuroL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "此后锦书休寄  画楼云雨无凭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1722,
+          "following_count": 170,
+          "like_count": 6825,
+          "listed_count": 12,
+          "media_count": 3273,
+          "tweet_count": 13044
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-12T14:38:55.000Z",
+        "description": "我有厌蠢症 m 有🚪",
+        "id": "1712477803252432897",
+        "name": "21",
+        "pinned_tweet_id": "2020173834893291759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020355584562970625/AzBSjB7R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7626,
+          "following_count": 710,
+          "like_count": 10674,
+          "listed_count": 10,
+          "media_count": 297,
+          "tweet_count": 2785
+        },
+        "username": "jingyu813363",
+        "verified": false
+      }
+    ]
+  }
+}

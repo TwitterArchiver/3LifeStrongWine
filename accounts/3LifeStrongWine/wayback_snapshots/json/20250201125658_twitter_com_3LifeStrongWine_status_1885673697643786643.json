@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1885673271636684817",
+    "created_at": "2025-02-01T12:56:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T13:56:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885673697643786643"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1885673697643786643",
+    "in_reply_to_user_id": "1529654419213541376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885673271636684817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我草他奶奶的，一拎起来桌子上的葡萄汁盒子发现被窝喝没了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1885673271636684817",
+        "created_at": "2025-02-01T12:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T13:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885673697643786643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885673697643786643",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885673271636684817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草他奶奶的，一拎起来桌子上的葡萄汁盒子发现被窝喝没了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1885673271636684817",
+        "created_at": "2025-02-01T12:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T13:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885673271636684817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kezhiqingsuyu/…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/kezhiqingsuyu/status/1885370212519993454",
+              "start": 21,
+              "url": "https://t.co/Lt2rS91rJf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885673271636684817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885370212519993454",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今晚不给你调出来都对不住我三生醇醪的招牌 https://t.co/Lt2rS91rJf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1385,
+          "following_count": 217,
+          "like_count": 6309,
+          "listed_count": 9,
+          "media_count": 1566,
+          "tweet_count": 6840
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

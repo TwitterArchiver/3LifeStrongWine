@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1888600820297671101",
+    "created_at": "2025-02-09T16:12:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T17:12:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888621990564745391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1688892925646929920",
+          "start": 0,
+          "username": "oxxxX_x_Xxxxo"
+        },
+        {
+          "end": 24,
+          "id": "1409071214954389504",
+          "start": 15,
+          "username": "TKongtou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888621990564745391",
+    "in_reply_to_user_id": "1688892925646929920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888620154428502378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oxxxX_x_Xxxxo @TKongtou 这破玩意没啥好拿的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1888600820297671101",
+        "created_at": "2025-02-09T16:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T17:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888621990564745391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1688892925646929920",
+              "start": 0,
+              "username": "oxxxX_x_Xxxxo"
+            },
+            {
+              "end": 24,
+              "id": "1409071214954389504",
+              "start": 15,
+              "username": "TKongtou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888621990564745391",
+        "in_reply_to_user_id": "1688892925646929920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888620154428502378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oxxxX_x_Xxxxo @TKongtou 这破玩意没啥好拿的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688892925646929920",
+        "conversation_id": "1888600820297671101",
+        "created_at": "2025-02-09T16:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T17:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888620154428502378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            },
+            {
+              "end": 26,
+              "id": "1409071214954389504",
+              "start": 17,
+              "username": "TKongtou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888620154428502378",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888601717929042319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine @TKongtou 可以拿的。酒店也不会找阿姨要旧的空瓶子。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 217,
+          "like_count": 6521,
+          "listed_count": 9,
+          "media_count": 1741,
+          "tweet_count": 7374
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-08T12:40:44.000Z",
+        "description": "男的 血压120/80 空腹血糖5.3 一年逛两次优衣库 糊弄餐大师 煎蛋双面流心 咸粽咸豆花咸甜汤圆咸甜豆浆",
+        "id": "1688892925646929920",
+        "name": "滚烫的石墩子",
+        "pinned_tweet_id": "1878405767130222764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833804840117637120/7Sstq45v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 855,
+          "like_count": 26844,
+          "listed_count": 1,
+          "media_count": 1267,
+          "tweet_count": 13743
+        },
+        "username": "oxxxX_x_Xxxxo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-27T08:48:58.000Z",
+        "description": "INTP ‖ 小号是@1C0NGT0U（找我小号玩!）‖我是某种互联网底栖生物（‖\n平常大概就碎碎念和分享一些作品和猫猫\n‖唉我好傻逼\n‖然后是一点点喜欢的话？\nwe live in a twilight world,and there are no friends at dusk.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "1C0NGT0U"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tkongtou",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tkongtou",
+                "start": 0,
+                "url": "https://t.co/Wi6EOIrBXv"
+              }
+            ]
+          }
+        },
+        "id": "1409071214954389504",
+        "name": "kongtou",
+        "pinned_tweet_id": "1872983175707935213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885672724519161856/Lu-LAKEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 403,
+          "like_count": 23477,
+          "listed_count": 2,
+          "media_count": 244,
+          "tweet_count": 5818
+        },
+        "url": "https://t.co/Wi6EOIrBXv",
+        "username": "TKongtou",
+        "verified": false
+      }
+    ]
+  }
+}

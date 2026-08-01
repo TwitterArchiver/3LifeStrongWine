@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2041860137124856295",
+    "created_at": "2026-04-08T15:08:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T16:08:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041895972289311179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1893030061848305665",
+          "start": 0,
+          "username": "Xyyyy_0324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041895972289311179",
+    "in_reply_to_user_id": "1893030061848305665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041895762825810353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xyyyy_0324 我去还有这种，不过5200积分好像是要支付5200块钱吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041895746841276423",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZFXQLa8AcphVB.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041895746874830850",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZFXQTa8AIT6KH.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2041860137124856295",
+        "created_at": "2026-04-08T15:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041895972289311179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1893030061848305665",
+              "start": 0,
+              "username": "Xyyyy_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041895972289311179",
+        "in_reply_to_user_id": "1893030061848305665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041895762825810353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xyyyy_0324 我去还有这种，不过5200积分好像是要支付5200块钱吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041895746841276423",
+            "3_2041895746874830850"
+          ]
+        },
+        "author_id": "1893030061848305665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041860137124856295",
+        "created_at": "2026-04-08T15:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041895762825810353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hvuumjvjrJ",
+              "end": 94,
+              "expanded_url": "https://x.com/Xyyyy_0324/status/2041895762825810353/photo/1",
+              "media_key": "3_2041895746841276423",
+              "start": 71,
+              "url": "https://t.co/hvuumjvjrJ"
+            },
+            {
+              "display_url": "pic.x.com/hvuumjvjrJ",
+              "end": 94,
+              "expanded_url": "https://x.com/Xyyyy_0324/status/2041895762825810353/photo/1",
+              "media_key": "3_2041895746874830850",
+              "start": 71,
+              "url": "https://t.co/hvuumjvjrJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041895762825810353",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041895205444710411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 一个破皮肤静态的520..动态的1314 然后那个NFC还限量你知道吗我一直在哭 就4w张😭😭😭😭😭😭😭😭 https://t.co/hvuumjvjrJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我一定带你脱离苦海我答应过你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2051,
+          "following_count": 187,
+          "like_count": 6879,
+          "listed_count": 13,
+          "media_count": 3518,
+          "tweet_count": 13812
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T20:08:42.000Z",
+        "description": "可以叫我小氧^^我有恋哥癖。🈚🚪互关➕v 请主动找我要！一个话很多的小女孩^^喜欢大扔扔肌肉男！！夸我的私信看见了会回 不搞h不聊s看见了直接拉黑^^不要恶心我 匿名：https://t.co/uhOO8LUdot",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ooo26894",
+                "end": 107,
+                "expanded_url": "https://ngl.link/ooo26894",
+                "start": 84,
+                "url": "https://t.co/uhOO8LUdot"
+              }
+            ]
+          }
+        },
+        "id": "1893030061848305665",
+        "location": "纯清水推 不搞h不聊s 喜欢我请给我打钱^^",
+        "name": "O₂",
+        "pinned_tweet_id": "2033515930249236669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041143495197675521/2v2-O4Hn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2442,
+          "following_count": 253,
+          "like_count": 5711,
+          "listed_count": 3,
+          "media_count": 158,
+          "tweet_count": 1836
+        },
+        "username": "Xyyyy_0324",
+        "verified": false
+      }
+    ]
+  }
+}

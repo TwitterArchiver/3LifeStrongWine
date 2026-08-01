@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1934637700528955508",
+    "created_at": "2025-06-16T15:49:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T16:49:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934639493967200571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1863961550350065664",
+          "start": 0,
+          "username": "Selaginellaaaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934639493967200571",
+    "in_reply_to_user_id": "1863961550350065664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934639429639102734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Selaginellaaaaa 那就加钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1934637700528955508",
+        "created_at": "2025-06-16T15:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T16:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934639493967200571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1863961550350065664",
+              "start": 0,
+              "username": "Selaginellaaaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934639493967200571",
+        "in_reply_to_user_id": "1863961550350065664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934639429639102734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Selaginellaaaaa 那就加钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863961550350065664",
+        "conversation_id": "1934637700528955508",
+        "created_at": "2025-06-16T15:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T16:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934639429639102734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934639429639102734",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934638525120696622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 我之前想过去漫展约妆的但漫展都是妆娘出化妆品"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "泛黄的老照片里讲述了一个什么样的故事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 236,
+          "like_count": 7481,
+          "listed_count": 11,
+          "media_count": 2823,
+          "tweet_count": 11463
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-03T15:01:06.000Z",
+        "description": "卷卷卷卷不动了就柏",
+        "id": "1863961550350065664",
+        "location": "叫我卷柏就行",
+        "name": "Selaginella",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876307978443522048/mt_EImdI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10434,
+          "following_count": 100,
+          "like_count": 11938,
+          "listed_count": 23,
+          "media_count": 410,
+          "tweet_count": 4085
+        },
+        "username": "Selaginellaaaaa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1885721889198457324",
+    "created_at": "2025-02-01T16:19:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T17:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885724759184597396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1750329917252976640",
+          "start": 0,
+          "username": "yueyue8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885724759184597396",
+    "in_reply_to_user_id": "1750329917252976640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885724553504297422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yueyue8964 我那会上小学，印象已经很深刻了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1885721889198457324",
+        "created_at": "2025-02-01T16:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T17:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885724759184597396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750329917252976640",
+              "start": 0,
+              "username": "yueyue8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885724759184597396",
+        "in_reply_to_user_id": "1750329917252976640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885724553504297422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yueyue8964 我那会上小学，印象已经很深刻了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750329917252976640",
+        "conversation_id": "1885721889198457324",
+        "created_at": "2025-02-01T16:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T17:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885724553504297422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885724553504297422",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885721889198457324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 会的吧。虽然我还没有那么久以前记得的事情但是10年前在幼儿园的一些事情我应该忘不了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 215,
+          "like_count": 6319,
+          "listed_count": 9,
+          "media_count": 1569,
+          "tweet_count": 6864
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-25T01:29:16.000Z",
+        "description": "🚪88/168详情可以私信我(｡ì _ í｡)",
+        "id": "1750329917252976640",
+        "location": "无声的寂静海",
+        "name": "小榆",
+        "pinned_tweet_id": "1883335986400366804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807218968463327232/_cUbucHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8454,
+          "following_count": 434,
+          "like_count": 9105,
+          "listed_count": 14,
+          "media_count": 177,
+          "tweet_count": 7660
+        },
+        "username": "yueyue8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1884221223129014577",
+    "created_at": "2025-01-28T13:35:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T14:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884233728416964718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1507211443938025472",
+          "start": 0,
+          "username": "suqingming2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884233728416964718",
+    "in_reply_to_user_id": "1507211443938025472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884227956295491919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suqingming2 那挺好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1884221223129014577",
+        "created_at": "2025-01-28T13:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T14:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884233728416964718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1507211443938025472",
+              "start": 0,
+              "username": "suqingming2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884233728416964718",
+        "in_reply_to_user_id": "1507211443938025472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884227956295491919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suqingming2 那挺好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507211443938025472",
+        "conversation_id": "1884221223129014577",
+        "created_at": "2025-01-28T13:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T14:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884227956295491919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884227956295491919",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884221223129014577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 红包+1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "凡所有相  皆是虚妄",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1374,
+          "following_count": 217,
+          "like_count": 6248,
+          "listed_count": 8,
+          "media_count": 1504,
+          "tweet_count": 6692
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-25T04:23:16.000Z",
+        "description": "喜欢玩粥，究极集批，恋人 @karasu2layer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 13,
+                "username": "karasu2layer"
+              }
+            ]
+          }
+        },
+        "id": "1507211443938025472",
+        "location": "清明节葬于海底",
+        "name": "清明",
+        "pinned_tweet_id": "1836698662291873928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834878778570371072/4aEm7Lky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 570,
+          "like_count": 72526,
+          "listed_count": 2,
+          "media_count": 452,
+          "tweet_count": 8821
+        },
+        "username": "suqingming2",
+        "verified": false
+      }
+    ]
+  }
+}

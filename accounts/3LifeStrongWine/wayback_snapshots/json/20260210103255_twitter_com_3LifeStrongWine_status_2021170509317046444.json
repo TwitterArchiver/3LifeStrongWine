@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2020588828629885287",
+    "created_at": "2026-02-10T10:32:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T11:32:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021170509317046444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1889969175810154496",
+          "start": 0,
+          "username": "XuanOuO_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021170509317046444",
+    "in_reply_to_user_id": "1889969175810154496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021153935034032492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XuanOuO_ 然而我有这么多烟却一点烟瘾都没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2020588828629885287",
+        "created_at": "2026-02-10T10:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T11:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021170509317046444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1889969175810154496",
+              "start": 0,
+              "username": "XuanOuO_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021170509317046444",
+        "in_reply_to_user_id": "1889969175810154496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021153935034032492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XuanOuO_ 然而我有这么多烟却一点烟瘾都没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889969175810154496",
+        "conversation_id": "2020588828629885287",
+        "created_at": "2026-02-10T09:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T10:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021153935034032492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021153935034032492",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020588828629885287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 理想中的生活 可惜身上只有喹硫平和奥沙西泮 我需要更多口味的烟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我想着花烂漫某天与世界无声告别",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1659,
+          "following_count": 168,
+          "like_count": 6778,
+          "listed_count": 12,
+          "media_count": 3246,
+          "tweet_count": 12937
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-13T09:25:53.000Z",
+        "description": "07 女s 价格表置顶 接线下 非健全人且极端思想 青少年们都会好起来的 来和我互fo吧",
+        "id": "1889969175810154496",
+        "name": "泫泫♫♬",
+        "pinned_tweet_id": "2015228985190543594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987214859126345728/tmg9DXui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 18,
+          "like_count": 259,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 263
+        },
+        "username": "XuanOuO_",
+        "verified": false
+      }
+    ]
+  }
+}

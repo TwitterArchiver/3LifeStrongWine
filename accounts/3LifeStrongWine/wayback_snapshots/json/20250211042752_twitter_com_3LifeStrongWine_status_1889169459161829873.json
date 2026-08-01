@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1889169391012728832"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1889169459161829873",
+    "created_at": "2025-02-11T04:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T05:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889169459161829873"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/POQy8qqwvJ",
+          "end": 34,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1889169459161829873/video/1",
+          "media_key": "13_1889169391012728832",
+          "start": 11,
+          "url": "https://t.co/POQy8qqwvJ"
+        },
+        {
+          "display_url": "x.com/3lifestrongwin…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/3lifestrongwine/status/1889166361110442303",
+          "start": 35,
+          "url": "https://t.co/Hsn9NfDqMz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889169459161829873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889166361110442303",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "确实有一点子诡异在的 https://t.co/POQy8qqwvJ https://t.co/Hsn9NfDqMz"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1889169459161829873].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1889169459161829873",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1889169459161829873"
+    },
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1889166361110442303].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1889166361110442303",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1889166361110442303"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2068,
+        "height": 1280,
+        "media_key": "13_1889169391012728832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1889169391012728832/img/RbspM4mW9rJSuV4x.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1889169391012728832/vid/avc1/320x568/TG4c-F6u9Eb71Hds.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1889169391012728832/vid/avc1/480x852/y5eZld8rZkctuUtA.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1889169391012728832/vid/avc1/720x1280/-oUPnFnol2ovtgNF.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1889169391012728832/pl/PMJR7ltvmbnK1ddW.m3u8?tag=16"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1393,
+          "following_count": 218,
+          "like_count": 6527,
+          "listed_count": 9,
+          "media_count": 1791,
+          "tweet_count": 7491
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

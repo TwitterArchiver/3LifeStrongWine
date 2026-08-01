@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1910144536950558982",
+    "created_at": "2025-04-10T02:01:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T03:01:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910151113082589477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1152122682927931392",
+          "start": 0,
+          "username": "allloveforyouxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910151113082589477",
+    "in_reply_to_user_id": "1152122682927931392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910144536950558982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allloveforyouxx 你你你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1910144536950558982",
+        "created_at": "2025-04-10T02:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T03:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910151113082589477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1152122682927931392",
+              "start": 0,
+              "username": "allloveforyouxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910151113082589477",
+        "in_reply_to_user_id": "1152122682927931392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910144536950558982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allloveforyouxx 你你你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1152122682927931392",
+        "conversation_id": "1910144536950558982",
+        "created_at": "2025-04-10T01:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T02:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910144536950558982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3lifestrongwin…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/3lifestrongwine/status/1909987602218008609",
+              "start": 4,
+              "url": "https://t.co/sAqfjgKQ5n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910144536950558982",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909987602218008609",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我我我 https://t.co/sAqfjgKQ5n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "十五日得半卷诗稿，遇墨迹化魂水中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909122304141148160/VzRDqCNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1502,
+          "following_count": 246,
+          "like_count": 7343,
+          "listed_count": 12,
+          "media_count": 2483,
+          "tweet_count": 10126
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-19T07:47:07.000Z",
+        "description": "日语学习中🤕日本語を勉強中😵l毕业🤬l🐻/曾经的景观选手果断提桶/enfp🐶乐子人/纯爱战士🫂/在twitter胡言乱语分享日常🉐️/电商初心者 运营学习中🔰",
+        "id": "1152122682927931392",
+        "name": "🐻（想被人撅腚换个工作版）",
+        "pinned_tweet_id": "1810998314554511427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696363826286071808/RAE0wkUl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 237,
+          "like_count": 8068,
+          "listed_count": 1,
+          "media_count": 1297,
+          "tweet_count": 7316
+        },
+        "username": "allloveforyouxx",
+        "verified": false
+      }
+    ]
+  }
+}

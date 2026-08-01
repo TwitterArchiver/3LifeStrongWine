@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1877607809698709966",
+    "created_at": "2025-01-10T06:55:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-10T07:55:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877610213949554822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1827729497388687360",
+          "start": 0,
+          "username": "Lllliin00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877610213949554822",
+    "in_reply_to_user_id": "1827729497388687360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877610117669253533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lllliin00 快揉一下.🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1877607809698709966",
+        "created_at": "2025-01-10T06:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T07:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877610213949554822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1827729497388687360",
+              "start": 0,
+              "username": "Lllliin00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877610213949554822",
+        "in_reply_to_user_id": "1827729497388687360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877610117669253533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lllliin00 快揉一下.🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827729497388687360",
+        "conversation_id": "1877607809698709966",
+        "created_at": "2025-01-10T06:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T07:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877610117669253533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877610117669253533",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877609165079667174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 嗯 😐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "雨季里我和你的青春一起坐过了站，而我会站在原地热泪盈眶地读你的未来",
+        "id": "1529654419213541376",
+        "location": "风的目的地.",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1116,
+          "following_count": 210,
+          "like_count": 4753,
+          "listed_count": 7,
+          "media_count": 1052,
+          "tweet_count": 5143
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-25T15:27:33.000Z",
+        "description": "想发什么发什么 不回私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/owo24051",
+                "end": 23,
+                "expanded_url": "https://ngl.link/owo24051",
+                "start": 0,
+                "url": "https://t.co/pJmUeWU9po"
+              }
+            ]
+          }
+        },
+        "id": "1827729497388687360",
+        "location": "男的别找我聊天 男的别找我聊天",
+        "name": "爱吃薯条🐾",
+        "pinned_tweet_id": "1874139797218091101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872114059669303296/1oxXSFKS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 146,
+          "like_count": 9179,
+          "listed_count": 0,
+          "media_count": 413,
+          "tweet_count": 7333
+        },
+        "url": "https://t.co/pJmUeWU9po",
+        "username": "Lllliin00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1876311972180107298",
+    "created_at": "2025-01-06T17:19:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T18:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876317563380187285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1248637653001494529",
+          "start": 0,
+          "username": "Fomalhautawa"
+        },
+        {
+          "end": 26,
+          "id": "1507211443938025472",
+          "start": 14,
+          "username": "suqingming2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876317563380187285",
+    "in_reply_to_user_id": "1248637653001494529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876317181342065073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fomalhautawa @suqingming2 关注我每天都有好吃的好玩的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1876311972180107298",
+        "created_at": "2025-01-06T17:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T18:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876317563380187285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1248637653001494529",
+              "start": 0,
+              "username": "Fomalhautawa"
+            },
+            {
+              "end": 26,
+              "id": "1507211443938025472",
+              "start": 14,
+              "username": "suqingming2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876317563380187285",
+        "in_reply_to_user_id": "1248637653001494529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876317181342065073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fomalhautawa @suqingming2 关注我每天都有好吃的好玩的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1248637653001494529",
+        "conversation_id": "1876311972180107298",
+        "created_at": "2025-01-06T17:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T18:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876317181342065073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1507211443938025472",
+              "start": 0,
+              "username": "suqingming2"
+            },
+            {
+              "end": 29,
+              "id": "1529654419213541376",
+              "start": 13,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876317181342065073",
+        "in_reply_to_user_id": "1507211443938025472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876316526409908613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suqingming2 @3LifeStrongWine 我恨你清明老师，你的评论把好吃的推到我主页来了，我也好饿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "雨季里我和你的青春一起坐过了站，而我会站在原地热泪盈眶地读你的未来",
+        "id": "1529654419213541376",
+        "location": "Destination of the Wind",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 213,
+          "like_count": 4229,
+          "listed_count": 7,
+          "media_count": 933,
+          "tweet_count": 4769
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-10T15:43:19.000Z",
+        "description": "夜间出没的薛定谔的正经涩情抽象吸血鬼哦。随缘互fo哦。",
+        "id": "1248637653001494529",
+        "name": "Shisw",
+        "pinned_tweet_id": "1875935849508184468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875076041364172800/C2ihpkuO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 108,
+          "like_count": 10425,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 2308
+        },
+        "username": "Fomalhautawa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T04:23:16.000Z",
+        "description": "喜欢玩粥，究极集批",
+        "id": "1507211443938025472",
+        "location": "清明节葬于海底",
+        "name": "清明",
+        "pinned_tweet_id": "1836698662291873928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834878778570371072/4aEm7Lky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 559,
+          "like_count": 67667,
+          "listed_count": 2,
+          "media_count": 438,
+          "tweet_count": 8417
+        },
+        "username": "suqingming2",
+        "verified": false
+      }
+    ]
+  }
+}

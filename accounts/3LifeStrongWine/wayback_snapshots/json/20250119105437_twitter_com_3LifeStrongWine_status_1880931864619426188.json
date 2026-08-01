@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1880902198177198282",
+    "created_at": "2025-01-19T10:54:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T11:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880931864619426188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1422919666305888264",
+          "start": 0,
+          "username": "0x88FFA357"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880931864619426188",
+    "in_reply_to_user_id": "1422919666305888264",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880908969180647514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0x88FFA357 🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1880902198177198282",
+        "created_at": "2025-01-19T10:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T11:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880931864619426188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1422919666305888264",
+              "start": 0,
+              "username": "0x88FFA357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880931864619426188",
+        "in_reply_to_user_id": "1422919666305888264",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880908969180647514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0x88FFA357 🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422919666305888264",
+        "conversation_id": "1880902198177198282",
+        "created_at": "2025-01-19T09:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T10:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880908969180647514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880908969180647514",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880902198177198282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 好富"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花究竟开出什么样的结果",
+        "id": "1529654419213541376",
+        "location": "夢在心上心便溫柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 236,
+          "like_count": 5532,
+          "listed_count": 7,
+          "media_count": 1298,
+          "tweet_count": 5929
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-04T13:57:51.000Z",
+        "description": "You failure cat one day day you do nothing.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nvme0n1p.dev",
+                "end": 23,
+                "expanded_url": "http://nvme0n1p.dev",
+                "start": 0,
+                "url": "https://t.co/M3EWZGYw8X"
+              }
+            ]
+          }
+        },
+        "id": "1422919666305888264",
+        "location": "等通知大学",
+        "name": "溴化锂",
+        "pinned_tweet_id": "1818346355989135620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816087287903707136/3vMr5LZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1539,
+          "following_count": 2301,
+          "like_count": 130925,
+          "listed_count": 8,
+          "media_count": 548,
+          "tweet_count": 8712
+        },
+        "url": "https://t.co/M3EWZGYw8X",
+        "username": "0x88FFA357",
+        "verified": false
+      }
+    ]
+  }
+}

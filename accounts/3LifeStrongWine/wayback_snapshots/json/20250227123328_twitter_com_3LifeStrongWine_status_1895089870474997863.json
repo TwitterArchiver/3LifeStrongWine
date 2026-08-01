@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1895089870474997863",
+    "created_at": "2025-02-27T12:33:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T13:33:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1895089870474997863"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/finnaxs/status…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/finnaxs/status/1895088784724885938",
+          "start": 2,
+          "url": "https://t.co/XCJhAdwel0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895089870474997863",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895088784724885938",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤓 https://t.co/XCJhAdwel0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1895088763275034624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gky1MIjXwAAhLcj.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1895089870474997863",
+        "created_at": "2025-02-27T12:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T13:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895089870474997863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/finnaxs/status…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/finnaxs/status/1895088784724885938",
+              "start": 2,
+              "url": "https://t.co/XCJhAdwel0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895089870474997863",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895088784724885938",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤓 https://t.co/XCJhAdwel0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895088763275034624"
+          ]
+        },
+        "author_id": "1533870529387458560",
+        "conversation_id": "1895088784724885938",
+        "created_at": "2025-02-27T12:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T13:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895088784724885938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1529654419213541376",
+              "start": 2,
+              "username": "3LifeStrongWine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Idt7XDBmhF",
+              "end": 48,
+              "expanded_url": "https://x.com/FinnaXS/status/1895088784724885938/photo/1",
+              "media_key": "3_1895088763275034624",
+              "start": 25,
+              "url": "https://t.co/Idt7XDBmhF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895088784724885938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢@3LifeStrongWine 好闻！！！ https://t.co/Idt7XDBmhF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1405,
+          "following_count": 231,
+          "like_count": 6903,
+          "listed_count": 10,
+          "media_count": 2052,
+          "tweet_count": 8341
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-06T17:57:27.000Z",
+        "description": "阴暗潮湿的毒蛇 口是心非的笨蛋 横冲直撞的怪物 🚪52000（纯加微信不聊天）",
+        "id": "1533870529387458560",
+        "location": "悲伤逆流成河",
+        "name": "黄油煎蛋真好吃",
+        "pinned_tweet_id": "1877025187733893282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830268691507777536/czFV8Wcd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 51,
+          "like_count": 2617,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 1086
+        },
+        "username": "FinnaXS",
+        "verified": false
+      }
+    ]
+  }
+}

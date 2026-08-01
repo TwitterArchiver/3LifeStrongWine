@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2059601149666418688"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "2059601210953629968",
+    "created_at": "2026-05-27T11:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T12:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059601210953629968"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3KKCGFJqsJ",
+          "end": 35,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/2059601210953629968/video/1",
+          "media_key": "13_2059601149666418688",
+          "start": 12,
+          "url": "https://t.co/3KKCGFJqsJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059601210953629968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这老爷车开着也挺好玩的 https://t.co/3KKCGFJqsJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7266,
+        "height": 720,
+        "media_key": "13_2059601149666418688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059601149666418688/img/w0lA-DltiyfayJDd.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059601149666418688/vid/avc1/480x270/wcuSRFjf_US2x3Rz.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059601149666418688/vid/avc1/640x360/ru5nZRKrCS9Ip29K.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059601149666418688/vid/avc1/1280x720/TdygzWZG771B7ao3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059601149666418688/pl/oA2sn1d0w8ZarINX.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059601149666418688"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "2059601210953629968",
+        "created_at": "2026-05-27T11:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059601210953629968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3KKCGFJqsJ",
+              "end": 35,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/2059601210953629968/video/1",
+              "media_key": "13_2059601149666418688",
+              "start": 12,
+              "url": "https://t.co/3KKCGFJqsJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059601210953629968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这老爷车开着也挺好玩的 https://t.co/3KKCGFJqsJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花潭水深千尺  不及汪伦送我情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2885,
+          "following_count": 101,
+          "like_count": 6828,
+          "listed_count": 14,
+          "media_count": 3672,
+          "tweet_count": 14365
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      }
+    ]
+  }
+}

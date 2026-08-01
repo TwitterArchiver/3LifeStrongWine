@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1912892517328277590",
+    "created_at": "2025-04-18T08:30:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T09:30:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913148050211487908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1519999171876454400",
+          "start": 0,
+          "username": "Cya66047552"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913148050211487908",
+    "in_reply_to_user_id": "1519999171876454400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912892517328277590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cya66047552 好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1912892504179113984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gov1mP0agAAtcfH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1912892517328277590",
+        "created_at": "2025-04-18T08:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T09:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913148050211487908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1519999171876454400",
+              "start": 0,
+              "username": "Cya66047552"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913148050211487908",
+        "in_reply_to_user_id": "1519999171876454400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912892517328277590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cya66047552 好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912892504179113984"
+          ]
+        },
+        "author_id": "1519999171876454400",
+        "conversation_id": "1912892517328277590",
+        "created_at": "2025-04-17T15:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T16:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912892517328277590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DM84aW2fGD",
+              "end": 28,
+              "expanded_url": "https://x.com/Cya66047552/status/1912892517328277590/photo/1",
+              "media_key": "3_1912892504179113984",
+              "start": 5,
+              "url": "https://t.co/DM84aW2fGD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912892517328277590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "路边花🌸 https://t.co/DM84aW2fGD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "东隅已逝，桑榆非晚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912318298353487872/R3xfbIV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 242,
+          "like_count": 7414,
+          "listed_count": 12,
+          "media_count": 2539,
+          "tweet_count": 10403
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-29T11:17:05.000Z",
+        "description": "发些日常碎碎念｜我推↑｜不喜欢男的也不喜欢女的｜只喜欢二次元纸片人｜无期迷途｜刀剑乱舞｜FAIRY TAIL｜恶犬出没请注意｜｜正在咸鱼中｜｜｜｜｜｜｜｜｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1310893",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1310893",
+                "start": 0,
+                "url": "https://t.co/O8GZH4dibR"
+              }
+            ]
+          }
+        },
+        "id": "1519999171876454400",
+        "location": "在和鲶尾玩挠痒痒",
+        "name": "Thirteen",
+        "pinned_tweet_id": "1821734070927421777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831288034693611520/KRC2JPEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 360,
+          "like_count": 54110,
+          "listed_count": 0,
+          "media_count": 810,
+          "tweet_count": 5215
+        },
+        "url": "https://t.co/O8GZH4dibR",
+        "username": "Cya66047552",
+        "verified": false
+      }
+    ]
+  }
+}

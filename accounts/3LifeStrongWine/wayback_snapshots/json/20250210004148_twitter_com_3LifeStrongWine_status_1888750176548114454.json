@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888750111096025088"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1888750176548114454",
+    "created_at": "2025-02-10T00:41:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T01:41:34.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1888750118968688653",
+      "1888750176548114454"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gcl3UhgpE7",
+          "end": 34,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1888750176548114454/photo/1",
+          "media_key": "3_1888750111096025088",
+          "start": 11,
+          "url": "https://t.co/Gcl3UhgpE7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888750176548114454",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "早啊，今天吃行政早餐 https://t.co/Gcl3UhgpE7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1888750111096025088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjYwOBFbsAAjPkL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888750111096025088"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1888750118968688653",
+        "created_at": "2025-02-10T00:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T01:41:34.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888750118968688653",
+          "1888750176548114454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kGc3GFXsNz",
+              "end": 34,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1888750118968688653/photo/1",
+              "media_key": "3_1888750111096025088",
+              "start": 11,
+              "url": "https://t.co/kGc3GFXsNz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888750118968688653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早啊，今天吃自助早餐 https://t.co/kGc3GFXsNz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888750111096025088"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1888750176548114454",
+        "created_at": "2025-02-10T00:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T01:41:34.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888750118968688653",
+          "1888750176548114454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gcl3UhgpE7",
+              "end": 34,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1888750176548114454/photo/1",
+              "media_key": "3_1888750111096025088",
+              "start": 11,
+              "url": "https://t.co/Gcl3UhgpE7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888750176548114454",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早啊，今天吃行政早餐 https://t.co/Gcl3UhgpE7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 217,
+          "like_count": 6515,
+          "listed_count": 9,
+          "media_count": 1743,
+          "tweet_count": 7380
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1909113748444639232"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1909113750172692803",
+    "created_at": "2025-04-07T05:19:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T06:19:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1909113750172692803"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 8,
+          "normalized_text": "Twitter",
+          "probability": 0.6053,
+          "start": 2,
+          "type": "Product"
+        }
+      ],
+      "urls": [
+        {
+          "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+          "display_url": "infinityweet.me/interaction-ci…",
+          "end": 44,
+          "expanded_url": "https://infinityweet.me/interaction-circle?lang=ja",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/1907438678395539456/OxJx-Duq?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1907438678395539456/OxJx-Duq?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 21,
+          "status": 200,
+          "title": "Interaction Circle • Infinitweet",
+          "unwound_url": "https://infinityweet.me/interaction-circle?lang=ja",
+          "url": "https://t.co/fFnuUwIwpy"
+        },
+        {
+          "display_url": "pic.x.com/mYNf6pPI6M",
+          "end": 68,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1909113750172692803/photo/1",
+          "media_key": "3_1909113748444639232",
+          "start": 45,
+          "url": "https://t.co/mYNf6pPI6M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909113750172692803",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "私のTwitterやりとりークル\n\n➡️ https://t.co/fFnuUwIwpy https://t.co/mYNf6pPI6M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1909113748444639232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn6I1tvbcAAMQy8.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909113748444639232"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1909113750172692803",
+        "created_at": "2025-04-07T05:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T06:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909113750172692803"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "Twitter",
+              "probability": 0.6053,
+              "start": 2,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 44,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=ja",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1907438678395539456/OxJx-Duq?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1907438678395539456/OxJx-Duq?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 21,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=ja",
+              "url": "https://t.co/fFnuUwIwpy"
+            },
+            {
+              "display_url": "pic.x.com/mYNf6pPI6M",
+              "end": 68,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1909113750172692803/photo/1",
+              "media_key": "3_1909113748444639232",
+              "start": 45,
+              "url": "https://t.co/mYNf6pPI6M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909113750172692803",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私のTwitterやりとりークル\n\n➡️ https://t.co/fFnuUwIwpy https://t.co/mYNf6pPI6M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 250,
+          "like_count": 7268,
+          "listed_count": 12,
+          "media_count": 2456,
+          "tweet_count": 9940
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

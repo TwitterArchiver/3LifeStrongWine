@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2036851764805148710",
+    "created_at": "2026-03-25T20:00:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T21:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036896118982754657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1584471510844346370",
+          "start": 0,
+          "username": "ValerieinPT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036896118982754657",
+    "in_reply_to_user_id": "1584471510844346370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036896060711326086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ValerieinPT 确实，减肥群体"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2036851764805148710",
+        "created_at": "2026-03-25T20:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T21:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036896118982754657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1584471510844346370",
+              "start": 0,
+              "username": "ValerieinPT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036896118982754657",
+        "in_reply_to_user_id": "1584471510844346370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036896060711326086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ValerieinPT 确实，减肥群体"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584471510844346370",
+        "conversation_id": "2036851764805148710",
+        "created_at": "2026-03-25T20:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T21:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036896060711326086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036896060711326086",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036851764805148710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 菜单上还有卡路里，这个目标群体可想而知。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "願償少年淚，猶趁未老時",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VnXMe"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1914,
+          "following_count": 175,
+          "like_count": 6780,
+          "listed_count": 13,
+          "media_count": 3420,
+          "tweet_count": 13420
+        },
+        "url": "https://t.co/3g5y5VnXMe",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-24T09:07:34.000Z",
+        "description": "社会闲散，啥都想动手，啥都做得不咋地专业户。",
+        "id": "1584471510844346370",
+        "name": "Valerie in Portugal 💕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009544860743741441/2g-8OEel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 600,
+          "like_count": 929,
+          "listed_count": 3,
+          "media_count": 436,
+          "tweet_count": 2655
+        },
+        "username": "ValerieinPT",
+        "verified": true
+      }
+    ]
+  }
+}

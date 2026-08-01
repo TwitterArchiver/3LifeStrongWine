@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1926667888867377394",
+    "created_at": "2025-05-26T15:23:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T16:23:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927022848771518757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1872282138114232320",
+          "start": 0,
+          "username": "lvu1167"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927022848771518757",
+    "in_reply_to_user_id": "1872282138114232320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927016241404752095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lvu1167 现在用的是啥，你都玩啥游戏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1926667888867377394",
+        "created_at": "2025-05-26T15:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T16:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927022848771518757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1872282138114232320",
+              "start": 0,
+              "username": "lvu1167"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927022848771518757",
+        "in_reply_to_user_id": "1872282138114232320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927016241404752095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lvu1167 现在用的是啥，你都玩啥游戏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872282138114232320",
+        "conversation_id": "1926667888867377394",
+        "created_at": "2025-05-26T14:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T15:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927016241404752095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927016241404752095",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926667888867377394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 新手机。现在这个内存已经爆了 不管玩儿什么 手机都烫的要死。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "闻有三山不知处，茂陵松柏满西风",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912318298353487872/R3xfbIV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 236,
+          "like_count": 7414,
+          "listed_count": 11,
+          "media_count": 2674,
+          "tweet_count": 10887
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-26T14:03:56.000Z",
+        "description": "钱性恋 收ATM提款机 不约 不线下 不加联系方式 不拍下面 不出原味 不接推广 不打游戏（没内存给我换手机 我学） 68岁 住在大柳村 想我就给我打钱 ⚠️此人最擅长口嗨注意甄别⚠️接口令",
+        "id": "1872282138114232320",
+        "name": "幸福小猫᳐ ੭",
+        "pinned_tweet_id": "1925874654922580218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885565741572722688/ij9T-q76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 0,
+          "like_count": 6207,
+          "listed_count": 6,
+          "media_count": 107,
+          "tweet_count": 1510
+        },
+        "username": "lvu1167",
+        "verified": false
+      }
+    ]
+  }
+}

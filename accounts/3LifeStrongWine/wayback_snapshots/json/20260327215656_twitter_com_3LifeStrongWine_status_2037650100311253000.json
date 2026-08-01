@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2037650045189718016"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "2037650100311253000",
+    "created_at": "2026-03-27T21:56:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T22:56:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037650100311253000"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z1ZdwHRqoq",
+          "end": 47,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/2037650100311253000/video/1",
+          "media_key": "13_2037650045189718016",
+          "start": 24,
+          "url": "https://t.co/Z1ZdwHRqoq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037650100311253000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天晚上有流星，还有极光，我疯狂的许下我的愿望 https://t.co/Z1ZdwHRqoq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20640,
+        "height": 720,
+        "media_key": "13_2037650045189718016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037650045189718016/img/FvO1oDDfI1Dxb4Fo.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037650045189718016/vid/avc1/480x270/fVOkSNzsg4SFWh9W.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037650045189718016/vid/avc1/640x360/n9FTKggvLpLXGPf8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037650045189718016/vid/avc1/1280x720/wLkOrJLNsJvMQXLF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037650045189718016/pl/dicJtKPWn5XBkkfc.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037650045189718016"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "2037650100311253000",
+        "created_at": "2026-03-27T21:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T22:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037650100311253000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z1ZdwHRqoq",
+              "end": 47,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/2037650100311253000/video/1",
+              "media_key": "13_2037650045189718016",
+              "start": 24,
+              "url": "https://t.co/Z1ZdwHRqoq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037650100311253000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天晚上有流星，还有极光，我疯狂的许下我的愿望 https://t.co/Z1ZdwHRqoq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我一定带你脱离苦海，我答应过你。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VnXMe"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1983,
+          "following_count": 178,
+          "like_count": 6846,
+          "listed_count": 13,
+          "media_count": 3465,
+          "tweet_count": 13553
+        },
+        "url": "https://t.co/3g5y5VnXMe",
+        "username": "3LifeStrongWine",
+        "verified": false
+      }
+    ]
+  }
+}

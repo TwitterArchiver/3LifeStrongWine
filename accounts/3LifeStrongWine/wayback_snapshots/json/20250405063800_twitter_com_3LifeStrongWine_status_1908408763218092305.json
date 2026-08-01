@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1908405407451873716",
+    "created_at": "2025-04-05T06:38:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T07:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908408763218092305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1864468641305251844",
+          "start": 0,
+          "username": "AkaNpc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908408763218092305",
+    "in_reply_to_user_id": "1864468641305251844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908408431972933830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkaNpc 😨😨😨怎么个突破法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1908405407451873716",
+        "created_at": "2025-04-05T06:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T07:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908408763218092305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1864468641305251844",
+              "start": 0,
+              "username": "AkaNpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908408763218092305",
+        "in_reply_to_user_id": "1864468641305251844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908408431972933830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkaNpc 😨😨😨怎么个突破法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864468641305251844",
+        "conversation_id": "1908405407451873716",
+        "created_at": "2025-04-05T06:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T07:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908408431972933830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908408431972933830",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908405649421250929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 突破盲肠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "业余摄影｜我会永远站在过去热泪盈眶地读着你们的未来",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1482,
+          "following_count": 226,
+          "like_count": 7166,
+          "listed_count": 12,
+          "media_count": 2401,
+          "tweet_count": 9677
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-05T00:35:51.000Z",
+        "description": "做S会笑场，做M会还手☁️活着玩玩的，什么都没当真 唯一大号｜小号 @AkaNpc2｜仅此两号慎防受骗  ☺︎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 34,
+                "username": "AkaNpc2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akanpc",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akanpc",
+                "start": 0,
+                "url": "https://t.co/axvcrnKSfM"
+              }
+            ]
+          }
+        },
+        "id": "1864468641305251844",
+        "location": "迷失表參道",
+        "name": "曼醬⛓︎",
+        "pinned_tweet_id": "1904194585758515349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872590302583926785/o3oKSA94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6176,
+          "following_count": 97,
+          "like_count": 7700,
+          "listed_count": 5,
+          "media_count": 44,
+          "tweet_count": 1504
+        },
+        "url": "https://t.co/axvcrnKSfM",
+        "username": "AkaNpc",
+        "verified": false
+      }
+    ]
+  }
+}

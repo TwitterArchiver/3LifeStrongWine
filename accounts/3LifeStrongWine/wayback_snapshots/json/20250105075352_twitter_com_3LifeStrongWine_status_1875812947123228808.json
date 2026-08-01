@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1875812610635153738",
+    "created_at": "2025-01-05T07:53:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T08:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875812947123228808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1571835424729104385",
+          "start": 0,
+          "username": "xing50062753"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875812947123228808",
+    "in_reply_to_user_id": "1571835424729104385",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875812610635153738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xing50062753 西瓜汁？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1875812610635153738",
+        "created_at": "2025-01-05T07:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T08:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875812947123228808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1571835424729104385",
+              "start": 0,
+              "username": "xing50062753"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875812947123228808",
+        "in_reply_to_user_id": "1571835424729104385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875812610635153738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xing50062753 西瓜汁？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875812607011254273"
+          ]
+        },
+        "author_id": "1571835424729104385",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1875812610635153738",
+        "created_at": "2025-01-05T07:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T08:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875812610635153738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a9j56wNidc",
+              "end": 30,
+              "expanded_url": "https://x.com/xing50062753/status/1875812610635153738/photo/1",
+              "media_key": "3_1875812607011254273",
+              "start": 7,
+              "url": "https://t.co/a9j56wNidc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875812610635153738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猜猜这是什么 https://t.co/a9j56wNidc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "雨季里我和你的青春一起坐过了站，而我会站在原地热泪盈眶地读你的未来",
+        "id": "1529654419213541376",
+        "location": "Destination of the Wind",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 213,
+          "like_count": 4046,
+          "listed_count": 7,
+          "media_count": 914,
+          "tweet_count": 4691
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-19T12:15:58.000Z",
+        "description": "",
+        "id": "1571835424729104385",
+        "location": "💖",
+        "name": "幼稚鬼",
+        "pinned_tweet_id": "1866504711412830427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866695025016573952/39VYdnov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 207,
+          "like_count": 13684,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 532
+        },
+        "username": "xing50062753",
+        "verified": false
+      }
+    ]
+  }
+}

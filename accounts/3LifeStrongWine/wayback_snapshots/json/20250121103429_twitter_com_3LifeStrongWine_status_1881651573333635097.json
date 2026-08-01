@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1881651566794752000"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1881651573333635097",
+    "created_at": "2025-01-21T10:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T11:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1881651573333635097"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QfTjnvBPQE",
+          "end": 116,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1881651573333635097/photo/1",
+          "media_key": "3_1881651566794752000",
+          "start": 93,
+          "url": "https://t.co/QfTjnvBPQE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881651573333635097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "15年前的贺卡，是我早就褪色的童年\n小学的时候考试目标都是95，100分\n初中时变成85分以上\n到了高中时，变成每科目都上80分\n到了大学，老师我给你磕一个求求你给我60吧😭😭😭😭😭😭 https://t.co/QfTjnvBPQE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1881651566794752000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ghz4IW3bwAAJlE9.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881651566794752000"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1881651573333635097",
+        "created_at": "2025-01-21T10:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T11:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881651573333635097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QfTjnvBPQE",
+              "end": 116,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1881651573333635097/photo/1",
+              "media_key": "3_1881651566794752000",
+              "start": 93,
+              "url": "https://t.co/QfTjnvBPQE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881651573333635097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "15年前的贺卡，是我早就褪色的童年\n小学的时候考试目标都是95，100分\n初中时变成85分以上\n到了高中时，变成每科目都上80分\n到了大学，老师我给你磕一个求求你给我60吧😭😭😭😭😭😭 https://t.co/QfTjnvBPQE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "白云山上白云泉，云自无心水自闲",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 231,
+          "like_count": 5856,
+          "listed_count": 7,
+          "media_count": 1373,
+          "tweet_count": 6203
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

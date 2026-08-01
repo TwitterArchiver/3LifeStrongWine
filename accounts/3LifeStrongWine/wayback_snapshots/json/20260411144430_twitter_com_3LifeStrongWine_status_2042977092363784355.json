@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2042665374395830688",
+    "created_at": "2026-04-11T14:44:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T15:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042977092363784355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1874432803338854400",
+          "start": 0,
+          "username": "0b1k0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042977092363784355",
+    "in_reply_to_user_id": "1874432803338854400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042976862503342090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0b1k0 我心倒是很宽没有就等"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2042665374395830688",
+        "created_at": "2026-04-11T14:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T15:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042977092363784355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1874432803338854400",
+              "start": 0,
+              "username": "0b1k0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042977092363784355",
+        "in_reply_to_user_id": "1874432803338854400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042976862503342090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0b1k0 我心倒是很宽没有就等"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874432803338854400",
+        "conversation_id": "2042665374395830688",
+        "created_at": "2026-04-11T14:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T15:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042976862503342090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042976862503342090",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042976165741367756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 好笑么，，我感觉绝望"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我一定带你脱离苦海我答应过你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2040,
+          "following_count": 185,
+          "like_count": 6906,
+          "listed_count": 12,
+          "media_count": 3532,
+          "tweet_count": 13887
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T12:29:53.000Z",
+        "description": "我现在真的学会骂人了，别惹我",
+        "id": "1874432803338854400",
+        "location": "🚪288/520/1314",
+        "name": "冰块",
+        "pinned_tweet_id": "2041603216723603520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005255904485314560/IknqtxPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9028,
+          "following_count": 45,
+          "like_count": 514,
+          "listed_count": 17,
+          "media_count": 58,
+          "tweet_count": 822
+        },
+        "username": "0b1k0",
+        "verified": false
+      }
+    ]
+  }
+}

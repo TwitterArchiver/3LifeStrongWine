@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1961458669230403750",
+    "created_at": "2025-08-29T16:11:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T17:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961461717172408689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1777004980777762816",
+          "start": 0,
+          "username": "iamrrann1002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961461717172408689",
+    "in_reply_to_user_id": "1777004980777762816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961459568376263021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iamrrann1002 烧麦➕小笼包"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1961458669230403750",
+        "created_at": "2025-08-29T16:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T17:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961461717172408689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1777004980777762816",
+              "start": 0,
+              "username": "iamrrann1002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961461717172408689",
+        "in_reply_to_user_id": "1777004980777762816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961459568376263021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iamrrann1002 烧麦➕小笼包"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777004980777762816",
+        "conversation_id": "1961458669230403750",
+        "created_at": "2025-08-29T16:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T17:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961459568376263021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961459568376263021",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961458761081786873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 我也是 不知道谁发明的伟大烧麦，，我已连吃近半个月"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "泛黄的老照片里讲述了一个什么样的故事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我会带你去看这世界上最独一无二的风景",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1549,
+          "following_count": 183,
+          "like_count": 6835,
+          "listed_count": 13,
+          "media_count": 2977,
+          "tweet_count": 12067
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-07T16:06:31.000Z",
+        "description": "请尊称我为闪耀鼻嘎大王https://t.co/ymmQwOrDK9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iamrrann1002",
+                "end": 34,
+                "expanded_url": "https://ngl.link/iamrrann1002",
+                "start": 11,
+                "url": "https://t.co/ymmQwOrDK9"
+              }
+            ]
+          }
+        },
+        "id": "1777004980777762816",
+        "name": "一颗闪耀大鼻嘎",
+        "pinned_tweet_id": "1777008554639327265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865270636928733186/JoZiI9SB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 125,
+          "like_count": 13595,
+          "listed_count": 7,
+          "media_count": 918,
+          "tweet_count": 8584
+        },
+        "username": "iamrrann1002",
+        "verified": false
+      }
+    ]
+  }
+}

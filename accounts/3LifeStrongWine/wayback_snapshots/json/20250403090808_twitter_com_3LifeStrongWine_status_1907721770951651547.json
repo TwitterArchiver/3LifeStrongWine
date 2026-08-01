@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1907677504967782505",
+    "created_at": "2025-04-03T09:08:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T10:08:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907721770951651547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1749848735436427265",
+          "start": 0,
+          "username": "pipi98426"
+        },
+        {
+          "end": 26,
+          "id": "1610289819053330432",
+          "start": 11,
+          "username": "before_landing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907721770951651547",
+    "in_reply_to_user_id": "1749848735436427265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907701664410222662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pipi98426 @before_landing 买索尼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1907677504967782505",
+        "created_at": "2025-04-03T09:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T10:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907721770951651547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1749848735436427265",
+              "start": 0,
+              "username": "pipi98426"
+            },
+            {
+              "end": 26,
+              "id": "1610289819053330432",
+              "start": 11,
+              "username": "before_landing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907721770951651547",
+        "in_reply_to_user_id": "1749848735436427265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907701664410222662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pipi98426 @before_landing 买索尼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749848735436427265",
+        "conversation_id": "1907677504967782505",
+        "created_at": "2025-04-03T07:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T08:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907701664410222662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1610289819053330432",
+              "start": 0,
+              "username": "before_landing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907701664410222662",
+        "in_reply_to_user_id": "1610289819053330432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907677504967782505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@before_landing 这样好难过！感觉大家可能会有点默认你喜欢，下次可以提出来说怎么换设备你们拍的还是这么丑啊，看是什么反应🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来｜把那无人问津的岁月熬成清茶，等一场芳香四散",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1485,
+          "following_count": 225,
+          "like_count": 7153,
+          "listed_count": 12,
+          "media_count": 2358,
+          "tweet_count": 9543
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-23T17:37:16.000Z",
+        "description": "倦怠皮｜多多喜欢我们自己的每一个想法｜",
+        "id": "1749848735436427265",
+        "location": "🥣",
+        "name": "恶毒橙子皮",
+        "pinned_tweet_id": "1904957322964664747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906372762374942720/WWedPRhn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2300,
+          "following_count": 417,
+          "like_count": 96892,
+          "listed_count": 9,
+          "media_count": 251,
+          "tweet_count": 9985
+        },
+        "username": "pipi98426",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-03T15:00:04.000Z",
+        "description": "门槛纯绿520 / 口嗨大王 / 非常神经病 /金钱是第一生产力／搞笑女一辈子都不会变了",
+        "id": "1610289819053330432",
+        "name": "吃点荔枝（早早起床勤奋努力上进版）",
+        "pinned_tweet_id": "1905509116052922485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733098270485102592/zp4vXP9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8089,
+          "following_count": 144,
+          "like_count": 7928,
+          "listed_count": 14,
+          "media_count": 1406,
+          "tweet_count": 14892
+        },
+        "username": "before_landing",
+        "verified": false
+      }
+    ]
+  }
+}

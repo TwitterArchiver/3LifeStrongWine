@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908819222924500992"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1908819231707476022",
+    "created_at": "2025-04-06T09:49:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T10:49:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908819231707476022"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/A1FK3XCSyX",
+          "end": 46,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1908819231707476022/photo/1",
+          "media_key": "3_1908819222924500992",
+          "start": 23,
+          "url": "https://t.co/A1FK3XCSyX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908819231707476022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "后襟  肩章  还有前摆  猜猜我穿的是什么 https://t.co/A1FK3XCSyX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1908819222924500992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn18-EraIAAlmt8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908819222924500992"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1908819231707476022",
+        "created_at": "2025-04-06T09:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T10:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908819231707476022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A1FK3XCSyX",
+              "end": 46,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1908819231707476022/photo/1",
+              "media_key": "3_1908819222924500992",
+              "start": 23,
+              "url": "https://t.co/A1FK3XCSyX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908819231707476022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "后襟  肩章  还有前摆  猜猜我穿的是什么 https://t.co/A1FK3XCSyX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "业余摄影｜我会永远站在过去热泪盈眶地读着你们的未来",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 244,
+          "like_count": 7215,
+          "listed_count": 12,
+          "media_count": 2439,
+          "tweet_count": 9829
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

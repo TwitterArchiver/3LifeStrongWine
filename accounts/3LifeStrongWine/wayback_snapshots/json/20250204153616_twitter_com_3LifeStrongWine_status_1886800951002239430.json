@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1886473909710827890",
+    "created_at": "2025-02-04T15:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T16:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886800951002239430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1242074475400548352",
+          "start": 0,
+          "username": "A1oneSKy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886800951002239430",
+    "in_reply_to_user_id": "1242074475400548352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886473909710827890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A1oneSKy 是我一直想要的手机，但是我不可能拿它当主力机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1886473909710827890",
+        "created_at": "2025-02-04T15:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T16:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886800951002239430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1242074475400548352",
+              "start": 0,
+              "username": "A1oneSKy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886800951002239430",
+        "in_reply_to_user_id": "1242074475400548352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886473909710827890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A1oneSKy 是我一直想要的手机，但是我不可能拿它当主力机"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886473903515877376"
+          ]
+        },
+        "author_id": "1242074475400548352",
+        "conversation_id": "1886473909710827890",
+        "created_at": "2025-02-03T17:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T18:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886473909710827890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Cc7J74i9M",
+              "end": 40,
+              "expanded_url": "https://x.com/A1oneSKy/status/1886473909710827890/photo/1",
+              "media_key": "3_1886473903515877376",
+              "start": 17,
+              "url": "https://t.co/5Cc7J74i9M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886473909710827890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次赶夜间公交\n（偷偷出来的） https://t.co/5Cc7J74i9M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1385,
+          "following_count": 218,
+          "like_count": 6430,
+          "listed_count": 9,
+          "media_count": 1627,
+          "tweet_count": 7059
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-23T13:03:36.000Z",
+        "description": "CN/EN/JP/KR | 日常 摄影 碎碎念| 抽象 | 精神不稳定 | 二次元 | Kawasaki Z250SL |  Ciallo～ | 查成分互fo 无头像无ID勿扰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "alonesky.site",
+                "end": 23,
+                "expanded_url": "https://alonesky.site",
+                "start": 0,
+                "url": "https://t.co/oEkdekCfAG"
+              }
+            ]
+          }
+        },
+        "id": "1242074475400548352",
+        "location": "地狱",
+        "name": "ᴀʟᴏɴᴇꜱᴋʏ🍋",
+        "pinned_tweet_id": "1567905692379664384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835317040263106560/gH1Yy8aN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 1076,
+          "like_count": 2873,
+          "listed_count": 2,
+          "media_count": 3107,
+          "tweet_count": 10717
+        },
+        "url": "https://t.co/oEkdekCfAG",
+        "username": "A1oneSKy",
+        "verified": false
+      }
+    ]
+  }
+}

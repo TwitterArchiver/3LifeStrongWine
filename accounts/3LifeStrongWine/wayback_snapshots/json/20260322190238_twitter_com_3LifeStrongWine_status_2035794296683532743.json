@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2035755260363649033",
+    "created_at": "2026-03-22T19:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T20:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035794296683532743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1674133716489195540",
+          "start": 0,
+          "username": "songyu221693"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035794296683532743",
+    "in_reply_to_user_id": "1674133716489195540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035755260363649033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@songyu221693 这很好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2035755260363649033",
+        "created_at": "2026-03-22T19:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T20:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035794296683532743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1674133716489195540",
+              "start": 0,
+              "username": "songyu221693"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035794296683532743",
+        "in_reply_to_user_id": "1674133716489195540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035755260363649033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@songyu221693 这很好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674133716489195540",
+        "conversation_id": "2035755260363649033",
+        "created_at": "2026-03-22T16:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T17:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035755260363649033"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035755260363649033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚才室友很惊讶我又要自己出门，她根本不懂，找不到合适的搭子的话，我宁愿一个人静静地探索这个世界"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "此後錦書休寄    畫樓雲雨無憑///",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1800,
+          "following_count": 169,
+          "like_count": 6754,
+          "listed_count": 13,
+          "media_count": 3387,
+          "tweet_count": 13293
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-28T19:12:46.000Z",
+        "description": "只想躺在这个世界上发呆…",
+        "id": "1674133716489195540",
+        "location": "用户已入睡",
+        "name": "songyu",
+        "pinned_tweet_id": "2030889524897972708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030892488236666881/24ZGtPmB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 64,
+          "like_count": 334,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 447
+        },
+        "username": "songyu221693",
+        "verified": false
+      }
+    ]
+  }
+}

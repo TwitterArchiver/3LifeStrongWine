@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2048818943541022903",
+    "created_at": "2026-04-27T17:37:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T18:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048818943541022903"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048818943541022903",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "曾经初中时的我发现我经常过度依赖一个人或一段关系 只要那个人离开了我就会崩溃和迷茫 而且我的这种依赖很容易给对方压力这样导致我们的关系变得不太健康 就很容易被疏远讨厌被厌烦我想改掉这种过度的依赖 但是我真的做不到 我知道唯一能过度依赖的人 只有自己 做不到单纯依靠这种糟糕的自己活着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2048818943541022903",
+        "created_at": "2026-04-27T17:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T18:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048818943541022903"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048818943541022903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "曾经初中时的我发现我经常过度依赖一个人或一段关系 只要那个人离开了我就会崩溃和迷茫 而且我的这种依赖很容易给对方压力这样导致我们的关系变得不太健康 就很容易被疏远讨厌被厌烦我想改掉这种过度的依赖 但是我真的做不到 我知道唯一能过度依赖的人 只有自己 做不到单纯依靠这种糟糕的自己活着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花潭水深千尺  不及汪伦送我情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2305,
+          "following_count": 114,
+          "like_count": 6908,
+          "listed_count": 13,
+          "media_count": 3579,
+          "tweet_count": 14083
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      }
+    ]
+  }
+}

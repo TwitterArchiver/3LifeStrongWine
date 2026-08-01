@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1958798789742899539",
+    "created_at": "2025-09-21T11:02:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T12:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969718805451723186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1248637653001494529",
+          "start": 0,
+          "username": "Hibi3cus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969718805451723186",
+    "in_reply_to_user_id": "1248637653001494529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958798789742899539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hibi3cus 这个我是真想吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1958798683740545024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy8NBlLboAAYZ75.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1958798789742899539",
+        "created_at": "2025-09-21T11:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T12:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969718805451723186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1248637653001494529",
+              "start": 0,
+              "username": "Hibi3cus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969718805451723186",
+        "in_reply_to_user_id": "1248637653001494529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958798789742899539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hibi3cus 这个我是真想吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958798683740545024"
+          ]
+        },
+        "author_id": "1248637653001494529",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1958798789742899539",
+        "created_at": "2025-08-22T07:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T08:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958798789742899539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zmoS1I9gkc",
+              "end": 35,
+              "expanded_url": "https://x.com/Hibi3cus/status/1958798789742899539/photo/1",
+              "media_key": "3_1958798683740545024",
+              "start": 12,
+              "url": "https://t.co/zmoS1I9gkc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958798789742899539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2760,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好多鸡条，分一分（塞） https://t.co/zmoS1I9gkc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "泛黄的老照片里讲述了一个什么样的故事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我会带你去看这世界上最独一无二的风景",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 182,
+          "like_count": 6706,
+          "listed_count": 13,
+          "media_count": 2990,
+          "tweet_count": 12093
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-10T15:43:19.000Z",
+        "description": "千年万岁，椒花颂声。\n@Q1ngyi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 11,
+                "username": "Q1ngyi"
+              }
+            ]
+          }
+        },
+        "id": "1248637653001494529",
+        "name": "墨砚斋收破烂の小掌柜清漪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955668384181551104/pykaTPb7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2131,
+          "following_count": 235,
+          "like_count": 178577,
+          "listed_count": 34,
+          "media_count": 75,
+          "tweet_count": 44953
+        },
+        "username": "Hibi3cus",
+        "verified": false
+      }
+    ]
+  }
+}

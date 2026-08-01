@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1877911703620591989",
+    "created_at": "2025-01-11T03:11:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T04:11:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877916116229701938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1784028602851328000",
+          "start": 0,
+          "username": "123456789znm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877916116229701938",
+    "in_reply_to_user_id": "1784028602851328000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877911703620591989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@123456789znm 我草我那天也是，跑着跑着登机牌就丢了，还好有电子的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1877911703620591989",
+        "created_at": "2025-01-11T03:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T04:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877916116229701938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1784028602851328000",
+              "start": 0,
+              "username": "123456789znm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877916116229701938",
+        "in_reply_to_user_id": "1784028602851328000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877911703620591989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123456789znm 我草我那天也是，跑着跑着登机牌就丢了，还好有电子的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784028602851328000",
+        "conversation_id": "1877911703620591989",
+        "created_at": "2025-01-11T02:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T03:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877911703620591989"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1877911703620591989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑死我了还有三分钟登机 登机牌不见了 在机场发出今天的第一声爆笑 没关系我会使用电子的 感谢科技的力量"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "分享从我眼中看到的世界🌸｜雨季里我和你的青春一起坐过了站，而我会站在原地热泪盈眶地读你的未来",
+        "id": "1529654419213541376",
+        "location": "风的目的地.",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1117,
+          "following_count": 210,
+          "like_count": 4870,
+          "listed_count": 7,
+          "media_count": 1081,
+          "tweet_count": 5243
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-27T01:15:46.000Z",
+        "description": "和现生决斗",
+        "id": "1784028602851328000",
+        "name": "蒜蓉小龙虾💍",
+        "pinned_tweet_id": "1788357210495463489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870827716989353984/IZAWWCBK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2785,
+          "following_count": 585,
+          "like_count": 33398,
+          "listed_count": 5,
+          "media_count": 360,
+          "tweet_count": 18060
+        },
+        "username": "123456789znm",
+        "verified": false
+      }
+    ]
+  }
+}

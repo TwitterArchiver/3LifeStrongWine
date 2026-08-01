@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1873019525828137191",
+    "created_at": "2024-12-29T03:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T04:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873208357886280067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1845037497589669888",
+          "start": 0,
+          "username": "enjiang666"
+        },
+        {
+          "end": 23,
+          "id": "1818652214702813184",
+          "start": 12,
+          "username": "_SANSAN33_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873208357886280067",
+    "in_reply_to_user_id": "1845037497589669888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873191085088067880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@enjiang666 @_SANSAN33_ 经典连坐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1873019525828137191",
+        "created_at": "2024-12-29T03:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T04:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873208357886280067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1845037497589669888",
+              "start": 0,
+              "username": "enjiang666"
+            },
+            {
+              "end": 23,
+              "id": "1818652214702813184",
+              "start": 12,
+              "username": "_SANSAN33_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873208357886280067",
+        "in_reply_to_user_id": "1845037497589669888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873191085088067880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@enjiang666 @_SANSAN33_ 经典连坐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845037497589669888",
+        "conversation_id": "1873019525828137191",
+        "created_at": "2024-12-29T02:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T03:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873191085088067880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1818652214702813184",
+              "start": 0,
+              "username": "_SANSAN33_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873191085088067880",
+        "in_reply_to_user_id": "1818652214702813184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873019525828137191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_SANSAN33_ 好贱啊班主任"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "有时也想过花烂漫某天与世界无声道别， 可是偏偏有太多太多遗憾挂牵没画句点",
+        "id": "1529654419213541376",
+        "location": "期待一场意外，此生再无难过",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1865393368853090537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 194,
+          "like_count": 3423,
+          "listed_count": 7,
+          "media_count": 783,
+          "tweet_count": 4285
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T09:43:23.000Z",
+        "description": "わくわく",
+        "id": "1845037497589669888",
+        "name": "初五",
+        "pinned_tweet_id": "1855882803822371263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863926799182213120/FbeRDZNd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 271,
+          "like_count": 23351,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1362
+        },
+        "username": "enjiang666",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T14:17:49.000Z",
+        "description": "一名来自长沙的高中生，喜欢我就请与我互fo吧😎丨喜欢：ACG  日本料理 桃园奈奈生丨想旅行的地方：香港🇭🇰 日本🇯🇵 新西兰🇳🇿 新加坡🇸🇬 埃及🇪🇬丨🚫政治什么的根本就不懂啦🚫丨目前仅在周末等法定节假日出现丨",
+        "id": "1818652214702813184",
+        "location": "shelter",
+        "name": "三三SANSAN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846935086773817349/rMxd8nab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 402,
+          "like_count": 310,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 89
+        },
+        "username": "_SANSAN33_",
+        "verified": false
+      }
+    ]
+  }
+}

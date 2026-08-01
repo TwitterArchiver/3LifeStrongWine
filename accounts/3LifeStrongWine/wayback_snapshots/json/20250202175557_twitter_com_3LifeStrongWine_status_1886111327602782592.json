@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1886057723600814291",
+    "created_at": "2025-02-02T17:55:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T18:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886111327602782592"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "渋谷",
+          "probability": 0.9465,
+          "start": 17,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1699273459325390848",
+          "start": 0,
+          "username": "DurantRaym93677"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886111327602782592",
+    "in_reply_to_user_id": "1699273459325390848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886057723600814291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DurantRaym93677 渋谷だ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1886057723600814291",
+        "created_at": "2025-02-02T17:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T18:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886111327602782592"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "渋谷",
+              "probability": 0.9465,
+              "start": 17,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1699273459325390848",
+              "start": 0,
+              "username": "DurantRaym93677"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886111327602782592",
+        "in_reply_to_user_id": "1699273459325390848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886057723600814291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DurantRaym93677 渋谷だ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886057701027053568"
+          ]
+        },
+        "author_id": "1699273459325390848",
+        "conversation_id": "1886057723600814291",
+        "created_at": "2025-02-02T14:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T15:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886057723600814291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SOmsWres4s",
+              "end": 27,
+              "expanded_url": "https://x.com/DurantRaym93677/status/1886057723600814291/photo/1",
+              "media_key": "3_1886057701027053568",
+              "start": 4,
+              "url": "https://t.co/SOmsWres4s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886057723600814291",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 746,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "进城了 https://t.co/SOmsWres4s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 220,
+          "like_count": 6392,
+          "listed_count": 9,
+          "media_count": 1605,
+          "tweet_count": 6982
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-06T04:09:04.000Z",
+        "description": "忠誠    自由    榮光",
+        "id": "1699273459325390848",
+        "location": "Victoria, Australia",
+        "name": "Mome 桜局長 二代目⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797427335911952384/l7lUTXag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 1209,
+          "like_count": 14520,
+          "listed_count": 4,
+          "media_count": 167,
+          "tweet_count": 4544
+        },
+        "username": "DurantRaym93677",
+        "verified": true
+      }
+    ]
+  }
+}

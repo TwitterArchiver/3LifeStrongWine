@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2037629382215233838",
+    "created_at": "2026-03-27T21:47:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T22:47:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037647712179400796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035190717166018560",
+          "start": 0,
+          "username": "Shirasawa1314TW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037647712179400796",
+    "in_reply_to_user_id": "2035190717166018560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037639504874676677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shirasawa1314TW 酒店么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2037629382215233838",
+        "created_at": "2026-03-27T21:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T22:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037647712179400796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035190717166018560",
+              "start": 0,
+              "username": "Shirasawa1314TW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037647712179400796",
+        "in_reply_to_user_id": "2035190717166018560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037639504874676677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shirasawa1314TW 酒店么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035190717166018560",
+        "conversation_id": "2037629382215233838",
+        "created_at": "2026-03-27T21:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T22:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037639504874676677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037639504874676677",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037629382215233838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 請問這是哪家呀\n\n視野蠻不錯的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我一定带你脱离苦海，我答应过你。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VnXMe"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1983,
+          "following_count": 178,
+          "like_count": 6846,
+          "listed_count": 13,
+          "media_count": 3465,
+          "tweet_count": 13553
+        },
+        "url": "https://t.co/3g5y5VnXMe",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-21T03:04:33.000Z",
+        "description": "智者不入愛河\n\n愚者為情所困\n\n遇你願做愚者\n\nThe wise never fall in love\n\nFools get trapped in it\n\nFor you, I'm willingly caught",
+        "id": "2035190717166018560",
+        "name": "Shirasawa Xu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035190803036086272/X4M6zA8S_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 17,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 129
+        },
+        "username": "Shirasawa1314TW",
+        "verified": true
+      }
+    ]
+  }
+}

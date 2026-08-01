@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1893974027636502528"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1893974086273118544",
+    "created_at": "2025-02-24T10:39:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T11:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893974086273118544"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZY5HmTJ7AY",
+          "end": 65,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1893974086273118544/video/1",
+          "media_key": "13_1893974027636502528",
+          "start": 42,
+          "url": "https://t.co/ZY5HmTJ7AY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893974086273118544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "AUV，您瞧瞧，嘿！这老佛爷传下来的地道，就是这个快呐！真是盖了帽了我的老baby https://t.co/ZY5HmTJ7AY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14768,
+        "height": 1280,
+        "media_key": "13_1893974027636502528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1893974027636502528/img/yLBDmtrgRynGQ9Ot.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1893974027636502528/vid/avc1/320x568/OzBp2zAA7HW-gP47.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1893974027636502528/vid/avc1/480x852/Mgmk37T4XLTLct5U.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1893974027636502528/vid/avc1/720x1280/4hOVVovoQHJjpMci.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1893974027636502528/pl/lkjRR0YC6e3LQLm4.m3u8?tag=16"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1893974027636502528"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1893974086273118544",
+        "created_at": "2025-02-24T10:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T11:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893974086273118544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZY5HmTJ7AY",
+              "end": 65,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1893974086273118544/video/1",
+              "media_key": "13_1893974027636502528",
+              "start": 42,
+              "url": "https://t.co/ZY5HmTJ7AY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893974086273118544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "AUV，您瞧瞧，嘿！这老佛爷传下来的地道，就是这个快呐！真是盖了帽了我的老baby https://t.co/ZY5HmTJ7AY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1410,
+          "following_count": 227,
+          "like_count": 6803,
+          "listed_count": 10,
+          "media_count": 2010,
+          "tweet_count": 8215
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2038272630554267708",
+    "created_at": "2026-03-29T15:53:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T16:53:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038283522977177668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2024546708030705664",
+          "start": 0,
+          "username": "heiheiwzzl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038283522977177668",
+    "in_reply_to_user_id": "2024546708030705664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038280820528386066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heiheiwzzl 是吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2038272630554267708",
+        "created_at": "2026-03-29T15:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T16:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038283522977177668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2024546708030705664",
+              "start": 0,
+              "username": "heiheiwzzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038283522977177668",
+        "in_reply_to_user_id": "2024546708030705664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038280820528386066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heiheiwzzl 是吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024546708030705664",
+        "conversation_id": "2038272630554267708",
+        "created_at": "2026-03-29T15:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T16:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038280820528386066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038280820528386066",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038272630554267708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 这个好漂亮！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我一定带你脱离苦海，我答应过你。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VnXMe"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2036,
+          "following_count": 174,
+          "like_count": 6866,
+          "listed_count": 13,
+          "media_count": 3473,
+          "tweet_count": 13596
+        },
+        "url": "https://t.co/3g5y5VnXMe",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-19T18:08:55.000Z",
+        "description": "我只是一个可怜的性压抑萧厨女也不会有🚪不要再问我约不约线下了…",
+        "id": "2024546708030705664",
+        "name": "宝宝",
+        "pinned_tweet_id": "2036347176042025382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024938872166330368/jtVQI1MT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 53,
+          "like_count": 2383,
+          "listed_count": 4,
+          "media_count": 42,
+          "tweet_count": 250
+        },
+        "username": "heiheiwzzl",
+        "verified": false
+      }
+    ]
+  }
+}

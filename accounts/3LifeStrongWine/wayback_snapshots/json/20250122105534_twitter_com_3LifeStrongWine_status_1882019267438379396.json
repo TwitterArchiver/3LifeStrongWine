@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1882019267438379396",
+    "created_at": "2025-01-22T10:55:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T11:55:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1882019267438379396"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3lifestrongwin…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/3lifestrongwine/status/1882018360000643183",
+          "start": 53,
+          "url": "https://t.co/Wjf4monjuf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882019267438379396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882018360000643183",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的队友：加油Strader One！\n交给你了Strader One！\n我相信你Strader one https://t.co/Wjf4monjuf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1882019267438379396",
+        "created_at": "2025-01-22T10:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T11:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882019267438379396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3lifestrongwin…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/3lifestrongwine/status/1882018360000643183",
+              "start": 53,
+              "url": "https://t.co/Wjf4monjuf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882019267438379396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882018360000643183",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的队友：加油Strader One！\n交给你了Strader One！\n我相信你Strader one https://t.co/Wjf4monjuf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1882018275439296512"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1882018360000643183",
+        "created_at": "2025-01-22T10:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T11:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882018360000643183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FkSjET72jW",
+              "end": 116,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1882018360000643183/video/1",
+              "media_key": "13_1882018275439296512",
+              "start": 93,
+              "url": "https://t.co/FkSjET72jW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882018360000643183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Long Caster你说什么？击毁laser装置是不可能完成的？哦别开玩笑了伙计，你知道我是谁吗！？我是贝尔卡的皇牌飞行员，米哈伊开着X02s都斗不过我的破二手战机，机械巨鸟，笑话！ https://t.co/FkSjET72jW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "白云山上白云泉，云自无心水自闲",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1312,
+          "following_count": 230,
+          "like_count": 5941,
+          "listed_count": 7,
+          "media_count": 1393,
+          "tweet_count": 6283
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1868135685720555520"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1868135743086014581",
+    "created_at": "2024-12-15T03:27:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T04:27:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1868135743086014581"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6d5Bi5zVJO",
+          "end": 28,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1868135743086014581/video/1",
+          "media_key": "13_1868135685720555520",
+          "start": 5,
+          "url": "https://t.co/6d5Bi5zVJO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868135743086014581",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "浅甩一下 https://t.co/6d5Bi5zVJO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4433,
+        "height": 1280,
+        "media_key": "13_1868135685720555520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1868135685720555520/img/9wLpuW-cBgJLozO3.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1868135685720555520/vid/avc1/320x568/iod2oINSvKIt07-c.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1868135685720555520/vid/avc1/480x852/M3vc6dkO4PHL2DHl.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1868135685720555520/vid/avc1/720x1280/MojBdhQbJdrI17m3.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1868135685720555520/pl/TlIUpOttN8YKYK5e.m3u8?tag=16"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1868135685720555520"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1868135743086014581",
+        "created_at": "2024-12-15T03:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T04:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868135743086014581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6d5Bi5zVJO",
+              "end": 28,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1868135743086014581/video/1",
+              "media_key": "13_1868135685720555520",
+              "start": 5,
+              "url": "https://t.co/6d5Bi5zVJO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868135743086014581",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "浅甩一下 https://t.co/6d5Bi5zVJO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "有时也想过花烂漫某天与世界无声道别， 可是偏偏有太多太多遗憾挂牵没画句点",
+        "id": "1529654419213541376",
+        "location": "期待一场意外，此生再无难过",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1865393368853090537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 904,
+          "following_count": 187,
+          "like_count": 2500,
+          "listed_count": 5,
+          "media_count": 604,
+          "tweet_count": 3563
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

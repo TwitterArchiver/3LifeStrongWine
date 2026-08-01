@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1871451604177879348",
+    "created_at": "2024-12-24T07:23:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T08:23:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871456657039089779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1839696962918223872",
+          "start": 0,
+          "username": "qikong27547159"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871456657039089779",
+    "in_reply_to_user_id": "1839696962918223872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871451604177879348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qikong27547159 我觉得挺好的啊，我觉得身边有一层真空圈挺好的，谁也别接近我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1871451604177879348",
+        "created_at": "2024-12-24T07:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T08:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871456657039089779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1839696962918223872",
+              "start": 0,
+              "username": "qikong27547159"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871456657039089779",
+        "in_reply_to_user_id": "1839696962918223872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871451604177879348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qikong27547159 我觉得挺好的啊，我觉得身边有一层真空圈挺好的，谁也别接近我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839696962918223872",
+        "conversation_id": "1871451604177879348",
+        "created_at": "2024-12-24T07:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T08:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871451604177879348"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1871451604177879348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不止一次被人说难以接近😔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "有时也想过花烂漫某天与世界无声道别， 可是偏偏有太多太多遗憾挂牵没画句点",
+        "id": "1529654419213541376",
+        "location": "期待一场意外，此生再无难过",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1865393368853090537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 202,
+          "like_count": 3249,
+          "listed_count": 6,
+          "media_count": 729,
+          "tweet_count": 4113
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-27T16:02:00.000Z",
+        "description": "他们走了 在夕阳下沿着小路 空中的月亮和星星 不过是孩子们稀奇古怪的幻想 https://t.co/e4wPqlB5wU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qikong",
+                "end": 60,
+                "expanded_url": "https://ngl.link/qikong",
+                "start": 37,
+                "url": "https://t.co/e4wPqlB5wU"
+              }
+            ]
+          }
+        },
+        "id": "1839696962918223872",
+        "location": "🤫",
+        "name": "柒mo",
+        "pinned_tweet_id": "1870980993328500984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870940705730035712/mLxyaUL0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 168,
+          "like_count": 2173,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 604
+        },
+        "username": "qikong27547159",
+        "verified": false
+      }
+    ]
+  }
+}

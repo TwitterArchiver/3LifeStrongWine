@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1894393194500296708"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1894393201177628737",
+    "created_at": "2025-02-25T14:25:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T15:25:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894393201177628737"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fSL0Nri4uR",
+          "end": 32,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1894393201177628737/photo/1",
+          "media_key": "3_1894393194500296708",
+          "start": 9,
+          "url": "https://t.co/fSL0Nri4uR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894393201177628737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "顺丰战略合作伙伴 https://t.co/fSL0Nri4uR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "3_1894393194500296708",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gko8ks8bkAQMf_s.jpg",
+        "width": 294
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894393194500296708"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1894393201177628737",
+        "created_at": "2025-02-25T14:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T15:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894393201177628737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fSL0Nri4uR",
+              "end": 32,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1894393201177628737/photo/1",
+              "media_key": "3_1894393194500296708",
+              "start": 9,
+              "url": "https://t.co/fSL0Nri4uR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894393201177628737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "顺丰战略合作伙伴 https://t.co/fSL0Nri4uR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1414,
+          "following_count": 233,
+          "like_count": 6878,
+          "listed_count": 10,
+          "media_count": 2033,
+          "tweet_count": 8282
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

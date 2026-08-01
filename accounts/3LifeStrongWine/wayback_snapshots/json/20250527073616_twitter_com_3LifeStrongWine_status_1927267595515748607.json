@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1927267595515748607",
+    "created_at": "2025-05-27T07:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T08:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927267595515748607"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3lifestrongwin…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/3lifestrongwine/status/1874675451739971770",
+          "start": 11,
+          "url": "https://t.co/nbplMs9KUC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927267595515748607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874675451739971770",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "寄几张，想要的留个言 https://t.co/nbplMs9KUC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1874675443753963520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgQvYjYaUAAvkur.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1927267595515748607",
+        "created_at": "2025-05-27T07:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T08:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927267595515748607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3lifestrongwin…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/3lifestrongwine/status/1874675451739971770",
+              "start": 11,
+              "url": "https://t.co/nbplMs9KUC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927267595515748607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874675451739971770",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "寄几张，想要的留个言 https://t.co/nbplMs9KUC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874675443753963520"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1874675451739971770",
+        "created_at": "2025-01-02T04:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T05:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874675451739971770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/80glTXTIL7",
+              "end": 84,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1874675451739971770/photo/1",
+              "media_key": "3_1874675443753963520",
+              "start": 61,
+              "url": "https://t.co/80glTXTIL7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874675451739971770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 37274,
+          "like_count": 166,
+          "quote_count": 5,
+          "reply_count": 46,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "想把这些明信片都寄出去，如果想要的话，请私信我，都是我在不同的城市买的明信片，会贴着邮票寄出，背后的话是我对你贴文的印象 https://t.co/80glTXTIL7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "闻有三山不知处，茂陵松柏满西风",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912318298353487872/R3xfbIV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1526,
+          "following_count": 236,
+          "like_count": 7418,
+          "listed_count": 11,
+          "media_count": 2681,
+          "tweet_count": 10928
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

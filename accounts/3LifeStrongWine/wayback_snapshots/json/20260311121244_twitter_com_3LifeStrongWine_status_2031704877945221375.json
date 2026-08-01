@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2031681209848483871",
+    "created_at": "2026-03-11T12:12:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T13:12:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031704877945221375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1504042247460859904",
+          "start": 0,
+          "username": "HRO68915583"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031704877945221375",
+    "in_reply_to_user_id": "1504042247460859904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031696931010081202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HRO68915583 选！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2031681209848483871",
+        "created_at": "2026-03-11T12:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T13:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031704877945221375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1504042247460859904",
+              "start": 0,
+              "username": "HRO68915583"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031704877945221375",
+        "in_reply_to_user_id": "1504042247460859904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031696931010081202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HRO68915583 选！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504042247460859904",
+        "conversation_id": "2031681209848483871",
+        "created_at": "2026-03-11T11:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T12:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031696931010081202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031696931010081202",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031681209848483871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 不是真选啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "此後錦書休寄    畫樓雲雨無憑///",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1804,
+          "following_count": 168,
+          "like_count": 6762,
+          "listed_count": 13,
+          "media_count": 3360,
+          "tweet_count": 13250
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-16T10:30:00.000Z",
+        "description": "随手拍/男/",
+        "id": "1504042247460859904",
+        "name": "HRO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902973862775754752/VRCSHaZR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 229,
+          "like_count": 59980,
+          "listed_count": 6,
+          "media_count": 176,
+          "tweet_count": 16847
+        },
+        "username": "HRO68915583",
+        "verified": false
+      }
+    ]
+  }
+}

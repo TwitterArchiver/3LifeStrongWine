@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2024885936149123402",
+    "created_at": "2026-02-20T16:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T17:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024889065099985342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1940424272276578304",
+          "start": 0,
+          "username": "greyl20040702"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024889065099985342",
+    "in_reply_to_user_id": "1940424272276578304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024888441184682440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@greyl20040702 辣死我了操"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2024885936149123402",
+        "created_at": "2026-02-20T16:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T17:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024889065099985342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1940424272276578304",
+              "start": 0,
+              "username": "greyl20040702"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024889065099985342",
+        "in_reply_to_user_id": "1940424272276578304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024888441184682440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@greyl20040702 辣死我了操"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940424272276578304",
+        "conversation_id": "2024885936149123402",
+        "created_at": "2026-02-20T16:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T17:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024888441184682440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024888441184682440",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024886853825180144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 嗓子不允许😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "此后锦书休寄  画楼云雨无凭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1730,
+          "following_count": 172,
+          "like_count": 6830,
+          "listed_count": 12,
+          "media_count": 3315,
+          "tweet_count": 13128
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-02T14:56:21.000Z",
+        "description": "你好 亲爱的 （不合拍以及约炮／私信只回口令/眼熟会回关/小号@Morluk348977",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "Morluk348977"
+              }
+            ]
+          }
+        },
+        "id": "1940424272276578304",
+        "name": "greyl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020099191322877952/utCy9oId_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2075,
+          "following_count": 94,
+          "like_count": 2836,
+          "listed_count": 11,
+          "media_count": 42,
+          "tweet_count": 522
+        },
+        "username": "greyl20040702",
+        "verified": false
+      }
+    ]
+  }
+}

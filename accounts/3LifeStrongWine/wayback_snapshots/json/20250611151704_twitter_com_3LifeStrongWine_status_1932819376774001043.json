@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1932738320637047046",
+    "created_at": "2025-06-11T15:17:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T16:17:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932819376774001043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1720779183809519616",
+          "start": 0,
+          "username": "RyyyYoin"
+        },
+        {
+          "end": 17,
+          "id": "1248637653001494529",
+          "start": 10,
+          "username": "Q2anmo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932819376774001043",
+    "in_reply_to_user_id": "1720779183809519616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932747130042499073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RyyyYoin @Q2anmo 我在北京要热死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1932738320637047046",
+        "created_at": "2025-06-11T15:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T16:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932819376774001043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1720779183809519616",
+              "start": 0,
+              "username": "RyyyYoin"
+            },
+            {
+              "end": 17,
+              "id": "1248637653001494529",
+              "start": 10,
+              "username": "Q2anmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932819376774001043",
+        "in_reply_to_user_id": "1720779183809519616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932747130042499073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RyyyYoin @Q2anmo 我在北京要热死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720779183809519616",
+        "conversation_id": "1932738320637047046",
+        "created_at": "2025-06-11T10:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T11:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932747130042499073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1248637653001494529",
+              "start": 0,
+              "username": "Q2anmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932747130042499073",
+        "in_reply_to_user_id": "1248637653001494529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932739347977265488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Q2anmo 臭沪爷 打死你😭👊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "时光足够温柔了吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 238,
+          "like_count": 7479,
+          "listed_count": 11,
+          "media_count": 2791,
+          "tweet_count": 11362
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T12:25:10.000Z",
+        "description": "我也可以为你潜入海里面/妈咪@RANNA_ISOKAZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "RANNA_ISOKAZE"
+              }
+            ]
+          }
+        },
+        "id": "1720779183809519616",
+        "name": "余韻",
+        "pinned_tweet_id": "1923960404994097413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928299091177414656/fWuWq-gu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 231,
+          "like_count": 53007,
+          "listed_count": 7,
+          "media_count": 1305,
+          "tweet_count": 10403
+        },
+        "username": "RyyyYoin",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-10T15:43:19.000Z",
+        "description": "@Q3anmo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "Q3anmo"
+              }
+            ]
+          }
+        },
+        "id": "1248637653001494529",
+        "name": "千芊",
+        "pinned_tweet_id": "1926899255525916850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925091564696829957/BR40J6UP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1984,
+          "following_count": 247,
+          "like_count": 167419,
+          "listed_count": 31,
+          "media_count": 46,
+          "tweet_count": 38675
+        },
+        "username": "Q2anmo",
+        "verified": false
+      }
+    ]
+  }
+}

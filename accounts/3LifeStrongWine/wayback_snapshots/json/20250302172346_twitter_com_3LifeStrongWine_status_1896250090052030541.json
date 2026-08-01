@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1896247140969755013",
+    "created_at": "2025-03-02T17:23:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T18:23:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896250090052030541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1687116360814637056",
+          "start": 0,
+          "username": "ttwwes_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896250090052030541",
+    "in_reply_to_user_id": "1687116360814637056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896249499053638086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ttwwes_ 你也去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1896247140969755013",
+        "created_at": "2025-03-02T17:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T18:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896250090052030541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "ttwwes_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896250090052030541",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896249499053638086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ttwwes_ 你也去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1896247140969755013",
+        "created_at": "2025-03-02T17:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T18:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896249499053638086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896249499053638086",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896249335417073862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 但我也想去日本看樱花哎😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1408,
+          "following_count": 230,
+          "like_count": 6916,
+          "listed_count": 10,
+          "media_count": 2081,
+          "tweet_count": 8462
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "tt日常碎碎念的账号 | 需要互fo请随意私信 | 查成分请见置顶自我介绍 :D | 小号@TtXxwww_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "TtXxwww_"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Ontario",
+        "name": "人生乱套我睡觉",
+        "pinned_tweet_id": "1873352215773208656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893401215901339648/C6p05Z4Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 548,
+          "like_count": 4739,
+          "listed_count": 2,
+          "media_count": 127,
+          "tweet_count": 1539
+        },
+        "username": "ttwwes_",
+        "verified": false
+      }
+    ]
+  }
+}

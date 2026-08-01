@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1867571238597746746",
+    "created_at": "2024-12-13T14:29:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T15:29:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867577491440967830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1732356232290222080",
+          "start": 0,
+          "username": "TNSZ8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867577491440967830",
+    "in_reply_to_user_id": "1732356232290222080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867571238597746746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TNSZ8964 真好呀"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1867571238597746746].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1867571238597746746",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1867571238597746746"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1867571238597746746",
+        "created_at": "2024-12-13T14:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T15:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867577491440967830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "TNSZ8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867577491440967830",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867571238597746746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TNSZ8964 真好呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "有时也想过花烂漫某天与世界无声道别， 可是偏偏有太多太多遗憾挂牵没画句点",
+        "id": "1529654419213541376",
+        "location": "长大是变温柔，是对所有人都温柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1865393368853090537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 183,
+          "like_count": 2241,
+          "listed_count": 5,
+          "media_count": 556,
+          "tweet_count": 3349
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "因为我是魔女啊｜我最爱的日出之国｜逃生舱：@yamikawayihime ｜私信只回门槛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 21,
+                "username": "yamikawayihime"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "白云山制药厂",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1846618745810440364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865121596278497280/oTkDj2u6_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1878,
+          "following_count": 417,
+          "like_count": 3090,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 2189
+        },
+        "username": "TNSZ8964",
+        "verified": false
+      }
+    ]
+  }
+}

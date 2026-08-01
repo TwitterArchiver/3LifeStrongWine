@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1880902198177198282",
+    "created_at": "2025-01-19T15:15:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T16:15:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880997514306089300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "471019735",
+          "start": 0,
+          "username": "Gelm01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880997514306089300",
+    "in_reply_to_user_id": "471019735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880997350816329990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gelm01 是哒，三生居士爱好太广泛了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1880902198177198282",
+        "created_at": "2025-01-19T15:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T16:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880997514306089300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "471019735",
+              "start": 0,
+              "username": "Gelm01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880997514306089300",
+        "in_reply_to_user_id": "471019735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880997350816329990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gelm01 是哒，三生居士爱好太广泛了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "471019735",
+        "conversation_id": "1880902198177198282",
+        "created_at": "2025-01-19T15:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T16:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880997350816329990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880997350816329990",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880902198177198282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 三生老师家是开杂货铺的吗？（笑）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "看桃花究竟开出怎样的结果",
+        "id": "1529654419213541376",
+        "location": "夢在心上心便溫柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1162,
+          "following_count": 239,
+          "like_count": 5626,
+          "listed_count": 7,
+          "media_count": 1317,
+          "tweet_count": 5999
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-22T12:07:07.000Z",
+        "description": "本账号提供魔法少女变身以及游戏机租赁业务。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rosenkruz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rosenkruz",
+                "start": 0,
+                "url": "https://t.co/bt7q6FUFAB"
+              }
+            ]
+          }
+        },
+        "id": "471019735",
+        "name": "玖辺絵夢中（丘呗）羽海野先生一生推",
+        "pinned_tweet_id": "1879518563507298600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877597378582294528/HN2wLFIr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 561,
+          "like_count": 694,
+          "listed_count": 22,
+          "media_count": 79,
+          "tweet_count": 733
+        },
+        "url": "https://t.co/bt7q6FUFAB",
+        "username": "Gelm01",
+        "verified": false
+      }
+    ]
+  }
+}

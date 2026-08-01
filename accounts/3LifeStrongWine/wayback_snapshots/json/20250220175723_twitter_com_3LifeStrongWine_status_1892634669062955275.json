@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1892634477907558782",
+    "created_at": "2025-02-20T17:57:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T18:57:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892634669062955275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1836295510388543489",
+          "start": 0,
+          "username": "x_luvmepls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892634669062955275",
+    "in_reply_to_user_id": "1836295510388543489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892634477907558782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x_luvmepls 你也被开小米su7的创吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1892634477907558782",
+        "created_at": "2025-02-20T17:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T18:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892634669062955275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1836295510388543489",
+              "start": 0,
+              "username": "x_luvmepls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892634669062955275",
+        "in_reply_to_user_id": "1836295510388543489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892634477907558782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_luvmepls 你也被开小米su7的创吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836295510388543489",
+        "conversation_id": "1892634477907558782",
+        "created_at": "2025-02-20T17:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T18:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892634477907558782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/x_luvmepls/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/x_luvmepls/status/1848758456494477389",
+              "start": 15,
+              "url": "https://t.co/9YNVDKPVsq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892634477907558782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848758456494477389",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有人懂这个视频的含金量。 https://t.co/9YNVDKPVsq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1396,
+          "following_count": 225,
+          "like_count": 6672,
+          "listed_count": 10,
+          "media_count": 1947,
+          "tweet_count": 7942
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-18T06:45:52.000Z",
+        "description": "碎碎念唱歌摄影穿搭自拍｜梦境和诗是无罪的｜小号@rainseverydayy只过互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "rainseverydayy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luvmepls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luvmepls1",
+                "start": 0,
+                "url": "https://t.co/X1E6NFfj81"
+              }
+            ]
+          }
+        },
+        "id": "1836295510388543489",
+        "location": "提问箱👉🏻",
+        "name": "🌧️",
+        "pinned_tweet_id": "1887491123591192901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886999055215329280/0z7VO7LY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1832,
+          "following_count": 361,
+          "like_count": 8685,
+          "listed_count": 4,
+          "media_count": 790,
+          "tweet_count": 5895
+        },
+        "url": "https://t.co/X1E6NFfj81",
+        "username": "x_luvmepls",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1887017742513135788",
+    "created_at": "2025-02-05T08:31:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T09:31:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887056557919363369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1700939369333542912",
+          "start": 0,
+          "username": "odrkjv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887056557919363369",
+    "in_reply_to_user_id": "1700939369333542912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887047423169847727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@odrkjv 劳资有不是跨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1887017742513135788",
+        "created_at": "2025-02-05T08:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T09:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887056557919363369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1700939369333542912",
+              "start": 0,
+              "username": "odrkjv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887056557919363369",
+        "in_reply_to_user_id": "1700939369333542912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887047423169847727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@odrkjv 劳资有不是跨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700939369333542912",
+        "conversation_id": "1887017742513135788",
+        "created_at": "2025-02-05T07:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T08:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887047423169847727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887047423169847727",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887017742513135788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 唉，友跨顺男"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 221,
+          "like_count": 6471,
+          "listed_count": 9,
+          "media_count": 1633,
+          "tweet_count": 7105
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-10T18:28:53.000Z",
+        "description": "见习男娘，出道～",
+        "id": "1700939369333542912",
+        "name": "康斯坦丁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866321609872875520/v49hgqlA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 249,
+          "like_count": 1254,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 223
+        },
+        "username": "odrkjv",
+        "verified": false
+      }
+    ]
+  }
+}

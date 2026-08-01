@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2015638099033014680",
+    "created_at": "2026-01-26T08:03:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T09:03:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015697107504791702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1592719222940962817",
+          "start": 0,
+          "username": "mofumofuyewo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015697107504791702",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015638099033014680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mofumofuyewo 对面谁啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1469,
+        "media_key": "3_2015638094092120065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_j8KtIbMAEmxgB.jpg",
+        "width": 915
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2015638099033014680",
+        "created_at": "2026-01-26T08:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T09:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015697107504791702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofumofuyewo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015697107504791702",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015638099033014680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofumofuyewo 对面谁啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015638094092120065"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2015638099033014680",
+        "created_at": "2026-01-26T04:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T05:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015638099033014680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RjAcRf1bFN",
+              "end": 66,
+              "expanded_url": "https://x.com/mofumofuyewo/status/2015638099033014680/photo/1",
+              "media_key": "3_2015638094092120065",
+              "start": 43,
+              "url": "https://t.co/RjAcRf1bFN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015638099033014680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 23217,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "姐妹不但看不懂中文也会自动抹零是不😳\n说了要日元给我人民币\n现汇66.98给我66🤔 https://t.co/RjAcRf1bFN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "云和山和风和雨，轻轻地流过我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VnXMe"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "pinned_tweet_id": "1992598033381638574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1649,
+          "following_count": 169,
+          "like_count": 6763,
+          "listed_count": 12,
+          "media_count": 3193,
+          "tweet_count": 12802
+        },
+        "url": "https://t.co/3g5y5VnXMe",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜名字是小咪｜家有三狲一男",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015417805471137792/d5XGlCwM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2442,
+          "following_count": 762,
+          "like_count": 2182,
+          "listed_count": 4,
+          "media_count": 127,
+          "tweet_count": 1431
+        },
+        "username": "mofumofuyewo",
+        "verified": false
+      }
+    ]
+  }
+}

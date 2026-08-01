@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1894786209190420703",
+    "created_at": "2025-02-26T16:35:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-26T17:35:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894788311912456197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1837843837349449728",
+          "start": 0,
+          "username": "yuzhoushuijiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894788311912456197",
+    "in_reply_to_user_id": "1837843837349449728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894786209190420703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuzhoushuijiao 每次这样都很想砸晕自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1894786209190420703",
+        "created_at": "2025-02-26T16:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T17:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894788311912456197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1837843837349449728",
+              "start": 0,
+              "username": "yuzhoushuijiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894788311912456197",
+        "in_reply_to_user_id": "1837843837349449728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894786209190420703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuzhoushuijiao 每次这样都很想砸晕自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837843837349449728",
+        "conversation_id": "1894786209190420703",
+        "created_at": "2025-02-26T16:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T17:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894786209190420703"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1894786209190420703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想每晚十一点准时被巨大的困意砸中，再睁眼已是次日清晨。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1405,
+          "following_count": 230,
+          "like_count": 6903,
+          "listed_count": 10,
+          "media_count": 2051,
+          "tweet_count": 8337
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-22T13:18:18.000Z",
+        "description": "有感觉耳朵烫烫的吗？我好想你呀",
+        "id": "1837843837349449728",
+        "location": "呼吸这一秒的心意",
+        "name": "宇宙水饺",
+        "pinned_tweet_id": "1892580225839440326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839328108958371840/4vrL_ap9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5849,
+          "following_count": 136,
+          "like_count": 8319,
+          "listed_count": 9,
+          "media_count": 795,
+          "tweet_count": 6040
+        },
+        "username": "yuzhoushuijiao",
+        "verified": false
+      }
+    ]
+  }
+}

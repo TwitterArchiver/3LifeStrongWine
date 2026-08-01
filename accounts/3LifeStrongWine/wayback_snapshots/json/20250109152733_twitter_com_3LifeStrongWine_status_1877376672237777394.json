@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1877376662234607616",
+        "3_1877376662238801923"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1877376672237777394",
+    "created_at": "2025-01-09T15:27:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T16:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1877376672237777394"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oqWaEH4KD6",
+          "end": 29,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1877376672237777394/photo/1",
+          "media_key": "3_1877376662234607616",
+          "start": 6,
+          "url": "https://t.co/oqWaEH4KD6"
+        },
+        {
+          "display_url": "pic.x.com/oqWaEH4KD6",
+          "end": 29,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1877376672237777394/photo/1",
+          "media_key": "3_1877376662238801923",
+          "start": 6,
+          "url": "https://t.co/oqWaEH4KD6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877376672237777394",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "限定皮肤. https://t.co/oqWaEH4KD6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1877376662234607616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg3IIKYaMAAC6vS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1877376662238801923",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg3IIKZaMAMT-Wk.jpg",
+        "width": 1564
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877376662234607616",
+            "3_1877376662238801923"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1877376672237777394",
+        "created_at": "2025-01-09T15:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T16:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877376672237777394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oqWaEH4KD6",
+              "end": 29,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1877376672237777394/photo/1",
+              "media_key": "3_1877376662234607616",
+              "start": 6,
+              "url": "https://t.co/oqWaEH4KD6"
+            },
+            {
+              "display_url": "pic.x.com/oqWaEH4KD6",
+              "end": 29,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1877376672237777394/photo/1",
+              "media_key": "3_1877376662238801923",
+              "start": 6,
+              "url": "https://t.co/oqWaEH4KD6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877376672237777394",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "限定皮肤. https://t.co/oqWaEH4KD6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "雨季里我和你的青春一起坐过了站，而我会站在原地热泪盈眶地读你的未来",
+        "id": "1529654419213541376",
+        "location": "风的目的地.",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 210,
+          "like_count": 4689,
+          "listed_count": 7,
+          "media_count": 1021,
+          "tweet_count": 5063
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

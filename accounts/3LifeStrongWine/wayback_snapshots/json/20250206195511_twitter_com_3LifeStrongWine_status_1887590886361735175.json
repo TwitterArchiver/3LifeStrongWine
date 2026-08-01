@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1887590886361735175",
+    "created_at": "2025-02-06T19:55:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T20:55:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1887590886361735175"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3LifeStrongWin…",
+          "end": 107,
+          "expanded_url": "https://twitter.com/3LifeStrongWine/status/1887586393704280285",
+          "start": 84,
+          "url": "https://t.co/mYh7a0XIP9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887590886361735175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887586393704280285",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不，我找到了qq的bug，随心贴的前三条是可以查看到个人资料的，但是要删掉上面的所有随心贴，那些不同人给我留下的不同记忆。燃烧了那些回忆，换来了我的执念，值吗，也值了 https://t.co/mYh7a0XIP9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1887590886361735175",
+        "created_at": "2025-02-06T19:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T20:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887590886361735175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3LifeStrongWin…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/3LifeStrongWine/status/1887586393704280285",
+              "start": 84,
+              "url": "https://t.co/mYh7a0XIP9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887590886361735175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887586393704280285",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不，我找到了qq的bug，随心贴的前三条是可以查看到个人资料的，但是要删掉上面的所有随心贴，那些不同人给我留下的不同记忆。燃烧了那些回忆，换来了我的执念，值吗，也值了 https://t.co/mYh7a0XIP9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887586153769095168",
+            "3_1887586368643338240"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1887586393704280285",
+        "created_at": "2025-02-06T19:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T20:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887586393704280285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PM7e3CgbPt",
+              "end": 50,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1887586393704280285/photo/1",
+              "media_key": "3_1887586153769095168",
+              "start": 27,
+              "url": "https://t.co/PM7e3CgbPt"
+            },
+            {
+              "display_url": "pic.x.com/PM7e3CgbPt",
+              "end": 50,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1887586393704280285/photo/1",
+              "media_key": "3_1887586368643338240",
+              "start": 27,
+              "url": "https://t.co/PM7e3CgbPt"
+            },
+            {
+              "display_url": "x.com/3LifeStrongWin…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/3LifeStrongWine/status/1887576101146558972",
+              "start": 51,
+              "url": "https://t.co/XdZUW7b3nB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887586393704280285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887576101146558972",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "像是只隔了一层透明的屏障，仿佛触手可得，却又远在天边 https://t.co/PM7e3CgbPt https://t.co/XdZUW7b3nB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 218,
+          "like_count": 6526,
+          "listed_count": 9,
+          "media_count": 1665,
+          "tweet_count": 7208
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

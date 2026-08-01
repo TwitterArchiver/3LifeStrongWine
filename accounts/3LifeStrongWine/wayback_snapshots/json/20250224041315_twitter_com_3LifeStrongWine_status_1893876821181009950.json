@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1893873407218868575",
+    "created_at": "2025-02-24T04:13:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T05:13:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893876821181009950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1533870529387458560",
+          "start": 0,
+          "username": "FinnaXS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893876821181009950",
+    "in_reply_to_user_id": "1533870529387458560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893874667129057744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FinnaXS 指环王"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1893873407218868575",
+        "created_at": "2025-02-24T04:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T05:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893876821181009950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1533870529387458560",
+              "start": 0,
+              "username": "FinnaXS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893876821181009950",
+        "in_reply_to_user_id": "1533870529387458560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893874667129057744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FinnaXS 指环王"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533870529387458560",
+        "conversation_id": "1893873407218868575",
+        "created_at": "2025-02-24T04:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T05:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893874667129057744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893874667129057744",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893873407218868575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 提醒你多买点戒指"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1408,
+          "following_count": 227,
+          "like_count": 6793,
+          "listed_count": 10,
+          "media_count": 2001,
+          "tweet_count": 8187
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-06T17:57:27.000Z",
+        "description": "阴暗潮湿的毒蛇 不是黄推",
+        "id": "1533870529387458560",
+        "location": "悲伤逆流成河",
+        "name": "Finna",
+        "pinned_tweet_id": "1877025187733893282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830268691507777536/czFV8Wcd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 45,
+          "like_count": 2070,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 889
+        },
+        "username": "FinnaXS",
+        "verified": false
+      }
+    ]
+  }
+}

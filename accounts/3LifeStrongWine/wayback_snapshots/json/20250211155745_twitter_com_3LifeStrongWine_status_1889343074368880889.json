@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1889343074368880889",
+    "created_at": "2025-02-11T15:57:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T16:57:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889343074368880889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 20,
+          "id": "1863961550350065664",
+          "start": 4,
+          "username": "Selaginellaaaaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/3lifestrongwin…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/3lifestrongwine/status/1889341358261084334",
+          "start": 21,
+          "url": "https://t.co/O1pneSioWp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889343074368880889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889341358261084334",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卷卷薯条@Selaginellaaaaa https://t.co/O1pneSioWp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1889343074368880889",
+        "created_at": "2025-02-11T15:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T16:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889343074368880889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1863961550350065664",
+              "start": 4,
+              "username": "Selaginellaaaaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/3lifestrongwin…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/3lifestrongwine/status/1889341358261084334",
+              "start": 21,
+              "url": "https://t.co/O1pneSioWp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889343074368880889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889341358261084334",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卷卷薯条@Selaginellaaaaa https://t.co/O1pneSioWp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889341348165373952",
+            "3_1889341348144398336",
+            "3_1889341348148551680"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1889341358261084334",
+        "created_at": "2025-02-11T15:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T16:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889341358261084334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CGAhZibg9i",
+              "end": 51,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1889341358261084334/photo/1",
+              "media_key": "3_1889341348165373952",
+              "start": 28,
+              "url": "https://t.co/CGAhZibg9i"
+            },
+            {
+              "display_url": "pic.x.com/CGAhZibg9i",
+              "end": 51,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1889341358261084334/photo/1",
+              "media_key": "3_1889341348144398336",
+              "start": 28,
+              "url": "https://t.co/CGAhZibg9i"
+            },
+            {
+              "display_url": "pic.x.com/CGAhZibg9i",
+              "end": 51,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1889341358261084334/photo/1",
+              "media_key": "3_1889341348148551680",
+              "start": 28,
+              "url": "https://t.co/CGAhZibg9i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889341358261084334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卷卷薯条和小龙虾汤和牛肉薯饼汉堡\n还是香港麦当劳好吃啊 https://t.co/CGAhZibg9i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391,
+          "following_count": 217,
+          "like_count": 6528,
+          "listed_count": 10,
+          "media_count": 1812,
+          "tweet_count": 7534
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-03T15:01:06.000Z",
+        "description": "🤔 箱子https://t.co/gQgLuEPPqS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/selaginellaaaa…",
+                "end": 27,
+                "expanded_url": "https://ngl.link/selaginellaaaaa1",
+                "start": 4,
+                "url": "https://t.co/gQgLuEPPqS"
+              }
+            ]
+          }
+        },
+        "id": "1863961550350065664",
+        "location": "叫我卷柏就行",
+        "name": "Selaginella",
+        "pinned_tweet_id": "1869234973783491050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876307978443522048/mt_EImdI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5051,
+          "following_count": 77,
+          "like_count": 7142,
+          "listed_count": 10,
+          "media_count": 289,
+          "tweet_count": 2568
+        },
+        "username": "Selaginellaaaaa",
+        "verified": false
+      }
+    ]
+  }
+}

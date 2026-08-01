@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1911388738850021824",
+    "created_at": "2025-04-14T12:29:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T13:29:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911758800329298198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1821742706085031936",
+          "start": 0,
+          "username": "kk938522"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911758800329298198",
+    "in_reply_to_user_id": "1821742706085031936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911754431710028192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kk938522 这很好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1911388738850021824",
+        "created_at": "2025-04-14T12:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T13:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911758800329298198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1821742706085031936",
+              "start": 0,
+              "username": "kk938522"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911758800329298198",
+        "in_reply_to_user_id": "1821742706085031936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911754431710028192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kk938522 这很好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821742706085031936",
+        "conversation_id": "1911388738850021824",
+        "created_at": "2025-04-14T12:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T13:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911754431710028192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911754431710028192",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911388738850021824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 我之前一个月八百还是门哥资助，每天吃食堂二十块，在厦门，正常应该1200左右"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "东隅已逝，桑榆非晚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909122304141148160/VzRDqCNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 245,
+          "like_count": 7423,
+          "listed_count": 12,
+          "media_count": 2522,
+          "tweet_count": 10304
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-09T02:58:13.000Z",
+        "description": "我是乞丐 接投喂｜不聊黄",
+        "id": "1821742706085031936",
+        "name": "需要无核芒果",
+        "pinned_tweet_id": "1896496606494794141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829759799023816704/OpnMIX7M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 1,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 380
+        },
+        "username": "kk938522",
+        "verified": false
+      }
+    ]
+  }
+}

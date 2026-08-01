@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations about going out.",
+          "id": "1045046778876153856",
+          "name": "Going Out"
+        }
+      }
+    ],
+    "conversation_id": "1919028720557306152",
+    "created_at": "2025-05-04T14:01:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T15:01:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919029591110271238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1619021081238732802",
+          "start": 0,
+          "username": "love__bbh__lks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919029591110271238",
+    "in_reply_to_user_id": "1619021081238732802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919028720557306152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@love__bbh__lks 外出觅食的妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "1919028720557306152",
+        "created_at": "2025-05-04T14:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T15:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919029591110271238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1619021081238732802",
+              "start": 0,
+              "username": "love__bbh__lks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919029591110271238",
+        "in_reply_to_user_id": "1619021081238732802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919028720557306152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@love__bbh__lks 外出觅食的妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619021081238732802",
+        "conversation_id": "1919028720557306152",
+        "created_at": "2025-05-04T13:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T14:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919028720557306152"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919028720557306152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好饿。但是懒得弄饭吃，等妈妈回来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "闻有三山不知处，茂陵松柏满西风",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912318298353487872/R3xfbIV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1528,
+          "following_count": 241,
+          "like_count": 7383,
+          "listed_count": 11,
+          "media_count": 2610,
+          "tweet_count": 10623
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-27T17:14:49.000Z",
+        "description": "清水文字推，别骚扰我。问隐私打钱发口令，可以喊我小柳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/love__bbh__lks",
+                "end": 23,
+                "expanded_url": "https://ngl.link/love__bbh__lks",
+                "start": 0,
+                "url": "https://t.co/oiNSPSRA4t"
+              }
+            ]
+          }
+        },
+        "id": "1619021081238732802",
+        "location": "匿名信箱👉🏻",
+        "name": "珏",
+        "pinned_tweet_id": "1891429284020957559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891325267286900736/PG6jOCBK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 194,
+          "like_count": 14026,
+          "listed_count": 3,
+          "media_count": 1038,
+          "tweet_count": 8673
+        },
+        "url": "https://t.co/oiNSPSRA4t",
+        "username": "love__bbh__lks",
+        "verified": false
+      }
+    ]
+  }
+}

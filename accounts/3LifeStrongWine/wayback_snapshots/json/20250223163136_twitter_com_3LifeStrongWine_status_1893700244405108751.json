@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1893378890921369800",
+    "created_at": "2025-02-23T16:31:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T17:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893700244405108751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1629074500305186817",
+          "start": 0,
+          "username": "carafutaba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893700244405108751",
+    "in_reply_to_user_id": "1629074500305186817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893699537908453406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@carafutaba 我瞎说的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1893378890921369800",
+        "created_at": "2025-02-23T16:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T17:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893700244405108751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1629074500305186817",
+              "start": 0,
+              "username": "carafutaba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893700244405108751",
+        "in_reply_to_user_id": "1629074500305186817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893699537908453406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@carafutaba 我瞎说的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629074500305186817",
+        "conversation_id": "1893378890921369800",
+        "created_at": "2025-02-23T16:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T17:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893699537908453406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893699537908453406",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893378890921369800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine woc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 224,
+          "like_count": 6773,
+          "listed_count": 10,
+          "media_count": 1995,
+          "tweet_count": 8149
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-24T11:03:32.000Z",
+        "description": "🧡 春祺夏安 秋綏冬禧 🧡 双葉资本🎲 杏子教义🧸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "anzu.moe",
+                "end": 23,
+                "expanded_url": "https://anzu.moe",
+                "start": 0,
+                "url": "https://t.co/uyvReMg6DJ"
+              }
+            ]
+          }
+        },
+        "id": "1629074500305186817",
+        "location": "是扶她..吧",
+        "name": "双葉杏",
+        "pinned_tweet_id": "1892602684093370529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803015602162053120/HYr1UFr__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4169,
+          "following_count": 1114,
+          "like_count": 53036,
+          "listed_count": 6,
+          "media_count": 1285,
+          "tweet_count": 13738
+        },
+        "url": "https://t.co/uyvReMg6DJ",
+        "username": "carafutaba",
+        "verified": true
+      }
+    ]
+  }
+}

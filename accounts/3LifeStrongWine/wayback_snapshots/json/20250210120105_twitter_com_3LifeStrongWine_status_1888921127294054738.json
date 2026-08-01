@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1888755974523215937",
+    "created_at": "2025-02-10T12:01:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T13:01:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888921127294054738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "488296116",
+          "start": 0,
+          "username": "zhaoxo"
+        },
+        {
+          "end": 18,
+          "id": "1779578813338533888",
+          "start": 8,
+          "username": "luna_muen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888921127294054738",
+    "in_reply_to_user_id": "488296116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888919811327185090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhaoxo @luna_muen 薯饼蘸番茄酱你不服？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1888755974523215937",
+        "created_at": "2025-02-10T12:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T13:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888921127294054738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "488296116",
+              "start": 0,
+              "username": "zhaoxo"
+            },
+            {
+              "end": 18,
+              "id": "1779578813338533888",
+              "start": 8,
+              "username": "luna_muen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888921127294054738",
+        "in_reply_to_user_id": "488296116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888919811327185090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhaoxo @luna_muen 薯饼蘸番茄酱你不服？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "488296116",
+        "conversation_id": "1888755974523215937",
+        "created_at": "2025-02-10T11:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T12:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888919811327185090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1779578813338533888",
+              "start": 0,
+              "username": "luna_muen"
+            },
+            {
+              "end": 27,
+              "id": "1529654419213541376",
+              "start": 11,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888919811327185090",
+        "in_reply_to_user_id": "1779578813338533888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888896794819760403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luna_muen @3LifeStrongWine 她还要在薯饼上放酱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 218,
+          "like_count": 6528,
+          "listed_count": 9,
+          "media_count": 1775,
+          "tweet_count": 7459
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2012-02-10T09:18:54.000Z",
+        "description": "毋负今朝少年时，去管多少不平事。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhaoxo.substack.com",
+                "end": 23,
+                "expanded_url": "https://zhaoxo.substack.com/",
+                "start": 0,
+                "url": "https://t.co/0cXYXrfzo8"
+              }
+            ]
+          }
+        },
+        "id": "488296116",
+        "location": "France",
+        "name": "Xiaoou 晓欧",
+        "pinned_tweet_id": "714060114962096128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/539355371446341632/1N3K3pEz_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 316,
+          "like_count": 1145,
+          "listed_count": 8,
+          "media_count": 153,
+          "tweet_count": 8928
+        },
+        "url": "https://t.co/0cXYXrfzo8",
+        "username": "zhaoxo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-14T18:34:02.000Z",
+        "description": "做什么都是因为喜欢\n超喜欢跟温柔女孩子贴贴聊天的臭屁小女孩\n喜欢碎碎念\n没事可以找我聊天，其实超级会哄女孩子开心\n稍微礼貌一点是我感兴趣的xp的有可能会回，但是别太过分了，只是口嗨\n大家都身怀绝癖啦\n时常莫名其妙的奇怪少女\n要永远追寻自由、浪漫、勇敢、快乐、爱\n别给我发什么奇奇怪怪的东西",
+        "id": "1779578813338533888",
+        "location": "减压层析柱",
+        "name": "木木爱吃甜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799869638416945152/PZnmzyRu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 103,
+          "like_count": 6678,
+          "listed_count": 1,
+          "media_count": 204,
+          "tweet_count": 1546
+        },
+        "username": "luna_muen",
+        "verified": false
+      }
+    ]
+  }
+}

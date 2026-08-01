@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1892164894683713708",
+    "created_at": "2025-02-20T08:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T09:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892491260990050600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "858307079651459072",
+          "start": 0,
+          "username": "hly0928"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892491260990050600",
+    "in_reply_to_user_id": "858307079651459072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892164894683713708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hly0928 这是a7c2？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3969,
+        "media_key": "3_1892163696484630528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkJQ21nbQAArkUj.jpg",
+        "width": 2646
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1892164894683713708",
+        "created_at": "2025-02-20T08:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T09:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892491260990050600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "858307079651459072",
+              "start": 0,
+              "username": "hly0928"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892491260990050600",
+        "in_reply_to_user_id": "858307079651459072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892164894683713708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hly0928 这是a7c2？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892163696484630528"
+          ]
+        },
+        "author_id": "858307079651459072",
+        "conversation_id": "1892164894683713708",
+        "created_at": "2025-02-19T10:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T11:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892164894683713708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dq1XIPJcRy",
+              "end": 33,
+              "expanded_url": "https://x.com/hly0928/status/1892164894683713708/photo/1",
+              "media_key": "3_1892163696484630528",
+              "start": 10,
+              "url": "https://t.co/Dq1XIPJcRy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892164894683713708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5152,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "再肥就要一百斤了（ https://t.co/Dq1XIPJcRy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 223,
+          "like_count": 6654,
+          "listed_count": 10,
+          "media_count": 1928,
+          "tweet_count": 7901
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2017-04-29T13:08:49.000Z",
+        "description": "悟已往之不諫，知來者之可追。Random thoughts at https://t.co/lUXxKkTsDO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/clems_thoughts",
+                "end": 56,
+                "expanded_url": "https://t.me/clems_thoughts",
+                "start": 33,
+                "url": "https://t.co/lUXxKkTsDO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.hly0928.com",
+                "end": 23,
+                "expanded_url": "https://blog.hly0928.com/",
+                "start": 0,
+                "url": "https://t.co/0raTOsTmHP"
+              }
+            ]
+          }
+        },
+        "id": "858307079651459072",
+        "name": "Clementine 🏳️‍⚧️",
+        "pinned_tweet_id": "1822540963715178574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1187337083557277696/ouqco_sJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2645,
+          "following_count": 544,
+          "like_count": 4503,
+          "listed_count": 15,
+          "media_count": 315,
+          "tweet_count": 4286
+        },
+        "url": "https://t.co/0raTOsTmHP",
+        "username": "hly0928",
+        "verified": false
+      }
+    ]
+  }
+}

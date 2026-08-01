@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1876613799060664602",
+    "created_at": "2025-01-07T13:03:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T14:03:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876615722438451366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1491205591754473474",
+          "start": 0,
+          "username": "keshiwohaokun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876615722438451366",
+    "in_reply_to_user_id": "1491205591754473474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876614495243849884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keshiwohaokun 是这样的，超绝室内温度"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1876614495243849884].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1876614495243849884",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1876614495243849884"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1876613799060664602",
+        "created_at": "2025-01-07T13:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T14:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876615722438451366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1491205591754473474",
+              "start": 0,
+              "username": "keshiwohaokun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876615722438451366",
+        "in_reply_to_user_id": "1491205591754473474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876614495243849884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keshiwohaokun 是这样的，超绝室内温度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "雨季里我和你的青春一起坐过了站，而我会站在原地热泪盈眶地读你的未来",
+        "id": "1529654419213541376",
+        "location": "Destination of the Wind",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 207,
+          "like_count": 4410,
+          "listed_count": 7,
+          "media_count": 959,
+          "tweet_count": 4890
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-09T00:21:40.000Z",
+        "description": "†女的，大概是活的 † sub｜ 日常推/文盲/自由散漫/不接推广 不接置顶/有🚪520 纯绿（意思是不免费陪聊 别骚扰我了）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=PT1iuT9D",
+                "start": 0,
+                "url": "https://t.co/TMKGn0r56g"
+              }
+            ]
+          }
+        },
+        "id": "1491205591754473474",
+        "location": "自用VPN↓",
+        "name": "可是我好困",
+        "pinned_tweet_id": "1829548771400884351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818981689731031040/CRhpHpuc_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 30255,
+          "following_count": 553,
+          "like_count": 61137,
+          "listed_count": 65,
+          "media_count": 2633,
+          "tweet_count": 29620
+        },
+        "url": "https://t.co/TMKGn0r56g",
+        "username": "keshiwohaokun",
+        "verified": false
+      }
+    ]
+  }
+}

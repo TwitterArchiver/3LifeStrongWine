@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2025107583586238920",
+    "created_at": "2026-02-23T08:54:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T09:54:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025856755272745408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1236692456587948032",
+          "start": 0,
+          "username": "nyanya3000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025856755272745408",
+    "in_reply_to_user_id": "1236692456587948032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025830396945207473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyanya3000 新罗首尔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2025107583586238920",
+        "created_at": "2026-02-23T08:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T09:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025856755272745408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1236692456587948032",
+              "start": 0,
+              "username": "nyanya3000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025856755272745408",
+        "in_reply_to_user_id": "1236692456587948032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025830396945207473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyanya3000 新罗首尔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236692456587948032",
+        "conversation_id": "2025107583586238920",
+        "created_at": "2026-02-23T07:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T08:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025830396945207473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025830396945207473",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025107583586238920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 问问酒店名🤲🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "此后锦书休寄  画楼云雨无凭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1729,
+          "following_count": 171,
+          "like_count": 6836,
+          "listed_count": 12,
+          "media_count": 3328,
+          "tweet_count": 13153
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-08T16:37:24.000Z",
+        "description": "想睡觉",
+        "id": "1236692456587948032",
+        "name": "ㅇㅊㅇ",
+        "pinned_tweet_id": "2017327254100185538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1533536681827385344/y1WwQf0O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 77,
+          "like_count": 185,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 611
+        },
+        "username": "nyanya3000",
+        "verified": false
+      }
+    ]
+  }
+}

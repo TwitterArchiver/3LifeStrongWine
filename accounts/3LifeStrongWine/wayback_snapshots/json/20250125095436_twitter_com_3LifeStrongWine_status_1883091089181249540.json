@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1883091089181249540",
+    "created_at": "2025-01-25T09:54:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T10:54:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883091089181249540"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3lifestrongwin…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/3lifestrongwine/status/1883089224381177881",
+          "start": 53,
+          "url": "https://t.co/O0Dlgr32rH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883091089181249540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883089224381177881",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "确实店员态度很好，忙完买手机的客户看到我就跑过来说给桌冲的线毁手机，立马给我拿出了标准快充线，小米好评哦 https://t.co/O0Dlgr32rH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1883091089181249540",
+        "created_at": "2025-01-25T09:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T10:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883091089181249540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3lifestrongwin…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/3lifestrongwine/status/1883089224381177881",
+              "start": 53,
+              "url": "https://t.co/O0Dlgr32rH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883091089181249540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883089224381177881",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "确实店员态度很好，忙完买手机的客户看到我就跑过来说给桌冲的线毁手机，立马给我拿出了标准快充线，小米好评哦 https://t.co/O0Dlgr32rH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1883089224381177881",
+        "created_at": "2025-01-25T09:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T10:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883089224381177881"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1883089224381177881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我在小米店里把产品的电给拔了给我自己充上了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "凡所有相  皆是虚妄",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 223,
+          "like_count": 6124,
+          "listed_count": 7,
+          "media_count": 1441,
+          "tweet_count": 6542
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

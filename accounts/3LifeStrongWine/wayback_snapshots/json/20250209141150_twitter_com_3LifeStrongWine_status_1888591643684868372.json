@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888591582141808640",
+        "3_1888591582150209536"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1888591643684868372",
+    "created_at": "2025-02-09T14:11:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T15:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1888591643684868372"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zl9vA9OwyE",
+          "end": 63,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1888591643684868372/photo/1",
+          "media_key": "3_1888591582141808640",
+          "start": 40,
+          "url": "https://t.co/zl9vA9OwyE"
+        },
+        {
+          "display_url": "pic.x.com/zl9vA9OwyE",
+          "end": 63,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1888591643684868372/photo/1",
+          "media_key": "3_1888591582150209536",
+          "start": 40,
+          "url": "https://t.co/zl9vA9OwyE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888591643684868372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "朗廷的洗浴用品居然是清一色的蒂普提克，我操了，国内的五星级酒店就是一坨shit https://t.co/zl9vA9OwyE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1888591582141808640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjWgCatbAAAwdoy.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1888591582150209536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjWgCavbMAAk99l.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888591582141808640",
+            "3_1888591582150209536"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1888591643684868372",
+        "created_at": "2025-02-09T14:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T15:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888591643684868372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zl9vA9OwyE",
+              "end": 63,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1888591643684868372/photo/1",
+              "media_key": "3_1888591582141808640",
+              "start": 40,
+              "url": "https://t.co/zl9vA9OwyE"
+            },
+            {
+              "display_url": "pic.x.com/zl9vA9OwyE",
+              "end": 63,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1888591643684868372/photo/1",
+              "media_key": "3_1888591582150209536",
+              "start": 40,
+              "url": "https://t.co/zl9vA9OwyE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888591643684868372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朗廷的洗浴用品居然是清一色的蒂普提克，我操了，国内的五星级酒店就是一坨shit https://t.co/zl9vA9OwyE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 217,
+          "like_count": 6520,
+          "listed_count": 9,
+          "media_count": 1735,
+          "tweet_count": 7359
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2024900961874137260",
+    "created_at": "2026-02-21T02:37:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T03:37:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025037124681302156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1241372142492581889",
+          "start": 0,
+          "username": "Yunb6qLLotpb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025037124681302156",
+    "in_reply_to_user_id": "1241372142492581889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024910401054581034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yunb6qLLotpb 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2024900961874137260",
+        "created_at": "2026-02-21T02:37:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T03:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025037124681302156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1241372142492581889",
+              "start": 0,
+              "username": "Yunb6qLLotpb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025037124681302156",
+        "in_reply_to_user_id": "1241372142492581889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024910401054581034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yunb6qLLotpb 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1241372142492581889",
+        "conversation_id": "2024900961874137260",
+        "created_at": "2026-02-20T18:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T19:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024910401054581034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024910401054581034",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024900961874137260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 人民币？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "此后锦书休寄  画楼云雨无凭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1730,
+          "following_count": 172,
+          "like_count": 6836,
+          "listed_count": 12,
+          "media_count": 3316,
+          "tweet_count": 13134
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-21T14:32:49.000Z",
+        "description": "读万卷书行万里路",
+        "id": "1241372142492581889",
+        "name": "浮云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016346899381354497/tL6GVUhY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 33,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 100
+        },
+        "username": "Yunb6qLLotpb",
+        "verified": true
+      }
+    ]
+  }
+}

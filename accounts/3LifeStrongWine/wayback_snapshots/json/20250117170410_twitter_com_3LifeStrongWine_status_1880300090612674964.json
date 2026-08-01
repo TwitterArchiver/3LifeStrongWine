@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880300082777714689"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1880300090612674964",
+    "created_at": "2025-01-17T17:04:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T18:04:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1880300090612674964"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GfxKz3YZt1",
+          "end": 38,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1880300090612674964/photo/1",
+          "media_key": "3_1880300082777714689",
+          "start": 15,
+          "url": "https://t.co/GfxKz3YZt1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880300090612674964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "懂不懂13w成长值的含金量啊 https://t.co/GfxKz3YZt1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1880300082777714689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ghgq9okacAEtAjn.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880300082777714689"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1880300090612674964",
+        "created_at": "2025-01-17T17:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T18:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880300090612674964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GfxKz3YZt1",
+              "end": 38,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1880300090612674964/photo/1",
+              "media_key": "3_1880300082777714689",
+              "start": 15,
+              "url": "https://t.co/GfxKz3YZt1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880300090612674964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "懂不懂13w成长值的含金量啊 https://t.co/GfxKz3YZt1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "夢過無際閒雲岫，無拘春至秋，無愧逝水悠悠。一生清白月如鉤，最一往而深著風流.",
+        "id": "1529654419213541376",
+        "location": "夢在心上心便溫柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879527429754269696/Ip8jHko0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 218,
+          "like_count": 5402,
+          "listed_count": 7,
+          "media_count": 1268,
+          "tweet_count": 5755
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1892089440174047421",
+    "created_at": "2025-02-19T05:50:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T06:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1892089440174047421"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/inhara_akime/s…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/inhara_akime/status/1891759987434701240",
+          "start": 12,
+          "url": "https://t.co/9ycZ3t4KaU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892089440174047421",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891759987434701240",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "才九年级，劳资15年级 https://t.co/9ycZ3t4KaU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18466,
+        "height": 1280,
+        "media_key": "13_1891759922481856512",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1891759922481856512/img/OyVYIuqAA-r3Hk93.jpg",
+        "public_metrics": {
+          "view_count": 313062
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1891759922481856512/vid/avc1/320x568/8e0DP2-81FaoC1xb.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1891759922481856512/vid/avc1/480x852/hzlhxaKQ_RUkK-Mp.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1891759922481856512/vid/avc1/720x1280/_CHrSmNFjjUsyUjF.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1891759922481856512/pl/kb-9Ijx4ZwcgQq3m.m3u8?tag=14&v=4ff"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1892089440174047421",
+        "created_at": "2025-02-19T05:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T06:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892089440174047421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/inhara_akime/s…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/inhara_akime/status/1891759987434701240",
+              "start": 12,
+              "url": "https://t.co/9ycZ3t4KaU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892089440174047421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891759987434701240",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "才九年级，劳资15年级 https://t.co/9ycZ3t4KaU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1891759922481856512"
+          ]
+        },
+        "author_id": "1680834021377593344",
+        "conversation_id": "1891759987434701240",
+        "created_at": "2025-02-18T08:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T09:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891759987434701240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cX0kkEMsHS",
+              "end": 23,
+              "expanded_url": "https://x.com/Inhara_Akime/status/1891759987434701240/video/1",
+              "media_key": "13_1891759922481856512",
+              "start": 0,
+              "url": "https://t.co/cX0kkEMsHS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891759987434701240",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 541679,
+          "like_count": 135,
+          "quote_count": 6,
+          "reply_count": 17,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cX0kkEMsHS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1396,
+          "following_count": 226,
+          "like_count": 6638,
+          "listed_count": 10,
+          "media_count": 1920,
+          "tweet_count": 7870
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "さよならすら云わないまま 君は夜になって行く",
+        "id": "1680834021377593344",
+        "location": "土星",
+        "name": "神乐坂温原🍥🫖💥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890046964836061184/8RoJz3P7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2073,
+          "following_count": 944,
+          "like_count": 67615,
+          "listed_count": 12,
+          "media_count": 3628,
+          "tweet_count": 21903
+        },
+        "username": "Inhara_Akime",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1880980980548378871",
+    "created_at": "2025-01-19T14:11:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T15:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880981407985766488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1863593923694022656",
+          "start": 0,
+          "username": "ohmyohmygod214"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880981407985766488",
+    "in_reply_to_user_id": "1863593923694022656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880980980548378871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ohmyohmygod214 发生了什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1880980980548378871",
+        "created_at": "2025-01-19T14:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T15:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880981407985766488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1863593923694022656",
+              "start": 0,
+              "username": "ohmyohmygod214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880981407985766488",
+        "in_reply_to_user_id": "1863593923694022656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880980980548378871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ohmyohmygod214 发生了什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863593923694022656",
+        "conversation_id": "1880980980548378871",
+        "created_at": "2025-01-19T14:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T15:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880980980548378871"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880980980548378871",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好累好想哭。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "看桃花究竟开出怎样的结果",
+        "id": "1529654419213541376",
+        "location": "夢在心上心便溫柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1161,
+          "following_count": 239,
+          "like_count": 5612,
+          "listed_count": 7,
+          "media_count": 1312,
+          "tweet_count": 5981
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T14:39:59.000Z",
+        "description": "🚺 🇨🇳🇰🇷 ｜04 intp 174 没我高就闭嘴｜不加联系方式｜中文 한국어｜聊天欢迎 말이 많아용｜别叫我姐姐妹妹的求你们｜나의 맘속 @saebyeogdal0214 只过互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 71,
+                "username": "saebyeogdal0214"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%EC%98%A4%EB%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%EC%98%A4%EB%AF%B8%EC%9D%B4%EA%B5%BF%EB%8B%88%EC%8A%A4",
+                "start": 0,
+                "url": "https://t.co/uvcGNsttuR"
+              }
+            ]
+          }
+        },
+        "id": "1863593923694022656",
+        "location": "Republic of Korea",
+        "name": "鸡jiojio",
+        "pinned_tweet_id": "1879665373492203738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863594063263629312/4dgWs3qZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 261,
+          "like_count": 5487,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 2001
+        },
+        "url": "https://t.co/uvcGNsttuR",
+        "username": "ohmyohmygod214",
+        "verified": false
+      }
+    ]
+  }
+}

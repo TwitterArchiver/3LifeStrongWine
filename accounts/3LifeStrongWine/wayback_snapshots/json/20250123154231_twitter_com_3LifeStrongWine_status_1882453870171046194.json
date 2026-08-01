@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1882453870171046194",
+    "created_at": "2025-01-23T15:42:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T16:42:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1882453870171046194"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cya66047552/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/cya66047552/status/1882453640985850068",
+          "start": 8,
+          "url": "https://t.co/CuiUHb3yah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882453870171046194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882453640985850068",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嘿嘿又收到一张 https://t.co/CuiUHb3yah"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1882453870171046194",
+        "created_at": "2025-01-23T15:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T16:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882453870171046194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cya66047552/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/cya66047552/status/1882453640985850068",
+              "start": 8,
+              "url": "https://t.co/CuiUHb3yah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882453870171046194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882453640985850068",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嘿嘿又收到一张 https://t.co/CuiUHb3yah"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882453632102338561",
+            "3_1882453632114962432"
+          ]
+        },
+        "author_id": "1519999171876454400",
+        "conversation_id": "1882453640985850068",
+        "created_at": "2025-01-23T15:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T16:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882453640985850068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1529654419213541376",
+              "start": 7,
+              "username": "3LifeStrongWine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7o9XgCuaTF",
+              "end": 125,
+              "expanded_url": "https://x.com/Cya66047552/status/1882453640985850068/photo/1",
+              "media_key": "3_1882453632102338561",
+              "start": 102,
+              "url": "https://t.co/7o9XgCuaTF"
+            },
+            {
+              "display_url": "pic.x.com/7o9XgCuaTF",
+              "end": 125,
+              "expanded_url": "https://x.com/Cya66047552/status/1882453640985850068/photo/1",
+              "media_key": "3_1882453632114962432",
+              "start": 102,
+              "url": "https://t.co/7o9XgCuaTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882453640985850068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收到了三生老师@3LifeStrongWine 寄来的超漂亮的明信片🥰\n内容是保密的！但是吧～我藏不住想要炫耀的心情，而且我又是个小气鬼，所以只给你们看一点点，好让大家知道三生老师的字是有多好看～哼哼哼 https://t.co/7o9XgCuaTF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "白云山上白云泉，云自无心水自闲",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 223,
+          "like_count": 6001,
+          "listed_count": 7,
+          "media_count": 1411,
+          "tweet_count": 6365
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-29T11:17:05.000Z",
+        "description": "发些日常碎碎念 ｜我推的cp→nalu｜勉强算个好人｜是个普通人类｜好想更加恶毒且刻薄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1310893",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1310893",
+                "start": 0,
+                "url": "https://t.co/O8GZH4dQ1p"
+              }
+            ]
+          }
+        },
+        "id": "1519999171876454400",
+        "location": "在和席德冒险",
+        "name": "Thirteen",
+        "pinned_tweet_id": "1821734070927421777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831288034693611520/KRC2JPEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 362,
+          "like_count": 49008,
+          "listed_count": 0,
+          "media_count": 738,
+          "tweet_count": 4554
+        },
+        "url": "https://t.co/O8GZH4dQ1p",
+        "username": "Cya66047552",
+        "verified": false
+      }
+    ]
+  }
+}

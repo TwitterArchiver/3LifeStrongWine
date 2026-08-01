@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2007473042319126973",
+    "created_at": "2026-01-03T23:14:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T00:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007591428520849580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1808552527119437824",
+          "start": 0,
+          "username": "11dontcryTT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007591428520849580",
+    "in_reply_to_user_id": "1808552527119437824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007550663727952027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@11dontcryTT 我懒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2007473042319126973",
+        "created_at": "2026-01-03T23:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T00:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007591428520849580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1808552527119437824",
+              "start": 0,
+              "username": "11dontcryTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007591428520849580",
+        "in_reply_to_user_id": "1808552527119437824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007550663727952027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11dontcryTT 我懒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808552527119437824",
+        "conversation_id": "2007473042319126973",
+        "created_at": "2026-01-03T20:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T21:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007550663727952027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007550663727952027",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007473042319126973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 你不如来我学校投喂我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "云和山和风和雨，轻轻地流过我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VnXMe"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "pinned_tweet_id": "1992598033381638574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1644,
+          "following_count": 171,
+          "like_count": 6617,
+          "listed_count": 13,
+          "media_count": 3094,
+          "tweet_count": 12432
+        },
+        "url": "https://t.co/3g5y5VnXMe",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-03T17:25:07.000Z",
+        "description": "三分天注定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pleasdontcry11",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pleasdontcry11",
+                "start": 0,
+                "url": "https://t.co/OfXvywWWaj"
+              }
+            ]
+          }
+        },
+        "id": "1808552527119437824",
+        "name": "悲伤猫猫头",
+        "pinned_tweet_id": "1869826853781025104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001948646531567616/7Ei0SUq-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5481,
+          "following_count": 83,
+          "like_count": 3272,
+          "listed_count": 15,
+          "media_count": 678,
+          "tweet_count": 7066
+        },
+        "url": "https://t.co/OfXvywWWaj",
+        "username": "11dontcryTT",
+        "verified": false
+      }
+    ]
+  }
+}

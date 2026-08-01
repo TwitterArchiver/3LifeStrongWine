@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2049395426160439531",
+    "created_at": "2026-04-29T11:28:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T12:28:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049450622559384063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1249755376209162240",
+          "start": 0,
+          "username": "YoushuZhang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049450622559384063",
+    "in_reply_to_user_id": "1249755376209162240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049405368154181907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YoushuZhang 感谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2049395426160439531",
+        "created_at": "2026-04-29T11:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T12:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049450622559384063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1249755376209162240",
+              "start": 0,
+              "username": "YoushuZhang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049450622559384063",
+        "in_reply_to_user_id": "1249755376209162240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049405368154181907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YoushuZhang 感谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1249755376209162240",
+        "conversation_id": "2049395426160439531",
+        "created_at": "2026-04-29T08:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049405368154181907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049405368154181907",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049395426160439531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 恭喜，开启人生下一段旅程了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花潭水深千尺  不及汪伦送我情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2483,
+          "following_count": 115,
+          "like_count": 6911,
+          "listed_count": 14,
+          "media_count": 3586,
+          "tweet_count": 14132
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T17:44:53.000Z",
+        "description": "学废了/努力毕业中/俗人一个 /偶尔夜猫子",
+        "id": "1249755376209162240",
+        "name": "Zyushu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923060735413809152/DZl8KcuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 72,
+          "like_count": 4413,
+          "listed_count": 2,
+          "media_count": 309,
+          "tweet_count": 1212
+        },
+        "username": "YoushuZhang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1970517308306227521",
+    "created_at": "2025-09-23T17:26:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T18:26:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970540196346372360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1863961550350065664",
+          "start": 0,
+          "username": "Selaginellaaaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970540196346372360",
+    "in_reply_to_user_id": "1863961550350065664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970517308306227521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Selaginellaaaaa 哥真帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_1970517297422049285",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1ivCrCaoAUGZR2.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1970517297422049280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1ivCrCaoAAHhnR.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_1970517297413660675",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1ivCrAaoAM52YB.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1970517297417904128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1ivCrBbYAAXSpy.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1970517308306227521",
+        "created_at": "2025-09-23T17:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T18:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970540196346372360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1863961550350065664",
+              "start": 0,
+              "username": "Selaginellaaaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970540196346372360",
+        "in_reply_to_user_id": "1863961550350065664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970517308306227521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Selaginellaaaaa 哥真帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970517297422049285",
+            "3_1970517297422049280",
+            "3_1970517297413660675",
+            "3_1970517297417904128"
+          ]
+        },
+        "author_id": "1863961550350065664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "1970517308306227521",
+        "created_at": "2025-09-23T15:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T16:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970517308306227521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cItfOa1GMr",
+              "end": 63,
+              "expanded_url": "https://x.com/Selaginellaaaaa/status/1970517308306227521/photo/1",
+              "media_key": "3_1970517297422049285",
+              "start": 40,
+              "url": "https://t.co/cItfOa1GMr"
+            },
+            {
+              "display_url": "pic.x.com/cItfOa1GMr",
+              "end": 63,
+              "expanded_url": "https://x.com/Selaginellaaaaa/status/1970517308306227521/photo/1",
+              "media_key": "3_1970517297422049280",
+              "start": 40,
+              "url": "https://t.co/cItfOa1GMr"
+            },
+            {
+              "display_url": "pic.x.com/cItfOa1GMr",
+              "end": 63,
+              "expanded_url": "https://x.com/Selaginellaaaaa/status/1970517308306227521/photo/1",
+              "media_key": "3_1970517297413660675",
+              "start": 40,
+              "url": "https://t.co/cItfOa1GMr"
+            },
+            {
+              "display_url": "pic.x.com/cItfOa1GMr",
+              "end": 63,
+              "expanded_url": "https://x.com/Selaginellaaaaa/status/1970517308306227521/photo/1",
+              "media_key": "3_1970517297417904128",
+              "start": 40,
+              "url": "https://t.co/cItfOa1GMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970517308306227521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1098,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "环球影城，往死里虐打晕车晕船晕3d宝宝的好玩游乐园（旋转木马戳三生成就已达成） https://t.co/cItfOa1GMr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "泛黄的老照片里讲述了一个什么样的故事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我会带你去看这世界上最独一无二的风景",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 187,
+          "like_count": 6710,
+          "listed_count": 13,
+          "media_count": 2994,
+          "tweet_count": 12116
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-03T15:01:06.000Z",
+        "description": "卷卷卷卷不动了就柏",
+        "id": "1863961550350065664",
+        "location": "叫我卷柏就行",
+        "name": "Selaginella",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876307978443522048/mt_EImdI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10794,
+          "following_count": 100,
+          "like_count": 11814,
+          "listed_count": 27,
+          "media_count": 472,
+          "tweet_count": 4471
+        },
+        "username": "Selaginellaaaaa",
+        "verified": false
+      }
+    ]
+  }
+}

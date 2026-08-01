@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1885026097320059251",
+    "created_at": "2025-01-30T18:10:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T19:10:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885027797368004990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1772293349921427456",
+          "start": 0,
+          "username": "SheepKillerrrr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885027797368004990",
+    "in_reply_to_user_id": "1772293349921427456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885027189890179330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SheepKillerrrr 朗姆：屈臣氏柠檬饮料浓浆：屈臣氏苏打气泡水\n1:2:4\n喜欢口感柔和加苏打水，喜欢口感刺激一点少加苏打水"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1885026097320059251",
+        "created_at": "2025-01-30T18:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T19:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885027797368004990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1772293349921427456",
+              "start": 0,
+              "username": "SheepKillerrrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885027797368004990",
+        "in_reply_to_user_id": "1772293349921427456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885027189890179330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SheepKillerrrr 朗姆：屈臣氏柠檬饮料浓浆：屈臣氏苏打气泡水\n1:2:4\n喜欢口感柔和加苏打水，喜欢口感刺激一点少加苏打水"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772293349921427456",
+        "conversation_id": "1885026097320059251",
+        "created_at": "2025-01-30T18:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T19:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885027189890179330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885027189890179330",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885026097320059251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 具体是👂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 217,
+          "like_count": 6277,
+          "listed_count": 9,
+          "media_count": 1534,
+          "tweet_count": 6775
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-25T16:04:16.000Z",
+        "description": "成为更好的大人吧！",
+        "id": "1772293349921427456",
+        "name": "微型机器小羊.",
+        "pinned_tweet_id": "1883109434081300772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791409450521440256/F0tsvCTl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 40,
+          "like_count": 14210,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 868
+        },
+        "username": "SheepKillerrrr",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1867212060876316963",
+    "created_at": "2024-12-12T23:43:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T00:43:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867354741078208525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1629074500305186817",
+          "start": 0,
+          "username": "carafutaba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867354741078208525",
+    "in_reply_to_user_id": "1629074500305186817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867344606939295920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@carafutaba 只是头有点痛，头有点晕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1867212060876316963",
+        "created_at": "2024-12-12T23:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T00:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867354741078208525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1629074500305186817",
+              "start": 0,
+              "username": "carafutaba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867354741078208525",
+        "in_reply_to_user_id": "1629074500305186817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867344606939295920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@carafutaba 只是头有点痛，头有点晕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629074500305186817",
+        "conversation_id": "1867212060876316963",
+        "created_at": "2024-12-12T23:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T00:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867344606939295920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867344606939295920",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867212060876316963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine woc 你坚持住呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "有时也想过花烂漫某天与世界无声道别， 可是偏偏有太多太多遗憾挂牵没画句点",
+        "id": "1529654419213541376",
+        "location": "长大是变温柔，是对所有人都温柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1865393368853090537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 181,
+          "like_count": 2141,
+          "listed_count": 4,
+          "media_count": 533,
+          "tweet_count": 3243
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-24T11:03:32.000Z",
+        "description": "Reloading⭕️ Highlights👁️ AuDIDHD🧸🎄🍊 ❤️@MeowCatherina @？？？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "MeowCatherina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "anzu.moe",
+                "end": 23,
+                "expanded_url": "https://anzu.moe",
+                "start": 0,
+                "url": "https://t.co/uyvReMg6DJ"
+              }
+            ]
+          }
+        },
+        "id": "1629074500305186817",
+        "location": "It's not a game 🧠🔫",
+        "name": "双葉杏Charlotte📷🎮🍀💤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803015602162053120/HYr1UFr__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1710,
+          "following_count": 950,
+          "like_count": 41139,
+          "listed_count": 3,
+          "media_count": 698,
+          "tweet_count": 9275
+        },
+        "url": "https://t.co/uyvReMg6DJ",
+        "username": "carafutaba",
+        "verified": true
+      }
+    ]
+  }
+}

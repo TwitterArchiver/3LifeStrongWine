@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1875805643850047958",
+    "created_at": "2025-01-05T10:54:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T11:54:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875858496794796063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1393065220323647494",
+          "start": 0,
+          "username": "dangshuang0608"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875858496794796063",
+    "in_reply_to_user_id": "1393065220323647494",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875841923715633298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dangshuang0608 只管踩油门，不管别的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1875805643850047958",
+        "created_at": "2025-01-05T10:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T11:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875858496794796063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1393065220323647494",
+              "start": 0,
+              "username": "dangshuang0608"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875858496794796063",
+        "in_reply_to_user_id": "1393065220323647494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875841923715633298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dangshuang0608 只管踩油门，不管别的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1393065220323647494",
+        "conversation_id": "1875805643850047958",
+        "created_at": "2025-01-05T09:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T10:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875841923715633298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875841923715633298",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875805643850047958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 另外吐槽一句gle是我开过几乎最难开的车"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "雨季里我和你的青春一起坐过了站，而我会站在原地热泪盈眶地读你的未来",
+        "id": "1529654419213541376",
+        "location": "Destination of the Wind",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 213,
+          "like_count": 4054,
+          "listed_count": 7,
+          "media_count": 915,
+          "tweet_count": 4694
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-14T04:46:55.000Z",
+        "description": "Life is so wonderful…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dangshuang",
+                "end": 23,
+                "expanded_url": "http://t.me/dangshuang",
+                "start": 0,
+                "url": "https://t.co/v2rIN31BR3"
+              }
+            ]
+          }
+        },
+        "id": "1393065220323647494",
+        "location": "Kuala Lumpur",
+        "name": "霜",
+        "pinned_tweet_id": "1864318595834237066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833119548117319680/63fWi4wI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 527,
+          "like_count": 4426,
+          "listed_count": 2,
+          "media_count": 597,
+          "tweet_count": 4799
+        },
+        "url": "https://t.co/v2rIN31BR3",
+        "username": "dangshuang0608",
+        "verified": true
+      }
+    ]
+  }
+}

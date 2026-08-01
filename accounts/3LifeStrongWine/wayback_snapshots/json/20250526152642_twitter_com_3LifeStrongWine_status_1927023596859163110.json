@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1926667888867377394",
+    "created_at": "2025-05-26T15:26:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T16:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927023596859163110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1519999171876454400",
+          "start": 0,
+          "username": "Cya66047552"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927023596859163110",
+    "in_reply_to_user_id": "1519999171876454400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926698097905656116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cya66047552 买耳机，游戏机容易吃灰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1926667888867377394",
+        "created_at": "2025-05-26T15:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T16:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927023596859163110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1519999171876454400",
+              "start": 0,
+              "username": "Cya66047552"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927023596859163110",
+        "in_reply_to_user_id": "1519999171876454400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926698097905656116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cya66047552 买耳机，游戏机容易吃灰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1519999171876454400",
+        "conversation_id": "1926667888867377394",
+        "created_at": "2025-05-25T17:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T18:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926698097905656116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926698097905656116",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926667888867377394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 游戏机或者耳机吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "闻有三山不知处，茂陵松柏满西风",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912318298353487872/R3xfbIV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 236,
+          "like_count": 7416,
+          "listed_count": 11,
+          "media_count": 2674,
+          "tweet_count": 10902
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-29T11:17:05.000Z",
+        "description": "发些日常碎碎念｜我推↑｜不喜欢男的也不喜欢女的｜只喜欢二次元纸片人｜无期迷途｜刀剑乱舞｜FAIRY TAIL｜遇人就咬疯狗一条｜爱、友情与魔法｜我是点赞机器人｜nalucp脑残粉｜all露也不是不行｜露宝啊没有你我可怎么活｜｜｜｜｜｜",
+        "id": "1519999171876454400",
+        "location": "可是他叫我小鸟诶",
+        "name": "Thirteen",
+        "pinned_tweet_id": "1821734070927421777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918723720170147840/yYiiz0a__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 378,
+          "like_count": 58855,
+          "listed_count": 1,
+          "media_count": 892,
+          "tweet_count": 5742
+        },
+        "username": "Cya66047552",
+        "verified": false
+      }
+    ]
+  }
+}

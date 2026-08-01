@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047937120938115072"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2047934353913843713",
+    "created_at": "2026-04-25T07:13:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T08:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047937140378726503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1874432803338854400",
+          "start": 0,
+          "username": "0b1k0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/StT8JyQcTt",
+          "end": 30,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/2047937140378726503/photo/1",
+          "media_key": "3_2047937120938115072",
+          "start": 7,
+          "url": "https://t.co/StT8JyQcTt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047937140378726503",
+    "in_reply_to_user_id": "1874432803338854400",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047936279220982046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0b1k0 https://t.co/StT8JyQcTt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047937120938115072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGu79gfaQAAxHJj.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047937120938115072"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047934353913843713",
+        "created_at": "2026-04-25T07:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T08:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047937140378726503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1874432803338854400",
+              "start": 0,
+              "username": "0b1k0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/StT8JyQcTt",
+              "end": 30,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/2047937140378726503/photo/1",
+              "media_key": "3_2047937120938115072",
+              "start": 7,
+              "url": "https://t.co/StT8JyQcTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047937140378726503",
+        "in_reply_to_user_id": "1874432803338854400",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047936279220982046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0b1k0 https://t.co/StT8JyQcTt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874432803338854400",
+        "conversation_id": "2047934353913843713",
+        "created_at": "2026-04-25T07:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T08:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047936279220982046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047936279220982046",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047934353913843713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 可以自定义不"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "如果能有转机我许愿是能够一直看着你的眼睛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2244,
+          "following_count": 114,
+          "like_count": 6915,
+          "listed_count": 13,
+          "media_count": 3571,
+          "tweet_count": 14037
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T12:29:53.000Z",
+        "description": "你真的觉得这些就是我的全部，那你也完了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0b1k0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0b1k0",
+                "start": 0,
+                "url": "https://t.co/k982cyscW3"
+              }
+            ]
+          }
+        },
+        "id": "1874432803338854400",
+        "location": "🚪288/520/1314",
+        "name": "冰块",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005255904485314560/IknqtxPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9294,
+          "following_count": 46,
+          "like_count": 526,
+          "listed_count": 20,
+          "media_count": 62,
+          "tweet_count": 685
+        },
+        "url": "https://t.co/k982cyscW3",
+        "username": "0b1k0",
+        "verified": false
+      }
+    ]
+  }
+}

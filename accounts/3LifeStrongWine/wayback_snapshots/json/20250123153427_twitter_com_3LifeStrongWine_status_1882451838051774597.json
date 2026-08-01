@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1882451832896970752"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1882451193366233460",
+    "created_at": "2025-01-23T15:34:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T16:34:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882451838051774597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1863961550350065664",
+          "start": 0,
+          "username": "Selaginellaaaaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i63c1XHcIT",
+          "end": 40,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1882451838051774597/photo/1",
+          "media_key": "3_1882451832896970752",
+          "start": 17,
+          "url": "https://t.co/i63c1XHcIT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882451838051774597",
+    "in_reply_to_user_id": "1863961550350065664",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882451544127475893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Selaginellaaaaa https://t.co/i63c1XHcIT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 160,
+        "media_key": "3_1882451832896970752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gh_P9-abYAA0fzE.png",
+        "width": 843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882451832896970752"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1882451193366233460",
+        "created_at": "2025-01-23T15:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T16:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882451838051774597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1863961550350065664",
+              "start": 0,
+              "username": "Selaginellaaaaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i63c1XHcIT",
+              "end": 40,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1882451838051774597/photo/1",
+              "media_key": "3_1882451832896970752",
+              "start": 17,
+              "url": "https://t.co/i63c1XHcIT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882451838051774597",
+        "in_reply_to_user_id": "1863961550350065664",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882451544127475893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Selaginellaaaaa https://t.co/i63c1XHcIT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863961550350065664",
+        "conversation_id": "1882451193366233460",
+        "created_at": "2025-01-23T15:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T16:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882451544127475893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882451544127475893",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882451193366233460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 为什么把我踢出家庭（我要找你索命"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "白云山上白云泉，云自无心水自闲",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 223,
+          "like_count": 6000,
+          "listed_count": 7,
+          "media_count": 1411,
+          "tweet_count": 6361
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-03T15:01:06.000Z",
+        "description": "🤔\n箱子https://t.co/pBBjJNdESv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/selaginell925",
+                "end": 27,
+                "expanded_url": "https://ngl.link/selaginell925",
+                "start": 4,
+                "url": "https://t.co/pBBjJNdESv"
+              }
+            ]
+          }
+        },
+        "id": "1863961550350065664",
+        "location": "叫我卷柏就行",
+        "name": "Selaginella",
+        "pinned_tweet_id": "1869234973783491050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876307978443522048/mt_EImdI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4987,
+          "following_count": 76,
+          "like_count": 6348,
+          "listed_count": 7,
+          "media_count": 218,
+          "tweet_count": 2120
+        },
+        "username": "Selaginellaaaaa",
+        "verified": false
+      }
+    ]
+  }
+}

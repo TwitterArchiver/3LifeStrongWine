@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1880598672012128256"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1880598690915889604",
+    "created_at": "2025-01-18T12:50:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T13:50:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1880598690915889604"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9qrtu0NFOn",
+          "end": 31,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1880598690915889604/video/1",
+          "media_key": "13_1880598672012128256",
+          "start": 8,
+          "url": "https://t.co/9qrtu0NFOn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880598690915889604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "拂尘没这个好用 https://t.co/9qrtu0NFOn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15133,
+        "height": 640,
+        "media_key": "13_1880598672012128256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1880598672012128256/img/EFpeEiROsa0Aa_mX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1880598672012128256/vid/avc1/320x568/5v4j26kfEVZCBOkB.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1880598672012128256/vid/avc1/360x640/5emmCGzQecgy0TIJ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1880598672012128256/pl/zhGbh8lR1Hj-Ia2d.m3u8?tag=14"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1880598672012128256"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1880598690915889604",
+        "created_at": "2025-01-18T12:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T13:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880598690915889604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9qrtu0NFOn",
+              "end": 31,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1880598690915889604/video/1",
+              "media_key": "13_1880598672012128256",
+              "start": 8,
+              "url": "https://t.co/9qrtu0NFOn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880598690915889604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拂尘没这个好用 https://t.co/9qrtu0NFOn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花究竟开出什么样的结果",
+        "id": "1529654419213541376",
+        "location": "夢在心上心便溫柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879527429754269696/Ip8jHko0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 221,
+          "like_count": 5415,
+          "listed_count": 7,
+          "media_count": 1284,
+          "tweet_count": 5805
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      }
+    ]
+  }
+}

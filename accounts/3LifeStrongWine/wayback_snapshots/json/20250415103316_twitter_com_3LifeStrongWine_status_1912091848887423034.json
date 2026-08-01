@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1912090016739922125",
+    "created_at": "2025-04-15T10:33:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T11:33:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912091848887423034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845491203124441093",
+          "start": 0,
+          "username": "yu_huacs"
+        },
+        {
+          "end": 19,
+          "id": "1409071214954389504",
+          "start": 10,
+          "username": "TKongtou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912091848887423034",
+    "in_reply_to_user_id": "1845491203124441093",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912091679001116879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_huacs @TKongtou 走"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1912090016739922125",
+        "created_at": "2025-04-15T10:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T11:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912091848887423034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845491203124441093",
+              "start": 0,
+              "username": "yu_huacs"
+            },
+            {
+              "end": 19,
+              "id": "1409071214954389504",
+              "start": 10,
+              "username": "TKongtou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912091848887423034",
+        "in_reply_to_user_id": "1845491203124441093",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912091679001116879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_huacs @TKongtou 走"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845491203124441093",
+        "conversation_id": "1912090016739922125",
+        "created_at": "2025-04-15T10:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T11:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912091679001116879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            },
+            {
+              "end": 26,
+              "id": "1409071214954389504",
+              "start": 17,
+              "username": "TKongtou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912091679001116879",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912090488414618066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine @TKongtou 我也想去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "东隅已逝，桑榆非晚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909122304141148160/VzRDqCNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 244,
+          "like_count": 7424,
+          "listed_count": 12,
+          "media_count": 2529,
+          "tweet_count": 10334
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "逝去的前一刻是美丽的，是神圣的，不可超越的最美的一刻，出生真的即是死亡吗，有乐趣在世，在活着，在感受自己的生命力，太美了，凋谢的一刻仅仅只有一次，何事没有第一次，那他这件事后面肯定可以重复，凋零的美无法替代\n\n@yuhuacs5570 是他     \n我最喜欢的姐姐@mayumi1625658",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 105,
+                "username": "yuhuacs5570"
+              },
+              {
+                "end": 147,
+                "start": 133,
+                "username": "mayumi1625658"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdWCT"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "location": "shanghai",
+        "name": "✿余华8964成霜❀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909791048425222144/iZCwAN2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 863,
+          "like_count": 61829,
+          "listed_count": 9,
+          "media_count": 1267,
+          "tweet_count": 10558
+        },
+        "url": "https://t.co/fGARwmdWCT",
+        "username": "yu_huacs",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-27T08:48:58.000Z",
+        "description": "INTP ‖ 小号是@1C0NGT0U（找我小号玩!）‖我是某种互联网底栖生物（‖\n平常大概就碎碎念和分享一些作品和猫猫\n‖唉我好傻逼\n‖然后是一点点喜欢的话？\nwe live in a twilight world,and there are no friends at dusk.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "1C0NGT0U"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tkongtou",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tkongtou",
+                "start": 0,
+                "url": "https://t.co/Wi6EOIrBXv"
+              }
+            ]
+          }
+        },
+        "id": "1409071214954389504",
+        "name": "kongtou",
+        "pinned_tweet_id": "1898713978207130056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904900764897796096/59cBFz1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 500,
+          "like_count": 39203,
+          "listed_count": 3,
+          "media_count": 361,
+          "tweet_count": 9260
+        },
+        "url": "https://t.co/Wi6EOIrBXv",
+        "username": "TKongtou",
+        "verified": false
+      }
+    ]
+  }
+}

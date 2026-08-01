@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1893624549788598272"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1893624557019574495",
+    "created_at": "2025-02-23T11:30:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T12:30:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893624557019574495"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LJ0QOBAdKh",
+          "end": 39,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1893624557019574495/photo/1",
+          "media_key": "3_1893624549788598272",
+          "start": 16,
+          "url": "https://t.co/LJ0QOBAdKh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893624557019574495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "桃李春风一杯酒，江湖夜雨十年灯 https://t.co/LJ0QOBAdKh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1893624549788598272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkeBfsQbwAAoQpS.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893624549788598272"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1893624557019574495",
+        "created_at": "2025-02-23T11:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T12:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893624557019574495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LJ0QOBAdKh",
+              "end": 39,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1893624557019574495/photo/1",
+              "media_key": "3_1893624549788598272",
+              "start": 16,
+              "url": "https://t.co/LJ0QOBAdKh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893624557019574495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "桃李春风一杯酒，江湖夜雨十年灯 https://t.co/LJ0QOBAdKh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1403,
+          "following_count": 224,
+          "like_count": 6758,
+          "listed_count": 10,
+          "media_count": 1989,
+          "tweet_count": 8134
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

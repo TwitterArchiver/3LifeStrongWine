@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1927405577228992778",
+    "created_at": "2025-05-27T16:51:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T17:51:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927407246159270167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1749848735436427265",
+          "start": 0,
+          "username": "Orangepeel98426"
+        },
+        {
+          "end": 30,
+          "id": "1573722407625543683",
+          "start": 17,
+          "username": "Amarantos_00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927407246159270167",
+    "in_reply_to_user_id": "1749848735436427265",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927406970287321169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Orangepeel98426 @Amarantos_00 吃💩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1927405577228992778",
+        "created_at": "2025-05-27T16:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T17:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927407246159270167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1749848735436427265",
+              "start": 0,
+              "username": "Orangepeel98426"
+            },
+            {
+              "end": 30,
+              "id": "1573722407625543683",
+              "start": 17,
+              "username": "Amarantos_00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927407246159270167",
+        "in_reply_to_user_id": "1749848735436427265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927406970287321169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orangepeel98426 @Amarantos_00 吃💩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749848735436427265",
+        "conversation_id": "1927405577228992778",
+        "created_at": "2025-05-27T16:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T17:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927406970287321169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1573722407625543683",
+              "start": 0,
+              "username": "Amarantos_00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927406970287321169",
+        "in_reply_to_user_id": "1573722407625543683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927405577228992778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amarantos_00 我要吃四个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "闻有三山不知处，茂陵松柏满西风",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912318298353487872/R3xfbIV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1524,
+          "following_count": 239,
+          "like_count": 7430,
+          "listed_count": 11,
+          "media_count": 2688,
+          "tweet_count": 10951
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-23T17:37:16.000Z",
+        "description": "好玩时刻｜我们@Pscouopie4u（素好朋友）｜不接置顶推广和转推｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "Pscouopie4u"
+              }
+            ]
+          }
+        },
+        "id": "1749848735436427265",
+        "location": "等待⌛️",
+        "name": "橙子皮啃啃啃",
+        "pinned_tweet_id": "1926345221266178102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927043518125498369/MF96ZG7v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3639,
+          "following_count": 491,
+          "like_count": 137272,
+          "listed_count": 15,
+          "media_count": 403,
+          "tweet_count": 16295
+        },
+        "username": "Orangepeel98426",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T17:14:25.000Z",
+        "description": "心有清溪，意如明镜。小号@Hanako_sn00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Hanako_sn00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/amaran…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/amarantos00.bsky.social",
+                "start": 0,
+                "url": "https://t.co/yuWtZzkUo7"
+              }
+            ]
+          }
+        },
+        "id": "1573722407625543683",
+        "location": "罗夏·罗斯切尔德的腿上",
+        "name": "花子Hanako",
+        "pinned_tweet_id": "1828521741297013076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915240532332158976/cykBbiOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2267,
+          "following_count": 120,
+          "like_count": 44900,
+          "listed_count": 7,
+          "media_count": 2262,
+          "tweet_count": 15172
+        },
+        "url": "https://t.co/yuWtZzkUo7",
+        "username": "Amarantos_00",
+        "verified": false
+      }
+    ]
+  }
+}

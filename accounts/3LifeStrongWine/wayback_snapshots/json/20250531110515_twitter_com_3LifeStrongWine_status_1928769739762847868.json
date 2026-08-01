@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1928414548056224079",
+    "created_at": "2025-05-31T11:05:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T12:05:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928769739762847868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "935075650553069568",
+          "start": 0,
+          "username": "shinoharaMia181"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928769739762847868",
+    "in_reply_to_user_id": "935075650553069568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928769649472045422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shinoharaMia181 😡你不许喝，我喝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1928769640471343104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsRdxNnaMAAqUpA.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1928414548056224079",
+        "created_at": "2025-05-31T11:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T12:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928769739762847868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "935075650553069568",
+              "start": 0,
+              "username": "shinoharaMia181"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928769739762847868",
+        "in_reply_to_user_id": "935075650553069568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928769649472045422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shinoharaMia181 😡你不许喝，我喝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928769640471343104"
+          ]
+        },
+        "author_id": "935075650553069568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1928414548056224079",
+        "created_at": "2025-05-31T11:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T12:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928769649472045422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2okn4O2tB5",
+              "end": 40,
+              "expanded_url": "https://x.com/shinoharaMia181/status/1928769649472045422/photo/1",
+              "media_key": "3_1928769640471343104",
+              "start": 17,
+              "url": "https://t.co/2okn4O2tB5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928769649472045422",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928414548056224079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine https://t.co/2okn4O2tB5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "都过了这么久了怎么还是放不下你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912318298353487872/R3xfbIV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 239,
+          "like_count": 7456,
+          "listed_count": 11,
+          "media_count": 2715,
+          "tweet_count": 11053
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2017-11-27T09:19:42.000Z",
+        "description": "中国人です、Chinese。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shinoharaMia181",
+                "end": 23,
+                "expanded_url": "https://t.me/shinoharaMia181",
+                "start": 0,
+                "url": "https://t.co/kJT331rS8q"
+              }
+            ]
+          }
+        },
+        "id": "935075650553069568",
+        "location": "阿拉德大陆",
+        "name": "Dawn Light",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928005525121421314/6cFiiX8Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2483,
+          "following_count": 642,
+          "like_count": 30402,
+          "listed_count": 13,
+          "media_count": 2939,
+          "tweet_count": 44470
+        },
+        "url": "https://t.co/kJT331rS8q",
+        "username": "shinoharaMia181",
+        "verified": false
+      }
+    ]
+  }
+}

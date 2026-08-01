@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888360993593737216"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1888361001927823650",
+    "created_at": "2025-02-08T22:55:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T23:55:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1888361001927823650"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C2uptGLuHp",
+          "end": 36,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1888361001927823650/photo/1",
+          "media_key": "3_1888360993593737216",
+          "start": 13,
+          "url": "https://t.co/C2uptGLuHp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888361001927823650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在北京这一身还是有点冷的 https://t.co/C2uptGLuHp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1888360993593737216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjTOUZbbwAAAyUW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888360993593737216"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1888361001927823650",
+        "created_at": "2025-02-08T22:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T23:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888361001927823650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C2uptGLuHp",
+              "end": 36,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1888361001927823650/photo/1",
+              "media_key": "3_1888360993593737216",
+              "start": 13,
+              "url": "https://t.co/C2uptGLuHp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888361001927823650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在北京这一身还是有点冷的 https://t.co/C2uptGLuHp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 220,
+          "like_count": 6505,
+          "listed_count": 9,
+          "media_count": 1702,
+          "tweet_count": 7305
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

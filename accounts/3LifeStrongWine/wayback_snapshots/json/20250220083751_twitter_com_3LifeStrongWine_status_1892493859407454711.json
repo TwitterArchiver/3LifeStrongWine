@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1892414547903815830",
+    "created_at": "2025-02-20T08:37:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T09:37:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892493859407454711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1629074500305186817",
+          "start": 0,
+          "username": "carafutaba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892493859407454711",
+    "in_reply_to_user_id": "1629074500305186817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892414547903815830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@carafutaba 为啥跟我抢睡觉的地方"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3088,
+        "media_key": "3_1892414537984626688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkM0_vBb0AAFIsA.jpg",
+        "width": 2316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1892414547903815830",
+        "created_at": "2025-02-20T08:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T09:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892493859407454711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1629074500305186817",
+              "start": 0,
+              "username": "carafutaba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892493859407454711",
+        "in_reply_to_user_id": "1629074500305186817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892414547903815830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@carafutaba 为啥跟我抢睡觉的地方"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892414537984626688"
+          ]
+        },
+        "author_id": "1629074500305186817",
+        "conversation_id": "1892414547903815830",
+        "created_at": "2025-02-20T03:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T04:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892414547903815830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FVsQITRqpB",
+              "end": 33,
+              "expanded_url": "https://x.com/carafutaba/status/1892414547903815830/photo/1",
+              "media_key": "3_1892414537984626688",
+              "start": 10,
+              "url": "https://t.co/FVsQITRqpB"
+            },
+            {
+              "display_url": "x.com/carafutaba/sta…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/carafutaba/status/1892406877675246067",
+              "start": 34,
+              "url": "https://t.co/E1R7tbbsqQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892414547903815830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 299,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892406877675246067",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好猫还是在沙发上吧 https://t.co/FVsQITRqpB https://t.co/E1R7tbbsqQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 225,
+          "like_count": 6655,
+          "listed_count": 10,
+          "media_count": 1929,
+          "tweet_count": 7905
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-24T11:03:32.000Z",
+        "description": "🧡 春祺夏安 秋綏冬禧 🧡 双葉资本🎲 杏子特辑🧸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "anzu.moe",
+                "end": 23,
+                "expanded_url": "https://anzu.moe",
+                "start": 0,
+                "url": "https://t.co/uyvReMg6DJ"
+              }
+            ]
+          }
+        },
+        "id": "1629074500305186817",
+        "location": "In Your Heart",
+        "name": "双葉杏",
+        "pinned_tweet_id": "1889485103077924890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803015602162053120/HYr1UFr__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4152,
+          "following_count": 1103,
+          "like_count": 52260,
+          "listed_count": 5,
+          "media_count": 1231,
+          "tweet_count": 13438
+        },
+        "url": "https://t.co/uyvReMg6DJ",
+        "username": "carafutaba",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1882446389969604608"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1882446561919336889",
+    "created_at": "2025-01-23T15:13:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T16:13:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1882446561919336889"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/84IG3PIIJm",
+          "end": 80,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1882446561919336889/photo/1",
+          "media_key": "3_1882446389969604608",
+          "start": 57,
+          "url": "https://t.co/84IG3PIIJm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882446561919336889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你个傻b  windows删个600kb的玩意还要卡在preparing，windows就是这世界上最垃圾的系统 https://t.co/84IG3PIIJm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 365,
+        "media_key": "3_1882446389969604608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gh_LBJ7a0AAuxAe.png",
+        "width": 561
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882446389969604608"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1882446561919336889",
+        "created_at": "2025-01-23T15:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T16:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882446561919336889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/84IG3PIIJm",
+              "end": 80,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1882446561919336889/photo/1",
+              "media_key": "3_1882446389969604608",
+              "start": 57,
+              "url": "https://t.co/84IG3PIIJm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882446561919336889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你个傻b  windows删个600kb的玩意还要卡在preparing，windows就是这世界上最垃圾的系统 https://t.co/84IG3PIIJm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "白云山上白云泉，云自无心水自闲",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 223,
+          "like_count": 5986,
+          "listed_count": 7,
+          "media_count": 1408,
+          "tweet_count": 6350
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

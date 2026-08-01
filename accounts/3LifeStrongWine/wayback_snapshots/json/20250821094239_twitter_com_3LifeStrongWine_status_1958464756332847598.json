@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1958461870974582840",
+    "created_at": "2025-08-21T09:42:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T10:42:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958464756332847598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1750329917252976640",
+          "start": 0,
+          "username": "yueyue8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958464756332847598",
+    "in_reply_to_user_id": "1750329917252976640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958461870974582840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yueyue8964 该吃晚饭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1958461870974582840",
+        "created_at": "2025-08-21T09:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T10:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958464756332847598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750329917252976640",
+              "start": 0,
+              "username": "yueyue8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958464756332847598",
+        "in_reply_to_user_id": "1750329917252976640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958461870974582840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yueyue8964 该吃晚饭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750329917252976640",
+        "conversation_id": "1958461870974582840",
+        "created_at": "2025-08-21T09:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T10:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958461870974582840"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958461870974582840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我睡了三个小时醒了额🙄🙄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "泛黄的老照片里讲述了一个什么样的故事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我会带你去看这世界上最独一无二的风景",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 182,
+          "like_count": 6871,
+          "listed_count": 12,
+          "media_count": 2959,
+          "tweet_count": 12003
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-25T01:29:16.000Z",
+        "description": "所有 关于我的 qwq",
+        "id": "1750329917252976640",
+        "location": "我的眼泪也很轻",
+        "name": "小榆",
+        "pinned_tweet_id": "1865899514122666310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807218968463327232/_cUbucHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10533,
+          "following_count": 581,
+          "like_count": 11375,
+          "listed_count": 20,
+          "media_count": 303,
+          "tweet_count": 10905
+        },
+        "username": "yueyue8964",
+        "verified": false
+      }
+    ]
+  }
+}

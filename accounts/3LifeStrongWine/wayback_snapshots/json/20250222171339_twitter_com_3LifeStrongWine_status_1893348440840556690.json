@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1893215116142997998",
+    "created_at": "2025-02-22T17:13:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T18:13:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893348440840556690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1580505223071641600",
+          "start": 0,
+          "username": "qwq_shark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893348440840556690",
+    "in_reply_to_user_id": "1580505223071641600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893215116142997998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwq_shark 这是啥游戏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1893214985519800320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkYM_6daoAA6mH8.jpg",
+        "width": 1280
+      },
+      {
+        "height": 720,
+        "media_key": "3_1893214985649823746",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkYM_68aoAIHoDZ.jpg",
+        "width": 1280
+      },
+      {
+        "height": 720,
+        "media_key": "3_1893214985486245889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkYM_6VaoAEo1E6.jpg",
+        "width": 1280
+      },
+      {
+        "height": 720,
+        "media_key": "3_1893214985792217088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkYM_7eXYAAqTet.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1893215116142997998",
+        "created_at": "2025-02-22T17:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T18:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893348440840556690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1580505223071641600",
+              "start": 0,
+              "username": "qwq_shark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893348440840556690",
+        "in_reply_to_user_id": "1580505223071641600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893215116142997998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwq_shark 这是啥游戏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893214985519800320",
+            "3_1893214985649823746",
+            "3_1893214985486245889",
+            "3_1893214985792217088"
+          ]
+        },
+        "author_id": "1580505223071641600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1893215116142997998",
+        "created_at": "2025-02-22T08:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T09:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893215116142997998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3J0JB6gqzW",
+              "end": 47,
+              "expanded_url": "https://x.com/qwq_shark/status/1893215116142997998/photo/1",
+              "media_key": "3_1893214985519800320",
+              "start": 24,
+              "url": "https://t.co/3J0JB6gqzW"
+            },
+            {
+              "display_url": "pic.x.com/3J0JB6gqzW",
+              "end": 47,
+              "expanded_url": "https://x.com/qwq_shark/status/1893215116142997998/photo/1",
+              "media_key": "3_1893214985649823746",
+              "start": 24,
+              "url": "https://t.co/3J0JB6gqzW"
+            },
+            {
+              "display_url": "pic.x.com/3J0JB6gqzW",
+              "end": 47,
+              "expanded_url": "https://x.com/qwq_shark/status/1893215116142997998/photo/1",
+              "media_key": "3_1893214985486245889",
+              "start": 24,
+              "url": "https://t.co/3J0JB6gqzW"
+            },
+            {
+              "display_url": "pic.x.com/3J0JB6gqzW",
+              "end": 47,
+              "expanded_url": "https://x.com/qwq_shark/status/1893215116142997998/photo/1",
+              "media_key": "3_1893214985792217088",
+              "start": 24,
+              "url": "https://t.co/3J0JB6gqzW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893215116142997998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 655,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请欣赏我的岛：\n准备say goodbye 了 https://t.co/3J0JB6gqzW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 224,
+          "like_count": 6742,
+          "listed_count": 10,
+          "media_count": 1978,
+          "tweet_count": 8062
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-13T10:28:18.000Z",
+        "description": "你好，如果不知道怎么称呼我的话，你可以叫我小惨。欢迎来到我的精神世界倾听我的内心独白｜@Miekoudesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "Miekoudesu"
+              }
+            ]
+          }
+        },
+        "id": "1580505223071641600",
+        "location": "宇宙",
+        "name": "悲惨世界与内心独白",
+        "pinned_tweet_id": "1863064821769568264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891155386117586944/Jt1tP4D3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1799,
+          "following_count": 198,
+          "like_count": 2106,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 4136
+        },
+        "username": "qwq_shark",
+        "verified": false
+      }
+    ]
+  }
+}

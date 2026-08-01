@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1908439386175262736",
+    "created_at": "2025-04-05T08:42:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T09:42:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908440122959552739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1887374434987855872",
+          "start": 0,
+          "username": "OvO_kjy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908440122959552739",
+    "in_reply_to_user_id": "1887374434987855872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908439386175262736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvO_kjy 买最快的票去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1908439386175262736",
+        "created_at": "2025-04-05T08:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T09:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908440122959552739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1887374434987855872",
+              "start": 0,
+              "username": "OvO_kjy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908440122959552739",
+        "in_reply_to_user_id": "1887374434987855872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908439386175262736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvO_kjy 买最快的票去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887374434987855872",
+        "conversation_id": "1908439386175262736",
+        "created_at": "2025-04-05T08:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T09:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908439386175262736"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908439386175262736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想见他。我想哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "业余摄影｜我会永远站在过去热泪盈眶地读着你们的未来",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1482,
+          "following_count": 227,
+          "like_count": 7169,
+          "listed_count": 12,
+          "media_count": 2402,
+          "tweet_count": 9720
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-06T05:35:17.000Z",
+        "description": "叫我小瑜 非黄推",
+        "id": "1887374434987855872",
+        "location": "在爱与光中",
+        "name": "悲伤章鱼烧",
+        "pinned_tweet_id": "1902726348252320229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908204788506124290/7vfnYB1M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 78,
+          "like_count": 2739,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1451
+        },
+        "username": "OvO_kjy",
+        "verified": false
+      }
+    ]
+  }
+}

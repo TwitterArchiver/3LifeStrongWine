@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1927567469029326930",
+    "created_at": "2025-05-28T03:30:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T04:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927568254538756149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1750329917252976640",
+          "start": 0,
+          "username": "yueyue8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927568254538756149",
+    "in_reply_to_user_id": "1750329917252976640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927567469029326930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yueyue8964 接。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1235,
+        "media_key": "3_1927567459323666433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsAYZD2W4AEG2vV.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1927567469029326930",
+        "created_at": "2025-05-28T03:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T04:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927568254538756149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750329917252976640",
+              "start": 0,
+              "username": "yueyue8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927568254538756149",
+        "in_reply_to_user_id": "1750329917252976640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927567469029326930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yueyue8964 接。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927567459323666433"
+          ]
+        },
+        "author_id": "1750329917252976640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1927567469029326930",
+        "created_at": "2025-05-28T03:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T04:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927567469029326930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OZlYsB0hJy",
+              "end": 26,
+              "expanded_url": "https://x.com/yueyue8964/status/1927567469029326930/photo/1",
+              "media_key": "3_1927567459323666433",
+              "start": 3,
+              "url": "https://t.co/OZlYsB0hJy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927567469029326930",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哼哼 https://t.co/OZlYsB0hJy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "闻有三山不知处，茂陵松柏满西风",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912318298353487872/R3xfbIV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1526,
+          "following_count": 239,
+          "like_count": 7430,
+          "listed_count": 11,
+          "media_count": 2688,
+          "tweet_count": 10967
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-25T01:29:16.000Z",
+        "description": "🚪99/520无福利但是可以让我吃顿好的",
+        "id": "1750329917252976640",
+        "location": "无声的寂静海",
+        "name": "小榆",
+        "pinned_tweet_id": "1926864491469287647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807218968463327232/_cUbucHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10685,
+          "following_count": 558,
+          "like_count": 10846,
+          "listed_count": 22,
+          "media_count": 241,
+          "tweet_count": 9776
+        },
+        "username": "yueyue8964",
+        "verified": false
+      }
+    ]
+  }
+}

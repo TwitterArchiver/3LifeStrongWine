@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1902030309727904094",
+    "created_at": "2025-03-19T14:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T15:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902362883226521609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "823705502773190657",
+          "start": 0,
+          "username": "piggy_slasher"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902362883226521609",
+    "in_reply_to_user_id": "823705502773190657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902362800791437422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@piggy_slasher 这也太惨了，莫名其妙就背了债"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1902030309727904094",
+        "created_at": "2025-03-19T14:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T15:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902362883226521609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "823705502773190657",
+              "start": 0,
+              "username": "piggy_slasher"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902362883226521609",
+        "in_reply_to_user_id": "823705502773190657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902362800791437422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@piggy_slasher 这也太惨了，莫名其妙就背了债"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "823705502773190657",
+        "conversation_id": "1902030309727904094",
+        "created_at": "2025-03-19T14:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T15:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902362800791437422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902362800791437422",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902030309727904094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 19年我爸不听劝阻给我名下买了一套房，如今刚毕业我负债80个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来｜把那无人问津的岁月熬成清茶，等一场芳香四散",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1449,
+          "following_count": 232,
+          "like_count": 7074,
+          "listed_count": 11,
+          "media_count": 2192,
+          "tweet_count": 8980
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2017-01-24T01:34:30.000Z",
+        "description": "🤡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/national_piggy…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/national_piggyslasher/",
+                "start": 0,
+                "url": "https://t.co/8DU1UhL19k"
+              }
+            ]
+          }
+        },
+        "id": "823705502773190657",
+        "name": "piggy slasher（tattoo版）",
+        "pinned_tweet_id": "1540279917090222081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788150967634198528/wJ3rAMPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 1734,
+          "like_count": 3045,
+          "listed_count": 2,
+          "media_count": 211,
+          "tweet_count": 629
+        },
+        "url": "https://t.co/8DU1UhL19k",
+        "username": "piggy_slasher",
+        "verified": false
+      }
+    ]
+  }
+}

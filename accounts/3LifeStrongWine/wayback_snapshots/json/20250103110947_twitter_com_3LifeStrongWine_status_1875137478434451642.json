@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1874828967485833292",
+    "created_at": "2025-01-03T11:09:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T12:09:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875137478434451642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1670397078239936512",
+          "start": 0,
+          "username": "xiaohan109812"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875137478434451642",
+    "in_reply_to_user_id": "1670397078239936512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874828967485833292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaohan109812 甜吗！？？想尝尝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1874828967485833292",
+        "created_at": "2025-01-03T11:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T12:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875137478434451642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1670397078239936512",
+              "start": 0,
+              "username": "xiaohan109812"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875137478434451642",
+        "in_reply_to_user_id": "1670397078239936512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874828967485833292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaohan109812 甜吗！？？想尝尝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874828958275125248"
+          ]
+        },
+        "author_id": "1670397078239936512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1874828967485833292",
+        "created_at": "2025-01-02T14:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T15:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874828967485833292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SrbDMowfaa",
+              "end": 28,
+              "expanded_url": "https://x.com/xiaohan109812/status/1874828967485833292/photo/1",
+              "media_key": "3_1874828958275125248",
+              "start": 5,
+              "url": "https://t.co/SrbDMowfaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874828967485833292",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一人一瓶 https://t.co/SrbDMowfaa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "有时也想过花烂漫某天与世界无声道别， 可是偏偏有太多太多遗憾挂牵没画句点",
+        "id": "1529654419213541376",
+        "location": "期待一场意外，此生再无难过",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 205,
+          "like_count": 3787,
+          "listed_count": 7,
+          "media_count": 871,
+          "tweet_count": 4534
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-18T11:44:47.000Z",
+        "description": "废话很多 提问箱：https://t.co/YfSYbFEOa4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaohan109812",
+                "end": 32,
+                "expanded_url": "https://ngl.link/xiaohan109812",
+                "start": 9,
+                "url": "https://t.co/YfSYbFEOa4"
+              }
+            ]
+          }
+        },
+        "id": "1670397078239936512",
+        "name": "Agony",
+        "pinned_tweet_id": "1857821750815523317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851269640401620992/Ou3jzqFj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 217,
+          "like_count": 1614,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 1230
+        },
+        "username": "xiaohan109812",
+        "verified": false
+      }
+    ]
+  }
+}

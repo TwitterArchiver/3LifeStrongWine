@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892653336664424448"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1892653345447305389",
+    "created_at": "2025-02-20T19:11:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T20:11:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1892653345447305389"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F45QJkKOgH",
+          "end": 37,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1892653345447305389/photo/1",
+          "media_key": "3_1892653336664424448",
+          "start": 14,
+          "url": "https://t.co/F45QJkKOgH"
+        },
+        {
+          "display_url": "x.com/3lifestrongwin…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/3lifestrongwine/status/1892652677126828410",
+          "start": 38,
+          "url": "https://t.co/1PeSRY0Xn6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892653345447305389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892652677126828410",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这些字写完了多少相同的无奈 https://t.co/F45QJkKOgH https://t.co/1PeSRY0Xn6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1892653336664424448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkQOLpbXQAASyUg.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892653336664424448"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1892653345447305389",
+        "created_at": "2025-02-20T19:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T20:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892653345447305389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F45QJkKOgH",
+              "end": 37,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1892653345447305389/photo/1",
+              "media_key": "3_1892653336664424448",
+              "start": 14,
+              "url": "https://t.co/F45QJkKOgH"
+            },
+            {
+              "display_url": "x.com/3lifestrongwin…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/3lifestrongwine/status/1892652677126828410",
+              "start": 38,
+              "url": "https://t.co/1PeSRY0Xn6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892653345447305389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892652677126828410",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这些字写完了多少相同的无奈 https://t.co/F45QJkKOgH https://t.co/1PeSRY0Xn6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1892652677126828410",
+        "created_at": "2025-02-20T19:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T20:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892652677126828410"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1892652677126828410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这里有那些年曾经路过的每一个我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 226,
+          "like_count": 6683,
+          "listed_count": 10,
+          "media_count": 1952,
+          "tweet_count": 7972
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

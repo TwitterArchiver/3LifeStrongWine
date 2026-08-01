@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932105257909407745"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1932105276905390156",
+    "created_at": "2025-06-09T15:59:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T16:59:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932105276905390156"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XqmYaL898C",
+          "end": 29,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1932105276905390156/photo/1",
+          "media_key": "3_1932105257909407745",
+          "start": 6,
+          "url": "https://t.co/XqmYaL898C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932105276905390156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 71,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是什么水呢 https://t.co/XqmYaL898C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 212,
+        "media_key": "3_1932105257909407745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtA3fs5a0AEyR-o.png",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932105257909407745"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1932105276905390156",
+        "created_at": "2025-06-09T15:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T16:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932105276905390156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XqmYaL898C",
+              "end": 29,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1932105276905390156/photo/1",
+              "media_key": "3_1932105257909407745",
+              "start": 6,
+              "url": "https://t.co/XqmYaL898C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932105276905390156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是什么水呢 https://t.co/XqmYaL898C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "时光足够温柔了吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1535,
+          "following_count": 239,
+          "like_count": 7469,
+          "listed_count": 11,
+          "media_count": 2783,
+          "tweet_count": 11308
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

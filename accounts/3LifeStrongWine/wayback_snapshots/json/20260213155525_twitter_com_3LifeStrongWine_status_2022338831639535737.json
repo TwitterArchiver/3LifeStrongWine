@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2021977269024305539",
+    "created_at": "2026-02-13T15:55:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T16:55:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022338831639535737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1691119266324783104",
+          "start": 0,
+          "username": "liittle_dog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022338831639535737",
+    "in_reply_to_user_id": "1691119266324783104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021977269024305539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liittle_dog 我操，酒蒙子，不过我也是，嘻嘻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1987,
+        "media_key": "3_2021977266474168326",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA-BnGgbsAY5wIf.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2021977269024305539",
+        "created_at": "2026-02-13T15:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022338831639535737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1691119266324783104",
+              "start": 0,
+              "username": "liittle_dog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022338831639535737",
+        "in_reply_to_user_id": "1691119266324783104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021977269024305539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liittle_dog 我操，酒蒙子，不过我也是，嘻嘻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021977266474168326"
+          ]
+        },
+        "author_id": "1691119266324783104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2021977269024305539",
+        "created_at": "2026-02-12T15:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T16:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021977269024305539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QIUNidMJpY",
+              "end": 55,
+              "expanded_url": "https://x.com/liittle_dog/status/2021977269024305539/photo/1",
+              "media_key": "3_2021977266474168326",
+              "start": 32,
+              "url": "https://t.co/QIUNidMJpY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021977269024305539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3360,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈允许我今年买年货 \n然后。。\n并且其实收到的已经喝一半了🍺 https://t.co/QIUNidMJpY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "此后锦书休寄  画楼云雨无凭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1672,
+          "following_count": 179,
+          "like_count": 6803,
+          "listed_count": 12,
+          "media_count": 3264,
+          "tweet_count": 13016
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-14T16:08:05.000Z",
+        "description": "欢迎叫我包包，不用礼貌回关的宝宝。不定时发些18+的东西，介意屏蔽忽略\n互关可加v",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pilot.damoplane.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://pilot.damoplane.com/#/register?code=ZSX1QWDf",
+                "start": 0,
+                "url": "https://t.co/NKTXPDGRy4"
+              }
+            ]
+          }
+        },
+        "id": "1691119266324783104",
+        "location": "自用🪜",
+        "name": "每天剥毛豆",
+        "pinned_tweet_id": "2018032317491810499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019358483905409029/7et4hOwq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12007,
+          "following_count": 351,
+          "like_count": 38970,
+          "listed_count": 24,
+          "media_count": 241,
+          "tweet_count": 4854
+        },
+        "url": "https://t.co/NKTXPDGRy4",
+        "username": "liittle_dog",
+        "verified": false
+      }
+    ]
+  }
+}

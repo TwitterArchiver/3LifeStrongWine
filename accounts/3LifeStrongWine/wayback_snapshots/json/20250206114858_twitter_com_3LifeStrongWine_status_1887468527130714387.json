@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1887448111024312513",
+    "created_at": "2025-02-06T11:48:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T12:48:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887468527130714387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1776958906839003136",
+          "start": 0,
+          "username": "Hlyyyyyy16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887468527130714387",
+    "in_reply_to_user_id": "1776958906839003136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887461500237103168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hlyyyyyy16 高三不行，高三差一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1887448111024312513",
+        "created_at": "2025-02-06T11:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T12:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887468527130714387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1776958906839003136",
+              "start": 0,
+              "username": "Hlyyyyyy16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887468527130714387",
+        "in_reply_to_user_id": "1776958906839003136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887461500237103168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hlyyyyyy16 高三不行，高三差一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776958906839003136",
+        "conversation_id": "1887448111024312513",
+        "created_at": "2025-02-06T11:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T12:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887461500237103168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887461500237103168",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887448111024312513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 高三可以吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1389,
+          "following_count": 218,
+          "like_count": 6521,
+          "listed_count": 9,
+          "media_count": 1654,
+          "tweet_count": 7172
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-07T13:03:25.000Z",
+        "description": "来点sao的",
+        "id": "1776958906839003136",
+        "name": "yyyyyTuT",
+        "pinned_tweet_id": "1886689853389332515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777319692237258753/H0AoCMkQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 63,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 65
+        },
+        "username": "Hlyyyyyy16",
+        "verified": false
+      }
+    ]
+  }
+}

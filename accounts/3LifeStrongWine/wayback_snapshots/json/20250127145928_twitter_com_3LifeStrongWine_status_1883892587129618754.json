@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1883891609475182650",
+    "created_at": "2025-01-27T14:59:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T15:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883892587129618754"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "香薰",
+          "probability": 0.5938,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1815868548826157056",
+          "start": 0,
+          "username": "F1echaz0lor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883892587129618754",
+    "in_reply_to_user_id": "1815868548826157056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883891609475182650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@F1echaz0lor 香薰蜡烛？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1883891609475182650",
+        "created_at": "2025-01-27T14:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T15:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883892587129618754"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "香薰",
+              "probability": 0.5938,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1815868548826157056",
+              "start": 0,
+              "username": "F1echaz0lor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883892587129618754",
+        "in_reply_to_user_id": "1815868548826157056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883891609475182650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@F1echaz0lor 香薰蜡烛？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883891604336902144"
+          ]
+        },
+        "author_id": "1815868548826157056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1883891609475182650",
+        "created_at": "2025-01-27T14:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T15:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883891609475182650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZapIilhSwb",
+              "end": 38,
+              "expanded_url": "https://x.com/F1echaz0lor/status/1883891609475182650/photo/1",
+              "media_key": "3_1883891604336902144",
+              "start": 15,
+              "url": "https://t.co/ZapIilhSwb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883891609475182650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "谁帮我买，回礼是本人的一个吻 https://t.co/ZapIilhSwb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "凡所有相  皆是虚妄",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 219,
+          "like_count": 6205,
+          "listed_count": 8,
+          "media_count": 1491,
+          "tweet_count": 6663
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-23T21:56:25.000Z",
+        "description": "听一百遍娱乐天空就不用看医生了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bib8bo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bib8bo",
+                "start": 0,
+                "url": "https://t.co/EPuL745fks"
+              }
+            ]
+          }
+        },
+        "id": "1815868548826157056",
+        "name": "我丈夫死了",
+        "pinned_tweet_id": "1864335822142468221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882420046749724672/1aQu0vXd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 101,
+          "like_count": 9493,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 2262
+        },
+        "url": "https://t.co/EPuL745fks",
+        "username": "F1echaz0lor",
+        "verified": false
+      }
+    ]
+  }
+}

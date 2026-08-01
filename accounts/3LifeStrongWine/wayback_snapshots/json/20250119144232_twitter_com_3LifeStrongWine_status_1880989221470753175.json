@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1880902198177198282",
+    "created_at": "2025-01-19T14:42:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T15:42:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880989221470753175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1865579172745371648",
+          "start": 0,
+          "username": "Mrcool0610"
+        },
+        {
+          "end": 23,
+          "id": "2553530658",
+          "start": 12,
+          "username": "Hastin_moe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880989221470753175",
+    "in_reply_to_user_id": "1865579172745371648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880986817077620835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mrcool0610 @Hastin_moe 不重，我都不用脚架的就能拿得动"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1880902198177198282",
+        "created_at": "2025-01-19T14:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T15:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880989221470753175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1865579172745371648",
+              "start": 0,
+              "username": "Mrcool0610"
+            },
+            {
+              "end": 23,
+              "id": "2553530658",
+              "start": 12,
+              "username": "Hastin_moe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880989221470753175",
+        "in_reply_to_user_id": "1865579172745371648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880986817077620835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mrcool0610 @Hastin_moe 不重，我都不用脚架的就能拿得动"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865579172745371648",
+        "conversation_id": "1880902198177198282",
+        "created_at": "2025-01-19T14:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T15:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880986817077620835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2553530658",
+              "start": 0,
+              "username": "Hastin_moe"
+            },
+            {
+              "end": 28,
+              "id": "1529654419213541376",
+              "start": 12,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880986817077620835",
+        "in_reply_to_user_id": "2553530658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880959780182991153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hastin_moe @3LifeStrongWine 打鸟神器 就是重了点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "看桃花究竟开出怎样的结果",
+        "id": "1529654419213541376",
+        "location": "夢在心上心便溫柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1162,
+          "following_count": 239,
+          "like_count": 5617,
+          "listed_count": 7,
+          "media_count": 1312,
+          "tweet_count": 5984
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T02:08:47.000Z",
+        "description": "一个智商情商负数 口无遮拦的中年油腻男lsp~~ 半个摄影爱好者 风景打鸟为主 既是打工人也是老板 分享枯燥内容~.~",
+        "id": "1865579172745371648",
+        "location": "Somewhere in the world",
+        "name": "Mrcool",
+        "pinned_tweet_id": "1869946807154852027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865626177228128256/-tTsWOP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 211,
+          "like_count": 4560,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 686
+        },
+        "username": "Mrcool0610",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-08T00:22:43.000Z",
+        "description": "Lonely Cat with the heart of the world.🐱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Hastin_moe",
+                "end": 23,
+                "expanded_url": "https://t.me/Hastin_moe",
+                "start": 0,
+                "url": "https://t.co/13YEHFpeTO"
+              }
+            ]
+          }
+        },
+        "id": "2553530658",
+        "location": "Anywhere you want",
+        "name": "ハスティン/Cat Photographer.",
+        "pinned_tweet_id": "1879063172344324589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880892402401189888/iF-B3TRn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 983,
+          "following_count": 5421,
+          "like_count": 56764,
+          "listed_count": 16,
+          "media_count": 1202,
+          "tweet_count": 22788
+        },
+        "url": "https://t.co/13YEHFpeTO",
+        "username": "Hastin_moe",
+        "verified": false
+      }
+    ]
+  }
+}

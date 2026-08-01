@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1902386429486899342",
+    "created_at": "2025-03-20T04:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T05:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902585246547390952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1687116360814637056",
+          "start": 0,
+          "username": "sapphire008_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902585246547390952",
+    "in_reply_to_user_id": "1687116360814637056",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902405141094863219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sapphire008_ 😹😹😹😹"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1902405141094863219].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1902405141094863219",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1902405141094863219"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1902386429486899342",
+        "created_at": "2025-03-20T04:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T05:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902585246547390952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "sapphire008_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902585246547390952",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902405141094863219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sapphire008_ 😹😹😹😹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来｜把那无人问津的岁月熬成清茶，等一场芳香四散",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 231,
+          "like_count": 7092,
+          "listed_count": 11,
+          "media_count": 2202,
+          "tweet_count": 9025
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "枯燥無味",
+        "id": "1687116360814637056",
+        "location": "Earth",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1901371432573042833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901371049817899008/J313xkQs_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 553,
+          "like_count": 5477,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 1869
+        },
+        "username": "sapphire008_",
+        "verified": false
+      }
+    ]
+  }
+}

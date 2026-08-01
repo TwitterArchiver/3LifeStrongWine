@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1949635947840381006",
+    "created_at": "2025-07-28T01:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T02:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949637232387875140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1873274216096972800",
+          "start": 0,
+          "username": "wovvna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949637232387875140",
+    "in_reply_to_user_id": "1873274216096972800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949635947840381006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wovvna 啊？这么快"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1949635947840381006",
+        "created_at": "2025-07-28T01:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T02:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949637232387875140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1873274216096972800",
+              "start": 0,
+              "username": "wovvna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949637232387875140",
+        "in_reply_to_user_id": "1873274216096972800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949635947840381006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wovvna 啊？这么快"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873274216096972800",
+        "conversation_id": "1949635947840381006",
+        "created_at": "2025-07-28T01:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T02:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949635947840381006"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949635947840381006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "提了离职了，但是今天还办不了👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "泛黄的老照片里讲述了一个什么样的故事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我会带你去看这世界上最独一无二的风景",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1570,
+          "following_count": 187,
+          "like_count": 6919,
+          "listed_count": 12,
+          "media_count": 2926,
+          "tweet_count": 11867
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-29T07:46:17.000Z",
+        "description": "实在想加我给我打两百块吧。这样就会亏两百块了。嗯。",
+        "id": "1873274216096972800",
+        "name": "邪恶牛奶巧克力酱✞ʚ宇宙无敌超级炫酷高冷龙傲天是也ɞ✟₊（杀了你哟）",
+        "pinned_tweet_id": "1948314065761370472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945694147358179328/dpQ-E81g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2804,
+          "following_count": 175,
+          "like_count": 17063,
+          "listed_count": 10,
+          "media_count": 304,
+          "tweet_count": 6894
+        },
+        "username": "wovvna",
+        "verified": false
+      }
+    ]
+  }
+}

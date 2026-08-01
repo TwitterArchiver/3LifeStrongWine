@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2007726521491071047",
+    "created_at": "2026-01-04T09:44:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T10:44:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007750004480598525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1939632627755147264",
+          "start": 0,
+          "username": "xiaoxiongmaoTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007750004480598525",
+    "in_reply_to_user_id": "1939632627755147264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007747521511391734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxiongmaoTvT 是！小比！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2007726521491071047",
+        "created_at": "2026-01-04T09:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T10:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007750004480598525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1939632627755147264",
+              "start": 0,
+              "username": "xiaoxiongmaoTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007750004480598525",
+        "in_reply_to_user_id": "1939632627755147264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007747521511391734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxiongmaoTvT 是！小比！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939632627755147264",
+        "conversation_id": "2007726521491071047",
+        "created_at": "2026-01-04T09:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T10:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007747521511391734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007747521511391734",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007744558000660837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 这个小比是比格吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "云和山和风和雨，轻轻地流过我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VnXMe"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "pinned_tweet_id": "1992598033381638574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1642,
+          "following_count": 171,
+          "like_count": 6618,
+          "listed_count": 13,
+          "media_count": 3097,
+          "tweet_count": 12442
+        },
+        "url": "https://t.co/3g5y5VnXMe",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-30T10:30:49.000Z",
+        "description": "推是我的日记本/推止于推",
+        "id": "1939632627755147264",
+        "name": "甜甜小熊猫",
+        "pinned_tweet_id": "1989916745021493525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004865685722476544/he6s1XWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2212,
+          "following_count": 762,
+          "like_count": 4638,
+          "listed_count": 3,
+          "media_count": 229,
+          "tweet_count": 3588
+        },
+        "username": "xiaoxiongmaoTvT",
+        "verified": false
+      }
+    ]
+  }
+}

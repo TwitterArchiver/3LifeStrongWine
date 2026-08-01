@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1928387601775370509",
+    "created_at": "2025-05-31T17:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T18:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928864903177318496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1649639498781982721",
+          "start": 0,
+          "username": "h2675050232472"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928864903177318496",
+    "in_reply_to_user_id": "1649639498781982721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928863022547616058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h2675050232472 手动头我就打算买铭匠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1928387601775370509",
+        "created_at": "2025-05-31T17:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T18:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928864903177318496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1649639498781982721",
+              "start": 0,
+              "username": "h2675050232472"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928864903177318496",
+        "in_reply_to_user_id": "1649639498781982721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928863022547616058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h2675050232472 手动头我就打算买铭匠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649639498781982721",
+        "conversation_id": "1928387601775370509",
+        "created_at": "2025-05-31T17:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T18:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928863022547616058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928863022547616058",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928387601775370509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 七工匠的，还有老蛙的头手感都非常好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "都过了这么久了怎么还是放不下你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912318298353487872/R3xfbIV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 239,
+          "like_count": 7459,
+          "listed_count": 11,
+          "media_count": 2720,
+          "tweet_count": 11073
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-22T05:01:28.000Z",
+        "description": "07 高三 摄影 不搞男同哈",
+        "id": "1649639498781982721",
+        "name": "鹤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923237144019206144/i_1Pp2Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 65,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 93
+        },
+        "username": "h2675050232472",
+        "verified": false
+      }
+    ]
+  }
+}

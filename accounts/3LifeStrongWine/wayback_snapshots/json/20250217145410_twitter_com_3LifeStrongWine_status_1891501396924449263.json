@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1891362702968209744",
+    "created_at": "2025-02-17T14:54:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T15:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891501396924449263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1526792005988196353",
+          "start": 0,
+          "username": "xiaotu23333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891501396924449263",
+    "in_reply_to_user_id": "1526792005988196353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891498139829317918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaotu23333 嘿嘿，古文选手基本素养"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1891362702968209744",
+        "created_at": "2025-02-17T14:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T15:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891501396924449263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1526792005988196353",
+              "start": 0,
+              "username": "xiaotu23333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891501396924449263",
+        "in_reply_to_user_id": "1526792005988196353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891498139829317918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaotu23333 嘿嘿，古文选手基本素养"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1526792005988196353",
+        "conversation_id": "1891362702968209744",
+        "created_at": "2025-02-17T14:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T15:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891498139829317918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891498139829317918",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891498013371081017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 厉害！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 227,
+          "like_count": 6635,
+          "listed_count": 10,
+          "media_count": 1906,
+          "tweet_count": 7830
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-18T05:09:42.000Z",
+        "description": "分享日常/想发什么就发什么/想做一个很好的人 如果我伪善一辈子呢/如果喜欢我 欢迎投喂/不接推广/不回答坐标",
+        "id": "1526792005988196353",
+        "location": "大菠萝",
+        "name": "百洁布精",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874832826044174336/0lPPvw0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2560,
+          "following_count": 244,
+          "like_count": 18761,
+          "listed_count": 10,
+          "media_count": 1098,
+          "tweet_count": 12859
+        },
+        "username": "xiaotu23333",
+        "verified": false
+      }
+    ]
+  }
+}

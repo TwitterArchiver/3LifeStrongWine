@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1880685519665090787",
+    "created_at": "2025-01-18T18:35:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T19:35:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1880685519665090787"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3lifestrongwin…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/3lifestrongwine/status/1880634547043434735",
+          "start": 20,
+          "url": "https://t.co/5VSe4uYH6j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880685519665090787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880634547043434735",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "也不一定，也有可能是帮别人看埋哪儿合适 https://t.co/5VSe4uYH6j"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1880685519665090787",
+        "created_at": "2025-01-18T18:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T19:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880685519665090787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3lifestrongwin…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/3lifestrongwine/status/1880634547043434735",
+              "start": 20,
+              "url": "https://t.co/5VSe4uYH6j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880685519665090787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880634547043434735",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也不一定，也有可能是帮别人看埋哪儿合适 https://t.co/5VSe4uYH6j"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1880634547043434735",
+        "created_at": "2025-01-18T15:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T16:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880634547043434735"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880634547043434735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 305,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "五年后你会看到我在地摊上算卦、看风水、看手相"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花究竟开出什么样的结果",
+        "id": "1529654419213541376",
+        "location": "夢在心上心便溫柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879527429754269696/Ip8jHko0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 231,
+          "like_count": 5480,
+          "listed_count": 7,
+          "media_count": 1287,
+          "tweet_count": 5874
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      }
+    ]
+  }
+}

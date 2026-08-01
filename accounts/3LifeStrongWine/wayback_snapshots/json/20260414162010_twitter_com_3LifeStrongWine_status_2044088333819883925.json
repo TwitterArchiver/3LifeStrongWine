@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2044033065488658572",
+    "created_at": "2026-04-14T16:20:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T17:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044088333819883925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1887227093429403648",
+          "start": 0,
+          "username": "jiujiu0528"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044088333819883925",
+    "in_reply_to_user_id": "1887227093429403648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044082700848681127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiujiu0528 我留恋的是记忆里的那个你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2044033065488658572",
+        "created_at": "2026-04-14T16:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T17:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044088333819883925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1887227093429403648",
+              "start": 0,
+              "username": "jiujiu0528"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044088333819883925",
+        "in_reply_to_user_id": "1887227093429403648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044082700848681127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiujiu0528 我留恋的是记忆里的那个你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887227093429403648",
+        "conversation_id": "2044033065488658572",
+        "created_at": "2026-04-14T15:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044082700848681127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044082700848681127",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044033065488658572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 甚至是某些相似瞬间，我突然想起有关你的事情，有些恍惚我们曾经这么亲密，我跟谁提起你都不太合适，可是你就站在那里，站在记忆里，我想去找以前的你告状，但是我不忍心看你流泪，我的痛苦就在这里，待人如初是待我如最初的陌生人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "如果能有转机我许愿是能够一直看着你的眼睛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 115,
+          "like_count": 6925,
+          "listed_count": 12,
+          "media_count": 3544,
+          "tweet_count": 13950
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T19:49:47.000Z",
+        "description": "碎碎念 有什么想问的可以在这里问我https://t.co/FOk6ztqplg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yao16898",
+                "end": 40,
+                "expanded_url": "https://ngl.link/yao16898",
+                "start": 17,
+                "url": "https://t.co/FOk6ztqplg"
+              }
+            ]
+          }
+        },
+        "id": "1887227093429403648",
+        "name": "yao",
+        "pinned_tweet_id": "1971958377803833680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887227251269246976/IHlbFb_2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22567,
+          "following_count": 36,
+          "like_count": 54,
+          "listed_count": 61,
+          "media_count": 238,
+          "tweet_count": 1063
+        },
+        "username": "jiujiu0528",
+        "verified": false
+      }
+    ]
+  }
+}

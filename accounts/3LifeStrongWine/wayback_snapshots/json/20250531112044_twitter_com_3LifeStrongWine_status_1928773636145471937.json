@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1928773202328629647",
+    "created_at": "2025-05-31T11:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T12:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928773636145471937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1817560473946230784",
+          "start": 0,
+          "username": "xiaogouchibaob"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928773636145471937",
+    "in_reply_to_user_id": "1817560473946230784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928773202328629647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaogouchibaob 哈哈哈这是门哥吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 841,
+        "media_key": "3_1928773195076874240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsRhAHjaMAA7UBM.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1928773202328629647",
+        "created_at": "2025-05-31T11:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T12:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928773636145471937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1817560473946230784",
+              "start": 0,
+              "username": "xiaogouchibaob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928773636145471937",
+        "in_reply_to_user_id": "1817560473946230784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928773202328629647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaogouchibaob 哈哈哈这是门哥吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928773195076874240"
+          ]
+        },
+        "author_id": "1817560473946230784",
+        "conversation_id": "1928773202328629647",
+        "created_at": "2025-05-31T11:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T12:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928773202328629647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XPdXqLc7UJ",
+              "end": 28,
+              "expanded_url": "https://x.com/xiaogouchibaob/status/1928773202328629647/photo/1",
+              "media_key": "3_1928773195076874240",
+              "start": 5,
+              "url": "https://t.co/XPdXqLc7UJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928773202328629647",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点is https://t.co/XPdXqLc7UJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "都过了这么久了怎么还是放不下你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912318298353487872/R3xfbIV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 239,
+          "like_count": 7456,
+          "listed_count": 11,
+          "media_count": 2716,
+          "tweet_count": 11057
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-28T13:59:34.000Z",
+        "description": "switch/love forever/小猫小狗全肯定/不约/不处/匿名箱https://t.co/RVpmbbFg8Y 不接广 小号只过互关@cat0813cat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "cat0813cat"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaogouchibaob",
+                "end": 60,
+                "expanded_url": "https://ngl.link/xiaogouchibaob",
+                "start": 37,
+                "url": "https://t.co/RVpmbbFg8Y"
+              }
+            ]
+          }
+        },
+        "id": "1817560473946230784",
+        "location": "🚪288/520/888",
+        "name": "小狗吃饱饱",
+        "pinned_tweet_id": "1887329540395180280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924782889390243843/A_2Yttdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7132,
+          "following_count": 276,
+          "like_count": 14769,
+          "listed_count": 16,
+          "media_count": 356,
+          "tweet_count": 10953
+        },
+        "username": "xiaogouchibaob",
+        "verified": false
+      }
+    ]
+  }
+}

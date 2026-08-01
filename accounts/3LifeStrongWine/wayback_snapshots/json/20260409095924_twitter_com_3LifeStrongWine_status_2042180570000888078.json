@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2042169852908150872",
+    "created_at": "2026-04-09T09:59:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T10:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042180570000888078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1853119011619487744",
+          "start": 0,
+          "username": "StarryLove_1005"
+        },
+        {
+          "end": 33,
+          "id": "1846596847324090368",
+          "start": 17,
+          "username": "gummy_yummy_123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042180570000888078",
+    "in_reply_to_user_id": "1853119011619487744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042174442785444045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StarryLove_1005 @gummy_yummy_123 多少钱啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2042169852908150872",
+        "created_at": "2026-04-09T09:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T10:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042180570000888078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853119011619487744",
+              "start": 0,
+              "username": "StarryLove_1005"
+            },
+            {
+              "end": 33,
+              "id": "1846596847324090368",
+              "start": 17,
+              "username": "gummy_yummy_123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042180570000888078",
+        "in_reply_to_user_id": "1853119011619487744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042174442785444045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryLove_1005 @gummy_yummy_123 多少钱啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853119011619487744",
+        "conversation_id": "2042169852908150872",
+        "created_at": "2026-04-09T09:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T10:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042174442785444045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1846596847324090368",
+              "start": 0,
+              "username": "gummy_yummy_123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042174442785444045",
+        "in_reply_to_user_id": "1846596847324090368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042171234457440530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gummy_yummy_123 18年就喜欢到现在也没舍得买…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我一定带你脱离苦海我答应过你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2043,
+          "following_count": 184,
+          "like_count": 6885,
+          "listed_count": 13,
+          "media_count": 3522,
+          "tweet_count": 13848
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T16:56:31.000Z",
+        "description": "謝謝你成為了我的幾分之幾@imsry4what",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "imsry4what"
+              }
+            ]
+          }
+        },
+        "id": "1853119011619487744",
+        "location": "不聊天不线下不接定制不接广",
+        "name": "420",
+        "pinned_tweet_id": "2040706131128143908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033844672188321793/idJzNAyK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5101,
+          "following_count": 65,
+          "like_count": 6058,
+          "listed_count": 7,
+          "media_count": 81,
+          "tweet_count": 1891
+        },
+        "username": "StarryLove_1005",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-16T16:59:45.000Z",
+        "description": "鼠鼠爱怎么发就怎么发！",
+        "id": "1846596847324090368",
+        "location": "人潮拥挤握住湿热的手心",
+        "name": "宝妈手作老鼠药饭团",
+        "pinned_tweet_id": "2038631786369175970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041381042939187200/28GBOHPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 899,
+          "following_count": 99,
+          "like_count": 5488,
+          "listed_count": 1,
+          "media_count": 978,
+          "tweet_count": 5964
+        },
+        "username": "gummy_yummy_123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2064343746951667836",
+    "created_at": "2026-06-10T14:25:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T15:25:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064715690528108697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1866013437941497856",
+          "start": 0,
+          "username": "qi_wang69551"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064715690528108697",
+    "in_reply_to_user_id": "1866013437941497856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064390977108971807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qi_wang69551 我感觉我的工作还可以😌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2064343746951667836",
+        "created_at": "2026-06-10T14:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064715690528108697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866013437941497856",
+              "start": 0,
+              "username": "qi_wang69551"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064715690528108697",
+        "in_reply_to_user_id": "1866013437941497856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064390977108971807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qi_wang69551 我感觉我的工作还可以😌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866013437941497856",
+        "conversation_id": "2064343746951667836",
+        "created_at": "2026-06-09T16:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064390977108971807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064390977108971807",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064343746951667836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 真的吗，那我就好好找工作了，本来挺怕上班来着 感觉被束缚的感觉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花潭水深千尺  不及汪伦送我情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2868,
+          "following_count": 100,
+          "like_count": 6810,
+          "listed_count": 14,
+          "media_count": 3710,
+          "tweet_count": 14474
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T06:54:23.000Z",
+        "description": "00后处男。毕业即失业两年/抑郁焦虑自愈者/中国应试教育受害者/没喝过星巴克（买不起）/偷过东西（只偷超市零食）。\n欢迎国际友人互关 不定时分析真情实感的情绪垃圾 无🚪",
+        "id": "1866013437941497856",
+        "name": "床边小橱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986222329559719940/cIOaxGib_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 6,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 40
+        },
+        "username": "qi_wang69551",
+        "verified": false
+      }
+    ]
+  }
+}

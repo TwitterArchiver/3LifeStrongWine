@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1880997047169667535",
+    "created_at": "2025-01-19T15:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T16:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880997644191097329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1749848735436427265",
+          "start": 0,
+          "username": "chengzipi98426"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880997644191097329",
+    "in_reply_to_user_id": "1749848735436427265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880997407141527801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chengzipi98426 是的，但有的不是很甜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1880997047169667535",
+        "created_at": "2025-01-19T15:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T16:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880997644191097329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749848735436427265",
+              "start": 0,
+              "username": "chengzipi98426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880997644191097329",
+        "in_reply_to_user_id": "1749848735436427265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880997407141527801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chengzipi98426 是的，但有的不是很甜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749848735436427265",
+        "conversation_id": "1880997047169667535",
+        "created_at": "2025-01-19T15:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T16:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880997407141527801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880997407141527801",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880997047169667535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 啊啊啊感觉都好香啊🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "看桃花究竟开出怎样的结果",
+        "id": "1529654419213541376",
+        "location": "夢在心上心便溫柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1162,
+          "following_count": 239,
+          "like_count": 5626,
+          "listed_count": 7,
+          "media_count": 1317,
+          "tweet_count": 6000
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T17:37:16.000Z",
+        "description": "听我讲很多话的人都是世界上最好的人！！（嘻嘻看帖子就好了）🥰/🔥拜金 （别和我认识一下）/",
+        "id": "1749848735436427265",
+        "location": "橙的🛏️",
+        "name": "屋顶橙子皮",
+        "pinned_tweet_id": "1760558813118443965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879820928366080000/cA8I0sOG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 209,
+          "like_count": 46845,
+          "listed_count": 7,
+          "media_count": 150,
+          "tweet_count": 4051
+        },
+        "username": "chengzipi98426",
+        "verified": false
+      }
+    ]
+  }
+}

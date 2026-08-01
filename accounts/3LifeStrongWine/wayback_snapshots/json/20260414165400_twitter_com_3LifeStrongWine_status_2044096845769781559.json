@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2044066676271095970",
+    "created_at": "2026-04-14T16:54:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T17:54:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044096845769781559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1887227093429403648",
+          "start": 0,
+          "username": "jiujiu0528"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044096845769781559",
+    "in_reply_to_user_id": "1887227093429403648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044067211485294600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiujiu0528 折耳根？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044067187133165573",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF38RtoasAUlRmE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2044066676271095970",
+        "created_at": "2026-04-14T16:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T17:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044096845769781559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1887227093429403648",
+              "start": 0,
+              "username": "jiujiu0528"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044096845769781559",
+        "in_reply_to_user_id": "1887227093429403648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044067211485294600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiujiu0528 折耳根？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044067187133165573"
+          ]
+        },
+        "author_id": "1887227093429403648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2044066676271095970",
+        "created_at": "2026-04-14T14:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044067211485294600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YklnPHrn44",
+              "end": 29,
+              "expanded_url": "https://x.com/jiujiu0528/status/2044067211485294600/photo/1",
+              "media_key": "3_2044067187133165573",
+              "start": 6,
+              "url": "https://t.co/YklnPHrn44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044067211485294600",
+        "in_reply_to_user_id": "1887227093429403648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1204,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044066676271095970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "错峰追竞中 https://t.co/YklnPHrn44"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "如果能有转机我许愿是能够一直看着你的眼睛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 115,
+          "like_count": 6930,
+          "listed_count": 12,
+          "media_count": 3545,
+          "tweet_count": 13958
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T19:49:47.000Z",
+        "description": "碎碎念 有什么想问的可以在这里问我https://t.co/FOk6ztqplg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yao16898",
+                "end": 40,
+                "expanded_url": "https://ngl.link/yao16898",
+                "start": 17,
+                "url": "https://t.co/FOk6ztqplg"
+              }
+            ]
+          }
+        },
+        "id": "1887227093429403648",
+        "name": "yao",
+        "pinned_tweet_id": "1971958377803833680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887227251269246976/IHlbFb_2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22580,
+          "following_count": 36,
+          "like_count": 54,
+          "listed_count": 61,
+          "media_count": 238,
+          "tweet_count": 1063
+        },
+        "username": "jiujiu0528",
+        "verified": false
+      }
+    ]
+  }
+}

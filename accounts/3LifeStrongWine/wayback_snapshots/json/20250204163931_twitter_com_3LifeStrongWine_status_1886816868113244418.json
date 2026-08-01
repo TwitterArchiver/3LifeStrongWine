@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1886669594619953528",
+    "created_at": "2025-02-04T16:39:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T17:39:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886816868113244418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1700939369333542912",
+          "start": 0,
+          "username": "odrkjv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886816868113244418",
+    "in_reply_to_user_id": "1700939369333542912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886815711559073875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@odrkjv 晶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1886669594619953528",
+        "created_at": "2025-02-04T16:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T17:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886816868113244418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1700939369333542912",
+              "start": 0,
+              "username": "odrkjv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886816868113244418",
+        "in_reply_to_user_id": "1700939369333542912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886815711559073875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@odrkjv 晶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886815706316201990"
+          ]
+        },
+        "author_id": "1700939369333542912",
+        "conversation_id": "1886669594619953528",
+        "created_at": "2025-02-04T16:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T17:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886815711559073875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/14FnDeFvJr",
+              "end": 40,
+              "expanded_url": "https://x.com/odrkjv/status/1886815711559073875/photo/1",
+              "media_key": "3_1886815706316201990",
+              "start": 17,
+              "url": "https://t.co/14FnDeFvJr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886815711559073875",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886669594619953528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine https://t.co/14FnDeFvJr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 219,
+          "like_count": 6437,
+          "listed_count": 9,
+          "media_count": 1627,
+          "tweet_count": 7074
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-10T18:28:53.000Z",
+        "description": "见习男娘，出道～",
+        "id": "1700939369333542912",
+        "name": "康斯坦丁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866321609872875520/v49hgqlA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 247,
+          "like_count": 1244,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 212
+        },
+        "username": "odrkjv",
+        "verified": false
+      }
+    ]
+  }
+}

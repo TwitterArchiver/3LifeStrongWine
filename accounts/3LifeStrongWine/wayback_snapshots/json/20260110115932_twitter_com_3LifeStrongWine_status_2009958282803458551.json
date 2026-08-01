@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2001273995182956608",
+    "created_at": "2026-01-10T11:59:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T12:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009958282803458551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1311048095334101003",
+          "start": 0,
+          "username": "cE6dWDa36zrqR4U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009958282803458551",
+    "in_reply_to_user_id": "1311048095334101003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009957730140991879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cE6dWDa36zrqR4U 兄弟没招了，我博学个jb，你是真的帅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2001273995182956608",
+        "created_at": "2026-01-10T11:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T12:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009958282803458551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1311048095334101003",
+              "start": 0,
+              "username": "cE6dWDa36zrqR4U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009958282803458551",
+        "in_reply_to_user_id": "1311048095334101003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009957730140991879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cE6dWDa36zrqR4U 兄弟没招了，我博学个jb，你是真的帅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1311048095334101003",
+        "conversation_id": "2001273995182956608",
+        "created_at": "2026-01-10T11:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T12:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009957730140991879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009957730140991879",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009956949144875411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 兄弟我的帅是p出来的，你的博学不是🫰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "云和山和风和雨，轻轻地流过我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VnXMe"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "pinned_tweet_id": "1992598033381638574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1658,
+          "following_count": 168,
+          "like_count": 6688,
+          "listed_count": 12,
+          "media_count": 3129,
+          "tweet_count": 12612
+        },
+        "url": "https://t.co/3g5y5VnXMe",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-29T21:00:13.000Z",
+        "description": "奈何身为雀 于此借寒山",
+        "id": "1311048095334101003",
+        "location": "成都",
+        "name": "臣(术数版",
+        "pinned_tweet_id": "1785726513855238599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931410902127132672/sh_1iNCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 318,
+          "like_count": 2175,
+          "listed_count": 7,
+          "media_count": 115,
+          "tweet_count": 1129
+        },
+        "username": "cE6dWDa36zrqR4U",
+        "verified": false
+      }
+    ]
+  }
+}

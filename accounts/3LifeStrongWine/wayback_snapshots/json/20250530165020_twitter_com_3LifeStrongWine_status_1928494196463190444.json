@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928494186099073024"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1928494196463190444",
+    "created_at": "2025-05-30T16:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T17:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928494196463190444"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q5yKzn7qzA",
+          "end": 29,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1928494196463190444/photo/1",
+          "media_key": "3_1928494186099073024",
+          "start": 6,
+          "url": "https://t.co/Q5yKzn7qzA"
+        },
+        {
+          "display_url": "x.com/3lifestrongwin…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/3lifestrongwine/status/1928482230378090749",
+          "start": 30,
+          "url": "https://t.co/pHpeaa2yNX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928494196463190444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928482230378090749",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有点逆天了 https://t.co/Q5yKzn7qzA https://t.co/pHpeaa2yNX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1928494186099073024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsNjPqHXYAApaK_.jpg",
+        "width": 1412
+      },
+      {
+        "duration_ms": 14953,
+        "height": 1920,
+        "media_key": "13_1928482131094970369",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1928482131094970369/img/p_7VpK6jtym1BR7e.jpg",
+        "public_metrics": {
+          "view_count": 10
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1928482131094970369/pl/1Fzh_Z3ONIwoDGMt.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928482131094970369/vid/avc1/320x568/rWLxty5a9O0b3vzc.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928482131094970369/vid/avc1/1080x1920/Q7SMWCajh4_e8azU.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928482131094970369/vid/avc1/480x852/QfJuV98dqofuBkt2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928482131094970369/vid/avc1/720x1280/flVgDjy2InCUBr5_.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928494186099073024"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1928494196463190444",
+        "created_at": "2025-05-30T16:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T17:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928494196463190444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q5yKzn7qzA",
+              "end": 29,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1928494196463190444/photo/1",
+              "media_key": "3_1928494186099073024",
+              "start": 6,
+              "url": "https://t.co/Q5yKzn7qzA"
+            },
+            {
+              "display_url": "x.com/3lifestrongwin…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/3lifestrongwine/status/1928482230378090749",
+              "start": 30,
+              "url": "https://t.co/pHpeaa2yNX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928494196463190444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928482230378090749",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有点逆天了 https://t.co/Q5yKzn7qzA https://t.co/pHpeaa2yNX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1928482131094970369"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1928482230378090749",
+        "created_at": "2025-05-30T16:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T17:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928482230378090749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Sof9Z09Uh",
+              "end": 32,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1928482230378090749/video/1",
+              "media_key": "13_1928482131094970369",
+              "start": 9,
+              "url": "https://t.co/9Sof9Z09Uh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928482230378090749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1999你要怎样 https://t.co/9Sof9Z09Uh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "闻有三山不知处，茂陵松柏满西风",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912318298353487872/R3xfbIV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1526,
+          "following_count": 237,
+          "like_count": 7444,
+          "listed_count": 11,
+          "media_count": 2707,
+          "tweet_count": 11023
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

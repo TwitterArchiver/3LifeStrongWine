@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1875388891462823939"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1875388899037696492",
+    "created_at": "2025-01-04T03:48:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T04:48:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1875388899037696492"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RErWS5YTuj",
+          "end": 35,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1875388899037696492/photo/1",
+          "media_key": "3_1875388891462823939",
+          "start": 12,
+          "url": "https://t.co/RErWS5YTuj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875388899037696492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "闲的没事想给键盘换轴玩 https://t.co/RErWS5YTuj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1875388891462823939",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gga4QrNa8AMfQfk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875388891462823939"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1875388899037696492",
+        "created_at": "2025-01-04T03:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T04:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875388899037696492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RErWS5YTuj",
+              "end": 35,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1875388899037696492/photo/1",
+              "media_key": "3_1875388891462823939",
+              "start": 12,
+              "url": "https://t.co/RErWS5YTuj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875388899037696492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闲的没事想给键盘换轴玩 https://t.co/RErWS5YTuj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "雨季里我和你的青春一起坐过了站，而我会站在原地热泪盈眶地读你的未来",
+        "id": "1529654419213541376",
+        "location": "没见过的也算不得遗憾，寥寥数年已经足够圆满",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 212,
+          "like_count": 3902,
+          "listed_count": 7,
+          "media_count": 884,
+          "tweet_count": 4589
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999649663377637381"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1999649670654755271",
+    "created_at": "2025-12-13T01:16:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T02:16:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999649670654755271"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JU6NtyFi8y",
+          "end": 23,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1999649670654755271/photo/1",
+          "media_key": "3_1999649663377637381",
+          "start": 0,
+          "url": "https://t.co/JU6NtyFi8y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999649670654755271",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/JU6NtyFi8y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999649663377637381",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8AuxjTagAUf-I5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999649663377637381"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1999649670654755271",
+        "created_at": "2025-12-13T01:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T02:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999649670654755271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JU6NtyFi8y",
+              "end": 23,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1999649670654755271/photo/1",
+              "media_key": "3_1999649663377637381",
+              "start": 0,
+              "url": "https://t.co/JU6NtyFi8y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999649670654755271",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JU6NtyFi8y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我爱上的是遥远的理想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "pinned_tweet_id": "1992598033381638574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 169,
+          "like_count": 6612,
+          "listed_count": 12,
+          "media_count": 3037,
+          "tweet_count": 12256
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

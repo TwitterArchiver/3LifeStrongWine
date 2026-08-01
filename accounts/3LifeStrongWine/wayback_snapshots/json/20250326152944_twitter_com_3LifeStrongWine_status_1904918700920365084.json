@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1874299070728274280",
+    "created_at": "2025-03-26T15:29:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T16:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904918700920365084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1808552527119437824",
+          "start": 0,
+          "username": "11dontcryTT"
+        },
+        {
+          "end": 26,
+          "id": "1248637653001494529",
+          "start": 13,
+          "username": "Fomalhautawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904918700920365084",
+    "in_reply_to_user_id": "1808552527119437824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904908465061191934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@11dontcryTT @Fomalhautawa 梦见的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1904908465061191934].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1904908465061191934",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1904908465061191934"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1874299070728274280",
+        "created_at": "2025-03-26T15:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T16:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904918700920365084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1808552527119437824",
+              "start": 0,
+              "username": "11dontcryTT"
+            },
+            {
+              "end": 26,
+              "id": "1248637653001494529",
+              "start": 13,
+              "username": "Fomalhautawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904918700920365084",
+        "in_reply_to_user_id": "1808552527119437824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904908465061191934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11dontcryTT @Fomalhautawa 梦见的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来｜把那无人问津的岁月熬成清茶，等一场芳香四散",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1480,
+          "following_count": 236,
+          "like_count": 7113,
+          "listed_count": 11,
+          "media_count": 2270,
+          "tweet_count": 9319
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-03T17:25:07.000Z",
+        "description": "一直向前",
+        "id": "1808552527119437824",
+        "name": "₊⁺ ·悲᳐伤猫猫头᳐· ﾟ ₊",
+        "pinned_tweet_id": "1869826853781025104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904193810303012864/JJJtEkJx_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2714,
+          "following_count": 77,
+          "like_count": 2395,
+          "listed_count": 7,
+          "media_count": 466,
+          "tweet_count": 4314
+        },
+        "username": "11dontcryTT",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-10T15:43:19.000Z",
+        "description": "你好哦，這裡是師師。\n謝謝你來。\n@Ning0809pepsi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "Ning0809pepsi"
+              }
+            ]
+          }
+        },
+        "id": "1248637653001494529",
+        "location": "萱華軒",
+        "name": "師霂澪。",
+        "pinned_tweet_id": "1900761409329524973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901276682939760640/M7HGkXCx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1609,
+          "following_count": 272,
+          "like_count": 119897,
+          "listed_count": 20,
+          "media_count": 48,
+          "tweet_count": 26384
+        },
+        "username": "Fomalhautawa",
+        "verified": false
+      }
+    ]
+  }
+}

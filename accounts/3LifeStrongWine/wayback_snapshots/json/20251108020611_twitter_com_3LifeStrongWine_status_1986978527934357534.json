@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1986978434091000064",
+    "created_at": "2025-11-08T02:06:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T03:06:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986978527934357534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1597161610799636483",
+          "start": 0,
+          "username": "TiAmosuisui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986978527934357534",
+    "in_reply_to_user_id": "1597161610799636483",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986978434091000064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TiAmosuisui 笑死我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986978422711853057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5MqWRYbIAEJYUj.jpg",
+        "width": 912
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1986978434091000064",
+        "created_at": "2025-11-08T02:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T03:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986978527934357534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1597161610799636483",
+              "start": 0,
+              "username": "TiAmosuisui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986978527934357534",
+        "in_reply_to_user_id": "1597161610799636483",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986978434091000064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TiAmosuisui 笑死我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986978422711853057"
+          ]
+        },
+        "author_id": "1597161610799636483",
+        "conversation_id": "1986978434091000064",
+        "created_at": "2025-11-08T02:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T03:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986978434091000064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N0trtmXDAq",
+              "end": 32,
+              "expanded_url": "https://x.com/TiAmosuisui/status/1986978434091000064/photo/1",
+              "media_key": "3_1986978422711853057",
+              "start": 9,
+              "url": "https://t.co/N0trtmXDAq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986978434091000064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收🏧不收年纪小的 https://t.co/N0trtmXDAq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "被自由困在风里",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VnXMe"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986800434103873536/Uf-otfcy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 177,
+          "like_count": 6636,
+          "listed_count": 12,
+          "media_count": 2999,
+          "tweet_count": 12139
+        },
+        "url": "https://t.co/3g5y5VnXMe",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-28T09:33:07.000Z",
+        "description": "小则宝💕聊天🚪8888",
+        "id": "1597161610799636483",
+        "location": "TiAmo",
+        "name": "小则身体健康天天开心",
+        "pinned_tweet_id": "1911057071270752764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741099621320138752/VVf9gK3B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1849,
+          "following_count": 60,
+          "like_count": 6603,
+          "listed_count": 6,
+          "media_count": 1021,
+          "tweet_count": 12459
+        },
+        "username": "TiAmosuisui",
+        "verified": false
+      }
+    ]
+  }
+}

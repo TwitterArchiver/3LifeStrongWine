@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2036444334531191095",
+    "created_at": "2026-03-25T13:33:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T14:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036798512571060576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2031399194938970112",
+          "start": 0,
+          "username": "JerryXjade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036798512571060576",
+    "in_reply_to_user_id": "2031399194938970112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036782524073218094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JerryXjade 会有机会的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2036444334531191095",
+        "created_at": "2026-03-25T13:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T14:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036798512571060576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2031399194938970112",
+              "start": 0,
+              "username": "JerryXjade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036798512571060576",
+        "in_reply_to_user_id": "2031399194938970112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036782524073218094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JerryXjade 会有机会的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031399194938970112",
+        "conversation_id": "2036444334531191095",
+        "created_at": "2026-03-25T12:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T13:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036782524073218094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036782524073218094",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036444334531191095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 好美啊 以后一定要去一次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "願償少年淚，猶趁未老時",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VnXMe"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1904,
+          "following_count": 174,
+          "like_count": 6765,
+          "listed_count": 13,
+          "media_count": 3412,
+          "tweet_count": 13379
+        },
+        "url": "https://t.co/3g5y5VnXMe",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T15:59:51.000Z",
+        "description": "谁能陪我聊天。\nO.O",
+        "id": "2031399194938970112",
+        "name": "leximo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031745751286747136/ama9jmq3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 18
+        },
+        "username": "JerryXjade",
+        "verified": false
+      }
+    ]
+  }
+}

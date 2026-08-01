@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1941854661239316846",
+    "created_at": "2025-07-06T14:19:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T15:19:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941864540754563301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1749848735436427265",
+          "start": 0,
+          "username": "Orangepeel98426"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941864540754563301",
+    "in_reply_to_user_id": "1749848735436427265",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941864443601653846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Orangepeel98426 北京秋天也挺热的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1941854661239316846",
+        "created_at": "2025-07-06T14:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T15:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941864540754563301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1749848735436427265",
+              "start": 0,
+              "username": "Orangepeel98426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941864540754563301",
+        "in_reply_to_user_id": "1749848735436427265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941864443601653846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orangepeel98426 北京秋天也挺热的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749848735436427265",
+        "conversation_id": "1941854661239316846",
+        "created_at": "2025-07-06T14:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T15:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941864443601653846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941864443601653846",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941854661239316846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 我秋天怎么你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "泛黄的老照片里讲述了一个什么样的故事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我会带你去看这世界上最独一无二的风景",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1592,
+          "following_count": 187,
+          "like_count": 7149,
+          "listed_count": 11,
+          "media_count": 2894,
+          "tweet_count": 11777
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-23T17:37:16.000Z",
+        "description": "不更新是在受苦｜我们@Pscouopie4u（素好朋友）｜不接推广和转推不聊天｜废话一箩筐｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Pscouopie4u"
+              }
+            ]
+          }
+        },
+        "id": "1749848735436427265",
+        "location": "占据角落",
+        "name": "齐刘海邪恶👿橙子皮",
+        "pinned_tweet_id": "1930910204926775632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941157431884857344/5nMgJGDa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3875,
+          "following_count": 486,
+          "like_count": 139610,
+          "listed_count": 18,
+          "media_count": 401,
+          "tweet_count": 18061
+        },
+        "username": "Orangepeel98426",
+        "verified": false
+      }
+    ]
+  }
+}

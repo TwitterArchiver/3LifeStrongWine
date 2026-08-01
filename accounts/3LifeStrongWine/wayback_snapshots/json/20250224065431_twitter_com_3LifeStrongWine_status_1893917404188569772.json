@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1893838514287947821",
+    "created_at": "2025-02-24T06:54:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T07:54:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893917404188569772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1785365979264118785",
+          "start": 0,
+          "username": "doushaneedlele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893917404188569772",
+    "in_reply_to_user_id": "1785365979264118785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893917234789023842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doushaneedlele 是啊💔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1893838514287947821",
+        "created_at": "2025-02-24T06:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T07:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893917404188569772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1785365979264118785",
+              "start": 0,
+              "username": "doushaneedlele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893917404188569772",
+        "in_reply_to_user_id": "1785365979264118785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893917234789023842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doushaneedlele 是啊💔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785365979264118785",
+        "conversation_id": "1893838514287947821",
+        "created_at": "2025-02-24T06:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T07:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893917234789023842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893917234789023842",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893838514287947821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 顺丰真的 有的时候还不如普通物流"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1410,
+          "following_count": 227,
+          "like_count": 6798,
+          "listed_count": 10,
+          "media_count": 2005,
+          "tweet_count": 8201
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-30T17:50:05.000Z",
+        "description": "🩵详情咨询食用指南https://t.co/Wbgs7shfjU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pearju1ce_",
+                "end": 32,
+                "expanded_url": "https://ngl.link/pearju1ce_",
+                "start": 9,
+                "url": "https://t.co/Wbgs7shfjU"
+              }
+            ]
+          }
+        },
+        "id": "1785365979264118785",
+        "name": "pearju1ce_",
+        "pinned_tweet_id": "1885046741340451129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885044176624189440/WoMy-nzA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 118,
+          "like_count": 347,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 1100
+        },
+        "username": "doushaneedlele",
+        "verified": false
+      }
+    ]
+  }
+}

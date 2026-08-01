@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1893611274392461709",
+    "created_at": "2025-02-23T10:38:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T11:38:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893611274392461709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1248637653001494529",
+          "start": 3,
+          "username": "Fomalhautawa"
+        },
+        {
+          "end": 31,
+          "id": "1774063407559512064",
+          "start": 18,
+          "username": "lightly_wind"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893611274392461709",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893600836082909597",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fomalhautawa: @lightly_wind 互送杯子啊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1893611274392461709",
+        "created_at": "2025-02-23T10:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T11:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893611274392461709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1248637653001494529",
+              "start": 3,
+              "username": "Fomalhautawa"
+            },
+            {
+              "end": 31,
+              "id": "1774063407559512064",
+              "start": 18,
+              "username": "lightly_wind"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893611274392461709",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893600836082909597",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fomalhautawa: @lightly_wind 互送杯子啊！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1248637653001494529",
+        "conversation_id": "1893599783656329448",
+        "created_at": "2025-02-23T09:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T10:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893600836082909597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1774063407559512064",
+              "start": 0,
+              "username": "lightly_wind"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893600836082909597",
+        "in_reply_to_user_id": "1774063407559512064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893599783656329448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lightly_wind 互送杯子啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 224,
+          "like_count": 6753,
+          "listed_count": 10,
+          "media_count": 1987,
+          "tweet_count": 8132
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-10T15:43:19.000Z",
+        "description": "你好哦，姓师怎么称呼都行，现居上海。/\n发些日常·食物·抽象，偶尔会说点怪话。/\n私信评论都会互动哦，我很温和的，请随意。/\n经常会清理一些推文，望见谅。/\n愿你喜乐安康。",
+        "id": "1248637653001494529",
+        "location": "萱华轩",
+        "name": "S𝖍𝖎𝖘𝖜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891505068354277376/GWmucr4r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 230,
+          "like_count": 80282,
+          "listed_count": 8,
+          "media_count": 49,
+          "tweet_count": 18179
+        },
+        "username": "Fomalhautawa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T13:17:38.000Z",
+        "description": "这里是风风，一个立誓不对任何人恶语相向的笨蛋大猫猫ෆ╹ .̮ ╹ෆ/想成为像暖言猫猫一样用语言温暖身边所有人的人(◍•ᴗ•◍)✧*/不排斥任何观点和立场也不歧视任何人( ◜‿◝ )♡/从深渊中醒来过所以尽力去帮助身边处于痛苦和迷茫的人♡ ᒪ∅ᐯᕮ ♡/有烦恼可以和我说说哦，请你喝奶茶(´∩｡• ᵕ •｡∩`)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "limestart.cn",
+                "end": 23,
+                "expanded_url": "https://limestart.cn/",
+                "start": 0,
+                "url": "https://t.co/6iDsLyipfL"
+              }
+            ]
+          }
+        },
+        "id": "1774063407559512064",
+        "location": "异世界，王国都城，上城区",
+        "name": "温柔的风穿堂过 | ※吟游诗人※",
+        "pinned_tweet_id": "1886440954007269741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888802816195723264/7ghgfSrT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 788,
+          "like_count": 18113,
+          "listed_count": 16,
+          "media_count": 633,
+          "tweet_count": 6767
+        },
+        "url": "https://t.co/6iDsLyipfL",
+        "username": "lightly_wind",
+        "verified": false
+      }
+    ]
+  }
+}

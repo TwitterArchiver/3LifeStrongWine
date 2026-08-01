@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2006039479212003743",
+    "created_at": "2025-12-31T05:53:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T06:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006242382371758217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1661391616870084610",
+          "start": 0,
+          "username": "0v0_Nutcracker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006242382371758217",
+    "in_reply_to_user_id": "1661391616870084610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006039479212003743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0v0_Nutcracker 你这说的是找实习吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2006039479212003743",
+        "created_at": "2025-12-31T05:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T06:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006242382371758217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1661391616870084610",
+              "start": 0,
+              "username": "0v0_Nutcracker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006242382371758217",
+        "in_reply_to_user_id": "1661391616870084610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006039479212003743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0v0_Nutcracker 你这说的是找实习吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661391616870084610",
+        "conversation_id": "2006039479212003743",
+        "created_at": "2025-12-30T16:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T17:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006039479212003743"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006039479212003743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 691,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只有做0经验可以无实习期转正做1吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我爱上的是遥远的理想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "pinned_tweet_id": "1992598033381638574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1644,
+          "following_count": 166,
+          "like_count": 6631,
+          "listed_count": 13,
+          "media_count": 3075,
+          "tweet_count": 12366
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-24T15:20:22.000Z",
+        "description": "intj｜bi 0.5｜挚爱骨科｜年上激推｜殿堂级bl鉴赏家｜人夫感毒唯｜究极杂食写手#胡桃书橱\n\n谢谢你来看我，希望你今天过得快乐",
+        "id": "1661391616870084610",
+        "name": "胡桃",
+        "pinned_tweet_id": "2006052455390314910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004215682645544960/GMSqkYG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1211,
+          "following_count": 241,
+          "like_count": 14859,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 1922
+        },
+        "username": "0v0_Nutcracker",
+        "verified": false
+      }
+    ]
+  }
+}

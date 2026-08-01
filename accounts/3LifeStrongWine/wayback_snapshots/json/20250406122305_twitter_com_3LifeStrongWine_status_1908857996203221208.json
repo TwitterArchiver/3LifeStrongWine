@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1908789050221404496",
+    "created_at": "2025-04-06T12:23:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T13:23:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908857996203221208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1703762928",
+          "start": 0,
+          "username": "1965chich"
+        },
+        {
+          "end": 21,
+          "id": "1580505223071641600",
+          "start": 11,
+          "username": "qwq_shark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908857996203221208",
+    "in_reply_to_user_id": "1703762928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908857959423287629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1965chich @qwq_shark 我没带电脑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1908789050221404496",
+        "created_at": "2025-04-06T12:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T13:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908857996203221208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1703762928",
+              "start": 0,
+              "username": "1965chich"
+            },
+            {
+              "end": 21,
+              "id": "1580505223071641600",
+              "start": 11,
+              "username": "qwq_shark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908857996203221208",
+        "in_reply_to_user_id": "1703762928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908857959423287629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1965chich @qwq_shark 我没带电脑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703762928",
+        "conversation_id": "1908789050221404496",
+        "created_at": "2025-04-06T12:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T13:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908857959423287629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            },
+            {
+              "end": 27,
+              "id": "1580505223071641600",
+              "start": 17,
+              "username": "qwq_shark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908857959423287629",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908857798177538293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine @qwq_shark 你给我看看来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "业余摄影｜我会永远站在过去热泪盈眶地读着你们的未来",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1492,
+          "following_count": 244,
+          "like_count": 7219,
+          "listed_count": 12,
+          "media_count": 2439,
+          "tweet_count": 9841
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2013-08-27T05:20:31.000Z",
+        "description": "🇨🇳爱中国 145/44kg 欢迎来到KFC的内心世界 带学生 有点社恐 喜欢看帅帅的女孩子/无性恋 /非跨/不会尊重人的关小黑屋/心里第一：浪浪宝贝 /爸爸：@kaijiangtuotu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "kaijiangtuotu_"
+              }
+            ]
+          }
+        },
+        "id": "1703762928",
+        "name": "Kentucky Fried Chicken",
+        "pinned_tweet_id": "1858379364754493737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882590512760446976/XdK6-PCg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3780,
+          "following_count": 1020,
+          "like_count": 15612,
+          "listed_count": 4,
+          "media_count": 221,
+          "tweet_count": 4468
+        },
+        "username": "1965chich",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T10:28:18.000Z",
+        "description": "内涉嫌自杀倾向 药物滥用 酗酒 慎入｜好朋友@Miekoudesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Miekoudesu"
+              }
+            ]
+          }
+        },
+        "id": "1580505223071641600",
+        "location": "🚪88",
+        "name": "悲惨世界与内心独白",
+        "pinned_tweet_id": "1863064821769568264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904698481417347074/bQb4DgC5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3250,
+          "following_count": 285,
+          "like_count": 3015,
+          "listed_count": 1,
+          "media_count": 323,
+          "tweet_count": 7521
+        },
+        "username": "qwq_shark",
+        "verified": false
+      }
+    ]
+  }
+}

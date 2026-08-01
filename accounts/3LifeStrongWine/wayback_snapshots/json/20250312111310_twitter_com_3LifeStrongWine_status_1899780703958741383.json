@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1899691249717686297",
+    "created_at": "2025-03-12T11:13:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T12:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899780703958741383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1226370935445389313",
+          "start": 0,
+          "username": "waibibaburavowo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899780703958741383",
+    "in_reply_to_user_id": "1226370935445389313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899764954158584261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@waibibaburavowo 因为我是尊贵的prime 可以改颜色"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1899691249717686297",
+        "created_at": "2025-03-12T11:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T12:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899780703958741383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1226370935445389313",
+              "start": 0,
+              "username": "waibibaburavowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899780703958741383",
+        "in_reply_to_user_id": "1226370935445389313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899764954158584261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@waibibaburavowo 因为我是尊贵的prime 可以改颜色"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1226370935445389313",
+        "conversation_id": "1899691249717686297",
+        "created_at": "2025-03-12T10:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T11:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899764954158584261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899764954158584261",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899691249717686297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 等等 为什么你不是黑叉而是粉叉🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1410,
+          "following_count": 235,
+          "like_count": 6964,
+          "listed_count": 11,
+          "media_count": 2137,
+          "tweet_count": 8653
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-09T05:03:25.000Z",
+        "description": "法师/上推就是为了搞黄色（坦诚）/爱听粤语歌",
+        "id": "1226370935445389313",
+        "location": "挪威的森林",
+        "name": "我只是个快乐的火龙果啊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1280885258708107264/M025L7Sm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 531,
+          "like_count": 2429,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 1423
+        },
+        "username": "waibibaburavowo",
+        "verified": false
+      }
+    ]
+  }
+}

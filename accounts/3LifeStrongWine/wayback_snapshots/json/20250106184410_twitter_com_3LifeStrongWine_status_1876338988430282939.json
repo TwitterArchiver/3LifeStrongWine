@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1876338988430282939",
+    "created_at": "2025-01-06T18:44:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T19:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1876338988430282939"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oriyukiiiii/st…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/oriyukiiiii/status/1876338765926740117",
+          "start": 11,
+          "url": "https://t.co/xekbjMlw4f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876338988430282939",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876338765926740117",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好的，回去等通知吧。 https://t.co/xekbjMlw4f"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1876338988430282939",
+        "created_at": "2025-01-06T18:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T19:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876338988430282939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oriyukiiiii/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/oriyukiiiii/status/1876338765926740117",
+              "start": 11,
+              "url": "https://t.co/xekbjMlw4f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876338988430282939",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876338765926740117",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好的，回去等通知吧。 https://t.co/xekbjMlw4f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876338758888689664"
+          ]
+        },
+        "author_id": "1600277431256256512",
+        "conversation_id": "1876338765926740117",
+        "created_at": "2025-01-06T18:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T19:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876338765926740117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4sl0pQmaTE",
+              "end": 26,
+              "expanded_url": "https://x.com/Oriyukiiiii/status/1876338765926740117/photo/1",
+              "media_key": "3_1876338758888689664",
+              "start": 3,
+              "url": "https://t.co/4sl0pQmaTE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876338765926740117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦呦 https://t.co/4sl0pQmaTE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "雨季里我和你的青春一起坐过了站，而我会站在原地热泪盈眶地读你的未来",
+        "id": "1529654419213541376",
+        "location": "Destination of the Wind",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 209,
+          "like_count": 4266,
+          "listed_count": 7,
+          "media_count": 933,
+          "tweet_count": 4795
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-06T23:54:14.000Z",
+        "description": "碎碎念构成的集合体。 “心怀梦想的人身上那种闪闪发光的温柔，对如今的我来说太痛了。”  https://t.co/Qm0OpuzJ0u提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oriyukiiiiii",
+                "end": 67,
+                "expanded_url": "https://ngl.link/oriyukiiiiii",
+                "start": 44,
+                "url": "https://t.co/Qm0OpuzJ0u"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/Oriyuki",
+                "end": 23,
+                "expanded_url": "https://afdian.com/a/Oriyuki",
+                "start": 0,
+                "url": "https://t.co/DDg7CccjLo"
+              }
+            ]
+          }
+        },
+        "id": "1600277431256256512",
+        "location": "无处不在",
+        "name": "石獅落麻雀",
+        "pinned_tweet_id": "1837866926300975289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828968257405235200/qMZ2VQQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11748,
+          "following_count": 587,
+          "like_count": 3679,
+          "listed_count": 17,
+          "media_count": 1259,
+          "tweet_count": 4481
+        },
+        "url": "https://t.co/DDg7CccjLo",
+        "username": "Oriyukiiiii",
+        "verified": true
+      }
+    ]
+  }
+}

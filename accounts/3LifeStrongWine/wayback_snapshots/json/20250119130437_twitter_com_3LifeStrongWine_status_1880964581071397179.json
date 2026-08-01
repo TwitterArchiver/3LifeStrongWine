@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1880962659669192832",
+    "created_at": "2025-01-19T13:04:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T14:04:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880964581071397179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1730530795977404416",
+          "start": 0,
+          "username": "0712_luotianyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880964581071397179",
+    "in_reply_to_user_id": "1730530795977404416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880964245300613265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0712_luotianyi 收到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1880962659669192832",
+        "created_at": "2025-01-19T13:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T14:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880964581071397179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1730530795977404416",
+              "start": 0,
+              "username": "0712_luotianyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880964581071397179",
+        "in_reply_to_user_id": "1730530795977404416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880964245300613265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0712_luotianyi 收到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730530795977404416",
+        "conversation_id": "1880962659669192832",
+        "created_at": "2025-01-19T13:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T14:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880964245300613265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880964245300613265",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880962659669192832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 三生老师多排喊我！75胜率明世隐请求出战😝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "看桃花究竟开出怎样的结果",
+        "id": "1529654419213541376",
+        "location": "夢在心上心便溫柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1160,
+          "following_count": 239,
+          "like_count": 5597,
+          "listed_count": 7,
+          "media_count": 1309,
+          "tweet_count": 5970
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T10:14:40.000Z",
+        "description": "华风夏韵，洛水天依\ninfp/临床在读/本体是一只小蝴蝶/是可爱的男孩子/喜欢旅行、手机摄影/不含药物/跨性别友善🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/butter…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/butterflyyi.bsky.social",
+                "start": 0,
+                "url": "https://t.co/P6md7yb9hp"
+              }
+            ]
+          }
+        },
+        "id": "1730530795977404416",
+        "location": "t.me/luotianyi_butterfly",
+        "name": "蝶依（淡推版）",
+        "pinned_tweet_id": "1876342178571821529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732238340773314560/awaMaF1J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 527,
+          "like_count": 5022,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 689
+        },
+        "url": "https://t.co/P6md7yb9hp",
+        "username": "0712_luotianyi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1872207209016459304",
+    "created_at": "2024-12-26T13:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T14:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872267947030536257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1580907538127949824",
+          "start": 0,
+          "username": "yuluoshanl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872267947030536257",
+    "in_reply_to_user_id": "1580907538127949824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872234000724742431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuluoshanl 我要死了🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1872207209016459304",
+        "created_at": "2024-12-26T13:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T14:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872267947030536257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1580907538127949824",
+              "start": 0,
+              "username": "yuluoshanl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872267947030536257",
+        "in_reply_to_user_id": "1580907538127949824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872234000724742431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuluoshanl 我要死了🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580907538127949824",
+        "conversation_id": "1872207209016459304",
+        "created_at": "2024-12-26T10:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T11:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872234000724742431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872234000724742431",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872207209016459304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 痛，太痛了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "有时也想过花烂漫某天与世界无声道别， 可是偏偏有太多太多遗憾挂牵没画句点",
+        "id": "1529654419213541376",
+        "location": "期待一场意外，此生再无难过",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1865393368853090537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 199,
+          "like_count": 3359,
+          "listed_count": 6,
+          "media_count": 754,
+          "tweet_count": 4203
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T13:05:35.000Z",
+        "description": "希望天天开心。不要随便相信别人，不要转发我帖子，不接推广，不出原味，随缘回fo，除互关不加v。",
+        "id": "1580907538127949824",
+        "location": "🚪188好友位",
+        "name": "Yyyˇ",
+        "pinned_tweet_id": "1813791185846386957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867219748012093440/Hh7fAV0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5499,
+          "following_count": 176,
+          "like_count": 16469,
+          "listed_count": 13,
+          "media_count": 590,
+          "tweet_count": 6153
+        },
+        "username": "yuluoshanl",
+        "verified": false
+      }
+    ]
+  }
+}

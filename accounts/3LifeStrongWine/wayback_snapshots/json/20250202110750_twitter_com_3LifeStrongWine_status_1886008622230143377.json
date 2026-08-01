@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1885949019073208719",
+    "created_at": "2025-02-02T11:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T12:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886008622230143377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1863961550350065664",
+          "start": 0,
+          "username": "Selaginellaaaaa"
+        },
+        {
+          "end": 32,
+          "id": "1749848735436427265",
+          "start": 17,
+          "username": "chengzipi98426"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886008622230143377",
+    "in_reply_to_user_id": "1863961550350065664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886005703749545997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Selaginellaaaaa @chengzipi98426 收到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1885949019073208719",
+        "created_at": "2025-02-02T11:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T12:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886008622230143377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1863961550350065664",
+              "start": 0,
+              "username": "Selaginellaaaaa"
+            },
+            {
+              "end": 32,
+              "id": "1749848735436427265",
+              "start": 17,
+              "username": "chengzipi98426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886008622230143377",
+        "in_reply_to_user_id": "1863961550350065664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886005703749545997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Selaginellaaaaa @chengzipi98426 收到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863961550350065664",
+        "conversation_id": "1885949019073208719",
+        "created_at": "2025-02-02T10:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T11:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886005703749545997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749848735436427265",
+              "start": 0,
+              "username": "chengzipi98426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886005703749545997",
+        "in_reply_to_user_id": "1749848735436427265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886005354175267203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chengzipi98426 下次买这种"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 217,
+          "like_count": 6352,
+          "listed_count": 9,
+          "media_count": 1585,
+          "tweet_count": 6910
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-03T15:01:06.000Z",
+        "description": "🤔 箱子https://t.co/gQgLuEPPqS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/selaginellaaaa…",
+                "end": 27,
+                "expanded_url": "https://ngl.link/selaginellaaaaa1",
+                "start": 4,
+                "url": "https://t.co/gQgLuEPPqS"
+              }
+            ]
+          }
+        },
+        "id": "1863961550350065664",
+        "location": "叫我卷柏就行",
+        "name": "Selaginella",
+        "pinned_tweet_id": "1869234973783491050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876307978443522048/mt_EImdI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4989,
+          "following_count": 75,
+          "like_count": 6777,
+          "listed_count": 9,
+          "media_count": 247,
+          "tweet_count": 2345
+        },
+        "username": "Selaginellaaaaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T17:37:16.000Z",
+        "description": "•͈ᴗ⁃͈ ✧ 听我讲很多话的人都是世界上最好的人！🥰｜来和我一起玩😼",
+        "id": "1749848735436427265",
+        "location": "窝",
+        "name": "橙子皮宇宙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883497844717551616/nK9djrhE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206,
+          "following_count": 236,
+          "like_count": 55855,
+          "listed_count": 7,
+          "media_count": 175,
+          "tweet_count": 4775
+        },
+        "username": "chengzipi98426",
+        "verified": false
+      }
+    ]
+  }
+}

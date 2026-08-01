@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1907802748495761536",
+    "created_at": "2025-04-03T14:36:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T15:36:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907804284496097441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1838553863349325824",
+          "start": 0,
+          "username": "Chantxiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907804284496097441",
+    "in_reply_to_user_id": "1838553863349325824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907802748495761536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chantxiao 看看我拍的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1907802748495761536",
+        "created_at": "2025-04-03T14:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T15:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907804284496097441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1838553863349325824",
+              "start": 0,
+              "username": "Chantxiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907804284496097441",
+        "in_reply_to_user_id": "1838553863349325824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907802748495761536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chantxiao 看看我拍的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838553863349325824",
+        "conversation_id": "1907802748495761536",
+        "created_at": "2025-04-03T14:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T15:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907802748495761536"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907802748495761536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近好像家旁边樱花开了 明天我要出去看看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1485,
+          "following_count": 228,
+          "like_count": 7153,
+          "listed_count": 12,
+          "media_count": 2367,
+          "tweet_count": 9580
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-24T12:19:53.000Z",
+        "description": "有点意思，但有的不多",
+        "id": "1838553863349325824",
+        "location": "china",
+        "name": "pigpig",
+        "pinned_tweet_id": "1905297263632720368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886331199548993536/Upyi7qSU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 248,
+          "like_count": 5891,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 1431
+        },
+        "username": "Chantxiao",
+        "verified": false
+      }
+    ]
+  }
+}

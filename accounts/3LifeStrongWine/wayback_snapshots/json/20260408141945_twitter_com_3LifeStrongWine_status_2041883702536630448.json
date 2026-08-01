@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2041875086865789195",
+    "created_at": "2026-04-08T14:19:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T15:19:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041883702536630448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1887227093429403648",
+          "start": 0,
+          "username": "jiujiu0528"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041883702536630448",
+    "in_reply_to_user_id": "1887227093429403648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041875086865789195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiujiu0528 发了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2041875086865789195",
+        "created_at": "2026-04-08T14:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T15:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041883702536630448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1887227093429403648",
+              "start": 0,
+              "username": "jiujiu0528"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041883702536630448",
+        "in_reply_to_user_id": "1887227093429403648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041875086865789195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiujiu0528 发了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887227093429403648",
+        "conversation_id": "2041875086865789195",
+        "created_at": "2026-04-08T13:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041875086865789195"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041875086865789195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 519,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么没有人给我私信\n我真挺爱看的\n不管啥内容"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我一定带你脱离苦海我答应过你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2050,
+          "following_count": 185,
+          "like_count": 6877,
+          "listed_count": 13,
+          "media_count": 3517,
+          "tweet_count": 13798
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T19:49:47.000Z",
+        "description": "碎碎念 有什么想问的可以在这里问我https://t.co/FOk6ztqplg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yao16898",
+                "end": 40,
+                "expanded_url": "https://ngl.link/yao16898",
+                "start": 17,
+                "url": "https://t.co/FOk6ztqplg"
+              }
+            ]
+          }
+        },
+        "id": "1887227093429403648",
+        "name": "yao",
+        "pinned_tweet_id": "1971958377803833680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887227251269246976/IHlbFb_2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22071,
+          "following_count": 36,
+          "like_count": 41,
+          "listed_count": 60,
+          "media_count": 222,
+          "tweet_count": 1012
+        },
+        "username": "jiujiu0528",
+        "verified": false
+      }
+    ]
+  }
+}

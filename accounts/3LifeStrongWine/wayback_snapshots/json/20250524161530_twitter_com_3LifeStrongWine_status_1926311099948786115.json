@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1926307773354000789",
+    "created_at": "2025-05-24T16:15:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T17:15:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926311099948786115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1228350726981574656",
+          "start": 0,
+          "username": "baibaishuishui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926311099948786115",
+    "in_reply_to_user_id": "1228350726981574656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926307773354000789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baibaishuishui 我给你抽一个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1926307773354000789",
+        "created_at": "2025-05-24T16:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T17:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926311099948786115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1228350726981574656",
+              "start": 0,
+              "username": "baibaishuishui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926311099948786115",
+        "in_reply_to_user_id": "1228350726981574656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926307773354000789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baibaishuishui 我给你抽一个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1228350726981574656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10025257871",
+              "name": "Yves Saint Laurent"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10025257871",
+              "name": "Yves Saint Laurent"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1255950086699315200",
+              "name": "Designer fashion"
+            }
+          }
+        ],
+        "conversation_id": "1926307773354000789",
+        "created_at": "2025-05-24T16:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T17:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926307773354000789"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1926307773354000789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "粉底液没了向内向善良的舍友姐借气垫结果她直接给我用她的ysl气垫🌚❓我是穷b没用过ysl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "闻有三山不知处，茂陵松柏满西风",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912318298353487872/R3xfbIV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 235,
+          "like_count": 7409,
+          "listed_count": 11,
+          "media_count": 2666,
+          "tweet_count": 10820
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-14T16:10:28.000Z",
+        "description": "日常推‖神秘里推✨@iamlinquan‖提问箱📭https://t.co/KckTNPqSk2‖🐟@lianshanyuze",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "iamlinquan"
+              },
+              {
+                "end": 63,
+                "start": 50,
+                "username": "lianshanyuze"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/baibaishuishui1",
+                "end": 48,
+                "expanded_url": "https://ngl.link/baibaishuishui1",
+                "start": 25,
+                "url": "https://t.co/KckTNPqSk2"
+              }
+            ]
+          }
+        },
+        "id": "1228350726981574656",
+        "name": "泉、",
+        "pinned_tweet_id": "1918729729797980199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791053309320839168/KUIB11RO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 1065,
+          "like_count": 23059,
+          "listed_count": 3,
+          "media_count": 562,
+          "tweet_count": 8330
+        },
+        "username": "baibaishuishui",
+        "verified": false
+      }
+    ]
+  }
+}

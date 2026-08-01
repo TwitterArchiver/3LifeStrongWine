@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1938964526898250180",
+    "created_at": "2025-06-28T14:44:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T15:44:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938971823301149104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1873274216096972800",
+          "start": 0,
+          "username": "wovvna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938971823301149104",
+    "in_reply_to_user_id": "1873274216096972800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 25,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938966466705150184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wovvna 一想到上下班通勤快俩小时我就轻轻地死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1938964526898250180",
+        "created_at": "2025-06-28T14:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T15:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938971823301149104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1873274216096972800",
+              "start": 0,
+              "username": "wovvna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938971823301149104",
+        "in_reply_to_user_id": "1873274216096972800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938966466705150184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wovvna 一想到上下班通勤快俩小时我就轻轻地死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873274216096972800",
+        "conversation_id": "1938964526898250180",
+        "created_at": "2025-06-28T14:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T15:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938966466705150184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938966466705150184",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938964526898250180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 妈的前途一片黑暗呐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "泛黄的老照片里讲述了一个什么样的故事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我会带你去看这世界上最独一无二的风景",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586,
+          "following_count": 190,
+          "like_count": 7155,
+          "listed_count": 11,
+          "media_count": 2864,
+          "tweet_count": 11656
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-29T07:46:17.000Z",
+        "description": "随便发着玩全是胡言乱语胡说八道的/🚪123(纯绿)（花钱躺列表里 十分不划算不建议入）自用蜂鸟VPN：https://t.co/NNlA9ZZo6G",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 74,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=gkCVAi8W",
+                "start": 51,
+                "url": "https://t.co/NNlA9ZZo6G"
+              }
+            ]
+          }
+        },
+        "id": "1873274216096972800",
+        "name": "邪恶牛奶巧克力酱✞ʚ宇宙无敌超级炫酷高冷龙傲天是也ɞ✟₊",
+        "pinned_tweet_id": "1935604808641355893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934943956229586944/-W0K3hWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2764,
+          "following_count": 188,
+          "like_count": 14587,
+          "listed_count": 8,
+          "media_count": 735,
+          "tweet_count": 6206
+        },
+        "username": "wovvna",
+        "verified": false
+      }
+    ]
+  }
+}

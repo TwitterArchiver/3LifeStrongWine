@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2041464949210522023",
+    "created_at": "2026-04-08T02:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T03:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041700807813558642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1750329917252976640",
+          "start": 0,
+          "username": "yueyue8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041700807813558642",
+    "in_reply_to_user_id": "1750329917252976640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041464949210522023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yueyue8964 兄弟兄弟你家好大"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11666,
+        "height": 1280,
+        "media_key": "13_2041464754007662592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041464754007662592/img/aPTgwpfheSAWiDdG.jpg",
+        "public_metrics": {
+          "view_count": 1196
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041464754007662592/vid/avc1/320x568/QiDTpz4GdSSxdHYs.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041464754007662592/vid/avc1/480x852/uI90zKo491Laae-a.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041464754007662592/vid/avc1/720x1280/PUR-m0eS4ILK5lEX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041464754007662592/pl/l8SqDoWAexQoVf4T.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2041464949210522023",
+        "created_at": "2026-04-08T02:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T03:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041700807813558642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750329917252976640",
+              "start": 0,
+              "username": "yueyue8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041700807813558642",
+        "in_reply_to_user_id": "1750329917252976640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041464949210522023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yueyue8964 兄弟兄弟你家好大"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041464754007662592"
+          ]
+        },
+        "author_id": "1750329917252976640",
+        "conversation_id": "2041464949210522023",
+        "created_at": "2026-04-07T10:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T11:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041464949210522023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YKElxh44EJ",
+              "end": 27,
+              "expanded_url": "https://x.com/yueyue8964/status/2041464949210522023/video/1",
+              "media_key": "13_2041464754007662592",
+              "start": 4,
+              "url": "https://t.co/YKElxh44EJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041464949210522023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4197,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不解释 https://t.co/YKElxh44EJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "爱意救不了往下坠的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2054,
+          "following_count": 190,
+          "like_count": 6870,
+          "listed_count": 13,
+          "media_count": 3505,
+          "tweet_count": 13770
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T01:29:16.000Z",
+        "description": "等那一天",
+        "id": "1750329917252976640",
+        "location": "无声的寂静海",
+        "name": "小榆",
+        "pinned_tweet_id": "1865899514122666310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807218968463327232/_cUbucHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10007,
+          "following_count": 551,
+          "like_count": 11069,
+          "listed_count": 22,
+          "media_count": 474,
+          "tweet_count": 13117
+        },
+        "username": "yueyue8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T01:29:16.000Z",
+        "description": "等那一天",
+        "id": "1750329917252976640",
+        "location": "无声的寂静海",
+        "name": "小榆",
+        "pinned_tweet_id": "1865899514122666310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807218968463327232/_cUbucHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10007,
+          "following_count": 551,
+          "like_count": 11069,
+          "listed_count": 22,
+          "media_count": 474,
+          "tweet_count": 13117
+        },
+        "url": "",
+        "username": "yueyue8964",
+        "verified": false
+      }
+    ]
+  }
+}

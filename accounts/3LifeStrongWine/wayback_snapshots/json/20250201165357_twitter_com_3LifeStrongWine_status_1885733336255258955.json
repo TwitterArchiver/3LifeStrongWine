@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1885732693566275922",
+    "created_at": "2025-02-01T16:53:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T17:53:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885733336255258955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1822460869005234176",
+          "start": 0,
+          "username": "jin1139530"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885733336255258955",
+    "in_reply_to_user_id": "1822460869005234176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885733198384316798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jin1139530 还没录"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1885732693566275922",
+        "created_at": "2025-02-01T16:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T17:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885733336255258955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1822460869005234176",
+              "start": 0,
+              "username": "jin1139530"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885733336255258955",
+        "in_reply_to_user_id": "1822460869005234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885733198384316798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jin1139530 还没录"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885733187797807104"
+          ]
+        },
+        "author_id": "1822460869005234176",
+        "conversation_id": "1885732693566275922",
+        "created_at": "2025-02-01T16:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T17:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885733198384316798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X86lCjxVUg",
+              "end": 51,
+              "expanded_url": "https://x.com/jin1139530/status/1885733198384316798/photo/1",
+              "media_key": "3_1885733187797807104",
+              "start": 28,
+              "url": "https://t.co/X86lCjxVUg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885733198384316798",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885732693566275922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 为什么不开空间音频😡 https://t.co/X86lCjxVUg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 215,
+          "like_count": 6326,
+          "listed_count": 9,
+          "media_count": 1574,
+          "tweet_count": 6882
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-11T02:31:53.000Z",
+        "description": "04长发男 大家可以来找我聊天、玩游戏。也可以来找我算卦看八字做法事。欢迎私信哦。听听大家想说什么https://t.co/UuWyyiilJW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b40572",
+                "end": 72,
+                "expanded_url": "https://ngl.link/b40572",
+                "start": 49,
+                "url": "https://t.co/UuWyyiilJW"
+              }
+            ]
+          }
+        },
+        "id": "1822460869005234176",
+        "name": "下棋大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822461008725827584/6L0iXVB0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 413,
+          "like_count": 3382,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 379
+        },
+        "username": "jin1139530",
+        "verified": false
+      }
+    ]
+  }
+}

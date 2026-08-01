@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1878295125002166438",
+    "created_at": "2025-01-12T04:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T05:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878296166795792527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1840089856149729280",
+          "start": 0,
+          "username": "JuanHuBiBaBo"
+        },
+        {
+          "end": 21,
+          "id": "1809497565630722052",
+          "start": 14,
+          "username": "w1a2ng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878296166795792527",
+    "in_reply_to_user_id": "1840089856149729280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878296078891823417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JuanHuBiBaBo @w1a2ng 哈哈哈，我都没看见"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1878295125002166438",
+        "created_at": "2025-01-12T04:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T05:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878296166795792527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1840089856149729280",
+              "start": 0,
+              "username": "JuanHuBiBaBo"
+            },
+            {
+              "end": 21,
+              "id": "1809497565630722052",
+              "start": 14,
+              "username": "w1a2ng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878296166795792527",
+        "in_reply_to_user_id": "1840089856149729280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878296078891823417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JuanHuBiBaBo @w1a2ng 哈哈哈，我都没看见"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840089856149729280",
+        "conversation_id": "1878295125002166438",
+        "created_at": "2025-01-12T04:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T05:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878296078891823417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            },
+            {
+              "end": 24,
+              "id": "1809497565630722052",
+              "start": 17,
+              "username": "w1a2ng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878296078891823417",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878295811244880065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine @w1a2ng 身后的检票口A8..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "分享从我眼中看到的世界🌸｜雨季里我和你的青春一起坐过了站，而我会站在原地热泪盈眶地读你的未来",
+        "id": "1529654419213541376",
+        "location": "风的目的地.",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 210,
+          "like_count": 5012,
+          "listed_count": 7,
+          "media_count": 1134,
+          "tweet_count": 5363
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T18:03:18.000Z",
+        "description": "表演型人格*精分👽 内心有无数个身份想表达自己🤯(脑中的绚烂世界远比这个真实的nasty world美上千遍🧠 闭上眼👁可以穿梭到任意一个文明 任意时代 任意身份 使用任意的道具过上别人的人生) add:是个浪漫过头无法自拔的傻X😌(点了推特的题hhh)",
+        "id": "1840089856149729280",
+        "location": "Vanuatu",
+        "name": "Juan Smiley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877991382440456192/4fxgdzW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 257,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 47
+        },
+        "username": "JuanHuBiBaBo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T08:00:34.000Z",
+        "description": "碎碎念",
+        "id": "1809497565630722052",
+        "name": "王",
+        "pinned_tweet_id": "1868890679159800213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877978470258450432/L8ypfzXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 255,
+          "like_count": 23443,
+          "listed_count": 4,
+          "media_count": 114,
+          "tweet_count": 3729
+        },
+        "username": "w1a2ng",
+        "verified": false
+      }
+    ]
+  }
+}

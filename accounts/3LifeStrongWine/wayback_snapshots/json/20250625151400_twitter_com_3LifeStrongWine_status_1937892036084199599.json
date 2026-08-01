@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1937778574507016632",
+    "created_at": "2025-06-25T15:14:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T16:14:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937892036084199599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1216015239931498497",
+          "start": 0,
+          "username": "luna220807"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937892036084199599",
+    "in_reply_to_user_id": "1216015239931498497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937876311135101352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luna220807 我是坏学生😗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1937778574507016632",
+        "created_at": "2025-06-25T15:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T16:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937892036084199599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1216015239931498497",
+              "start": 0,
+              "username": "luna220807"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937892036084199599",
+        "in_reply_to_user_id": "1216015239931498497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937876311135101352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luna220807 我是坏学生😗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1216015239931498497",
+        "conversation_id": "1937778574507016632",
+        "created_at": "2025-06-25T14:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T15:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937876311135101352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937876311135101352",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937872087911436438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 我上课基本都一定要带课堂笔记\n不管是用手机，用电脑平板或者打印\n每一堂课基本一定要带，强硬要求的\n我也不喜欢带电脑，所以基本都带复印的课堂笔记去\n有时候带着电脑和笔记我真的累死哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "泛黄的老照片里讲述了一个什么样的故事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我会带你去看这世界上最独一无二的风景",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 191,
+          "like_count": 7153,
+          "listed_count": 11,
+          "media_count": 2859,
+          "tweet_count": 11634
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-11T15:13:37.000Z",
+        "description": "07年\n| INFJ-T \n| 狮子座 |\n🐋的快乐日常 | 小号 @lynn220807",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "lynn220807"
+              }
+            ]
+          }
+        },
+        "id": "1216015239931498497",
+        "name": "送你一粒小云朵☁︎（失眠版）",
+        "pinned_tweet_id": "1282620964845449217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870124219776020483/Y5d_4K42_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 298,
+          "like_count": 226,
+          "listed_count": 5,
+          "media_count": 230,
+          "tweet_count": 2491
+        },
+        "username": "luna220807",
+        "verified": false
+      }
+    ]
+  }
+}

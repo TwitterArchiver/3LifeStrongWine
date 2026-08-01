@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1886799584346956134",
+    "created_at": "2025-02-04T15:30:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T16:30:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1886799584346956134"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/carafutaba/sta…",
+          "end": 97,
+          "expanded_url": "https://twitter.com/carafutaba/status/1886799122772189231",
+          "start": 74,
+          "url": "https://t.co/Y7qij4U8Qk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886799584346956134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886799122772189231",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么最后一句不是六个字儿呢，因为我写到最后一句的时候快递员就摁门铃了，我急急忙忙的灵感就断了，憋了半天也没憋出来最后一句，着急忙慌地就给包起来了 https://t.co/Y7qij4U8Qk"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1886799122772189231].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1886799122772189231",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1886799122772189231"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1886799584346956134",
+        "created_at": "2025-02-04T15:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T16:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886799584346956134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/carafutaba/sta…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/carafutaba/status/1886799122772189231",
+              "start": 74,
+              "url": "https://t.co/Y7qij4U8Qk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886799584346956134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886799122772189231",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么最后一句不是六个字儿呢，因为我写到最后一句的时候快递员就摁门铃了，我急急忙忙的灵感就断了，憋了半天也没憋出来最后一句，着急忙慌地就给包起来了 https://t.co/Y7qij4U8Qk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 217,
+          "like_count": 6429,
+          "listed_count": 9,
+          "media_count": 1627,
+          "tweet_count": 7057
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1882002933853872193",
+    "created_at": "2025-01-22T11:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T12:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882031306659574182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "471019735",
+          "start": 0,
+          "username": "Gelm01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882031306659574182",
+    "in_reply_to_user_id": "471019735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882031026777796839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gelm01 右边屏幕好袖珍，想买个当第三屏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1882002933853872193",
+        "created_at": "2025-01-22T11:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T12:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882031306659574182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "471019735",
+              "start": 0,
+              "username": "Gelm01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882031306659574182",
+        "in_reply_to_user_id": "471019735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882031026777796839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gelm01 右边屏幕好袖珍，想买个当第三屏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882031004199854081"
+          ]
+        },
+        "author_id": "471019735",
+        "conversation_id": "1882002933853872193",
+        "created_at": "2025-01-22T11:42:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T12:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882031026777796839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YBCSagAZfr",
+              "end": 42,
+              "expanded_url": "https://x.com/Gelm01/status/1882031026777796839/photo/1",
+              "media_key": "3_1882031004199854081",
+              "start": 19,
+              "url": "https://t.co/YBCSagAZfr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882031026777796839",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882002933853872193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 😘 https://t.co/YBCSagAZfr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "白云山上白云泉，云自无心水自闲",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1313,
+          "following_count": 230,
+          "like_count": 5945,
+          "listed_count": 7,
+          "media_count": 1394,
+          "tweet_count": 6288
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2012-01-22T12:07:07.000Z",
+        "description": "本账号提供魔法少女变身以及游戏机租赁业务。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rosenkruz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rosenkruz",
+                "start": 0,
+                "url": "https://t.co/bt7q6FUFAB"
+              }
+            ]
+          }
+        },
+        "id": "471019735",
+        "name": "玖辺絵夢中（丘呗）羽海野先生一生推",
+        "pinned_tweet_id": "1879518563507298600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877597378582294528/HN2wLFIr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 557,
+          "like_count": 738,
+          "listed_count": 22,
+          "media_count": 69,
+          "tweet_count": 752
+        },
+        "url": "https://t.co/bt7q6FUFAB",
+        "username": "Gelm01",
+        "verified": false
+      }
+    ]
+  }
+}

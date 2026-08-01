@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1900943715562148010",
+    "created_at": "2025-03-15T17:00:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T18:00:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900955223222612072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1591340830547070976",
+          "start": 0,
+          "username": "jiezi740"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900955223222612072",
+    "in_reply_to_user_id": "1591340830547070976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900943715562148010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiezi740 眼前一黑的文案"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1900943715562148010",
+        "created_at": "2025-03-15T17:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T18:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900955223222612072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1591340830547070976",
+              "start": 0,
+              "username": "jiezi740"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900955223222612072",
+        "in_reply_to_user_id": "1591340830547070976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900943715562148010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiezi740 眼前一黑的文案"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591340830547070976",
+        "conversation_id": "1900943715562148010",
+        "created_at": "2025-03-15T16:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T17:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900943715562148010"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900943715562148010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 202,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哥哥 你敢不敢不经意坐下结果不小心坐我几把上吓我一跳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来｜把那无人问津的岁月熬成清茶，等一场芳香四散",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1414,
+          "following_count": 233,
+          "like_count": 7012,
+          "listed_count": 11,
+          "media_count": 2164,
+          "tweet_count": 8768
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-12T08:03:46.000Z",
+        "description": "小号@zhzh717171/熟人你好 我不卖逼不做鸡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "zhzh717171"
+              }
+            ]
+          }
+        },
+        "id": "1591340830547070976",
+        "location": "我是双怎么你了/除互关不加v",
+        "name": "九十九声叹息过后换来一个拥抱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874840881691545600/vC7A9UxU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6539,
+          "following_count": 490,
+          "like_count": 33303,
+          "listed_count": 7,
+          "media_count": 45,
+          "tweet_count": 755
+        },
+        "username": "jiezi740",
+        "verified": false
+      }
+    ]
+  }
+}

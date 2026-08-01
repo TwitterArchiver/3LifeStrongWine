@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1890059945107980298",
+    "created_at": "2025-02-13T15:40:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T16:40:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890063538439561537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1813971881990742016",
+          "start": 0,
+          "username": "TXTYYDZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890063538439561537",
+    "in_reply_to_user_id": "1813971881990742016",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890061099929915587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TXTYYDZ 6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1890059945107980298",
+        "created_at": "2025-02-13T15:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T16:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890063538439561537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1813971881990742016",
+              "start": 0,
+              "username": "TXTYYDZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890063538439561537",
+        "in_reply_to_user_id": "1813971881990742016",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890061099929915587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TXTYYDZ 6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813971881990742016",
+        "conversation_id": "1890059945107980298",
+        "created_at": "2025-02-13T15:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T16:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890061099929915587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890061099929915587",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890060805951115431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 还有亲属卡交易着实绷不住，估计这些都是他妈卖逼挣来的💰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1387,
+          "following_count": 218,
+          "like_count": 6530,
+          "listed_count": 10,
+          "media_count": 1839,
+          "tweet_count": 7595
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-18T16:19:41.000Z",
+        "description": "抽象与生活，梗图即为艺术！\n唯一单推：@snhrlinglu\n废话小账:@TianXiaoTangDLZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "snhrlinglu"
+              },
+              {
+                "end": 52,
+                "start": 36,
+                "username": "TianXiaoTangDLZ"
+              }
+            ]
+          }
+        },
+        "id": "1813971881990742016",
+        "location": "铁西区是沈阳的不是鞍山也不是四平铁西区",
+        "name": "田小唐",
+        "pinned_tweet_id": "1861387934043381936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879614299683074048/oo3zvDbF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 916,
+          "like_count": 42604,
+          "listed_count": 7,
+          "media_count": 1777,
+          "tweet_count": 10099
+        },
+        "username": "TXTYYDZ",
+        "verified": true
+      }
+    ]
+  }
+}

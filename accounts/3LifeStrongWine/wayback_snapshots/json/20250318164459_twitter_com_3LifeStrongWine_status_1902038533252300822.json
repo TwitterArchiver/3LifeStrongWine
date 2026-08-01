@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1901646977957580984",
+    "created_at": "2025-03-18T16:44:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T17:44:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902038533252300822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1899466990160613376",
+          "start": 0,
+          "username": "lisijie121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902038533252300822",
+    "in_reply_to_user_id": "1899466990160613376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901646977957580984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lisijie121 这个是真想要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1901646977957580984",
+        "created_at": "2025-03-18T16:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T17:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902038533252300822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1899466990160613376",
+              "start": 0,
+              "username": "lisijie121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902038533252300822",
+        "in_reply_to_user_id": "1899466990160613376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901646977957580984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisijie121 这个是真想要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899466990160613376",
+        "conversation_id": "1901646977957580984",
+        "created_at": "2025-03-17T14:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T15:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901646977957580984"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901646977957580984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有30张试卷没改然后我养胃了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来｜把那无人问津的岁月熬成清茶，等一场芳香四散",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1432,
+          "following_count": 237,
+          "like_count": 7060,
+          "listed_count": 11,
+          "media_count": 2189,
+          "tweet_count": 8938
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-11T14:27:39.000Z",
+        "description": "不出原味",
+        "id": "1899466990160613376",
+        "location": "泛性恋/除互关不加v ",
+        "name": "一個人的生活根本不叫勇敢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899827012241678336/AV9r7rqs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 84,
+          "like_count": 347,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 144
+        },
+        "username": "lisijie121",
+        "verified": false
+      }
+    ]
+  }
+}

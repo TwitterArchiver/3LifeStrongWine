@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1880307212670902631",
+    "created_at": "2025-01-17T17:34:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T18:34:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880307649507651774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1809497565630722052",
+          "start": 0,
+          "username": "w1a2ng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880307649507651774",
+    "in_reply_to_user_id": "1809497565630722052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880307212670902631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w1a2ng 听点阳间的."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1880307212670902631",
+        "created_at": "2025-01-17T17:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T18:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880307649507651774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1809497565630722052",
+              "start": 0,
+              "username": "w1a2ng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880307649507651774",
+        "in_reply_to_user_id": "1809497565630722052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880307212670902631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w1a2ng 听点阳间的."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880307210456354816"
+          ]
+        },
+        "author_id": "1809497565630722052",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1880307212670902631",
+        "created_at": "2025-01-17T17:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T18:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880307212670902631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lLyw00DQi1",
+              "end": 43,
+              "expanded_url": "https://x.com/w1a2ng/status/1880307212670902631/photo/1",
+              "media_key": "3_1880307210456354816",
+              "start": 20,
+              "url": "https://t.co/lLyw00DQi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880307212670902631",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "土嗨是真上头，听上一首晚上都不用睡了。 https://t.co/lLyw00DQi1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "夢過無際閒雲岫，無拘春至秋，無愧逝水悠悠。一生清白月如鉤，最一往而深著風流.",
+        "id": "1529654419213541376",
+        "location": "夢在心上心便溫柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879527429754269696/Ip8jHko0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 218,
+          "like_count": 5405,
+          "listed_count": 7,
+          "media_count": 1269,
+          "tweet_count": 5763
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T08:00:34.000Z",
+        "description": "作者",
+        "id": "1809497565630722052",
+        "name": "王",
+        "pinned_tweet_id": "1868890679159800213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878600508866277376/KIKXf4NN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 340,
+          "like_count": 25486,
+          "listed_count": 4,
+          "media_count": 20,
+          "tweet_count": 5177
+        },
+        "username": "w1a2ng",
+        "verified": false
+      }
+    ]
+  }
+}

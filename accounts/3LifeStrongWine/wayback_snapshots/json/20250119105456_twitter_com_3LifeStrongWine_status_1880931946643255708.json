@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1880902198177198282",
+    "created_at": "2025-01-19T10:54:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T11:54:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880931946643255708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1814525373348003840",
+          "start": 0,
+          "username": "ayuuy4425736"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880931946643255708",
+    "in_reply_to_user_id": "1814525373348003840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880917646708969767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayuuy4425736 我是弓箭手"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1880902198177198282",
+        "created_at": "2025-01-19T10:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T11:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880931946643255708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1814525373348003840",
+              "start": 0,
+              "username": "ayuuy4425736"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880931946643255708",
+        "in_reply_to_user_id": "1814525373348003840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880917646708969767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayuuy4425736 我是弓箭手"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814525373348003840",
+        "conversation_id": "1880902198177198282",
+        "created_at": "2025-01-19T09:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T10:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880917646708969767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880917646708969767",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880902198177198282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 怎么还有箭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花究竟开出什么样的结果",
+        "id": "1529654419213541376",
+        "location": "夢在心上心便溫柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 236,
+          "like_count": 5532,
+          "listed_count": 7,
+          "media_count": 1298,
+          "tweet_count": 5931
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T04:59:36.000Z",
+        "description": "想回家，跑路完成50%",
+        "id": "1814525373348003840",
+        "location": "哪里",
+        "name": "ayuuy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821157097373102080/crG37Rip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 260,
+          "like_count": 872,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 2993
+        },
+        "username": "ayuuy4425736",
+        "verified": false
+      }
+    ]
+  }
+}

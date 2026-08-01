@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1909120872734224475",
+    "created_at": "2025-04-07T05:59:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T06:59:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909123763326816358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1597161610799636483",
+          "start": 0,
+          "username": "TiAmosuisui"
+        },
+        {
+          "end": 23,
+          "id": "1749848735436427265",
+          "start": 13,
+          "username": "pipi98426"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909123763326816358",
+    "in_reply_to_user_id": "1597161610799636483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909123592220193026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TiAmosuisui @pipi98426 继续睡！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1909120872734224475",
+        "created_at": "2025-04-07T05:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T06:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909123763326816358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1597161610799636483",
+              "start": 0,
+              "username": "TiAmosuisui"
+            },
+            {
+              "end": 23,
+              "id": "1749848735436427265",
+              "start": 13,
+              "username": "pipi98426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909123763326816358",
+        "in_reply_to_user_id": "1597161610799636483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909123592220193026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TiAmosuisui @pipi98426 继续睡！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597161610799636483",
+        "conversation_id": "1909120872734224475",
+        "created_at": "2025-04-07T05:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T06:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909123592220193026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1749848735436427265",
+              "start": 0,
+              "username": "pipi98426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909123592220193026",
+        "in_reply_to_user_id": "1749848735436427265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909123384547360824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pipi98426 谢谢皮大人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909122304141148160/VzRDqCNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 245,
+          "like_count": 7277,
+          "listed_count": 12,
+          "media_count": 2457,
+          "tweet_count": 9953
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T09:33:07.000Z",
+        "description": "小则宝💕聊天🚪8888",
+        "id": "1597161610799636483",
+        "location": "TiAmo",
+        "name": "小则身体健康天天开心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741099621320138752/VVf9gK3B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1712,
+          "following_count": 49,
+          "like_count": 4314,
+          "listed_count": 5,
+          "media_count": 860,
+          "tweet_count": 9902
+        },
+        "username": "TiAmosuisui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T17:37:16.000Z",
+        "description": "我承认我说话无聊还爱卖点烂萌｜橙子皮总会有一天做成酵素｜关评推广自辨",
+        "id": "1749848735436427265",
+        "location": "推广自辨",
+        "name": "橙子皮",
+        "pinned_tweet_id": "1908849354703536546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908212054902575104/Tag2ms3A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2308,
+          "following_count": 420,
+          "like_count": 99777,
+          "listed_count": 10,
+          "media_count": 253,
+          "tweet_count": 10402
+        },
+        "username": "pipi98426",
+        "verified": false
+      }
+    ]
+  }
+}

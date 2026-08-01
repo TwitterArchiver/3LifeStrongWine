@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908754203599921154"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1908749758539215184",
+    "created_at": "2025-04-06T05:30:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T06:30:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908754210868650236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592865779241734144",
+          "start": 0,
+          "username": "yuanyuan774"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x6QjpaFzfZ",
+          "end": 43,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1908754210868650236/photo/1",
+          "media_key": "3_1908754203599921154",
+          "start": 20,
+          "url": "https://t.co/x6QjpaFzfZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908754210868650236",
+    "in_reply_to_user_id": "1592865779241734144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908752169014063152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanyuan774 一千円转过来 https://t.co/x6QjpaFzfZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1908754203599921154",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn1B1c0bYAIr_gU.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908754203599921154"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1908749758539215184",
+        "created_at": "2025-04-06T05:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T06:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908754210868650236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592865779241734144",
+              "start": 0,
+              "username": "yuanyuan774"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x6QjpaFzfZ",
+              "end": 43,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1908754210868650236/photo/1",
+              "media_key": "3_1908754203599921154",
+              "start": 20,
+              "url": "https://t.co/x6QjpaFzfZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908754210868650236",
+        "in_reply_to_user_id": "1592865779241734144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908752169014063152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanyuan774 一千円转过来 https://t.co/x6QjpaFzfZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592865779241734144",
+        "conversation_id": "1908749758539215184",
+        "created_at": "2025-04-06T05:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T06:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908752169014063152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908752169014063152",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908751973584880087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 绝交"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "业余摄影｜我会永远站在过去热泪盈眶地读着你们的未来",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 244,
+          "like_count": 7204,
+          "listed_count": 12,
+          "media_count": 2433,
+          "tweet_count": 9811
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-16T13:03:00.000Z",
+        "description": "不爱看滚出去",
+        "id": "1592865779241734144",
+        "location": "不接推广（不打钱不要骚扰我 ）（别他妈发几把了 操你妈）",
+        "name": "你是不是欠",
+        "pinned_tweet_id": "1908417822847344702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907366939682291712/aEdsg4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4514,
+          "following_count": 198,
+          "like_count": 15772,
+          "listed_count": 5,
+          "media_count": 500,
+          "tweet_count": 10985
+        },
+        "username": "yuanyuan774",
+        "verified": false
+      }
+    ]
+  }
+}

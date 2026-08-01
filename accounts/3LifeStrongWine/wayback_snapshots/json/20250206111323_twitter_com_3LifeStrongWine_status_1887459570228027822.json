@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887459561470349312"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1887459570228027822",
+    "created_at": "2025-02-06T11:13:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T12:13:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1887459570228027822"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2ddUOeuI8x",
+          "end": 46,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1887459570228027822/photo/1",
+          "media_key": "3_1887459561470349312",
+          "start": 23,
+          "url": "https://t.co/2ddUOeuI8x"
+        },
+        {
+          "display_url": "x.com/3lifestrongwin…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/3lifestrongwine/status/1887448111024312513",
+          "start": 47,
+          "url": "https://t.co/t4TrZtWAlV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887459570228027822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887448111024312513",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当然是为了送这个啊，未成年的高中生要这个干嘛 https://t.co/2ddUOeuI8x https://t.co/t4TrZtWAlV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1887459561470349312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjGaeJFa0AAY0Wo.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887459561470349312"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1887459570228027822",
+        "created_at": "2025-02-06T11:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T12:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887459570228027822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ddUOeuI8x",
+              "end": 46,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1887459570228027822/photo/1",
+              "media_key": "3_1887459561470349312",
+              "start": 23,
+              "url": "https://t.co/2ddUOeuI8x"
+            },
+            {
+              "display_url": "x.com/3lifestrongwin…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/3lifestrongwine/status/1887448111024312513",
+              "start": 47,
+              "url": "https://t.co/t4TrZtWAlV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887459570228027822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887448111024312513",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当然是为了送这个啊，未成年的高中生要这个干嘛 https://t.co/2ddUOeuI8x https://t.co/t4TrZtWAlV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1887448111024312513",
+        "created_at": "2025-02-06T10:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T11:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887448111024312513"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1887448111024312513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 485,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有刚上大一的宝宝，姐姐我想跟你发展一些🔞的关系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 218,
+          "like_count": 6521,
+          "listed_count": 9,
+          "media_count": 1654,
+          "tweet_count": 7170
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1870659339591287258",
+    "created_at": "2024-12-22T02:35:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-22T03:35:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1870659339591287258"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3lifestrongwin…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/3lifestrongwine/status/1868193967780860259",
+          "start": 12,
+          "url": "https://t.co/JsYs5bERve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870659339591287258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868193967780860259",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "再过几天我自己都会唱了 https://t.co/JsYs5bERve"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1870659339591287258",
+        "created_at": "2024-12-22T02:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T03:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870659339591287258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3lifestrongwin…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/3lifestrongwine/status/1868193967780860259",
+              "start": 12,
+              "url": "https://t.co/JsYs5bERve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870659339591287258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868193967780860259",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再过几天我自己都会唱了 https://t.co/JsYs5bERve"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868193958536597504"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1868193967780860259",
+        "created_at": "2024-12-15T07:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T08:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868193967780860259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tkg80RcBSe",
+              "end": 45,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1868193967780860259/photo/1",
+              "media_key": "3_1868193958536597504",
+              "start": 22,
+              "url": "https://t.co/tkg80RcBSe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868193967780860259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11995,
+          "like_count": 26,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "悬赏200这首歌完整熟练不跑调儿唱给我听。 https://t.co/tkg80RcBSe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "有时也想过花烂漫某天与世界无声道别， 可是偏偏有太多太多遗憾挂牵没画句点",
+        "id": "1529654419213541376",
+        "location": "期待一场意外，此生再无难过",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1865393368853090537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 198,
+          "like_count": 3090,
+          "listed_count": 6,
+          "media_count": 706,
+          "tweet_count": 3981
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      }
+    ]
+  }
+}

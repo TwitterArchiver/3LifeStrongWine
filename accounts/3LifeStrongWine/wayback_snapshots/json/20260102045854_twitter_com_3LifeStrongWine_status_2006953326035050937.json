@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006953317889716224"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "2006953326035050937",
+    "created_at": "2026-01-02T04:58:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T05:58:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006953326035050937"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mOXOwXu7jE",
+          "end": 54,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/2006953326035050937/photo/1",
+          "media_key": "3_2006953317889716224",
+          "start": 31,
+          "url": "https://t.co/mOXOwXu7jE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006953326035050937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我终于懂了当年小学时候我表哥他们看我们这年纪的人是什么感觉了 https://t.co/mOXOwXu7jE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2006953317889716224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9ohaMmbsAAT9SE.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006953317889716224"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "2006953326035050937",
+        "created_at": "2026-01-02T04:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T05:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006953326035050937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mOXOwXu7jE",
+              "end": 54,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/2006953326035050937/photo/1",
+              "media_key": "3_2006953317889716224",
+              "start": 31,
+              "url": "https://t.co/mOXOwXu7jE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006953326035050937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我终于懂了当年小学时候我表哥他们看我们这年纪的人是什么感觉了 https://t.co/mOXOwXu7jE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "云和山和风和雨，轻轻地流过我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VnXMe"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "pinned_tweet_id": "1992598033381638574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1644,
+          "following_count": 166,
+          "like_count": 6589,
+          "listed_count": 13,
+          "media_count": 3082,
+          "tweet_count": 12381
+        },
+        "url": "https://t.co/3g5y5VnXMe",
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

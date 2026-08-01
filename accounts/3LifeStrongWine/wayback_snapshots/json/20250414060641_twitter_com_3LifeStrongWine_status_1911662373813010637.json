@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1911662113644577224",
+    "created_at": "2025-04-14T06:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T07:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911662373813010637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1779093261954465792",
+          "start": 0,
+          "username": "Readyt01ove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911662373813010637",
+    "in_reply_to_user_id": "1779093261954465792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911662113644577224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Readyt01ove 在吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1911662095592009728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoeWjCpXMAADwa7.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1911662113644577224",
+        "created_at": "2025-04-14T06:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T07:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911662373813010637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1779093261954465792",
+              "start": 0,
+              "username": "Readyt01ove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911662373813010637",
+        "in_reply_to_user_id": "1779093261954465792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911662113644577224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Readyt01ove 在吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911662095592009728"
+          ]
+        },
+        "author_id": "1779093261954465792",
+        "conversation_id": "1911662113644577224",
+        "created_at": "2025-04-14T06:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T07:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911662113644577224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aQIzpqf3jl",
+              "end": 32,
+              "expanded_url": "https://x.com/Readyt01ove/status/1911662113644577224/photo/1",
+              "media_key": "3_1911662095592009728",
+              "start": 9,
+              "url": "https://t.co/aQIzpqf3jl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911662113644577224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的私信好难看。 https://t.co/aQIzpqf3jl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "东隅已逝，桑榆非晚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909122304141148160/VzRDqCNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1502,
+          "following_count": 245,
+          "like_count": 7404,
+          "listed_count": 12,
+          "media_count": 2516,
+          "tweet_count": 10263
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-13T10:24:39.000Z",
+        "description": "你也會成為我輕描淡寫的一頁。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hani99639",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hani99639",
+                "start": 0,
+                "url": "https://t.co/45NbGN33Sy"
+              }
+            ]
+          }
+        },
+        "id": "1779093261954465792",
+        "name": "hani",
+        "pinned_tweet_id": "1895808435293470924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905455049461129216/5OEi7A7T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 99,
+          "like_count": 18054,
+          "listed_count": 4,
+          "media_count": 52,
+          "tweet_count": 985
+        },
+        "url": "https://t.co/45NbGN33Sy",
+        "username": "Readyt01ove",
+        "verified": false
+      }
+    ]
+  }
+}

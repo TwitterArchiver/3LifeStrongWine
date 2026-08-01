@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1832306720477213023",
+    "created_at": "2024-12-20T15:59:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-20T16:59:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870136835927941523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1291234675768393728",
+          "start": 0,
+          "username": "carolclairo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870136835927941523",
+    "in_reply_to_user_id": "1291234675768393728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870132339961147807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@carolclairo 好久不见啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1832306720477213023",
+        "created_at": "2024-12-20T15:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T16:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870136835927941523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1291234675768393728",
+              "start": 0,
+              "username": "carolclairo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870136835927941523",
+        "in_reply_to_user_id": "1291234675768393728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870132339961147807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@carolclairo 好久不见啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1291234675768393728",
+        "conversation_id": "1832306720477213023",
+        "created_at": "2024-12-20T15:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T16:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870132339961147807"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1870132339961147807",
+        "in_reply_to_user_id": "1291234675768393728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832306865658601660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "目前是时隔三个月再一次双休中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "有时也想过花烂漫某天与世界无声道别， 可是偏偏有太多太多遗憾挂牵没画句点",
+        "id": "1529654419213541376",
+        "location": "期待一场意外，此生再无难过",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1865393368853090537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 196,
+          "like_count": 2969,
+          "listed_count": 6,
+          "media_count": 698,
+          "tweet_count": 3904
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-06T04:48:41.000Z",
+        "description": "嗜好太多，能力太小，缺乏冒险精神的普通人。\n小号 @xunzizishu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "xunzizishu"
+              }
+            ]
+          }
+        },
+        "id": "1291234675768393728",
+        "location": "甜蜜的联结",
+        "name": "洵美且异",
+        "pinned_tweet_id": "1653261895154143233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1639630877327228929/lKZ2Rz6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2075,
+          "following_count": 745,
+          "like_count": 32372,
+          "listed_count": 18,
+          "media_count": 441,
+          "tweet_count": 11758
+        },
+        "username": "carolclairo",
+        "verified": false
+      }
+    ]
+  }
+}

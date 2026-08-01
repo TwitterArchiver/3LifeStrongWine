@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2062094664707297441",
+    "created_at": "2026-06-07T16:16:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T17:16:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063656395891999080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1913160251551227904",
+          "start": 0,
+          "username": "ustgr6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063656395891999080",
+    "in_reply_to_user_id": "1913160251551227904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062095037719326816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ustgr6 豆包准确率感觉还不如deepseek"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062095026033934337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4IgC_aQAEE4iL.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2062094664707297441",
+        "created_at": "2026-06-07T16:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063656395891999080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1913160251551227904",
+              "start": 0,
+              "username": "ustgr6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063656395891999080",
+        "in_reply_to_user_id": "1913160251551227904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062095037719326816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ustgr6 豆包准确率感觉还不如deepseek"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062095026033934337"
+          ]
+        },
+        "author_id": "1913160251551227904",
+        "conversation_id": "2062094664707297441",
+        "created_at": "2026-06-03T08:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062095037719326816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h3W1KqkEpa",
+              "end": 23,
+              "expanded_url": "https://x.com/ustgr6/status/2062095037719326816/photo/1",
+              "media_key": "3_2062095026033934337",
+              "start": 0,
+              "url": "https://t.co/h3W1KqkEpa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062095037719326816",
+        "in_reply_to_user_id": "1913160251551227904",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1153,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062094664707297441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/h3W1KqkEpa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花潭水深千尺  不及汪伦送我情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2869,
+          "following_count": 102,
+          "like_count": 6809,
+          "listed_count": 14,
+          "media_count": 3706,
+          "tweet_count": 14447
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T09:19:07.000Z",
+        "description": "惹我的出门摔进粪坑\n不加v 只和喜欢的互关\n除了简介其他的话都不要信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ineedahug75835",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ineedahug75835",
+                "start": 0,
+                "url": "https://t.co/W0GgiQAFhE"
+              }
+            ]
+          }
+        },
+        "id": "1913160251551227904",
+        "location": "给我打钱我会发送刚吃的饭的照片",
+        "name": "Z",
+        "pinned_tweet_id": "2058448348471005249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063567263601659904/uY0BDhod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 674,
+          "like_count": 16589,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 1154
+        },
+        "url": "https://t.co/W0GgiQAFhE",
+        "username": "ustgr6",
+        "verified": false
+      }
+    ]
+  }
+}

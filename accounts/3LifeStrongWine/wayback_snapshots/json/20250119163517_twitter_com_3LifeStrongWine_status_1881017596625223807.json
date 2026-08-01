@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1880997047169667535",
+    "created_at": "2025-01-19T16:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T17:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881017596625223807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1833074723988946944",
+          "start": 0,
+          "username": "yokino0103suki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881017596625223807",
+    "in_reply_to_user_id": "1833074723988946944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881007441795805534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yokino0103suki 好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1880997047169667535",
+        "created_at": "2025-01-19T16:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T17:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881017596625223807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1833074723988946944",
+              "start": 0,
+              "username": "yokino0103suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881017596625223807",
+        "in_reply_to_user_id": "1833074723988946944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881007441795805534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yokino0103suki 好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833074723988946944",
+        "conversation_id": "1880997047169667535",
+        "created_at": "2025-01-19T15:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T16:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881007441795805534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881007441795805534",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880997047169667535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 我要跟着你喝。😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "看桃花究竟开出怎样的结果",
+        "id": "1529654419213541376",
+        "location": "夢在心上心便溫柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1166,
+          "following_count": 239,
+          "like_count": 5657,
+          "listed_count": 7,
+          "media_count": 1320,
+          "tweet_count": 6016
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T09:27:38.000Z",
+        "description": "咖啡续命。    \n褪黑素：@amds_amds",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "amds_amds"
+              }
+            ]
+          }
+        },
+        "id": "1833074723988946944",
+        "location": "日本-千葉縣",
+        "name": "雪乃",
+        "pinned_tweet_id": "1879037642836468098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871877372594561024/1i7u84r6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 296,
+          "like_count": 13701,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1794
+        },
+        "username": "yokino0103suki",
+        "verified": false
+      }
+    ]
+  }
+}

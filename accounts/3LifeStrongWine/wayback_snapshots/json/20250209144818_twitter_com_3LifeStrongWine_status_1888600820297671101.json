@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1888600820297671101",
+    "created_at": "2025-02-09T14:48:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T15:48:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1888600820297671101"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3lifestrongwin…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/3lifestrongwine/status/1888600672578466088",
+          "start": 15,
+          "url": "https://t.co/DtRNfwBrBJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888600820297671101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888600672578466088",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是傻逼还是酒店管理层是sb https://t.co/DtRNfwBrBJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1888600820297671101",
+        "created_at": "2025-02-09T14:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T15:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888600820297671101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3lifestrongwin…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/3lifestrongwine/status/1888600672578466088",
+              "start": 15,
+              "url": "https://t.co/DtRNfwBrBJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888600820297671101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888600672578466088",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是傻逼还是酒店管理层是sb https://t.co/DtRNfwBrBJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1888600616257339394"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1888600672578466088",
+        "created_at": "2025-02-09T14:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T15:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888600672578466088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hKzFOzUaTw",
+              "end": 30,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1888600672578466088/video/1",
+              "media_key": "13_1888600616257339394",
+              "start": 7,
+              "url": "https://t.co/hKzFOzUaTw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888600672578466088",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？？？？？？ https://t.co/hKzFOzUaTw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 217,
+          "like_count": 6520,
+          "listed_count": 9,
+          "media_count": 1737,
+          "tweet_count": 7362
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1895873880331600214",
+    "created_at": "2025-03-01T16:33:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T17:33:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895875105747845141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1839696962918223872",
+          "start": 0,
+          "username": "qikong27547159"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895875105747845141",
+    "in_reply_to_user_id": "1839696962918223872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895873880331600214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qikong27547159 这是没少孵蛋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 947,
+        "media_key": "3_1895873866255204352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk9_PJEWgAAQ2ic.jpg",
+        "width": 1688
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1895873880331600214",
+        "created_at": "2025-03-01T16:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T17:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895875105747845141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1839696962918223872",
+              "start": 0,
+              "username": "qikong27547159"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895875105747845141",
+        "in_reply_to_user_id": "1839696962918223872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895873880331600214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qikong27547159 这是没少孵蛋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895873866255204352"
+          ]
+        },
+        "author_id": "1839696962918223872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1895873880331600214",
+        "created_at": "2025-03-01T16:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T17:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895873880331600214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OCkJlBdIZJ",
+              "end": 37,
+              "expanded_url": "https://x.com/qikong27547159/status/1895873880331600214/photo/1",
+              "media_key": "3_1895873866255204352",
+              "start": 14,
+              "url": "https://t.co/OCkJlBdIZJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895873880331600214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "肝两天了可以让我爽一下了吧 https://t.co/OCkJlBdIZJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1413,
+          "following_count": 231,
+          "like_count": 6918,
+          "listed_count": 10,
+          "media_count": 2076,
+          "tweet_count": 8429
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-27T16:02:00.000Z",
+        "description": "他们走了 在夕阳下沿着小路 空中的月亮和星星 不过是孩子们稀奇古怪的幻想",
+        "id": "1839696962918223872",
+        "location": "🤫",
+        "name": "柒mo",
+        "pinned_tweet_id": "1870980993328500984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894947227443044352/IwZLVxVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 63,
+          "like_count": 4014,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1382
+        },
+        "username": "qikong27547159",
+        "verified": false
+      }
+    ]
+  }
+}

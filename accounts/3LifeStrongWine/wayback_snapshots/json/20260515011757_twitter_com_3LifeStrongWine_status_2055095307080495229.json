@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2054949211817578824",
+    "created_at": "2026-05-15T01:17:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T02:17:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055095307080495229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1967226032634925056",
+          "start": 0,
+          "username": "pink200411"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055095307080495229",
+    "in_reply_to_user_id": "1967226032634925056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054969009645514807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pink200411 帅帅的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2054968993463808000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIS3aW_aMAAujGb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2054949211817578824",
+        "created_at": "2026-05-15T01:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T02:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055095307080495229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1967226032634925056",
+              "start": 0,
+              "username": "pink200411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055095307080495229",
+        "in_reply_to_user_id": "1967226032634925056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054969009645514807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pink200411 帅帅的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054968993463808000"
+          ]
+        },
+        "author_id": "1967226032634925056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054949211817578824",
+        "created_at": "2026-05-14T16:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T17:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054969009645514807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eLKJ95wYeS",
+              "end": 48,
+              "expanded_url": "https://x.com/pink200411/status/2054969009645514807/photo/1",
+              "media_key": "3_2054968993463808000",
+              "start": 25,
+              "url": "https://t.co/eLKJ95wYeS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054969009645514807",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054949211817578824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 你的脸也太无敌 https://t.co/eLKJ95wYeS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花潭水深千尺  不及汪伦送我情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2840,
+          "following_count": 113,
+          "like_count": 6835,
+          "listed_count": 14,
+          "media_count": 3631,
+          "tweet_count": 14263
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T13:56:56.000Z",
+        "description": "分享日常，私信都会认真回复，🚪128（腹肌or小帅半价）🤣",
+        "id": "1967226032634925056",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "pink",
+        "pinned_tweet_id": "2010971904736387581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970799324717264897/q8y6TLAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4265,
+          "following_count": 114,
+          "like_count": 25,
+          "listed_count": 9,
+          "media_count": 81,
+          "tweet_count": 218
+        },
+        "username": "pink200411",
+        "verified": false
+      }
+    ]
+  }
+}

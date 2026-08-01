@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1902758135645020319",
+    "created_at": "2025-03-20T16:24:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T17:24:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1902758135645020319"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3lifestrongwin…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/3lifestrongwine/status/1902757158326059331",
+          "start": 23,
+          "url": "https://t.co/itXZqqdtwP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902758135645020319",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902757158326059331",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "新搞一套键盘8000块钱又干下去了，太烧钱了 https://t.co/itXZqqdtwP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 807,
+        "media_key": "3_1902757137698451457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmfziRZa8AES4Un.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1902758135645020319",
+        "created_at": "2025-03-20T16:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T17:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902758135645020319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3lifestrongwin…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/3lifestrongwine/status/1902757158326059331",
+              "start": 23,
+              "url": "https://t.co/itXZqqdtwP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902758135645020319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902757158326059331",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "新搞一套键盘8000块钱又干下去了，太烧钱了 https://t.co/itXZqqdtwP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902757137698451457"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1902757158326059331",
+        "created_at": "2025-03-20T16:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T17:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902757158326059331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lEtJMw6utj",
+              "end": 36,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1902757158326059331/photo/1",
+              "media_key": "3_1902757137698451457",
+              "start": 13,
+              "url": "https://t.co/lEtJMw6utj"
+            },
+            {
+              "display_url": "x.com/3lifestrongwin…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/3lifestrongwine/status/1902753550285123610",
+              "start": 37,
+              "url": "https://t.co/T1WMPS7D9u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902757158326059331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902753550285123610",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "装这个套件上，一定好看， https://t.co/lEtJMw6utj https://t.co/T1WMPS7D9u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来｜把那无人问津的岁月熬成清茶，等一场芳香四散",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1472,
+          "following_count": 232,
+          "like_count": 7102,
+          "listed_count": 11,
+          "media_count": 2209,
+          "tweet_count": 9047
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

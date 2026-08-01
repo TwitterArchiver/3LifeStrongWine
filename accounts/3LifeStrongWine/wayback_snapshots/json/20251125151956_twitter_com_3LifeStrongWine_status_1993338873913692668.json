@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1993334358133162092",
+    "created_at": "2025-11-25T15:19:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T16:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993338873913692668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823405068034744320",
+          "start": 0,
+          "username": "hown530150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993338873913692668",
+    "in_reply_to_user_id": "1823405068034744320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993338476243357772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hown530150 哇靠谢谢你，你也要开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1993334358133162092",
+        "created_at": "2025-11-25T15:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T16:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993338873913692668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823405068034744320",
+              "start": 0,
+              "username": "hown530150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993338873913692668",
+        "in_reply_to_user_id": "1823405068034744320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993338476243357772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hown530150 哇靠谢谢你，你也要开心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823405068034744320",
+        "conversation_id": "1993334358133162092",
+        "created_at": "2025-11-25T15:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T16:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993338476243357772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993338476243357772",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993334358133162092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 不扎你心了高兴点！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我爱上的是遥远的理想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "pinned_tweet_id": "1992598033381638574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1506,
+          "following_count": 180,
+          "like_count": 6604,
+          "listed_count": 12,
+          "media_count": 3010,
+          "tweet_count": 12193
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-13T17:03:48.000Z",
+        "description": "07年女子 声音好听请给我发语音感谢",
+        "id": "1823405068034744320",
+        "name": "喵喵",
+        "pinned_tweet_id": "1985364106699043291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979475741906489346/fYNhir7P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 680,
+          "like_count": 5479,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 5030
+        },
+        "username": "hown530150",
+        "verified": false
+      }
+    ]
+  }
+}

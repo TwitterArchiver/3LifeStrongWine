@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1914667881419399466",
+    "created_at": "2025-04-22T13:32:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T14:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914673743659778522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1843266126211362816",
+          "start": 0,
+          "username": "briwb_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914673743659778522",
+    "in_reply_to_user_id": "1843266126211362816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914667881419399466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@briwb_ 啊啊啊啊啊啊啊为啥我要在这个时候刷到"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1914667872535846912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpJESSVaIAAiiP1.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1914667881419399466",
+        "created_at": "2025-04-22T13:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T14:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914673743659778522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1843266126211362816",
+              "start": 0,
+              "username": "briwb_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914673743659778522",
+        "in_reply_to_user_id": "1843266126211362816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914667881419399466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@briwb_ 啊啊啊啊啊啊啊为啥我要在这个时候刷到"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914667872535846912"
+          ]
+        },
+        "author_id": "1843266126211362816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1914667881419399466",
+        "created_at": "2025-04-22T13:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T14:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914667881419399466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ePuaq1QuqP",
+              "end": 44,
+              "expanded_url": "https://x.com/briwb_/status/1914667881419399466/photo/1",
+              "media_key": "3_1914667872535846912",
+              "start": 21,
+              "url": "https://t.co/ePuaq1QuqP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914667881419399466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是我瞎叫  真的没人懂这口的救赎感吗😭 https://t.co/ePuaq1QuqP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "东隅已逝，桑榆非晚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912318298353487872/R3xfbIV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 244,
+          "like_count": 7425,
+          "listed_count": 11,
+          "media_count": 2568,
+          "tweet_count": 10498
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-07T12:24:47.000Z",
+        "description": "4i女攻  女高  颜值至上😋 摩羯172   线下查无此人 但是是很纯良      .........喜欢我的话请给我钱钱！ 来财🚪88纯绿（不会主动发消息偶尔可能会给你发点照片什么的👏发消息一定回）520一个月电子女友支持投喂😋（这个就随便写的不会有人入的🤓👆） 喜欢好看的身体声音 喜欢卷毛....",
+        "id": "1843266126211362816",
+        "location": "狗 你可以靠在人结实的胸膛ʢᴗ.ᴗʡᶻ",
+        "name": "ruth",
+        "pinned_tweet_id": "1885173975703314578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858381573370077184/oH2R5g1n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 49,
+          "like_count": 1541,
+          "listed_count": 2,
+          "media_count": 168,
+          "tweet_count": 1590
+        },
+        "username": "briwb_",
+        "verified": false
+      }
+    ]
+  }
+}

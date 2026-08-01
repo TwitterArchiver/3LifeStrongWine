@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1883399446857425366",
+    "created_at": "2025-01-26T16:09:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T17:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883547915735662959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1671439039059357696",
+          "start": 0,
+          "username": "pnl1238261"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883547915735662959",
+    "in_reply_to_user_id": "1671439039059357696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883510727648117059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pnl1238261 草"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1883399446857425366",
+        "created_at": "2025-01-26T16:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T17:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883547915735662959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1671439039059357696",
+              "start": 0,
+              "username": "pnl1238261"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883547915735662959",
+        "in_reply_to_user_id": "1671439039059357696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883510727648117059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pnl1238261 草"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671439039059357696",
+        "conversation_id": "1883399446857425366",
+        "created_at": "2025-01-26T13:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T14:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883510727648117059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883510727648117059",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883399446857425366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 要你  拥有你 其他的都不算什么😌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "凡所有相  皆是虚妄",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1371,
+          "following_count": 219,
+          "like_count": 6177,
+          "listed_count": 7,
+          "media_count": 1476,
+          "tweet_count": 6621
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-21T08:45:05.000Z",
+        "description": "个头不高/细狗/ 懒得营业 /看我心情 /🚪98/128/288不等",
+        "id": "1671439039059357696",
+        "name": "甜",
+        "pinned_tweet_id": "1719996066622312768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671447289532129280/UQEz6rhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2423,
+          "following_count": 26,
+          "like_count": 1769,
+          "listed_count": 22,
+          "media_count": 92,
+          "tweet_count": 297
+        },
+        "username": "pnl1238261",
+        "verified": false
+      }
+    ]
+  }
+}

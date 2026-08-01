@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2041048936845300042",
+    "created_at": "2026-04-06T09:10:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T10:10:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041081062575796422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1874432803338854400",
+          "start": 0,
+          "username": "0b1k0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041081062575796422",
+    "in_reply_to_user_id": "1874432803338854400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041076825603080438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0b1k0 等过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2041048936845300042",
+        "created_at": "2026-04-06T09:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T10:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041081062575796422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1874432803338854400",
+              "start": 0,
+              "username": "0b1k0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041081062575796422",
+        "in_reply_to_user_id": "1874432803338854400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041076825603080438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0b1k0 等过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874432803338854400",
+        "conversation_id": "2041048936845300042",
+        "created_at": "2026-04-06T08:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T09:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041076825603080438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041076825603080438",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041048936845300042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 你就没等过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "最后还是失眠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2059,
+          "following_count": 183,
+          "like_count": 6895,
+          "listed_count": 13,
+          "media_count": 3492,
+          "tweet_count": 13703
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T12:29:53.000Z",
+        "description": "亮晶晶的宝石给我生命之光",
+        "id": "1874432803338854400",
+        "location": "🚪288/520/1314",
+        "name": "冰块",
+        "pinned_tweet_id": "2005673024356589586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005255904485314560/IknqtxPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8896,
+          "following_count": 46,
+          "like_count": 506,
+          "listed_count": 19,
+          "media_count": 58,
+          "tweet_count": 779
+        },
+        "username": "0b1k0",
+        "verified": false
+      }
+    ]
+  }
+}

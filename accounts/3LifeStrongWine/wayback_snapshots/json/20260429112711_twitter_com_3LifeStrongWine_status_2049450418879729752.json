@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2049394336522272934",
+    "created_at": "2026-04-29T11:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T12:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049450418879729752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "928677867407392769",
+          "start": 0,
+          "username": "chongjijuzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049450418879729752",
+    "in_reply_to_user_id": "928677867407392769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049414714728534042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chongjijuzi 复合材料轴旋转的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2049394336522272934",
+        "created_at": "2026-04-29T11:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T12:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049450418879729752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "928677867407392769",
+              "start": 0,
+              "username": "chongjijuzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049450418879729752",
+        "in_reply_to_user_id": "928677867407392769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049414714728534042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chongjijuzi 复合材料轴旋转的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "928677867407392769",
+        "conversation_id": "2049394336522272934",
+        "created_at": "2026-04-29T09:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T10:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049414714728534042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049414714728534042",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1307,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049394336522272934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 是研究纤维材料铺装角度变化导致拉伸性能变化？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花潭水深千尺  不及汪伦送我情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2483,
+          "following_count": 115,
+          "like_count": 6908,
+          "listed_count": 14,
+          "media_count": 3586,
+          "tweet_count": 14130
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-09T17:37:12.000Z",
+        "description": "",
+        "id": "928677867407392769",
+        "name": "guantianlan",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 899,
+          "like_count": 203,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 2288
+        },
+        "username": "chongjijuzi",
+        "verified": false
+      }
+    ]
+  }
+}

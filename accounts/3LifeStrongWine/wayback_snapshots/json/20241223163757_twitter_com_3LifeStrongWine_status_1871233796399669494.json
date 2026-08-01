@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1871225060423540796",
+    "created_at": "2024-12-23T16:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-23T17:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871233796399669494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1540943331819417600",
+          "start": 0,
+          "username": "hyyqmax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871233796399669494",
+    "in_reply_to_user_id": "1540943331819417600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871225460128190793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyyqmax 有多可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1871225060423540796",
+        "created_at": "2024-12-23T16:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-23T17:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871233796399669494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1540943331819417600",
+              "start": 0,
+              "username": "hyyqmax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871233796399669494",
+        "in_reply_to_user_id": "1540943331819417600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871225460128190793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyyqmax 有多可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540943331819417600",
+        "conversation_id": "1871225060423540796",
+        "created_at": "2024-12-23T16:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-23T17:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871225460128190793"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1871225460128190793",
+        "in_reply_to_user_id": "1540943331819417600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871225060423540796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我沦陷了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "有时也想过花烂漫某天与世界无声道别， 可是偏偏有太多太多遗憾挂牵没画句点",
+        "id": "1529654419213541376",
+        "location": "期待一场意外，此生再无难过",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1865393368853090537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 201,
+          "like_count": 3219,
+          "listed_count": 6,
+          "media_count": 728,
+          "tweet_count": 4095
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-26T06:21:48.000Z",
+        "description": "be rich,be happy.",
+        "id": "1540943331819417600",
+        "name": "都好",
+        "pinned_tweet_id": "1851175053037355310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806351468011925504/ZsnQIHR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 421,
+          "like_count": 12913,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 3343
+        },
+        "username": "hyyqmax",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1927570684227600594",
+    "created_at": "2025-05-28T03:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T04:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927570684227600594"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/1965chich/stat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/1965chich/status/1927395498857521466",
+          "start": 11,
+          "url": "https://t.co/aMMOJ9eoql"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927570684227600594",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927395498857521466",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我了哈哈哈哈天才 https://t.co/aMMOJ9eoql"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1927570684227600594",
+        "created_at": "2025-05-28T03:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T04:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927570684227600594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1965chich/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/1965chich/status/1927395498857521466",
+              "start": 11,
+              "url": "https://t.co/aMMOJ9eoql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927570684227600594",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927395498857521466",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了哈哈哈哈天才 https://t.co/aMMOJ9eoql"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703762928",
+        "conversation_id": "1927293118853914818",
+        "created_at": "2025-05-27T16:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T17:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927395498857521466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927395498857521466",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 592,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927293118853914818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 巴宝莉，很富贵的名字"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "闻有三山不知处，茂陵松柏满西风",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912318298353487872/R3xfbIV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1526,
+          "following_count": 239,
+          "like_count": 7432,
+          "listed_count": 11,
+          "media_count": 2688,
+          "tweet_count": 10971
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2013-08-27T05:20:31.000Z",
+        "description": "🇨🇳爱中国 145/44kg 欢迎来到KFC的内心世界 带学生 有点社恐 喜欢看帅帅的女孩子/无性恋 /非跨/不会尊重人的关小黑屋/心里第一：浪浪宝贝 /爸爸：@kaijiangtuotu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "kaijiangtuotu_"
+              }
+            ]
+          }
+        },
+        "id": "1703762928",
+        "name": "Kentucky Fried Chicken",
+        "pinned_tweet_id": "1879137609982816677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882590512760446976/XdK6-PCg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5953,
+          "following_count": 1011,
+          "like_count": 16655,
+          "listed_count": 7,
+          "media_count": 252,
+          "tweet_count": 5053
+        },
+        "username": "1965chich",
+        "verified": false
+      }
+    ]
+  }
+}

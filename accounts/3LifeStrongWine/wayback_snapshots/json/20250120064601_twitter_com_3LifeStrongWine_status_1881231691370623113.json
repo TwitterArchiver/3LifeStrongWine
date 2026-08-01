@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1881231691370623113",
+    "created_at": "2025-01-20T06:46:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T07:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1881231691370623113"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/libertyelysium…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/libertyelysium/status/1881231420192133614",
+          "start": 18,
+          "url": "https://t.co/ju9bXmZleP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881231691370623113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881231420192133614",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“匈奴不灭，何以家为”\nIP：长安 https://t.co/ju9bXmZleP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1881231691370623113",
+        "created_at": "2025-01-20T06:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T07:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881231691370623113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/libertyelysium…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/libertyelysium/status/1881231420192133614",
+              "start": 18,
+              "url": "https://t.co/ju9bXmZleP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881231691370623113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881231420192133614",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“匈奴不灭，何以家为”\nIP：长安 https://t.co/ju9bXmZleP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "954724026806448128",
+        "conversation_id": "1881231420192133614",
+        "created_at": "2025-01-20T06:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T07:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881231420192133614"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881231420192133614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“蛮夷畏威不畏德”\nIP：广西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "白云山上白云泉，云自无心水自闲",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1184,
+          "following_count": 234,
+          "like_count": 5702,
+          "listed_count": 7,
+          "media_count": 1329,
+          "tweet_count": 6071
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-20T14:35:20.000Z",
+        "description": "@RGW90的忠实护卫犬",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "RGW90"
+              }
+            ]
+          }
+        },
+        "id": "954724026806448128",
+        "location": "精神科",
+        "name": "黄小姐今天吃什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853809858203811840/NRmse9nN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7031,
+          "following_count": 551,
+          "like_count": 69592,
+          "listed_count": 25,
+          "media_count": 1597,
+          "tweet_count": 25232
+        },
+        "username": "libertyelysium",
+        "verified": true
+      }
+    ]
+  }
+}

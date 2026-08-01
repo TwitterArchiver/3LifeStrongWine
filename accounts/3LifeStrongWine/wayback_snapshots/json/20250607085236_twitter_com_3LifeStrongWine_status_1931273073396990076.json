@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1931272634777715144",
+    "created_at": "2025-06-07T08:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T09:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931273073396990076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1808552527119437824",
+          "start": 0,
+          "username": "11dontcryTT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931273073396990076",
+    "in_reply_to_user_id": "1808552527119437824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931272634777715144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@11dontcryTT 我想买个iPhone17promax"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4428,
+        "height": 1280,
+        "media_key": "13_1931272572819456000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1931272572819456000/img/nflYLWMpzrexCnZA.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931272572819456000/vid/avc1/320x694/2AEPkM1xjNfvYE0i.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931272572819456000/vid/avc1/480x1040/m_rwtJDQSxTV3tQg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931272572819456000/vid/avc1/590x1280/7YheE9--OYSZ9tOg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1931272572819456000/pl/yiEHke_c_nrhWgK3.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1931272634777715144",
+        "created_at": "2025-06-07T08:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T09:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931273073396990076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1808552527119437824",
+              "start": 0,
+              "username": "11dontcryTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931273073396990076",
+        "in_reply_to_user_id": "1808552527119437824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931272634777715144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11dontcryTT 我想买个iPhone17promax"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1931272572819456000"
+          ]
+        },
+        "author_id": "1808552527119437824",
+        "conversation_id": "1931272634777715144",
+        "created_at": "2025-06-07T08:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T09:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931272634777715144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JOtQxeuQpY",
+              "end": 27,
+              "expanded_url": "https://x.com/11dontcryTT/status/1931272634777715144/video/1",
+              "media_key": "13_1931272572819456000",
+              "start": 4,
+              "url": "https://t.co/JOtQxeuQpY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931272634777715144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好好玩 https://t.co/JOtQxeuQpY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "时光足够温柔了吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 240,
+          "like_count": 7435,
+          "listed_count": 11,
+          "media_count": 2741,
+          "tweet_count": 11161
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-03T17:25:07.000Z",
+        "description": "回避型依恋｜阴湿狗男收容所｜痴傻呆苶｜情绪极其不稳定｜🪜https://t.co/I1xWHO7stO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 51,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=60Ulo4aZ",
+                "start": 28,
+                "url": "https://t.co/I1xWHO7stO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pleasdontcry11",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pleasdontcry11",
+                "start": 0,
+                "url": "https://t.co/OfXvywWWaj"
+              }
+            ]
+          }
+        },
+        "id": "1808552527119437824",
+        "name": "₊⁺ ·悲᳐伤猫猫头᳐· ﾟ ₊",
+        "pinned_tweet_id": "1869826853781025104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929150675365384192/ya0MkhZI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4981,
+          "following_count": 69,
+          "like_count": 2907,
+          "listed_count": 15,
+          "media_count": 610,
+          "tweet_count": 5717
+        },
+        "url": "https://t.co/OfXvywWWaj",
+        "username": "11dontcryTT",
+        "verified": false
+      }
+    ]
+  }
+}

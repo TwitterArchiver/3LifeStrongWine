@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1883398494112874528",
+    "created_at": "2025-01-26T06:16:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T07:16:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883398494112874528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1513909585672736769",
+          "start": 3,
+          "username": "tianmei001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883398494112874528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883387985464635825",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tianmei001: 我的门槛哥老公能给我买一个吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1883398494112874528",
+        "created_at": "2025-01-26T06:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T07:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883398494112874528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1513909585672736769",
+              "start": 3,
+              "username": "tianmei001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883398494112874528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883387985464635825",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tianmei001: 我的门槛哥老公能给我买一个吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513909585672736769",
+        "conversation_id": "1883387985464635825",
+        "created_at": "2025-01-26T05:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T06:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883387985464635825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3lifestrongwin…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/3lifestrongwine/status/1883224886447059219",
+              "start": 15,
+              "url": "https://t.co/8bD9fDTVEB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883387985464635825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 761,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883224886447059219",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的门槛哥老公能给我买一个吗 https://t.co/8bD9fDTVEB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "凡所有相  皆是虚妄",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1370,
+          "following_count": 221,
+          "like_count": 6175,
+          "listed_count": 7,
+          "media_count": 1461,
+          "tweet_count": 6597
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-12T15:59:16.000Z",
+        "description": "宅女 不接推广/转帖🚪520/888/1314",
+        "id": "1513909585672736769",
+        "name": "黯淡星",
+        "pinned_tweet_id": "1882897540628300219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757795319704961024/VYVDFtb__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31745,
+          "following_count": 267,
+          "like_count": 29733,
+          "listed_count": 65,
+          "media_count": 1843,
+          "tweet_count": 29357
+        },
+        "username": "tianmei001",
+        "verified": false
+      }
+    ]
+  }
+}

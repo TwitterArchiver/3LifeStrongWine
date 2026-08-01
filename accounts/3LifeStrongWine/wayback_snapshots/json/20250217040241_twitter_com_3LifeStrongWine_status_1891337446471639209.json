@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1891337446471639209",
+    "created_at": "2025-02-17T04:02:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T05:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1891337446471639209"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yueyue8964/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/yueyue8964/status/1891337317316436397",
+          "start": 5,
+          "url": "https://t.co/FoVDNmm8e5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891337446471639209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891337317316436397",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喜欢就好 https://t.co/FoVDNmm8e5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1891337446471639209",
+        "created_at": "2025-02-17T04:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T05:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891337446471639209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yueyue8964/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/yueyue8964/status/1891337317316436397",
+              "start": 5,
+              "url": "https://t.co/FoVDNmm8e5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891337446471639209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891337317316436397",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢就好 https://t.co/FoVDNmm8e5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891337306004652032",
+            "3_1891337305987887104"
+          ]
+        },
+        "author_id": "1750329917252976640",
+        "conversation_id": "1891337317316436397",
+        "created_at": "2025-02-17T04:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T05:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891337317316436397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1529654419213541376",
+              "start": 3,
+              "username": "3LifeStrongWine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M33BK2Mso7",
+              "end": 59,
+              "expanded_url": "https://x.com/yueyue8964/status/1891337317316436397/photo/1",
+              "media_key": "3_1891337306004652032",
+              "start": 36,
+              "url": "https://t.co/M33BK2Mso7"
+            },
+            {
+              "display_url": "pic.x.com/M33BK2Mso7",
+              "end": 59,
+              "expanded_url": "https://x.com/yueyue8964/status/1891337317316436397/photo/1",
+              "media_key": "3_1891337305987887104",
+              "start": 36,
+              "url": "https://t.co/M33BK2Mso7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891337317316436397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收到啦@3LifeStrongWine 很喜欢最后一句话🥺老师好用心！ https://t.co/M33BK2Mso7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 226,
+          "like_count": 6610,
+          "listed_count": 10,
+          "media_count": 1896,
+          "tweet_count": 7792
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-25T01:29:16.000Z",
+        "description": "🚪128/222详情可以私信我(｡ì _ í｡)这是我的小号关注她好吗@ayou080103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "ayou080103"
+              }
+            ]
+          }
+        },
+        "id": "1750329917252976640",
+        "location": "无声的寂静海",
+        "name": "小榆",
+        "pinned_tweet_id": "1887389456925343927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807218968463327232/_cUbucHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9344,
+          "following_count": 462,
+          "like_count": 9535,
+          "listed_count": 15,
+          "media_count": 192,
+          "tweet_count": 7969
+        },
+        "username": "yueyue8964",
+        "verified": false
+      }
+    ]
+  }
+}

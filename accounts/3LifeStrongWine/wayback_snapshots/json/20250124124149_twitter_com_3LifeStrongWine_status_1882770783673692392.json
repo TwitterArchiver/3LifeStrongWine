@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1882754505101726143",
+    "created_at": "2025-01-24T12:41:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T13:41:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882770783673692392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1511247062855467008",
+          "start": 0,
+          "username": "hhhh18805331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882770783673692392",
+    "in_reply_to_user_id": "1511247062855467008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882761795871629565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhhh18805331 我61黄泉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1882754505101726143",
+        "created_at": "2025-01-24T12:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T13:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882770783673692392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1511247062855467008",
+              "start": 0,
+              "username": "hhhh18805331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882770783673692392",
+        "in_reply_to_user_id": "1511247062855467008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882761795871629565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhhh18805331 我61黄泉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511247062855467008",
+        "conversation_id": "1882754505101726143",
+        "created_at": "2025-01-24T12:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T13:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882761795871629565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882761795871629565",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882754505101726143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 但是黄泉动画太长了，我现在都借大佬的65景元的～👉👈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "凡所有相  皆是虚妄",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1365,
+          "following_count": 223,
+          "like_count": 6111,
+          "listed_count": 7,
+          "media_count": 1431,
+          "tweet_count": 6515
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-05T07:39:26.000Z",
+        "description": "是个烧0，叫我小o就好，想要私信和互关的都可以来哦～想聊什么的都可以～我的xp还是挺广泛的（键政除外）～愿2025我和大家诸事顺遂～🤭（高强度刷推，会在各个评论区出现，还喜欢发一些莫名其妙的推文～👉👈）",
+        "id": "1511247062855467008",
+        "name": "osuao",
+        "pinned_tweet_id": "1879899891935391893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866581073540620288/3yzOwTXC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 874,
+          "like_count": 38947,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 6037
+        },
+        "username": "hhhh18805331",
+        "verified": false
+      }
+    ]
+  }
+}

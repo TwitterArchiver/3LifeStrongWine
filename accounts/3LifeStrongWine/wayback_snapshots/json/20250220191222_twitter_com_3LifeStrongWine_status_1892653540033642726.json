@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1892653540033642726",
+    "created_at": "2025-02-20T19:12:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T20:12:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1892653540033642726"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3lifestrongwin…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/3lifestrongwine/status/1892653119835677071",
+          "start": 16,
+          "url": "https://t.co/yZsAKRPMjM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892653540033642726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892653119835677071",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就要放下了，总是差一点，不是吗 https://t.co/yZsAKRPMjM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1892653540033642726",
+        "created_at": "2025-02-20T19:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T20:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892653540033642726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3lifestrongwin…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/3lifestrongwine/status/1892653119835677071",
+              "start": 16,
+              "url": "https://t.co/yZsAKRPMjM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892653540033642726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892653119835677071",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就要放下了，总是差一点，不是吗 https://t.co/yZsAKRPMjM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1892652677126828410",
+        "created_at": "2025-02-20T19:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T20:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892653119835677071"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1892653119835677071",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892653030232707074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的要放下你了，我不要喜欢你了，每天失眠到半夜才能睡着的夜晚我一点都不想经历了，虽然我到现在都不明白为什么分手后你可以当做什么都没发生一样，不明白你怎么可以做到那么绝情的，不过这都不重要了，你怎么样我都尊重你，我独自走在喜欢你的这条路上真的太孤单太无奈了，结束吧，愿平安。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 226,
+          "like_count": 6683,
+          "listed_count": 10,
+          "media_count": 1952,
+          "tweet_count": 7973
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

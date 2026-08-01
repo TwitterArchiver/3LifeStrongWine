@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1901291714637094992",
+    "created_at": "2025-03-16T15:22:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T16:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901292958059765990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1573722407625543683",
+          "start": 0,
+          "username": "Amarantos_00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901292958059765990",
+    "in_reply_to_user_id": "1573722407625543683",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901291714637094992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amarantos_00 还蛮可爱的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7226,
+        "height": 1280,
+        "media_key": "7_1901291661570842624",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1901291661570842624/pu/img/MJ00IR6ZzeRBF3d0.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1901291661570842624/pu/vid/avc1/320x710/YbVN9C3JQIFx1zSx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1901291661570842624/pu/vid/avc1/480x1066/myIKrgWnRSZD4Wby.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1901291661570842624/pu/vid/avc1/576x1280/-TTOdteWTJo0T7c_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1901291661570842624/pu/pl/5HNVyWhCHS3kkT8F.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1901291714637094992",
+        "created_at": "2025-03-16T15:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T16:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901292958059765990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1573722407625543683",
+              "start": 0,
+              "username": "Amarantos_00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901292958059765990",
+        "in_reply_to_user_id": "1573722407625543683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901291714637094992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amarantos_00 还蛮可爱的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1901291661570842624"
+          ]
+        },
+        "author_id": "1573722407625543683",
+        "conversation_id": "1901291714637094992",
+        "created_at": "2025-03-16T15:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T16:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901291714637094992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fs5ArQEbHF",
+              "end": 26,
+              "expanded_url": "https://x.com/Amarantos_00/status/1901291714637094992/video/1",
+              "media_key": "7_1901291661570842624",
+              "start": 3,
+              "url": "https://t.co/fs5ArQEbHF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901291714637094992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我↓ https://t.co/fs5ArQEbHF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来｜把那无人问津的岁月熬成清茶，等一场芳香四散",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1422,
+          "following_count": 236,
+          "like_count": 7036,
+          "listed_count": 11,
+          "media_count": 2171,
+          "tweet_count": 8814
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-24T17:14:25.000Z",
+        "description": "心有清溪，意如明镜。我希望大家可以少些烦恼，可以永远轻松自在，顺心而为。小号@Hanako_sn00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 38,
+                "username": "Hanako_sn00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/amaran…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/amarantos00.bsky.social",
+                "start": 0,
+                "url": "https://t.co/yuWtZzkUo7"
+              }
+            ]
+          }
+        },
+        "id": "1573722407625543683",
+        "location": "罗夏·罗斯切尔德的腿上",
+        "name": "花子Hanako",
+        "pinned_tweet_id": "1828521741297013076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818071893259276288/BimPtGlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2239,
+          "following_count": 111,
+          "like_count": 33897,
+          "listed_count": 7,
+          "media_count": 2035,
+          "tweet_count": 13375
+        },
+        "url": "https://t.co/yuWtZzkUo7",
+        "username": "Amarantos_00",
+        "verified": false
+      }
+    ]
+  }
+}

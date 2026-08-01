@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1867165668921253891",
+    "created_at": "2024-12-13T06:05:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T07:05:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867450860302967286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592719222940962817",
+          "start": 0,
+          "username": "damatte0526"
+        },
+        {
+          "end": 24,
+          "id": "1627301480440164352",
+          "start": 13,
+          "username": "Lily_Syrup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867450860302967286",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867444305927045142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@damatte0526 @Lily_Syrup 谁小时候还没有一点幻想呢"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1867444305927045142].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1867444305927045142",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1867444305927045142"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1867165668921253891",
+        "created_at": "2024-12-13T06:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T07:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867450860302967286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "damatte0526"
+            },
+            {
+              "end": 24,
+              "id": "1627301480440164352",
+              "start": 13,
+              "username": "Lily_Syrup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867450860302967286",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867444305927045142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damatte0526 @Lily_Syrup 谁小时候还没有一点幻想呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "有时也想过花烂漫某天与世界无声道别， 可是偏偏有太多太多遗憾挂牵没画句点",
+        "id": "1529654419213541376",
+        "location": "长大是变温柔，是对所有人都温柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1865393368853090537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 181,
+          "like_count": 2177,
+          "listed_count": 4,
+          "media_count": 533,
+          "tweet_count": 3264
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "平和 安楽 一生懸命｜这里没有黄图哈",
+        "id": "1592719222940962817",
+        "location": "美丽的小咪之家",
+        "name": "家之咪小",
+        "pinned_tweet_id": "1855566813163332085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860209674106097665/98162yLt_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 282,
+          "like_count": 404,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 192
+        },
+        "username": "damatte0526",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T13:38:19.000Z",
+        "description": "地质学Geology & 陨石学 Meteoritics ｜你可以叫我 糖浆/松饼｜烤批 akt an单推｜粥原摆烂选手｜业余摄影师｜jpop 日摇 术力口｜INFJ｜日本語 English｜最爱的@LihaigeUpasaka\n｜用爱发电@Alter_Syrup｜社恐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 99,
+                "username": "LihaigeUpasaka"
+              },
+              {
+                "end": 132,
+                "start": 120,
+                "username": "Alter_Syrup"
+              }
+            ]
+          }
+        },
+        "id": "1627301480440164352",
+        "location": "Kyoto-fu, Japan",
+        "name": "Eucrite",
+        "pinned_tweet_id": "1780992344306983398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858436744678670336/7yvQ8C6X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 1032,
+          "like_count": 64732,
+          "listed_count": 1,
+          "media_count": 772,
+          "tweet_count": 3683
+        },
+        "username": "Lily_Syrup",
+        "verified": false
+      }
+    ]
+  }
+}

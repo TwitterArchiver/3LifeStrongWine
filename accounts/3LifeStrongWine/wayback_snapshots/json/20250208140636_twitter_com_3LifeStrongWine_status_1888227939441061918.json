@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1888194877672087678",
+    "created_at": "2025-02-08T14:06:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T15:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888227939441061918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1583822540652191744",
+          "start": 0,
+          "username": "IndigoC29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888227939441061918",
+    "in_reply_to_user_id": "1583822540652191744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888225913113809196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IndigoC29 好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1888194877672087678",
+        "created_at": "2025-02-08T14:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T15:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888227939441061918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1583822540652191744",
+              "start": 0,
+              "username": "IndigoC29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888227939441061918",
+        "in_reply_to_user_id": "1583822540652191744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888225913113809196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IndigoC29 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583822540652191744",
+        "conversation_id": "1888194877672087678",
+        "created_at": "2025-02-08T13:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T14:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888225913113809196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888225913113809196",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888194877672087678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 大衣里面穿薄点的衣服，冷了披大衣，热了脱掉👌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 219,
+          "like_count": 6502,
+          "listed_count": 9,
+          "media_count": 1693,
+          "tweet_count": 7287
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-22T14:08:24.000Z",
+        "description": "TIEZ. /♍️/Just call me Indigo/是🚹的🫃🧏‍♂️",
+        "id": "1583822540652191744",
+        "name": "IndigoC",
+        "pinned_tweet_id": "1861793888824086658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879364122145701888/Xa3br-kU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 141,
+          "like_count": 38853,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 3428
+        },
+        "username": "IndigoC29",
+        "verified": false
+      }
+    ]
+  }
+}

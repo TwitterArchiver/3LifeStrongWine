@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1943987391636586808",
+    "created_at": "2025-07-13T02:33:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T03:33:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944223581044715626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "935075650553069568",
+          "start": 0,
+          "username": "shinoharaMia181"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944223581044715626",
+    "in_reply_to_user_id": "935075650553069568",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944075936238121205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shinoharaMia181 bushi🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1943987391636586808",
+        "created_at": "2025-07-13T02:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T03:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944223581044715626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "935075650553069568",
+              "start": 0,
+              "username": "shinoharaMia181"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944223581044715626",
+        "in_reply_to_user_id": "935075650553069568",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944075936238121205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shinoharaMia181 bushi🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "935075650553069568",
+        "conversation_id": "1943987391636586808",
+        "created_at": "2025-07-12T16:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T17:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944075936238121205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944075936238121205",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943987391636586808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine ？是不是富的离谱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "泛黄的老照片里讲述了一个什么样的故事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我会带你去看这世界上最独一无二的风景",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1598,
+          "following_count": 187,
+          "like_count": 7133,
+          "listed_count": 11,
+          "media_count": 2911,
+          "tweet_count": 11823
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2017-11-27T09:19:42.000Z",
+        "description": "中国人です、Chinese。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shinoharaMia181",
+                "end": 23,
+                "expanded_url": "https://t.me/shinoharaMia181",
+                "start": 0,
+                "url": "https://t.co/kJT331rS8q"
+              }
+            ]
+          }
+        },
+        "id": "935075650553069568",
+        "location": "阿拉德大陆",
+        "name": "Dawn Light",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928005525121421314/6cFiiX8Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2493,
+          "following_count": 657,
+          "like_count": 30547,
+          "listed_count": 13,
+          "media_count": 2979,
+          "tweet_count": 45219
+        },
+        "url": "https://t.co/kJT331rS8q",
+        "username": "shinoharaMia181",
+        "verified": false
+      }
+    ]
+  }
+}

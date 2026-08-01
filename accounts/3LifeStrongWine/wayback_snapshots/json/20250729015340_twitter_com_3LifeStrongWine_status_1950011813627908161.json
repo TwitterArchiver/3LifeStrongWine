@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950011800667508738"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1950004246755115467",
+    "created_at": "2025-07-29T01:53:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T02:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950011813627908161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1899021424121065472",
+          "start": 0,
+          "username": "Tom_joseph23"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mwAdVUM6Ru",
+          "end": 48,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1950011813627908161/photo/1",
+          "media_key": "3_1950011800667508738",
+          "start": 25,
+          "url": "https://t.co/mwAdVUM6Ru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950011813627908161",
+    "in_reply_to_user_id": "1899021424121065472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950008120341626883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tom_joseph23 喜欢我的omega吗 https://t.co/mwAdVUM6Ru"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950011800667508738",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw_VZq6bUAIslbn.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950011800667508738"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1950004246755115467",
+        "created_at": "2025-07-29T01:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T02:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950011813627908161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1899021424121065472",
+              "start": 0,
+              "username": "Tom_joseph23"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mwAdVUM6Ru",
+              "end": 48,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1950011813627908161/photo/1",
+              "media_key": "3_1950011800667508738",
+              "start": 25,
+              "url": "https://t.co/mwAdVUM6Ru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950011813627908161",
+        "in_reply_to_user_id": "1899021424121065472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950008120341626883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tom_joseph23 喜欢我的omega吗 https://t.co/mwAdVUM6Ru"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899021424121065472",
+        "conversation_id": "1950004246755115467",
+        "created_at": "2025-07-29T01:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T02:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950008120341626883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950008120341626883",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950004246755115467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 我要江诗丹顿，准备送给职场上的妹妹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "泛黄的老照片里讲述了一个什么样的故事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我会带你去看这世界上最独一无二的风景",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1570,
+          "following_count": 187,
+          "like_count": 6923,
+          "listed_count": 12,
+          "media_count": 2930,
+          "tweet_count": 11888
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-10T08:56:14.000Z",
+        "description": "2月水瓶♒entp  switch  可以叫我joseph也可以叫我小jo",
+        "id": "1899021424121065472",
+        "name": "joseph",
+        "pinned_tweet_id": "1949627046231195913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923779133554761728/Vic_4C2m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 284,
+          "like_count": 32990,
+          "listed_count": 0,
+          "media_count": 597,
+          "tweet_count": 4093
+        },
+        "username": "Tom_joseph23",
+        "verified": false
+      }
+    ]
+  }
+}

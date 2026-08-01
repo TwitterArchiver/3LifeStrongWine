@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1885327046462890165",
+    "created_at": "2025-01-31T15:28:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T16:28:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885349392993108386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1851227631523655680",
+          "start": 0,
+          "username": "yes671251182642"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885349392993108386",
+    "in_reply_to_user_id": "1851227631523655680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885348454236291576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yes671251182642 看不上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1885327046462890165",
+        "created_at": "2025-01-31T15:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T16:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885349392993108386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1851227631523655680",
+              "start": 0,
+              "username": "yes671251182642"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885349392993108386",
+        "in_reply_to_user_id": "1851227631523655680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885348454236291576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yes671251182642 看不上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851227631523655680",
+        "conversation_id": "1885327046462890165",
+        "created_at": "2025-01-31T15:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T16:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885348454236291576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885348454236291576",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885347199921627487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 但有很多皮肤能白嫖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 217,
+          "like_count": 6299,
+          "listed_count": 9,
+          "media_count": 1550,
+          "tweet_count": 6806
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-29T11:40:59.000Z",
+        "description": "活人",
+        "id": "1851227631523655680",
+        "name": "GGbend",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876549152995213312/oXaseryh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 85,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 707
+        },
+        "username": "yes671251182642",
+        "verified": false
+      }
+    ]
+  }
+}

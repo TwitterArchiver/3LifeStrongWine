@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2044679733695398301",
+    "created_at": "2026-04-16T07:30:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T08:30:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044679733695398301"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3LifeStrongWin…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/3LifeStrongWine/status/2044103176128000050",
+          "start": 57,
+          "url": "https://t.co/0WC2479JhU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044679733695398301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044103176128000050",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天的邮件也已经回完了，希望互关们还有陌生人继续给我写信，我想看看你们的人生，看到这一条的老铁能不能帮我点点转发 https://t.co/0WC2479JhU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2044679733695398301",
+        "created_at": "2026-04-16T07:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T08:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044679733695398301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3LifeStrongWin…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/3LifeStrongWine/status/2044103176128000050",
+              "start": 57,
+              "url": "https://t.co/0WC2479JhU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044679733695398301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044103176128000050",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天的邮件也已经回完了，希望互关们还有陌生人继续给我写信，我想看看你们的人生，看到这一条的老铁能不能帮我点点转发 https://t.co/0WC2479JhU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2044103176128000050",
+        "created_at": "2026-04-14T17:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T18:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044103176128000050"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044103176128000050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5454,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "如果你有心事，可以写信给我，我会认真回每一封邮件\nprostitutesluo@gmail.com"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "如果能有转机我许愿是能够一直看着你的眼睛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2122,
+          "following_count": 115,
+          "like_count": 6932,
+          "listed_count": 12,
+          "media_count": 3548,
+          "tweet_count": 13978
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      }
+    ]
+  }
+}

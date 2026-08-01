@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1882390415200186453",
+    "created_at": "2025-01-23T15:47:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T16:47:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882455067703627802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1703762928",
+          "start": 0,
+          "username": "1965chich"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882455067703627802",
+    "in_reply_to_user_id": "1703762928",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882390415200186453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1965chich auv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1882390415200186453",
+        "created_at": "2025-01-23T15:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T16:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882455067703627802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1703762928",
+              "start": 0,
+              "username": "1965chich"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882455067703627802",
+        "in_reply_to_user_id": "1703762928",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882390415200186453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1965chich auv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882390405117050880"
+          ]
+        },
+        "author_id": "1703762928",
+        "conversation_id": "1882390415200186453",
+        "created_at": "2025-01-23T11:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T12:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882390415200186453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9J1kWEHMvO",
+              "end": 49,
+              "expanded_url": "https://x.com/1965chich/status/1882390415200186453/photo/1",
+              "media_key": "3_1882390405117050880",
+              "start": 26,
+              "url": "https://t.co/9J1kWEHMvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882390415200186453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 402,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说这牛奶怎么越来越难吸上来了，我抬头一看，auv https://t.co/9J1kWEHMvO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "白云山上白云泉，云自无心水自闲",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 223,
+          "like_count": 6008,
+          "listed_count": 7,
+          "media_count": 1411,
+          "tweet_count": 6372
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2013-08-27T05:20:31.000Z",
+        "description": "🇨🇳爱中国 145/44kg 欢迎来到KFC的内心世界 带学生 有点社恐 喜欢看帅帅的女孩子/无性恋 /非跨/不会尊重人的关小黑屋/心尖尖上的明珠：浪浪宝贝",
+        "id": "1703762928",
+        "name": "Kentucky Fried Chicken",
+        "pinned_tweet_id": "1882272374416089459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879492542326337536/mRyOw_AT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3590,
+          "following_count": 976,
+          "like_count": 13138,
+          "listed_count": 3,
+          "media_count": 168,
+          "tweet_count": 3828
+        },
+        "username": "1965chich",
+        "verified": false
+      }
+    ]
+  }
+}

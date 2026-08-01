@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1893383850518028570",
+    "created_at": "2025-02-22T19:34:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T20:34:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893383850518028570"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3lifestrongwin…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/3lifestrongwine/status/1893373980133794027",
+          "start": 39,
+          "url": "https://t.co/GCzE2KYy8B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893383850518028570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893373980133794027",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有时也想过 花烂漫某天 与世界无声道别，可是偏偏有太多太多遗憾挂牵 没画句点 https://t.co/GCzE2KYy8B"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1893383850518028570",
+        "created_at": "2025-02-22T19:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T20:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893383850518028570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3lifestrongwin…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/3lifestrongwine/status/1893373980133794027",
+              "start": 39,
+              "url": "https://t.co/GCzE2KYy8B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893383850518028570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893373980133794027",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有时也想过 花烂漫某天 与世界无声道别，可是偏偏有太多太多遗憾挂牵 没画句点 https://t.co/GCzE2KYy8B"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1893373980133794027",
+        "created_at": "2025-02-22T18:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T19:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893373980133794027"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893373980133794027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "倘若某天我也悄无声息地死在了无人关注的角落里，希望某日你想起我不要难过不要哭泣，记得我说每次离别都是童话的开始"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 225,
+          "like_count": 6766,
+          "listed_count": 10,
+          "media_count": 1985,
+          "tweet_count": 8119
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

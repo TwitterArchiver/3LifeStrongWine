@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1877294207716442286",
+    "created_at": "2025-01-09T12:50:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T13:50:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877337250540785909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "967899939173904384",
+          "start": 0,
+          "username": "suzuka_love521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877337250540785909",
+    "in_reply_to_user_id": "967899939173904384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877337135813902778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suzuka_love521 是哒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1877294207716442286",
+        "created_at": "2025-01-09T12:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T13:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877337250540785909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "967899939173904384",
+              "start": 0,
+              "username": "suzuka_love521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877337250540785909",
+        "in_reply_to_user_id": "967899939173904384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877337135813902778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suzuka_love521 是哒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "967899939173904384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1877294207716442286",
+        "created_at": "2025-01-09T12:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T13:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877337135813902778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877337135813902778",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877318148250112091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 好健康！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "雨季里我和你的青春一起坐过了站，而我会站在原地热泪盈眶地读你的未来",
+        "id": "1529654419213541376",
+        "location": "Destination of the Wind",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 210,
+          "like_count": 4671,
+          "listed_count": 7,
+          "media_count": 1014,
+          "tweet_count": 5042
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2018-02-25T23:11:42.000Z",
+        "description": "人与人之间就像两条相交的射线，在某时无限亲密，随后渐行渐远。\n所以请不要接近。",
+        "id": "967899939173904384",
+        "location": "渐行渐远",
+        "name": "梦雨（",
+        "pinned_tweet_id": "1836407055172931780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1514145965787082754/j6O29NZZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 141,
+          "like_count": 5933,
+          "listed_count": 1,
+          "media_count": 747,
+          "tweet_count": 4992
+        },
+        "username": "suzuka_love521",
+        "verified": false
+      }
+    ]
+  }
+}

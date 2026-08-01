@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1893616475174535297",
+    "created_at": "2025-02-23T11:14:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T12:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893620380306198960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1491205591754473474",
+          "start": 0,
+          "username": "keshiwohaokun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893620380306198960",
+    "in_reply_to_user_id": "1491205591754473474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893616475174535297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keshiwohaokun 我尝尝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1893616471294480384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkd6JdhWEAAlk4R.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1893616468623060992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkd6JTkbcAA0YVc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1893616475174535297",
+        "created_at": "2025-02-23T11:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T12:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893620380306198960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1491205591754473474",
+              "start": 0,
+              "username": "keshiwohaokun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893620380306198960",
+        "in_reply_to_user_id": "1491205591754473474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893616475174535297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keshiwohaokun 我尝尝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893616471294480384",
+            "3_1893616468623060992"
+          ]
+        },
+        "author_id": "1491205591754473474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1893616475174535297",
+        "created_at": "2025-02-23T10:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T11:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893616475174535297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/szMPS3iylS",
+              "end": 47,
+              "expanded_url": "https://x.com/keshiwohaokun/status/1893616475174535297/photo/1",
+              "media_key": "3_1893616471294480384",
+              "start": 24,
+              "url": "https://t.co/szMPS3iylS"
+            },
+            {
+              "display_url": "pic.x.com/szMPS3iylS",
+              "end": 47,
+              "expanded_url": "https://x.com/keshiwohaokun/status/1893616475174535297/photo/1",
+              "media_key": "3_1893616468623060992",
+              "start": 24,
+              "url": "https://t.co/szMPS3iylS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893616475174535297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 233,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完美的七八分熟的🥩，终于这个兵让我练成了，谁吃 https://t.co/szMPS3iylS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1405,
+          "following_count": 224,
+          "like_count": 6757,
+          "listed_count": 10,
+          "media_count": 1988,
+          "tweet_count": 8133
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-09T00:21:40.000Z",
+        "description": "†女的，大概是活的 † sub｜ 日常推/文盲/自由散漫/不接推广 不卖号/不要转载入墙/卜卦请看置顶，不准请找我退款",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=PT1iuT9D",
+                "start": 0,
+                "url": "https://t.co/TMKGn0r56g"
+              }
+            ]
+          }
+        },
+        "id": "1491205591754473474",
+        "location": "自用VPN↓",
+        "name": "可是我好困",
+        "pinned_tweet_id": "1828761484031394200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818981689731031040/CRhpHpuc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33753,
+          "following_count": 566,
+          "like_count": 70436,
+          "listed_count": 70,
+          "media_count": 2961,
+          "tweet_count": 32271
+        },
+        "url": "https://t.co/TMKGn0r56g",
+        "username": "keshiwohaokun",
+        "verified": false
+      }
+    ]
+  }
+}

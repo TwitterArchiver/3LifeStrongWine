@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2020810252468265179",
+    "created_at": "2026-02-10T13:28:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T14:28:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021214750789529681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1731651381914910720",
+          "start": 0,
+          "username": "Chensir2022Sir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021214750789529681",
+    "in_reply_to_user_id": "1731651381914910720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021020569551110266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chensir2022Sir 单18现在还有点买不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2020810252468265179",
+        "created_at": "2026-02-10T13:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T14:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021214750789529681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1731651381914910720",
+              "start": 0,
+              "username": "Chensir2022Sir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021214750789529681",
+        "in_reply_to_user_id": "1731651381914910720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021020569551110266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chensir2022Sir 单18现在还有点买不起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731651381914910720",
+        "conversation_id": "2020810252468265179",
+        "created_at": "2026-02-10T00:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T01:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021020569551110266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021020569551110266",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020810252468265179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 糊涂啊 还是黑色盒子老包装的单桶18年最夯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我想着花烂漫某天与世界无声告别",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1660,
+          "following_count": 168,
+          "like_count": 6778,
+          "listed_count": 12,
+          "media_count": 3248,
+          "tweet_count": 12943
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-04T12:27:27.000Z",
+        "description": "",
+        "id": "1731651381914910720",
+        "name": "huang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845454648666357764/UN4A1ZDa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 242,
+          "like_count": 1842,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 40
+        },
+        "username": "Chensir2022Sir",
+        "verified": false
+      }
+    ]
+  }
+}

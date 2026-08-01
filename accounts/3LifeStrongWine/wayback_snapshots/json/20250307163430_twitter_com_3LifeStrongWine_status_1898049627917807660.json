@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1898049627917807660",
+    "created_at": "2025-03-07T16:34:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T17:34:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898049627917807660"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3lifestrongwin…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/3lifestrongwine/status/1898049517666398224",
+          "start": 16,
+          "url": "https://t.co/XYeMQxPPps"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898049627917807660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898049517666398224",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "杀死遗憾的不是时光而是自欺欺人 https://t.co/XYeMQxPPps"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1898049627917807660",
+        "created_at": "2025-03-07T16:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T17:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898049627917807660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3lifestrongwin…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/3lifestrongwine/status/1898049517666398224",
+              "start": 16,
+              "url": "https://t.co/XYeMQxPPps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898049627917807660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898049517666398224",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "杀死遗憾的不是时光而是自欺欺人 https://t.co/XYeMQxPPps"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1898049517666398224",
+        "created_at": "2025-03-07T16:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T17:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898049517666398224"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898049517666398224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以为奶奶会永远坐在巷口剥毛豆，直到拆迁队推平老房子才想起没陪她晒过几次太阳；总计划带孩子看极光，回过神来他已埋头手机不再仰望星空。最狠的遗憾从不是天灾人祸，而是“明明来得及”的钝刀子割肉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1413,
+          "following_count": 235,
+          "like_count": 6940,
+          "listed_count": 11,
+          "media_count": 2110,
+          "tweet_count": 8549
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      }
+    ]
+  }
+}

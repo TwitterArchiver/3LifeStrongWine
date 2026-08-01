@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2041438430182445398",
+    "created_at": "2026-04-07T09:01:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T10:01:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041441200973221913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1749848735436427265",
+          "start": 0,
+          "username": "Orangepeel98426"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041441200973221913",
+    "in_reply_to_user_id": "1749848735436427265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041438430182445398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Orangepeel98426 我跟你说不想着会有坏事发生就不会咋样，一语成谶就是这个道理，你越想越会咋样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2041438430182445398",
+        "created_at": "2026-04-07T09:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T10:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041441200973221913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1749848735436427265",
+              "start": 0,
+              "username": "Orangepeel98426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041441200973221913",
+        "in_reply_to_user_id": "1749848735436427265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041438430182445398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orangepeel98426 我跟你说不想着会有坏事发生就不会咋样，一语成谶就是这个道理，你越想越会咋样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749848735436427265",
+        "conversation_id": "2041438430182445398",
+        "created_at": "2026-04-07T08:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T09:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041438430182445398"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041438430182445398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太幸福的时候心里就预感到这次的坏事要憋个大了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "爱意救不了往下坠的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2061,
+          "following_count": 189,
+          "like_count": 6867,
+          "listed_count": 13,
+          "media_count": 3500,
+          "tweet_count": 13759
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T17:37:16.000Z",
+        "description": "泪涔涔也往前进",
+        "id": "1749848735436427265",
+        "location": "碎碎念",
+        "name": "橙子皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040090360748146689/HTj0YTAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4779,
+          "following_count": 426,
+          "like_count": 175387,
+          "listed_count": 24,
+          "media_count": 15,
+          "tweet_count": 21774
+        },
+        "username": "Orangepeel98426",
+        "verified": false
+      }
+    ]
+  }
+}

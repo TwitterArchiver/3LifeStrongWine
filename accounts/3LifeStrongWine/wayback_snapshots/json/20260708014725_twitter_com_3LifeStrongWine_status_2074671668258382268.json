@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2074560972094869835",
+    "created_at": "2026-07-08T01:47:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T02:47:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074671668258382268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823767829465980931",
+          "start": 0,
+          "username": "CaoYu61579"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074671668258382268",
+    "in_reply_to_user_id": "1823767829465980931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074560972094869835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@CaoYu61579 同工科我感觉快进到进厂打螺丝，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2074560972094869835",
+        "created_at": "2026-07-08T01:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T02:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074671668258382268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823767829465980931",
+              "start": 0,
+              "username": "CaoYu61579"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074671668258382268",
+        "in_reply_to_user_id": "1823767829465980931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074560972094869835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@CaoYu61579 同工科我感觉快进到进厂打螺丝，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823767829465980931",
+        "conversation_id": "2074560972094869835",
+        "created_at": "2026-07-07T18:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T19:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074560972094869835"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074560972094869835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 291,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "工科女真能找到实习吗呵呵。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花潭水深千尺  不及汪伦送我情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2850,
+          "following_count": 100,
+          "like_count": 6803,
+          "listed_count": 14,
+          "media_count": 3718,
+          "tweet_count": 14489
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T17:05:21.000Z",
+        "description": "哪吒没认的命我全认了",
+        "id": "1823767829465980931",
+        "location": "讨厌你 每个小猫你都想摸˃ ˄ ˂",
+        "name": "我烤箱咋滴",
+        "pinned_tweet_id": "2066912633970884935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066947971309350912/NNoTBw12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3254,
+          "following_count": 192,
+          "like_count": 9479,
+          "listed_count": 11,
+          "media_count": 303,
+          "tweet_count": 5554
+        },
+        "url": "",
+        "username": "CaoYu61579",
+        "verified": false
+      }
+    ]
+  }
+}

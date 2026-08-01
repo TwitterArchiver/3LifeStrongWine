@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2036769391329841587",
+    "created_at": "2026-03-26T12:48:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T13:48:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037149644568821872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1936091086470193152",
+          "start": 0,
+          "username": "yui1225love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037149644568821872",
+    "in_reply_to_user_id": "1936091086470193152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036769391329841587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yui1225love 这是哪个国的品牌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2036769378453295104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEQO9VwaEAAKlmi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2036769391329841587",
+        "created_at": "2026-03-26T12:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T13:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037149644568821872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1936091086470193152",
+              "start": 0,
+              "username": "yui1225love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037149644568821872",
+        "in_reply_to_user_id": "1936091086470193152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036769391329841587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yui1225love 这是哪个国的品牌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036769378453295104"
+          ]
+        },
+        "author_id": "1936091086470193152",
+        "conversation_id": "2036769391329841587",
+        "created_at": "2026-03-25T11:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T12:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036769391329841587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/229BluItPl",
+              "end": 43,
+              "expanded_url": "https://x.com/yui1225love/status/2036769391329841587/photo/1",
+              "media_key": "3_2036769378453295104",
+              "start": 20,
+              "url": "https://t.co/229BluItPl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036769391329841587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "芭乐味冰爆\n对我来说不够凉，有点太甜了 https://t.co/229BluItPl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "願償少年淚，猶趁未老時",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VnXMe"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1954,
+          "following_count": 182,
+          "like_count": 6798,
+          "listed_count": 13,
+          "media_count": 3439,
+          "tweet_count": 13466
+        },
+        "url": "https://t.co/3g5y5VnXMe",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-20T15:58:54.000Z",
+        "description": "补药欺负窝，窝只是一个精神病\n清水推，泛，本账号成分：日常/磕CP/说怪话/发照片，正在寻找天使女孩互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yui1225love?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/yui1225love?igsh=MWZmYmttbml4Nm40aA==",
+                "start": 0,
+                "url": "https://t.co/5R7R0p3v6t"
+              }
+            ]
+          }
+        },
+        "id": "1936091086470193152",
+        "location": "🚪52开放朋友圈，88开放私信",
+        "name": "这里没有你要找的好小兔",
+        "pinned_tweet_id": "2037039457703256438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035762959352549376/9CemZR-w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 138,
+          "like_count": 1357,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1328
+        },
+        "url": "https://t.co/5R7R0p3v6t",
+        "username": "yui1225love",
+        "verified": false
+      }
+    ]
+  }
+}

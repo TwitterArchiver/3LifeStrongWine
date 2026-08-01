@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1887384875554267136"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1887384933972496651",
+    "created_at": "2025-02-06T06:16:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T07:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1887384933972496651"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/A8chj5tk0T",
+          "end": 43,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1887384933972496651/video/1",
+          "media_key": "13_1887384875554267136",
+          "start": 20,
+          "url": "https://t.co/A8chj5tk0T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887384933972496651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "音乐衬托着窗外的昏黄，一天就这么开始了 https://t.co/A8chj5tk0T"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8901,
+        "height": 1280,
+        "media_key": "13_1887384875554267136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1887384875554267136/img/ragt_axd-qeRIYq0.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1887384875554267136/vid/avc1/320x568/7JyKU-nmxr-E9_U5.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1887384875554267136/vid/avc1/480x852/uaLqtB3CqGe-SA1F.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1887384875554267136/vid/avc1/720x1280/FOeVBGi-kjMmyURY.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1887384875554267136/pl/gJs2hp6DpQikBVOF.m3u8?tag=16"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1887384875554267136"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1887384933972496651",
+        "created_at": "2025-02-06T06:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T07:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887384933972496651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A8chj5tk0T",
+              "end": 43,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1887384933972496651/video/1",
+              "media_key": "13_1887384875554267136",
+              "start": 20,
+              "url": "https://t.co/A8chj5tk0T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887384933972496651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "音乐衬托着窗外的昏黄，一天就这么开始了 https://t.co/A8chj5tk0T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1387,
+          "following_count": 218,
+          "like_count": 6519,
+          "listed_count": 9,
+          "media_count": 1646,
+          "tweet_count": 7160
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2051981313385836842",
+    "created_at": "2026-05-07T01:06:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T02:06:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052193233573494880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1534508276557107208",
+          "start": 0,
+          "username": "KysonnK"
+        },
+        {
+          "end": 22,
+          "id": "752793383421239297",
+          "start": 9,
+          "username": "xinshuidexin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052193233573494880",
+    "in_reply_to_user_id": "1534508276557107208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052175278945001802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KysonnK @xinshuidexin 听花岛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2051981313385836842",
+        "created_at": "2026-05-07T01:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T02:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052193233573494880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1534508276557107208",
+              "start": 0,
+              "username": "KysonnK"
+            },
+            {
+              "end": 22,
+              "id": "752793383421239297",
+              "start": 9,
+              "username": "xinshuidexin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052193233573494880",
+        "in_reply_to_user_id": "1534508276557107208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052175278945001802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KysonnK @xinshuidexin 听花岛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1534508276557107208",
+        "conversation_id": "2051981313385836842",
+        "created_at": "2026-05-06T23:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T00:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052175278945001802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "752793383421239297",
+              "start": 0,
+              "username": "xinshuidexin"
+            },
+            {
+              "end": 30,
+              "id": "1529654419213541376",
+              "start": 14,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052175278945001802",
+        "in_reply_to_user_id": "752793383421239297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052160761607426357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshuidexin @3LifeStrongWine 好像是可乐家海景，反正一定是在东海岸的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花潭水深千尺  不及汪伦送我情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2829,
+          "following_count": 113,
+          "like_count": 6846,
+          "listed_count": 14,
+          "media_count": 3620,
+          "tweet_count": 14235
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-08T12:11:06.000Z",
+        "description": "不要沉溺于温柔的夜晚",
+        "id": "1534508276557107208",
+        "name": "我喜欢在幸福的时刻唱着歌",
+        "pinned_tweet_id": "2048456913495662876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049159036487249920/nzDGpM1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 95,
+          "like_count": 11009,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 854
+        },
+        "url": "",
+        "username": "KysonnK",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-12T09:15:03.000Z",
+        "description": "不在意的样子是我最后的表演",
+        "id": "752793383421239297",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "薪水的薪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044068882332430340/9hjrpdXa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 965,
+          "like_count": 332,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 430
+        },
+        "url": "",
+        "username": "xinshuidexin",
+        "verified": false
+      }
+    ]
+  }
+}

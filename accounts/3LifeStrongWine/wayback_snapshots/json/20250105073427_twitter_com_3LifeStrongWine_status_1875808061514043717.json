@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1875807836003004538",
+    "created_at": "2025-01-05T07:34:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T08:34:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875808061514043717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1837065667494957057",
+          "start": 0,
+          "username": "0724_eiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875808061514043717",
+    "in_reply_to_user_id": "1837065667494957057",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875807836003004538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0724_eiko 酒精"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1875807836003004538",
+        "created_at": "2025-01-05T07:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T08:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875808061514043717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1837065667494957057",
+              "start": 0,
+              "username": "0724_eiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875808061514043717",
+        "in_reply_to_user_id": "1837065667494957057",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875807836003004538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0724_eiko 酒精"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837065667494957057",
+        "conversation_id": "1875807836003004538",
+        "created_at": "2025-01-05T07:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T08:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875807836003004538"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1875807836003004538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直向往那种少量就能让人摇摇晃晃的东西  我想要高含量的💊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "雨季里我和你的青春一起坐过了站，而我会站在原地热泪盈眶地读你的未来",
+        "id": "1529654419213541376",
+        "location": "Destination of the Wind",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 213,
+          "like_count": 4036,
+          "listed_count": 7,
+          "media_count": 911,
+          "tweet_count": 4685
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-20T09:46:12.000Z",
+        "description": "一个会被人心疼的小女孩。女孩们我们可以线下一起玩。如果害怕我的消失请过门槛让我们永远有联系88🚪没回信息是你让我感到不安或者不舒服",
+        "id": "1837065667494957057",
+        "name": "eiko🐾",
+        "pinned_tweet_id": "1875015579415027900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871837637469995008/OCxl6_o5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 120,
+          "like_count": 1589,
+          "listed_count": 0,
+          "media_count": 339,
+          "tweet_count": 1892
+        },
+        "username": "0724_eiko",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880290385651699712"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1880290393390215603",
+    "created_at": "2025-01-17T16:25:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T17:25:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1880290393390215603"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DTDKRIj4lz",
+          "end": 34,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1880290393390215603/photo/1",
+          "media_key": "3_1880290385651699712",
+          "start": 11,
+          "url": "https://t.co/DTDKRIj4lz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880290393390215603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我最终还是买了道袍. https://t.co/DTDKRIj4lz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1880290385651699712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhgiJL9aEAABBW0.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880290385651699712"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1880290393390215603",
+        "created_at": "2025-01-17T16:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T17:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880290393390215603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DTDKRIj4lz",
+              "end": 34,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1880290393390215603/photo/1",
+              "media_key": "3_1880290385651699712",
+              "start": 11,
+              "url": "https://t.co/DTDKRIj4lz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880290393390215603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我最终还是买了道袍. https://t.co/DTDKRIj4lz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "可惜我们终于来到一个句号。｜雨季里我和你的青春一起坐过了站，而我会站在原地热泪盈眶地读你的未来",
+        "id": "1529654419213541376",
+        "location": "时光如梭岁月如河没必要刻舟求剑",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879527429754269696/Ip8jHko0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 218,
+          "like_count": 5397,
+          "listed_count": 7,
+          "media_count": 1265,
+          "tweet_count": 5732
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      }
+    ]
+  }
+}

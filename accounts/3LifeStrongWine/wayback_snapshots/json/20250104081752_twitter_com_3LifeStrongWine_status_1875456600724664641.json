@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1836709915072807216",
+    "created_at": "2025-01-04T08:17:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T09:17:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875456600724664641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1866050038088024064",
+          "start": 0,
+          "username": "123456wwerr"
+        },
+        {
+          "end": 27,
+          "id": "1673796626639654912",
+          "start": 13,
+          "username": "Florier159735"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875456600724664641",
+    "in_reply_to_user_id": "1866050038088024064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875456506621317489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@123456wwerr @Florier159735 不太算，也不咋好喝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1836709915072807216",
+        "created_at": "2025-01-04T08:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T09:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875456600724664641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866050038088024064",
+              "start": 0,
+              "username": "123456wwerr"
+            },
+            {
+              "end": 27,
+              "id": "1673796626639654912",
+              "start": 13,
+              "username": "Florier159735"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875456600724664641",
+        "in_reply_to_user_id": "1866050038088024064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875456506621317489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123456wwerr @Florier159735 不太算，也不咋好喝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866050038088024064",
+        "conversation_id": "1836709915072807216",
+        "created_at": "2025-01-04T08:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T09:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875456506621317489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            },
+            {
+              "end": 31,
+              "id": "1673796626639654912",
+              "start": 17,
+              "username": "Florier159735"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875456506621317489",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875455191971156361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine @Florier159735 老北京豆汁？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "雨季里我和你的青春一起坐过了站，而我会站在原地热泪盈眶地读你的未来",
+        "id": "1529654419213541376",
+        "location": "没见过的也算不得遗憾，寥寥数年已经足够圆满",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 211,
+          "like_count": 3917,
+          "listed_count": 7,
+          "media_count": 888,
+          "tweet_count": 4598
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-09T09:19:43.000Z",
+        "description": "悲观主义者",
+        "id": "1866050038088024064",
+        "location": "Hokkaidō, Japan",
+        "name": "荻原沙优",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873386768524836864/dTJUI6I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 99,
+          "like_count": 7102,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 2346
+        },
+        "username": "123456wwerr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-27T20:53:40.000Z",
+        "description": "4i&3i  纯攻 主|\n别发🐔 私信表明来意 只回关注",
+        "id": "1673796626639654912",
+        "location": "不加（遇到感兴趣的我会主动问，女孩和互关直接私）",
+        "name": "一颗柚子糖",
+        "pinned_tweet_id": "1840594956739838153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860352710958325760/SlaV2Sfy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 291,
+          "like_count": 2855,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 1064
+        },
+        "username": "Florier159735",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027203561315356672",
+        "3_2027203561315287040"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "2027203569611661330",
+    "created_at": "2026-02-27T02:06:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T03:06:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027203569611661330"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cAnJV4lN5C",
+          "end": 41,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/2027203569611661330/photo/1",
+          "media_key": "3_2027203561315356672",
+          "start": 18,
+          "url": "https://t.co/cAnJV4lN5C"
+        },
+        {
+          "display_url": "pic.x.com/cAnJV4lN5C",
+          "end": 41,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/2027203569611661330/photo/1",
+          "media_key": "3_2027203561315287040",
+          "start": 18,
+          "url": "https://t.co/cAnJV4lN5C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027203569611661330",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "jeager le coultre https://t.co/cAnJV4lN5C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027203561315356672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCIS5f-b0AAe23O.jpg",
+        "width": 1238
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027203561315287040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCIS5f-awAATo0F.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027203561315356672",
+            "3_2027203561315287040"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "2027203569611661330",
+        "created_at": "2026-02-27T02:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T03:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027203569611661330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cAnJV4lN5C",
+              "end": 41,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/2027203569611661330/photo/1",
+              "media_key": "3_2027203561315356672",
+              "start": 18,
+              "url": "https://t.co/cAnJV4lN5C"
+            },
+            {
+              "display_url": "pic.x.com/cAnJV4lN5C",
+              "end": 41,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/2027203569611661330/photo/1",
+              "media_key": "3_2027203561315287040",
+              "start": 18,
+              "url": "https://t.co/cAnJV4lN5C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027203569611661330",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "jeager le coultre https://t.co/cAnJV4lN5C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "此後錦書休寄    畫樓雲雨無憑///",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1745,
+          "following_count": 170,
+          "like_count": 6826,
+          "listed_count": 12,
+          "media_count": 3339,
+          "tweet_count": 13197
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      }
+    ]
+  }
+}

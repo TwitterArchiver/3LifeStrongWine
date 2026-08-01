@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2039720227353858201",
+    "created_at": "2026-04-02T15:54:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T16:54:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039733311736815746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1966852084952952837",
+          "start": 0,
+          "username": "fngzhzh11620"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039733311736815746",
+    "in_reply_to_user_id": "1966852084952952837",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039732101193322882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fngzhzh11620 两瓶酒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2039720227353858201",
+        "created_at": "2026-04-02T15:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039733311736815746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1966852084952952837",
+              "start": 0,
+              "username": "fngzhzh11620"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039733311736815746",
+        "in_reply_to_user_id": "1966852084952952837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039732101193322882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fngzhzh11620 两瓶酒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966852084952952837",
+        "conversation_id": "2039720227353858201",
+        "created_at": "2026-04-02T15:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039732101193322882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039732101193322882",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039720227353858201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 99吃啥了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "最后还是失眠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2062,
+          "following_count": 179,
+          "like_count": 6892,
+          "listed_count": 13,
+          "media_count": 3486,
+          "tweet_count": 13674
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-13T13:11:07.000Z",
+        "description": "多狡猾的贱人",
+        "id": "1966852084952952837",
+        "name": "Newness",
+        "pinned_tweet_id": "2035389905984176222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032862979344220160/9IlWSf_i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 107,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 202
+        },
+        "username": "fngzhzh11620",
+        "verified": false
+      }
+    ]
+  }
+}

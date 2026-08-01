@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1892950310886256705",
+    "created_at": "2025-02-21T15:04:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T16:04:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892953544505926110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781712570497552384",
+          "start": 0,
+          "username": "siinaaki0912"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892953544505926110",
+    "in_reply_to_user_id": "1781712570497552384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892950310886256705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siinaaki0912 抱起来可以当武器"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1892950310886256705",
+        "created_at": "2025-02-21T15:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T16:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892953544505926110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781712570497552384",
+              "start": 0,
+              "username": "siinaaki0912"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892953544505926110",
+        "in_reply_to_user_id": "1781712570497552384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892950310886256705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siinaaki0912 抱起来可以当武器"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781712570497552384",
+        "conversation_id": "1892950310886256705",
+        "created_at": "2025-02-21T14:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T15:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892950310886256705"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1892950310886256705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直想学古琴，但古琴真的好贵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1400,
+          "following_count": 227,
+          "like_count": 6712,
+          "listed_count": 10,
+          "media_count": 1965,
+          "tweet_count": 8024
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-20T15:52:51.000Z",
+        "description": "叫我小秋就好\n06/155cm/38kg/sub/宅/\n不接推广",
+        "id": "1781712570497552384",
+        "location": "我会永远视奸你👁️",
+        "name": "椎名_秋",
+        "pinned_tweet_id": "1876568812927262887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891333455692312576/mo5q6mxe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15941,
+          "following_count": 446,
+          "like_count": 4733,
+          "listed_count": 22,
+          "media_count": 541,
+          "tweet_count": 4679
+        },
+        "username": "siinaaki0912",
+        "verified": false
+      }
+    ]
+  }
+}

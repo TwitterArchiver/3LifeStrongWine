@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1884044790905593857"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1884044798182711413",
+    "created_at": "2025-01-28T01:04:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T02:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884044798182711413"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6i4ktmXeZj",
+          "end": 56,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1884044798182711413/photo/1",
+          "media_key": "3_1884044790905593857",
+          "start": 33,
+          "url": "https://t.co/6i4ktmXeZj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884044798182711413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你妈现在的网文为啥都要写的这么弱智啊，三这女的护着一个男2，，， https://t.co/6i4ktmXeZj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1884044790905593857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiV4wVbaYAE920a.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884044790905593857"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1884044798182711413",
+        "created_at": "2025-01-28T01:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T02:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884044798182711413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6i4ktmXeZj",
+              "end": 56,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1884044798182711413/photo/1",
+              "media_key": "3_1884044790905593857",
+              "start": 33,
+              "url": "https://t.co/6i4ktmXeZj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884044798182711413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你妈现在的网文为啥都要写的这么弱智啊，三这女的护着一个男2，，， https://t.co/6i4ktmXeZj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "凡所有相  皆是虚妄",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1370,
+          "following_count": 217,
+          "like_count": 6212,
+          "listed_count": 8,
+          "media_count": 1494,
+          "tweet_count": 6671
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2043011440278434268",
+    "created_at": "2026-04-11T17:19:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T18:19:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043016138368651673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1749848735436427265",
+          "start": 0,
+          "username": "Orangepeel98426"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043016138368651673",
+    "in_reply_to_user_id": "1749848735436427265",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043011440278434268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Orangepeel98426 😂😂😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2043011440278434268",
+        "created_at": "2026-04-11T17:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043016138368651673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1749848735436427265",
+              "start": 0,
+              "username": "Orangepeel98426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043016138368651673",
+        "in_reply_to_user_id": "1749848735436427265",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043011440278434268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orangepeel98426 😂😂😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749848735436427265",
+        "conversation_id": "2043011440278434268",
+        "created_at": "2026-04-11T17:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043011440278434268"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043011440278434268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😄被自己的辣条音真的气笑了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我一定带你脱离苦海我答应过你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2040,
+          "following_count": 185,
+          "like_count": 6915,
+          "listed_count": 12,
+          "media_count": 3535,
+          "tweet_count": 13898
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T17:37:16.000Z",
+        "description": "空心橙子｜泪涔涔也往前进",
+        "id": "1749848735436427265",
+        "location": "日常",
+        "name": "橙子皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040090360748146689/HTj0YTAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4743,
+          "following_count": 426,
+          "like_count": 177165,
+          "listed_count": 24,
+          "media_count": 15,
+          "tweet_count": 21870
+        },
+        "username": "Orangepeel98426",
+        "verified": false
+      }
+    ]
+  }
+}

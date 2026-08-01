@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2041048936845300042",
+    "created_at": "2026-04-06T07:02:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T08:02:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041048936845300042"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041048936845300042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "趁着年轻，去想去的地方，去见想见的人，去做想做的事情，别老想着以后，似乎老一辈人不喜欢眼前的幸福，但是等毕业，等工作稳定，等存够了钱，等买了房，等结了婚，等孩子长大，等退了休，等到最后，可能什么都等到了，可能什么都等不到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2041048936845300042",
+        "created_at": "2026-04-06T07:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T08:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041048936845300042"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041048936845300042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "趁着年轻，去想去的地方，去见想见的人，去做想做的事情，别老想着以后，似乎老一辈人不喜欢眼前的幸福，但是等毕业，等工作稳定，等存够了钱，等买了房，等结了婚，等孩子长大，等退了休，等到最后，可能什么都等到了，可能什么都等不到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "最后还是失眠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2055,
+          "following_count": 182,
+          "like_count": 6897,
+          "listed_count": 13,
+          "media_count": 3491,
+          "tweet_count": 13694
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      }
+    ]
+  }
+}

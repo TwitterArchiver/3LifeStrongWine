@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1912156367059624312",
+    "created_at": "2025-04-15T15:55:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T16:55:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912172877295829054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1519999171876454400",
+          "start": 0,
+          "username": "Cya66047552"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912172877295829054",
+    "in_reply_to_user_id": "1519999171876454400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912172395764613445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cya66047552 报意思我没看过hhhh现在实在是没有时间看书"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1912156367059624312",
+        "created_at": "2025-04-15T15:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T16:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912172877295829054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1519999171876454400",
+              "start": 0,
+              "username": "Cya66047552"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912172877295829054",
+        "in_reply_to_user_id": "1519999171876454400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912172395764613445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cya66047552 报意思我没看过hhhh现在实在是没有时间看书"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1519999171876454400",
+        "conversation_id": "1912156367059624312",
+        "created_at": "2025-04-15T15:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T16:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912172395764613445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912172395764613445",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912169256911028635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 对啊，一个读音一个意思，就是问看的是哪个版本的，三生老师你看的哪个版本的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "东隅已逝，桑榆非晚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909122304141148160/VzRDqCNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1507,
+          "following_count": 242,
+          "like_count": 7428,
+          "listed_count": 12,
+          "media_count": 2530,
+          "tweet_count": 10356
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-29T11:17:05.000Z",
+        "description": "发些日常碎碎念｜我推↑｜不喜欢男的也不喜欢女的｜只喜欢二次元纸片人｜无期迷途｜刀剑乱舞｜FAIRY TAIL｜恶犬出没请注意｜｜正在咸鱼中｜｜｜｜｜｜｜｜｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1310893",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1310893",
+                "start": 0,
+                "url": "https://t.co/O8GZH4dibR"
+              }
+            ]
+          }
+        },
+        "id": "1519999171876454400",
+        "location": "在和鲶尾玩挠痒痒",
+        "name": "Thirteen",
+        "pinned_tweet_id": "1821734070927421777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831288034693611520/KRC2JPEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 363,
+          "like_count": 54209,
+          "listed_count": 0,
+          "media_count": 808,
+          "tweet_count": 5179
+        },
+        "url": "https://t.co/O8GZH4dibR",
+        "username": "Cya66047552",
+        "verified": false
+      }
+    ]
+  }
+}

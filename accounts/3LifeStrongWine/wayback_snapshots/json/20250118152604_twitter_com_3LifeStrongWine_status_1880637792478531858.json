@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1880633360986595813",
+    "created_at": "2025-01-18T15:26:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T16:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880637792478531858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1806577888751427584",
+          "start": 0,
+          "username": "maggiebai48"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880637792478531858",
+    "in_reply_to_user_id": "1806577888751427584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880637366542664090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maggiebai48 是的，要讲因果"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1880633360986595813",
+        "created_at": "2025-01-18T15:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T16:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880637792478531858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1806577888751427584",
+              "start": 0,
+              "username": "maggiebai48"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880637792478531858",
+        "in_reply_to_user_id": "1806577888751427584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880637366542664090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maggiebai48 是的，要讲因果"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806577888751427584",
+        "conversation_id": "1880633360986595813",
+        "created_at": "2025-01-18T15:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T16:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880637366542664090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880637366542664090",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880637147436515463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 那给别人算是不是要收费比较好？不然会倒霉？有没有这种说法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花究竟开出什么样的结果",
+        "id": "1529654419213541376",
+        "location": "夢在心上心便溫柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879527429754269696/Ip8jHko0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1143,
+          "following_count": 227,
+          "like_count": 5456,
+          "listed_count": 7,
+          "media_count": 1288,
+          "tweet_count": 5846
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-28T06:38:47.000Z",
+        "description": "#les  带我去看你盛开的繁花",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "les"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/maggiebai48210…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/maggiebai4821036",
+                "start": 0,
+                "url": "https://t.co/3eDFTqxopY"
+              }
+            ]
+          }
+        },
+        "id": "1806577888751427584",
+        "location": "花园",
+        "name": "枫铃",
+        "pinned_tweet_id": "1879500829360898197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851462131079942144/7JSnVhtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 1079,
+          "like_count": 17246,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 2425
+        },
+        "url": "https://t.co/3eDFTqxopY",
+        "username": "maggiebai48",
+        "verified": false
+      }
+    ]
+  }
+}

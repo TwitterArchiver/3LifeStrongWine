@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1895817770409025589",
+    "created_at": "2025-03-01T12:45:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T13:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1895817770409025589"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ayastellaria/s…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/ayastellaria/status/1895802468262629647",
+          "start": 2,
+          "url": "https://t.co/RsUl2NpIZG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895817770409025589",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895802468262629647",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😆 https://t.co/RsUl2NpIZG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1895802453041541120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk8-SWHa8AAPaXX.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1895817770409025589",
+        "created_at": "2025-03-01T12:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T13:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895817770409025589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayastellaria/s…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/ayastellaria/status/1895802468262629647",
+              "start": 2,
+              "url": "https://t.co/RsUl2NpIZG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895817770409025589",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895802468262629647",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😆 https://t.co/RsUl2NpIZG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895802453041541120"
+          ]
+        },
+        "author_id": "1865050179617067008",
+        "conversation_id": "1895802468262629647",
+        "created_at": "2025-03-01T11:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T12:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895802468262629647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6i4tw0mg1l",
+              "end": 57,
+              "expanded_url": "https://x.com/AyaStellaria/status/1895802468262629647/photo/1",
+              "media_key": "3_1895802453041541120",
+              "start": 34,
+              "url": "https://t.co/6i4tw0mg1l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895802468262629647",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收到三生老师的明信片！\nwww三生老师来贵州旅游都吃(づ′▽`)づ https://t.co/6i4tw0mg1l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1413,
+          "following_count": 232,
+          "like_count": 6910,
+          "listed_count": 10,
+          "media_count": 2073,
+          "tweet_count": 8398
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-06T15:06:56.000Z",
+        "description": "他们的悲伤化成了灰，散落在无情的大海中",
+        "id": "1865050179617067008",
+        "location": "超出三界外，不在五行中",
+        "name": "凛御",
+        "pinned_tweet_id": "1892910789776068924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881721554477953024/L7A0VqrL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 650,
+          "like_count": 33191,
+          "listed_count": 9,
+          "media_count": 138,
+          "tweet_count": 7320
+        },
+        "username": "AyaStellaria",
+        "verified": false
+      }
+    ]
+  }
+}

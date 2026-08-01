@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887868108754587648"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1887868160550085019",
+    "created_at": "2025-02-07T14:16:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T15:16:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1887868160550085019"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xP2A5GNtPs",
+          "end": 36,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1887868160550085019/photo/1",
+          "media_key": "3_1887868108754587648",
+          "start": 13,
+          "url": "https://t.co/xP2A5GNtPs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887868160550085019",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我仿佛又回到了2017年 https://t.co/xP2A5GNtPs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 446,
+        "media_key": "3_1887868108754587648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjMOCuUbEAApq5v.png",
+        "width": 288
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887868108754587648"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1887868160550085019",
+        "created_at": "2025-02-07T14:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T15:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887868160550085019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xP2A5GNtPs",
+              "end": 36,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1887868160550085019/photo/1",
+              "media_key": "3_1887868108754587648",
+              "start": 13,
+              "url": "https://t.co/xP2A5GNtPs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887868160550085019",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我仿佛又回到了2017年 https://t.co/xP2A5GNtPs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1400,
+          "following_count": 220,
+          "like_count": 6485,
+          "listed_count": 9,
+          "media_count": 1670,
+          "tweet_count": 7238
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

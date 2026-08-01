@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1893303651055345916",
+    "created_at": "2025-02-22T17:17:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T18:17:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893349510585164092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1624087626490986496",
+          "start": 0,
+          "username": "kekee79067828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893349510585164092",
+    "in_reply_to_user_id": "1624087626490986496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893303651055345916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kekee79067828 oh yeah潘海利根"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1893303629236342785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkZdnqCXEAEfDc_.jpg",
+        "width": 1538
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1893303629110747138",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkZdnpkaoAI-l95.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1893303651055345916",
+        "created_at": "2025-02-22T17:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T18:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893349510585164092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1624087626490986496",
+              "start": 0,
+              "username": "kekee79067828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893349510585164092",
+        "in_reply_to_user_id": "1624087626490986496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893303651055345916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kekee79067828 oh yeah潘海利根"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893303629236342785",
+            "3_1893303629110747138"
+          ]
+        },
+        "author_id": "1624087626490986496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          }
+        ],
+        "conversation_id": "1893303651055345916",
+        "created_at": "2025-02-22T14:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T15:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893303651055345916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VE20Zu3IHZ",
+              "end": 154,
+              "expanded_url": "https://x.com/kekee79067828/status/1893303651055345916/photo/1",
+              "media_key": "3_1893303629236342785",
+              "start": 131,
+              "url": "https://t.co/VE20Zu3IHZ"
+            },
+            {
+              "display_url": "pic.x.com/VE20Zu3IHZ",
+              "end": 154,
+              "expanded_url": "https://x.com/kekee79067828/status/1893303651055345916/photo/1",
+              "media_key": "3_1893303629110747138",
+              "start": 131,
+              "url": "https://t.co/VE20Zu3IHZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893303651055345916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1865,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被新安利的香水牌子 潘海利根 喵 最近好火 去浅试了一下热门的香水发现都不太适合我的style 感觉现在过了20岁就没那么喜欢甜到腻的香了 最终选了广霍之匣 淡淡的莓果味儿 嗯 和小老登呆久了也变得成熟稳重起来了(｡ì _ í｡) 虽然他也很幼稚 他比我幼稚！ https://t.co/VE20Zu3IHZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 224,
+          "like_count": 6747,
+          "listed_count": 10,
+          "media_count": 1979,
+          "tweet_count": 8066
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-10T16:47:30.000Z",
+        "description": "不要再胃痛了",
+        "id": "1624087626490986496",
+        "name": "BerrYy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855460561703866369/H20Z9at9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3100,
+          "following_count": 308,
+          "like_count": 15650,
+          "listed_count": 12,
+          "media_count": 256,
+          "tweet_count": 3614
+        },
+        "username": "kekee79067828",
+        "verified": false
+      }
+    ]
+  }
+}

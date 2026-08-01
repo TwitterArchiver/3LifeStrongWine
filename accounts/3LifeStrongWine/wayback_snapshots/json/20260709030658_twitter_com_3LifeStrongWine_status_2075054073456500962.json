@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2074478079570072035",
+    "created_at": "2026-07-09T03:06:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T04:06:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075054073456500962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2046789229880188928",
+          "start": 0,
+          "username": "natasharhne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075054073456500962",
+    "in_reply_to_user_id": "2046789229880188928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074478079570072035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@natasharhne 吃不了的寄过来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2010,
+        "media_key": "3_2074478070988513281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoG0IOboAEIWUL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2074478079570072035",
+        "created_at": "2026-07-09T03:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T04:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075054073456500962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046789229880188928",
+              "start": 0,
+              "username": "natasharhne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075054073456500962",
+        "in_reply_to_user_id": "2046789229880188928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074478079570072035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@natasharhne 吃不了的寄过来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074478070988513281"
+          ]
+        },
+        "author_id": "2046789229880188928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074478079570072035",
+        "created_at": "2026-07-07T12:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074478079570072035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c8Li7hzgBO",
+              "end": 29,
+              "expanded_url": "https://x.com/natasharhne/status/2074478079570072035/photo/1",
+              "media_key": "3_2074478070988513281",
+              "start": 6,
+              "url": "https://t.co/c8Li7hzgBO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074478079570072035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3811,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃的完吗❓ https://t.co/c8Li7hzgBO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花潭水深千尺  不及汪伦送我情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2850,
+          "following_count": 104,
+          "like_count": 6828,
+          "listed_count": 14,
+          "media_count": 3725,
+          "tweet_count": 14520
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-22T03:13:42.000Z",
+        "description": "有一天我们终能在这里重逢@llyqin150215",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "llyqin150215"
+              }
+            ]
+          }
+        },
+        "id": "2046789229880188928",
+        "name": "1017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046835908327178240/GSkj2g3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 555,
+          "like_count": 9503,
+          "listed_count": 2,
+          "media_count": 339,
+          "tweet_count": 1517
+        },
+        "url": "",
+        "username": "natasharhne",
+        "verified": false
+      }
+    ]
+  }
+}

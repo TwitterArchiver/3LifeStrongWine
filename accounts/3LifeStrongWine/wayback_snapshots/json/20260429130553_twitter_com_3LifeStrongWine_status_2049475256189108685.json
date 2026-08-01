@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049475236434001920"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "2049475256189108685",
+    "created_at": "2026-04-29T13:05:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T14:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049475256189108685"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jvzJOdIqOJ",
+          "end": 33,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/2049475256189108685/photo/1",
+          "media_key": "3_2049475236434001920",
+          "start": 10,
+          "url": "https://t.co/jvzJOdIqOJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049475256189108685",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明儿答完辩出去玩咯 https://t.co/jvzJOdIqOJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2049475236434001920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEy3nObwAAiq0J.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049475236434001920"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "2049475256189108685",
+        "created_at": "2026-04-29T13:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049475256189108685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jvzJOdIqOJ",
+              "end": 33,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/2049475256189108685/photo/1",
+              "media_key": "3_2049475236434001920",
+              "start": 10,
+              "url": "https://t.co/jvzJOdIqOJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049475256189108685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明儿答完辩出去玩咯 https://t.co/jvzJOdIqOJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花潭水深千尺  不及汪伦送我情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2519,
+          "following_count": 115,
+          "like_count": 6920,
+          "listed_count": 14,
+          "media_count": 3587,
+          "tweet_count": 14161
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      }
+    ]
+  }
+}

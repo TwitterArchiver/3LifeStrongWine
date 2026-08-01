@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1891546399654789405",
+    "created_at": "2025-02-17T18:01:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T19:01:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891548543489368531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1228350726981574656",
+          "start": 0,
+          "username": "baibaishuishui"
+        },
+        {
+          "end": 30,
+          "id": "1780191981135867904",
+          "start": 16,
+          "username": "dodemoiiikedo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891548543489368531",
+    "in_reply_to_user_id": "1228350726981574656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891548353739071631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baibaishuishui @dodemoiiikedo 那会应该是我在赶路时候，那天我在外面"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1891546399654789405",
+        "created_at": "2025-02-17T18:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T19:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891548543489368531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1228350726981574656",
+              "start": 0,
+              "username": "baibaishuishui"
+            },
+            {
+              "end": 30,
+              "id": "1780191981135867904",
+              "start": 16,
+              "username": "dodemoiiikedo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891548543489368531",
+        "in_reply_to_user_id": "1228350726981574656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891548353739071631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baibaishuishui @dodemoiiikedo 那会应该是我在赶路时候，那天我在外面"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1228350726981574656",
+        "conversation_id": "1891546399654789405",
+        "created_at": "2025-02-17T18:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T19:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891548353739071631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1780191981135867904",
+              "start": 0,
+              "username": "dodemoiiikedo"
+            },
+            {
+              "end": 31,
+              "id": "1529654419213541376",
+              "start": 15,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891548353739071631",
+        "in_reply_to_user_id": "1780191981135867904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891547507458552228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dodemoiiikedo @3LifeStrongWine 我不行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1396,
+          "following_count": 228,
+          "like_count": 6639,
+          "listed_count": 0,
+          "media_count": 1910,
+          "tweet_count": 7843
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-14T16:10:28.000Z",
+        "description": "日常推‖✨@iamlinquan‖提问箱📭https://t.co/KckTNPqSk2‖🐟@lianshanyuze",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "iamlinquan"
+              },
+              {
+                "end": 59,
+                "start": 46,
+                "username": "lianshanyuze"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/baibaishuishui1",
+                "end": 44,
+                "expanded_url": "https://ngl.link/baibaishuishui1",
+                "start": 21,
+                "url": "https://t.co/KckTNPqSk2"
+              }
+            ]
+          }
+        },
+        "id": "1228350726981574656",
+        "name": "泉、",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791053309320839168/KUIB11RO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 1090,
+          "like_count": 21241,
+          "listed_count": 3,
+          "media_count": 488,
+          "tweet_count": 7542
+        },
+        "username": "baibaishuishui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T11:10:28.000Z",
+        "description": "我是小孔，這裡是我的單相思日記，以及我的連載電子遺書 I 男 I 聽些日文 I fo我的都會回的",
+        "id": "1780191981135867904",
+        "location": "手机",
+        "name": "小小的孔",
+        "pinned_tweet_id": "1877970506776822138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855808738810322944/P8Tr_-4F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 343,
+          "like_count": 8655,
+          "listed_count": 0,
+          "media_count": 239,
+          "tweet_count": 1734
+        },
+        "username": "dodemoiiikedo",
+        "verified": false
+      }
+    ]
+  }
+}

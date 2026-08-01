@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1895823470803788235",
+    "created_at": "2025-03-01T16:20:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T17:20:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895871900993380698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1594632989652439041",
+          "start": 0,
+          "username": "friedsalt1215"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895871900993380698",
+    "in_reply_to_user_id": "1594632989652439041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895823470803788235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@friedsalt1215 啊啊啊，尼罗河花园啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1895823438335418368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk9RX2bXoAAbTo7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1895823470803788235",
+        "created_at": "2025-03-01T16:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T17:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895871900993380698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1594632989652439041",
+              "start": 0,
+              "username": "friedsalt1215"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895871900993380698",
+        "in_reply_to_user_id": "1594632989652439041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895823470803788235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@friedsalt1215 啊啊啊，尼罗河花园啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895823438335418368"
+          ]
+        },
+        "author_id": "1594632989652439041",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          }
+        ],
+        "conversation_id": "1895823470803788235",
+        "created_at": "2025-03-01T13:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T14:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895823470803788235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ViZQMRGXDZ",
+              "end": 44,
+              "expanded_url": "https://x.com/friedsalt1215/status/1895823470803788235/photo/1",
+              "media_key": "3_1895823438335418368",
+              "start": 21,
+              "url": "https://t.co/ViZQMRGXDZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895823470803788235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯\n盖子不紧的香水别放包里哈\n半瓶没了🥲 https://t.co/ViZQMRGXDZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1413,
+          "following_count": 231,
+          "like_count": 6916,
+          "listed_count": 10,
+          "media_count": 2076,
+          "tweet_count": 8414
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-21T10:05:16.000Z",
+        "description": "我是男生我是男生我是男生我不聊黄色的很冒犯的请不要讨厌我啊啊啊啊😭😭😭 | 喜欢被推歌 什么都听 推后会认真听好好反馈 | 喜欢披头士喜欢日本小说散文 | 包讲礼貌的 | 最最最喜欢有意思情感丰富的人 | 定期会看有没有回fo的🥺🥺 请fo",
+        "id": "1594632989652439041",
+        "location": "垃圾桶边的石头上",
+        "name": "夏目奈禾",
+        "pinned_tweet_id": "1860700276820525081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873066373527814149/dTxQ7OW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 295,
+          "like_count": 384,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 2270
+        },
+        "username": "friedsalt1215",
+        "verified": false
+      }
+    ]
+  }
+}

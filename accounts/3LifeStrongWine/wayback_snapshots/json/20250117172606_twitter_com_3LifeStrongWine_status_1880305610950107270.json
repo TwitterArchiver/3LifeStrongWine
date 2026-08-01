@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1880305610950107270",
+    "created_at": "2025-01-17T17:26:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T18:26:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1880305610950107270"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/saonanaa/statu…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/saonanaa/status/1879841157708202132",
+          "start": 14,
+          "url": "https://t.co/4cvy5AUzb6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880305610950107270",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879841157708202132",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "写三封信，交代完所有事情. https://t.co/4cvy5AUzb6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1880305610950107270",
+        "created_at": "2025-01-17T17:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T18:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880305610950107270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/saonanaa/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/saonanaa/status/1879841157708202132",
+              "start": 14,
+              "url": "https://t.co/4cvy5AUzb6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880305610950107270",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879841157708202132",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "写三封信，交代完所有事情. https://t.co/4cvy5AUzb6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690570637499154432",
+        "conversation_id": "1879841157708202132",
+        "created_at": "2025-01-16T10:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T11:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879841157708202132"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1879841157708202132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 143609,
+          "like_count": 644,
+          "quote_count": 62,
+          "reply_count": 514,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "假如你的生命只剩下2小时你会干什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "夢過無際閒雲岫，無拘春至秋，無愧逝水悠悠。一生清白月如鉤，最一往而深著風流.",
+        "id": "1529654419213541376",
+        "location": "夢在心上心便溫柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879527429754269696/Ip8jHko0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 218,
+          "like_count": 5405,
+          "listed_count": 7,
+          "media_count": 1268,
+          "tweet_count": 5759
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "无可表达",
+        "id": "1690570637499154432",
+        "name": "Zhi Wei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852229368443211776/tn6UFkHm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2093,
+          "following_count": 151,
+          "like_count": 8524,
+          "listed_count": 11,
+          "media_count": 591,
+          "tweet_count": 5020
+        },
+        "username": "saonanaa",
+        "verified": false
+      }
+    ]
+  }
+}

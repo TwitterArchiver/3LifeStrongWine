@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1892794120051048612",
+    "created_at": "2025-02-21T13:46:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T14:46:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892933997019426915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1711216516929404928",
+          "start": 0,
+          "username": "kittyfane2333"
+        },
+        {
+          "end": 27,
+          "id": "1597161610799636483",
+          "start": 15,
+          "username": "TiAmosuisui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892933997019426915",
+    "in_reply_to_user_id": "1711216516929404928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892933860230668725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kittyfane2333 @TiAmosuisui 糖沉积导致整个人都变唐了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1892794120051048612",
+        "created_at": "2025-02-21T13:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T14:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892933997019426915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1711216516929404928",
+              "start": 0,
+              "username": "kittyfane2333"
+            },
+            {
+              "end": 27,
+              "id": "1597161610799636483",
+              "start": 15,
+              "username": "TiAmosuisui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892933997019426915",
+        "in_reply_to_user_id": "1711216516929404928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892933860230668725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kittyfane2333 @TiAmosuisui 糖沉积导致整个人都变唐了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711216516929404928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1892794120051048612",
+        "created_at": "2025-02-21T13:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T14:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892933860230668725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1597161610799636483",
+              "start": 0,
+              "username": "TiAmosuisui"
+            },
+            {
+              "end": 29,
+              "id": "1529654419213541376",
+              "start": 13,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892933860230668725",
+        "in_reply_to_user_id": "1597161610799636483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892901949986787343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TiAmosuisui @3LifeStrongWine 死去的地理知识突然…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1400,
+          "following_count": 227,
+          "like_count": 6706,
+          "listed_count": 10,
+          "media_count": 1963,
+          "tweet_count": 8012
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-09T03:06:37.000Z",
+        "description": "北师大研2在读 /只回入门槛的私信⚠️ 🚪299/1314 可发支付宝口令红包 / 找dom 可线下 /我是大美女 入🚪后可看正脸照 / 小号防走丢@holycrap030 自用梯子推荐⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "holycrap030"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tw03.damoplane1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://tw03.damoplane1.com/#/register?code=CsHKkpRV",
+                "start": 0,
+                "url": "https://t.co/DTUTh5JY3z"
+              }
+            ]
+          }
+        },
+        "id": "1711216516929404928",
+        "location": "北京",
+        "name": "Pussy （只回口令的私信）",
+        "pinned_tweet_id": "1795470025727369311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711216751097282561/M9dB_A5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9330,
+          "following_count": 296,
+          "like_count": 1850,
+          "listed_count": 53,
+          "media_count": 215,
+          "tweet_count": 1082
+        },
+        "url": "https://t.co/DTUTh5JY3z",
+        "username": "kittyfane2333",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T09:33:07.000Z",
+        "description": "小则宝💕聊天🚪8888",
+        "id": "1597161610799636483",
+        "location": "TiAmo",
+        "name": "小则身体健康天天开心",
+        "pinned_tweet_id": "1869747942002995446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741099621320138752/VVf9gK3B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1665,
+          "following_count": 47,
+          "like_count": 4087,
+          "listed_count": 5,
+          "media_count": 836,
+          "tweet_count": 9543
+        },
+        "username": "TiAmosuisui",
+        "verified": false
+      }
+    ]
+  }
+}

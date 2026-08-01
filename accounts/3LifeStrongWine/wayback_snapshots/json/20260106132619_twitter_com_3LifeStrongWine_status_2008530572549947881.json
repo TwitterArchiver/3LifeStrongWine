@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2008524875607269858",
+    "created_at": "2026-01-06T13:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T14:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008530572549947881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1874432803338854400",
+          "start": 0,
+          "username": "0b1k0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008530572549947881",
+    "in_reply_to_user_id": "1874432803338854400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 11,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008529274144444465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0b1k0 要干嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2008524875607269858",
+        "created_at": "2026-01-06T13:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T14:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008530572549947881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1874432803338854400",
+              "start": 0,
+              "username": "0b1k0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008530572549947881",
+        "in_reply_to_user_id": "1874432803338854400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008529274144444465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0b1k0 要干嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874432803338854400",
+        "conversation_id": "2008524875607269858",
+        "created_at": "2026-01-06T13:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T14:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008529274144444465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008529274144444465",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008524875607269858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 我突然有点事求你，你促膝过来下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "云和山和风和雨，轻轻地流过我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VnXMe"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "pinned_tweet_id": "1992598033381638574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 172,
+          "like_count": 6641,
+          "listed_count": 12,
+          "media_count": 3109,
+          "tweet_count": 12511
+        },
+        "url": "https://t.co/3g5y5VnXMe",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-01T12:29:53.000Z",
+        "description": "绝版瞬间//找到我  https://t.co/k982cyrF6v",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0b1k0",
+                "end": 34,
+                "expanded_url": "https://ngl.link/0b1k0",
+                "start": 11,
+                "url": "https://t.co/k982cyrF6v"
+              }
+            ]
+          }
+        },
+        "id": "1874432803338854400",
+        "location": "🚪288/1314",
+        "name": "冰块",
+        "pinned_tweet_id": "2006083581454737593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005255904485314560/IknqtxPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8504,
+          "following_count": 48,
+          "like_count": 486,
+          "listed_count": 15,
+          "media_count": 39,
+          "tweet_count": 633
+        },
+        "username": "0b1k0",
+        "verified": false
+      }
+    ]
+  }
+}

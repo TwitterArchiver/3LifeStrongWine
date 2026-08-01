@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1935622923412545566",
+    "created_at": "2025-06-19T08:58:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T09:58:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935623191889862761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1491828502886330368",
+          "start": 0,
+          "username": "ppjiangjiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935623191889862761",
+    "in_reply_to_user_id": "1491828502886330368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935622923412545566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ppjiangjiang 这就搞一个尝尝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1978,
+        "media_key": "3_1935622914390241280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gty2yQdWMAADRFF.jpg",
+        "width": 1484
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1935622923412545566",
+        "created_at": "2025-06-19T08:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T09:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935623191889862761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1491828502886330368",
+              "start": 0,
+              "username": "ppjiangjiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935623191889862761",
+        "in_reply_to_user_id": "1491828502886330368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935622923412545566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ppjiangjiang 这就搞一个尝尝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935622914390241280"
+          ]
+        },
+        "author_id": "1491828502886330368",
+        "conversation_id": "1935622923412545566",
+        "created_at": "2025-06-19T08:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T09:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935622923412545566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PW1A6wpCmU",
+              "end": 77,
+              "expanded_url": "https://x.com/ppjiangjiang/status/1935622923412545566/photo/1",
+              "media_key": "3_1935622914390241280",
+              "start": 54,
+              "url": "https://t.co/PW1A6wpCmU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935622923412545566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个新品也算还不错，荔枝味挺浓的，就是太甜了，居然只能选全糖或者完全不加糖，全糖现在对我来说真的有点太甜了 https://t.co/PW1A6wpCmU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "泛黄的老照片里讲述了一个什么样的故事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我会带你去看这世界上最独一无二的风景",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1585,
+          "following_count": 227,
+          "like_count": 7505,
+          "listed_count": 11,
+          "media_count": 2837,
+          "tweet_count": 11569
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-10T17:37:35.000Z",
+        "description": "屁话大王嘟日记本^^小！抓！饱！@nekomeow_uu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "nekomeow_uu"
+              }
+            ]
+          }
+        },
+        "id": "1491828502886330368",
+        "name": "pp •ᴗ⁃͈ ✧",
+        "pinned_tweet_id": "1907007074858627180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916523979352993792/rGr54pz1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1448,
+          "following_count": 376,
+          "like_count": 55032,
+          "listed_count": 10,
+          "media_count": 1583,
+          "tweet_count": 12198
+        },
+        "username": "ppjiangjiang",
+        "verified": false
+      }
+    ]
+  }
+}

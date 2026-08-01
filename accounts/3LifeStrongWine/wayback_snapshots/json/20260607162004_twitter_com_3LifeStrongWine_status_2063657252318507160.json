@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2063632468159443424",
+    "created_at": "2026-06-07T16:20:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T17:20:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063657252318507160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1927912422385537024",
+          "start": 0,
+          "username": "giveson30"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063657252318507160",
+    "in_reply_to_user_id": "1927912422385537024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063632468159443424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@giveson30 竞逐全是傻逼，一群狗草的队友，菜的要死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2063632463969374208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKN-ytnb0AAM3f6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2063632464527196160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKN-yvsbgAAnNtv.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2063632468159443424",
+        "created_at": "2026-06-07T16:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063657252318507160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1927912422385537024",
+              "start": 0,
+              "username": "giveson30"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063657252318507160",
+        "in_reply_to_user_id": "1927912422385537024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063632468159443424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@giveson30 竞逐全是傻逼，一群狗草的队友，菜的要死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063632463969374208",
+            "3_2063632464527196160"
+          ]
+        },
+        "author_id": "1927912422385537024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063632468159443424",
+        "created_at": "2026-06-07T14:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063632468159443424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZGtr0tyMc1",
+              "end": 39,
+              "expanded_url": "https://x.com/giveson30/status/2063632468159443424/photo/1",
+              "media_key": "3_2063632463969374208",
+              "start": 16,
+              "url": "https://t.co/ZGtr0tyMc1"
+            },
+            {
+              "display_url": "pic.x.com/ZGtr0tyMc1",
+              "end": 39,
+              "expanded_url": "https://x.com/giveson30/status/2063632468159443424/photo/1",
+              "media_key": "3_2063632464527196160",
+              "start": 16,
+              "url": "https://t.co/ZGtr0tyMc1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063632468159443424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "队友你们电脑前面坐的真是人类吗 https://t.co/ZGtr0tyMc1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花潭水深千尺  不及汪伦送我情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2869,
+          "following_count": 102,
+          "like_count": 6809,
+          "listed_count": 14,
+          "media_count": 3706,
+          "tweet_count": 14450
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-29T02:18:50.000Z",
+        "description": "我的内心世界\n提问箱https://t.co/bapTaOI2DV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sadnessduck1",
+                "end": 33,
+                "expanded_url": "https://ngl.link/sadnessduck1",
+                "start": 10,
+                "url": "https://t.co/bapTaOI2DV"
+              }
+            ]
+          }
+        },
+        "id": "1927912422385537024",
+        "name": "忧郁鸭子🦆",
+        "pinned_tweet_id": "1972329830030139885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004422367746093056/x07hWnLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1497,
+          "following_count": 336,
+          "like_count": 31412,
+          "listed_count": 3,
+          "media_count": 1036,
+          "tweet_count": 15012
+        },
+        "username": "giveson30",
+        "verified": false
+      }
+    ]
+  }
+}

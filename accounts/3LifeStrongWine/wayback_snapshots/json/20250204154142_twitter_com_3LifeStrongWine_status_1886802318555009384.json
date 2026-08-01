@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1886674196195061942",
+    "created_at": "2025-02-04T15:41:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T16:41:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886802318555009384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1017986178794979328",
+          "start": 0,
+          "username": "zxj3517"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886802318555009384",
+    "in_reply_to_user_id": "1017986178794979328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886674196195061942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zxj3517 我日？？？？我第一时间没看出来这是啥都"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1886674196195061942].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1886674196195061942",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1886674196195061942"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1886674196195061942",
+        "created_at": "2025-02-04T15:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T16:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886802318555009384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1017986178794979328",
+              "start": 0,
+              "username": "zxj3517"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886802318555009384",
+        "in_reply_to_user_id": "1017986178794979328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886674196195061942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zxj3517 我日？？？？我第一时间没看出来这是啥都"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1385,
+          "following_count": 219,
+          "like_count": 6430,
+          "listed_count": 9,
+          "media_count": 1627,
+          "tweet_count": 7063
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2018-07-14T04:16:33.000Z",
+        "description": "Thank you for your support occasionally.🌎\n感谢你的偶尔支持。🌏\n🥰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+2Xh8E_zBhO85O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+2Xh8E_zBhO85OTMx",
+                "start": 0,
+                "url": "https://t.co/zqnVSI1OsI"
+              }
+            ]
+          }
+        },
+        "id": "1017986178794979328",
+        "name": "OcO",
+        "pinned_tweet_id": "1879464372000735409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707759385747816451/qYurQ348_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 735,
+          "like_count": 292725,
+          "listed_count": 11,
+          "media_count": 1700,
+          "tweet_count": 18019
+        },
+        "url": "https://t.co/zqnVSI1OsI",
+        "username": "zxj3517",
+        "verified": false
+      }
+    ]
+  }
+}

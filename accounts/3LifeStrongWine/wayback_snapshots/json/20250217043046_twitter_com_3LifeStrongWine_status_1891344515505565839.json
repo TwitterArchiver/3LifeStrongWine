@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1891343877615067391",
+    "created_at": "2025-02-17T04:30:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T05:30:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891344515505565839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1876897249458053120",
+          "start": 0,
+          "username": "octopus0127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891344515505565839",
+    "in_reply_to_user_id": "1876897249458053120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891343877615067391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@octopus0127 扣1送"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1891343877615067391",
+        "created_at": "2025-02-17T04:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T05:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891344515505565839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1876897249458053120",
+              "start": 0,
+              "username": "octopus0127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891344515505565839",
+        "in_reply_to_user_id": "1876897249458053120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891343877615067391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@octopus0127 扣1送"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876897249458053120",
+        "conversation_id": "1891343877615067391",
+        "created_at": "2025-02-17T04:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T05:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891343877615067391"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1891343877615067391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我老公呢我老公呢我老公呢我老公呢我老公呢我老公呢我老公呢我老公呢我老公呢我老公呢我老公呢我老公呢我老公呢我老公呢我老公呢我老公呢我老公呢我老公呢我老公呢我老公呢我老公呢我老公呢我老公呢我老公呢我老公呢我老公呢我老公呢我老公呢我老公呢我老公呢我老公呢我老公呢我老公呢我老公呢我老公呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1393,
+          "following_count": 226,
+          "like_count": 6618,
+          "listed_count": 10,
+          "media_count": 1897,
+          "tweet_count": 7803
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-08T07:42:39.000Z",
+        "description": "나도 모르겠어 윤오의 진짜 마음을｜INFP｜中文 한국어 English｜카리나 재도 마크",
+        "id": "1876897249458053120",
+        "name": "章鱼🐙",
+        "pinned_tweet_id": "1890143403947749460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890664297837285376/E_V4Q6p9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 110,
+          "like_count": 1540,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 1488
+        },
+        "username": "octopus0127",
+        "verified": false
+      }
+    ]
+  }
+}

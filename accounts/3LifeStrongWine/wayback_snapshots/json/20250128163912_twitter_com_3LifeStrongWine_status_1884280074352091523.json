@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1884270896053117321",
+    "created_at": "2025-01-28T16:39:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T17:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884280074352091523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1526792005988196353",
+          "start": 0,
+          "username": "xiaotu23333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884280074352091523",
+    "in_reply_to_user_id": "1526792005988196353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884278062109630840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaotu23333 我最喜欢铃兰  樱花  桂花"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1884270896053117321",
+        "created_at": "2025-01-28T16:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T17:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884280074352091523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1526792005988196353",
+              "start": 0,
+              "username": "xiaotu23333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884280074352091523",
+        "in_reply_to_user_id": "1526792005988196353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884278062109630840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaotu23333 我最喜欢铃兰  樱花  桂花"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1526792005988196353",
+        "conversation_id": "1884270896053117321",
+        "created_at": "2025-01-28T16:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T17:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884278062109630840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884278062109630840",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884272481986613519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 嗯嗯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "凡所有相  皆是虚妄",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 217,
+          "like_count": 6259,
+          "listed_count": 8,
+          "media_count": 1507,
+          "tweet_count": 6709
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-18T05:09:42.000Z",
+        "description": "分享日常/想发什么就发什么/想做一个很好的人 如果我伪善一辈子呢/如果喜欢我 欢迎投喂/不接推广/不回答坐标",
+        "id": "1526792005988196353",
+        "location": "大菠萝",
+        "name": "百洁布精",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874832826044174336/0lPPvw0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243,
+          "following_count": 235,
+          "like_count": 16833,
+          "listed_count": 8,
+          "media_count": 1006,
+          "tweet_count": 11195
+        },
+        "username": "xiaotu23333",
+        "verified": false
+      }
+    ]
+  }
+}

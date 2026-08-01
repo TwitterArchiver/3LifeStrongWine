@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1940926219626992084",
+    "created_at": "2025-07-04T01:03:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T02:03:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940939556662182370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1727258252428140544",
+          "start": 0,
+          "username": "kezhiqingsuyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940939556662182370",
+    "in_reply_to_user_id": "1727258252428140544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940936104406118537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kezhiqingsuyu 哈哈哈，还挺爱你的哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1940926219626992084",
+        "created_at": "2025-07-04T01:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T02:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940939556662182370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1727258252428140544",
+              "start": 0,
+              "username": "kezhiqingsuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940939556662182370",
+        "in_reply_to_user_id": "1727258252428140544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940936104406118537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kezhiqingsuyu 哈哈哈，还挺爱你的哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727258252428140544",
+        "conversation_id": "1940926219626992084",
+        "created_at": "2025-07-04T00:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T01:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940936104406118537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940936104406118537",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940934345528955209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 她截图过来看是52.....我真是闹麻了。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "泛黄的老照片里讲述了一个什么样的故事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我会带你去看这世界上最独一无二的风景",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1591,
+          "following_count": 187,
+          "like_count": 7147,
+          "listed_count": 11,
+          "media_count": 2882,
+          "tweet_count": 11743
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-22T09:30:44.000Z",
+        "description": "随便写点喜欢的吃  自割腿肉 喜阴湿男/骨科 一切bt的  大部分还是碎碎念  喜欢转神迹\n记录老公号@ovo032 随意关注，关于老公的很大一部分都是编造的。你们可以当段子看。主要是我很喜欢编故事，看别人问我到底是真是假。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 51,
+                "username": "ovo032"
+              }
+            ]
+          }
+        },
+        "id": "1727258252428140544",
+        "location": "I wanna see you in my dreams",
+        "name": "克制倾诉欲",
+        "pinned_tweet_id": "1914206122720088526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927283674149531648/FVXvYX0w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2282,
+          "following_count": 719,
+          "like_count": 26544,
+          "listed_count": 7,
+          "media_count": 220,
+          "tweet_count": 7396
+        },
+        "username": "kezhiqingsuyu",
+        "verified": false
+      }
+    ]
+  }
+}

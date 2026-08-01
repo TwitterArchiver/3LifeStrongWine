@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1880665426511941914",
+    "created_at": "2025-01-18T17:20:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T18:20:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880666518406799773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1836295510388543489",
+          "start": 0,
+          "username": "x_luvmepls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880666518406799773",
+    "in_reply_to_user_id": "1836295510388543489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880665426511941914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x_luvmepls 只能抓住自己，只有自己才是所有答案的解"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1880665426511941914",
+        "created_at": "2025-01-18T17:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T18:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880666518406799773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1836295510388543489",
+              "start": 0,
+              "username": "x_luvmepls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880666518406799773",
+        "in_reply_to_user_id": "1836295510388543489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880665426511941914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_luvmepls 只能抓住自己，只有自己才是所有答案的解"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836295510388543489",
+        "conversation_id": "1880665426511941914",
+        "created_at": "2025-01-18T17:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T18:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880665426511941914"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880665426511941914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我知道我不能去依赖任何人 但是我好像前面那么多年一直都没有很依赖过谁 现在容易崩溃的时候就很想抓住谁 但好像谁也抓不住 因为我很清楚没有人会一直让我依赖 没有人会一直在那 没有人会不离开我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花究竟开出什么样的结果",
+        "id": "1529654419213541376",
+        "location": "夢在心上心便溫柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879527429754269696/Ip8jHko0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1142,
+          "following_count": 227,
+          "like_count": 5469,
+          "listed_count": 7,
+          "media_count": 1287,
+          "tweet_count": 5856
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T06:45:52.000Z",
+        "description": "碎碎念唱歌摄影穿搭自拍｜提问箱👉🏻https://t.co/X1E6NFfQXz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luvmepls1",
+                "end": 40,
+                "expanded_url": "https://ngl.link/luvmepls1",
+                "start": 17,
+                "url": "https://t.co/X1E6NFfQXz"
+              }
+            ]
+          }
+        },
+        "id": "1836295510388543489",
+        "name": "🌧️",
+        "pinned_tweet_id": "1880516752863547691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837215724734943232/xK35mc7P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 277,
+          "like_count": 5249,
+          "listed_count": 1,
+          "media_count": 572,
+          "tweet_count": 3939
+        },
+        "username": "x_luvmepls",
+        "verified": false
+      }
+    ]
+  }
+}

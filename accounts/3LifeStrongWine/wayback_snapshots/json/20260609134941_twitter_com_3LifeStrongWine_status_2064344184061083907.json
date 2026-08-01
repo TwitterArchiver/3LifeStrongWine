@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2064252413406785610",
+    "created_at": "2026-06-09T13:49:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T14:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064344184061083907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "981495576410800129",
+          "start": 0,
+          "username": "ArCe7an"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064344184061083907",
+    "in_reply_to_user_id": "981495576410800129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064252413406785610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ArCe7an 根本不是这样我能找到各种稀奇古怪的好玩的东西"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064252374219472896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKWymPQbwAAzWkL.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2064252413406785610",
+        "created_at": "2026-06-09T13:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064344184061083907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "981495576410800129",
+              "start": 0,
+              "username": "ArCe7an"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064344184061083907",
+        "in_reply_to_user_id": "981495576410800129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064252413406785610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ArCe7an 根本不是这样我能找到各种稀奇古怪的好玩的东西"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064252374219472896"
+          ]
+        },
+        "author_id": "981495576410800129",
+        "conversation_id": "2064252413406785610",
+        "created_at": "2026-06-09T07:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T08:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064252413406785610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7aJR67UqCa",
+              "end": 60,
+              "expanded_url": "https://x.com/ArCe7an/status/2064252413406785610/photo/1",
+              "media_key": "3_2064252374219472896",
+              "start": 37,
+              "url": "https://t.co/7aJR67UqCa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064252413406785610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 380,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个博主看得难受死了\n其实不止土象，很多男的出来约会就这个死样\n尴尬吐了 https://t.co/7aJR67UqCa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花潭水深千尺  不及汪伦送我情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2871,
+          "following_count": 100,
+          "like_count": 6810,
+          "listed_count": 14,
+          "media_count": 3709,
+          "tweet_count": 14469
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-04T11:35:55.000Z",
+        "description": "",
+        "id": "981495576410800129",
+        "name": "ArCe7an",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013211259496218624/fvNZB60N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 17,
+          "like_count": 37478,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1058
+        },
+        "username": "ArCe7an",
+        "verified": false
+      }
+    ]
+  }
+}

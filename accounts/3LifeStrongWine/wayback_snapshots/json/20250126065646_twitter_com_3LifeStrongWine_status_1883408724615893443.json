@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1883408124734026090",
+    "created_at": "2025-01-26T06:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T07:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883408724615893443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1618566507868606464",
+          "start": 0,
+          "username": "Lilwoo31228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883408724615893443",
+    "in_reply_to_user_id": "1618566507868606464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883408548111270233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lilwoo31228 是啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1883408124734026090",
+        "created_at": "2025-01-26T06:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T07:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883408724615893443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1618566507868606464",
+              "start": 0,
+              "username": "Lilwoo31228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883408724615893443",
+        "in_reply_to_user_id": "1618566507868606464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883408548111270233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lilwoo31228 是啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618566507868606464",
+        "conversation_id": "1883408124734026090",
+        "created_at": "2025-01-26T06:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T07:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883408548111270233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883408548111270233",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883408124734026090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 看起来就素清清凉凉很治愈很好喝的样纸吼(*´﹃`)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "凡所有相  皆是虚妄",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 221,
+          "like_count": 6180,
+          "listed_count": 7,
+          "media_count": 1465,
+          "tweet_count": 6604
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-26T11:08:33.000Z",
+        "description": "05♓♀ |属性素ENFP快乐小狗🐾 |日常发疯小天地💭 |碎嘴吧啦吧啦so废话很多🩷 |稀饭夸夸和互动˶˃ ᵕ ˂˶💖 |永远爱猫猫狗狗🥰 |颜控声控手控啥都控☝🏻️|每天都在口嗨🧏🏻‍♀️ |互关和眼熟宝宝快来+V😺 | 提问箱思密达👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilwoo3122812",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilwoo3122812",
+                "start": 0,
+                "url": "https://t.co/cj8wXW3O7e"
+              }
+            ]
+          }
+        },
+        "id": "1618566507868606464",
+        "location": "📮🌕",
+        "name": "՞柚嘻小丸cc՞੭ﾞ🐾",
+        "pinned_tweet_id": "1864862853230137677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878628067872313344/IdemLF6B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 390,
+          "like_count": 61895,
+          "listed_count": 2,
+          "media_count": 580,
+          "tweet_count": 7839
+        },
+        "url": "https://t.co/cj8wXW3O7e",
+        "username": "Lilwoo31228",
+        "verified": false
+      }
+    ]
+  }
+}

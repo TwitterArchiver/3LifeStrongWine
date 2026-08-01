@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596161376261",
+          "name": "Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597017083904",
+          "name": "QSR - Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Fast food",
+          "id": "847865239886417922",
+          "name": "Fast food Restaurants"
+        }
+      }
+    ],
+    "conversation_id": "1911603499533734150",
+    "created_at": "2025-04-14T02:25:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T03:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911606641495314556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1608034171456294912",
+          "start": 0,
+          "username": "wiopqwtrpp5"
+        },
+        {
+          "end": 27,
+          "id": "1843618227160518656",
+          "start": 13,
+          "username": "pingguozhi111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911606641495314556",
+    "in_reply_to_user_id": "1608034171456294912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911606356131426415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wiopqwtrpp5 @pingguozhi111 我KFC膨胀了0.5块钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1911603499533734150",
+        "created_at": "2025-04-14T02:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T03:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911606641495314556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1608034171456294912",
+              "start": 0,
+              "username": "wiopqwtrpp5"
+            },
+            {
+              "end": 27,
+              "id": "1843618227160518656",
+              "start": 13,
+              "username": "pingguozhi111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911606641495314556",
+        "in_reply_to_user_id": "1608034171456294912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911606356131426415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wiopqwtrpp5 @pingguozhi111 我KFC膨胀了0.5块钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608034171456294912",
+        "conversation_id": "1911603499533734150",
+        "created_at": "2025-04-14T02:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T03:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911606356131426415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1843618227160518656",
+              "start": 0,
+              "username": "pingguozhi111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911606356131426415",
+        "in_reply_to_user_id": "1843618227160518656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911603499533734150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pingguozhi111 真好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "东隅已逝，桑榆非晚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909122304141148160/VzRDqCNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1501,
+          "following_count": 245,
+          "like_count": 7395,
+          "listed_count": 12,
+          "media_count": 2515,
+          "tweet_count": 10252
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-28T09:36:46.000Z",
+        "description": "豆沙包 04 农村妹 坐标上海 妹子都可以找我玩 我们去菜园摘西红柿🍅黄瓜🥒西瓜🍉吃 \n精神病✘重度抑郁/重度焦虑症/双向情感障碍/心境障碍/精神障碍/精神分裂/分离障碍/\n有在努力生活了 门槛🚪88 会给你寄好吃的 有在网上学习烘焙 在咸鱼什么售卖 我知恩图报 给我打赏红包 可以那我当虚拟主播养 我会愧疚你的",
+        "id": "1608034171456294912",
+        "location": "距离你1.3km",
+        "name": "豆沙包大王（学习中）",
+        "pinned_tweet_id": "1911042332046012672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877794345266696192/w9QsuLhC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 1576,
+          "like_count": 29809,
+          "listed_count": 5,
+          "media_count": 973,
+          "tweet_count": 16928
+        },
+        "username": "wiopqwtrpp5",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T11:43:52.000Z",
+        "description": "阴暗恶毒的小老鼠一只 欢迎光临我的下水道^ ^",
+        "id": "1843618227160518656",
+        "location": "茧",
+        "name": "苹果汁🧃重度依赖",
+        "pinned_tweet_id": "1900131195108942078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904908229420998658/JkY7D4ow_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2837,
+          "following_count": 581,
+          "like_count": 10964,
+          "listed_count": 9,
+          "media_count": 289,
+          "tweet_count": 3451
+        },
+        "username": "pingguozhi111",
+        "verified": false
+      }
+    ]
+  }
+}

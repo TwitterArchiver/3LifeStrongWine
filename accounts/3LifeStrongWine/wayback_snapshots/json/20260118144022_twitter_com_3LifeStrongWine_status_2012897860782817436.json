@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2012431407214195118",
+    "created_at": "2026-01-18T14:40:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T15:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012897860782817436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1993224784336048128",
+          "start": 0,
+          "username": "XixiYyybuu"
+        },
+        {
+          "end": 23,
+          "id": "1823767829465980931",
+          "start": 12,
+          "username": "CaoYu61579"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012897860782817436",
+    "in_reply_to_user_id": "1993224784336048128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012895365922468171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XixiYyybuu @CaoYu61579 好圆卧槽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2012431407214195118",
+        "created_at": "2026-01-18T14:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012897860782817436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1993224784336048128",
+              "start": 0,
+              "username": "XixiYyybuu"
+            },
+            {
+              "end": 23,
+              "id": "1823767829465980931",
+              "start": 12,
+              "username": "CaoYu61579"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012897860782817436",
+        "in_reply_to_user_id": "1993224784336048128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012895365922468171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XixiYyybuu @CaoYu61579 好圆卧槽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993224784336048128",
+        "conversation_id": "2012431407214195118",
+        "created_at": "2026-01-18T14:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012895365922468171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823767829465980931",
+              "start": 0,
+              "username": "CaoYu61579"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012895365922468171",
+        "in_reply_to_user_id": "1823767829465980931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012892806444970187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CaoYu61579 烤箱宝宝我亲死你！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "云和山和风和雨，轻轻地流过我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VnXMe"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "pinned_tweet_id": "1992598033381638574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1660,
+          "following_count": 172,
+          "like_count": 6795,
+          "listed_count": 12,
+          "media_count": 3171,
+          "tweet_count": 12753
+        },
+        "url": "https://t.co/3g5y5VnXMe",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-25T07:49:05.000Z",
+        "description": "05 |超级日常碎碎念大王🧩 | 游戏🎮健身🏋️| 现充～不网恋 |(*≧ω≦)只回正经提问和口令 | 不约不线下！欢迎你来提问箱https://t.co/qVGvFKqr0I",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xieefozuxx",
+                "end": 88,
+                "expanded_url": "https://ngl.link/xieefozuxx",
+                "start": 65,
+                "url": "https://t.co/qVGvFKqr0I"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pilot.damoplane.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "http://pilot.damoplane.com/#/register?code=fO1uFsvi",
+                "start": 0,
+                "url": "https://t.co/VOfwfU4jqw"
+              }
+            ]
+          }
+        },
+        "id": "1993224784336048128",
+        "location": "🚪388/520/pyq/日常|纯绿|自用vpn👇",
+        "name": "‎₊˚꩜ XiXi酱 ✮˚₊",
+        "pinned_tweet_id": "2010209306189484076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008221883670396928/hxmBu64T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12068,
+          "following_count": 72,
+          "like_count": 671,
+          "listed_count": 10,
+          "media_count": 99,
+          "tweet_count": 806
+        },
+        "url": "https://t.co/VOfwfU4jqw",
+        "username": "XixiYyybuu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T17:05:21.000Z",
+        "description": "你像世界为了我活着抛出的诱饵┋回关只回互动多的宝宝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/binyeon_yu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/binyeon_yu",
+                "start": 0,
+                "url": "https://t.co/maBXz6BCKR"
+              }
+            ]
+          }
+        },
+        "id": "1823767829465980931",
+        "location": "讨厌你 每个小猫你都想摸˃ ˄ ˂",
+        "name": "我烤箱咋滴",
+        "pinned_tweet_id": "2012375200248050143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007159379410464768/ObpktCDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2063,
+          "following_count": 134,
+          "like_count": 5549,
+          "listed_count": 6,
+          "media_count": 126,
+          "tweet_count": 2156
+        },
+        "url": "https://t.co/maBXz6BCKR",
+        "username": "CaoYu61579",
+        "verified": false
+      }
+    ]
+  }
+}

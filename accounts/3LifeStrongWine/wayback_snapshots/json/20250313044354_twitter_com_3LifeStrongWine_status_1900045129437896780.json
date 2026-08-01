@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1898335145972957638",
+    "created_at": "2025-03-13T04:43:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T05:43:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900045129437896780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1806577888751427584",
+          "start": 0,
+          "username": "maggiebai48"
+        },
+        {
+          "end": 22,
+          "id": "1591340830547070976",
+          "start": 13,
+          "username": "jiezi740"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900045129437896780",
+    "in_reply_to_user_id": "1806577888751427584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900034368854458765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maggiebai48 @jiezi740 这用的是iPhone6，7或8吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1898335145972957638",
+        "created_at": "2025-03-13T04:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T05:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900045129437896780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1806577888751427584",
+              "start": 0,
+              "username": "maggiebai48"
+            },
+            {
+              "end": 22,
+              "id": "1591340830547070976",
+              "start": 13,
+              "username": "jiezi740"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900045129437896780",
+        "in_reply_to_user_id": "1806577888751427584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900034368854458765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maggiebai48 @jiezi740 这用的是iPhone6，7或8吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806577888751427584",
+        "conversation_id": "1898335145972957638",
+        "created_at": "2025-03-13T04:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T05:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900034368854458765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1591340830547070976",
+              "start": 0,
+              "username": "jiezi740"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900034368854458765",
+        "in_reply_to_user_id": "1591340830547070976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898335145972957638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiezi740 老公"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来｜把那无人问津的岁月熬成清茶，等一场芳香四散",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1416,
+          "following_count": 233,
+          "like_count": 6971,
+          "listed_count": 11,
+          "media_count": 2143,
+          "tweet_count": 8668
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-28T06:38:47.000Z",
+        "description": "#les  带我去看你盛开的繁花",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "les"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/maggiebai48210…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/maggiebai4821036",
+                "start": 0,
+                "url": "https://t.co/3eDFTqxopY"
+              }
+            ]
+          }
+        },
+        "id": "1806577888751427584",
+        "location": "花园",
+        "name": "枫铃",
+        "pinned_tweet_id": "1895883638887367117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851462131079942144/7JSnVhtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 1315,
+          "like_count": 35147,
+          "listed_count": 4,
+          "media_count": 124,
+          "tweet_count": 4767
+        },
+        "url": "https://t.co/3eDFTqxopY",
+        "username": "maggiebai48",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-12T08:03:46.000Z",
+        "description": "小号@zhzh717171/熟人你好 我不卖逼不做鸡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "zhzh717171"
+              }
+            ]
+          }
+        },
+        "id": "1591340830547070976",
+        "location": "我是双怎么你了/除互关不加v",
+        "name": "九十九声叹息过后换来一个拥抱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874840881691545600/vC7A9UxU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6376,
+          "following_count": 474,
+          "like_count": 32453,
+          "listed_count": 6,
+          "media_count": 41,
+          "tweet_count": 687
+        },
+        "username": "jiezi740",
+        "verified": false
+      }
+    ]
+  }
+}

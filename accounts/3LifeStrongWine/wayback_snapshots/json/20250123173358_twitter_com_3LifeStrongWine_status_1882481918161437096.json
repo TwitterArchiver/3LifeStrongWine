@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1882451193366233460",
+    "created_at": "2025-01-23T17:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T18:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882481918161437096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1769241653997715456",
+          "start": 0,
+          "username": "sun1392241"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882481918161437096",
+    "in_reply_to_user_id": "1769241653997715456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882480454911308259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sun1392241 感觉现在的游戏都不怎么稳定的样子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1882451193366233460",
+        "created_at": "2025-01-23T17:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T18:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882481918161437096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1769241653997715456",
+              "start": 0,
+              "username": "sun1392241"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882481918161437096",
+        "in_reply_to_user_id": "1769241653997715456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882480454911308259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sun1392241 感觉现在的游戏都不怎么稳定的样子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769241653997715456",
+        "conversation_id": "1882451193366233460",
+        "created_at": "2025-01-23T17:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T18:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882480454911308259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882480454911308259",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882451193366233460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 好像有很多游戏都会闪退😥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "白云山上白云泉，云自无心水自闲",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1336,
+          "following_count": 224,
+          "like_count": 6031,
+          "listed_count": 7,
+          "media_count": 1415,
+          "tweet_count": 6396
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-17T05:58:07.000Z",
+        "description": "送葬者",
+        "id": "1769241653997715456",
+        "location": "璃月港 往生堂",
+        "name": "胡锦桃",
+        "pinned_tweet_id": "1878326694760841493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815632981287141376/BRdWhPvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 79,
+          "like_count": 46,
+          "listed_count": 2,
+          "media_count": 588,
+          "tweet_count": 5007
+        },
+        "username": "sun1392241",
+        "verified": false
+      }
+    ]
+  }
+}

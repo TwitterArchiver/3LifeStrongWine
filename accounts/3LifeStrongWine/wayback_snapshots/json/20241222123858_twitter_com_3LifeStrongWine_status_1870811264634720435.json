@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1870811262713819319",
+    "created_at": "2024-12-22T12:38:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-22T13:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870811264634720435"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1870811264634720435",
+    "in_reply_to_user_id": "1529654419213541376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870811262713819319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "抽奖结果"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1870811262713819319",
+        "created_at": "2024-12-22T12:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T13:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870811264634720435"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1870811264634720435",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870811262713819319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抽奖结果"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1870811262713819319",
+        "created_at": "2024-12-22T12:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T13:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870811262713819319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1580907538127949824",
+              "start": 8,
+              "username": "yuluoshanl"
+            },
+            {
+              "end": 44,
+              "id": "1522862031795372032",
+              "start": 31,
+              "username": "Alouette_zzz"
+            },
+            {
+              "end": 70,
+              "id": "1862933126466666496",
+              "start": 56,
+              "username": "moremoreagain"
+            },
+            {
+              "end": 93,
+              "id": "1777532697281458176",
+              "start": 80,
+              "username": "ssxianluomao"
+            },
+            {
+              "end": 118,
+              "id": "1561354032869847040",
+              "start": 103,
+              "username": "tozchunya12138"
+            },
+            {
+              "end": 140,
+              "id": "1236566551341355008",
+              "start": 128,
+              "username": "Reinethepaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870811262713819319",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥇 1 × 1\n@yuluoshanl  \n\n🥈 2 × 1\n@Alouette_zzz  \n\n🥉 3 × 1\n@moremoreagain  \n\n4 × 1\n@ssxianluomao  \n\n5 × 1\n@tozchunya12138  \n\n6 × 1\n@Reinethepaw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "有时也想过花烂漫某天与世界无声道别， 可是偏偏有太多太多遗憾挂牵没画句点",
+        "id": "1529654419213541376",
+        "location": "期待一场意外，此生再无难过",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1865393368853090537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 195,
+          "like_count": 3152,
+          "listed_count": 6,
+          "media_count": 717,
+          "tweet_count": 4030
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      }
+    ]
+  }
+}

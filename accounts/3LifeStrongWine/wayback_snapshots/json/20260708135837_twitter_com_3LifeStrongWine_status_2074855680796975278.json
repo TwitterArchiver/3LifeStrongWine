@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2074767537137746274",
+    "created_at": "2026-07-08T13:58:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T14:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074855680796975278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1938788988590153728",
+          "start": 0,
+          "username": "liiliIIiiliIllI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074855680796975278",
+    "in_reply_to_user_id": "1938788988590153728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074838876947124454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liiliIIiiliIllI 买买买！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2074767537137746274",
+        "created_at": "2026-07-08T13:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074855680796975278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1938788988590153728",
+              "start": 0,
+              "username": "liiliIIiiliIllI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074855680796975278",
+        "in_reply_to_user_id": "1938788988590153728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074838876947124454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liiliIIiiliIllI 买买买！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938788988590153728",
+        "conversation_id": "2074767537137746274",
+        "created_at": "2026-07-08T12:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074838876947124454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074838876947124454",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074767537137746274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 这个手袋系个丝巾好看死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花潭水深千尺  不及汪伦送我情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2851,
+          "following_count": 104,
+          "like_count": 6824,
+          "listed_count": 14,
+          "media_count": 3723,
+          "tweet_count": 14512
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-28T02:38:27.000Z",
+        "description": "隐藏相册@liiliIIiiliIii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "liiliIIiiliIii"
+              }
+            ]
+          }
+        },
+        "id": "1938788988590153728",
+        "name": "咖啡果",
+        "pinned_tweet_id": "2041168174755049593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053472679395803136/JsBrK8_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27941,
+          "following_count": 144,
+          "like_count": 4857,
+          "listed_count": 98,
+          "media_count": 867,
+          "tweet_count": 3760
+        },
+        "url": "",
+        "username": "liiliIIiiliIllI",
+        "verified": true
+      }
+    ]
+  }
+}

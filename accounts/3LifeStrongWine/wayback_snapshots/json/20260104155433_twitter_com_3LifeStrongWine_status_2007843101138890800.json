@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2007842186122199090",
+    "created_at": "2026-01-04T15:54:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T16:54:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007843101138890800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1939632627755147264",
+          "start": 0,
+          "username": "xiaoxiongmaoTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007843101138890800",
+    "in_reply_to_user_id": "1939632627755147264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007842941130391719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxiongmaoTvT ohnonono我还是给你买笔刷吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2007842186122199090",
+        "created_at": "2026-01-04T15:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T16:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007843101138890800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1939632627755147264",
+              "start": 0,
+              "username": "xiaoxiongmaoTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007843101138890800",
+        "in_reply_to_user_id": "1939632627755147264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007842941130391719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxiongmaoTvT ohnonono我还是给你买笔刷吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939632627755147264",
+        "conversation_id": "2007842186122199090",
+        "created_at": "2026-01-04T15:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T16:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007842941130391719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007842941130391719",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007842723790021067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 难道每次化妆前我都要殴打我的客妹几个晚上让她们的眼袋肿起来吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "云和山和风和雨，轻轻地流过我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VnXMe"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "pinned_tweet_id": "1992598033381638574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1641,
+          "following_count": 174,
+          "like_count": 6625,
+          "listed_count": 13,
+          "media_count": 3098,
+          "tweet_count": 12464
+        },
+        "url": "https://t.co/3g5y5VnXMe",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-30T10:30:49.000Z",
+        "description": "推是我的日记本/推止于推",
+        "id": "1939632627755147264",
+        "name": "甜甜小熊猫",
+        "pinned_tweet_id": "1989916745021493525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004865685722476544/he6s1XWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2220,
+          "following_count": 762,
+          "like_count": 4651,
+          "listed_count": 3,
+          "media_count": 232,
+          "tweet_count": 3612
+        },
+        "username": "xiaoxiongmaoTvT",
+        "verified": false
+      }
+    ]
+  }
+}

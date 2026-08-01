@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896583833941839873"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1896583840963104968",
+    "created_at": "2025-03-03T15:29:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T16:29:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896583840963104968"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fqH7hnV7UY",
+          "end": 42,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1896583840963104968/photo/1",
+          "media_key": "3_1896583833941839873",
+          "start": 19,
+          "url": "https://t.co/fqH7hnV7UY"
+        },
+        {
+          "display_url": "x.com/3lifestrongwin…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/3lifestrongwine/status/1896485802093494316",
+          "start": 43,
+          "url": "https://t.co/PoZ3BicSWo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896583840963104968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896485802093494316",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "特地选了左边靠窗的位置，能看到富士山 https://t.co/fqH7hnV7UY https://t.co/PoZ3BicSWo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1896583833941839873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlIE8szaEAEp7Dg.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1896485795583971328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlGryHdbUAAjkM_.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896583833941839873"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1896583840963104968",
+        "created_at": "2025-03-03T15:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T16:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896583840963104968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fqH7hnV7UY",
+              "end": 42,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1896583840963104968/photo/1",
+              "media_key": "3_1896583833941839873",
+              "start": 19,
+              "url": "https://t.co/fqH7hnV7UY"
+            },
+            {
+              "display_url": "x.com/3lifestrongwin…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/3lifestrongwine/status/1896485802093494316",
+              "start": 43,
+              "url": "https://t.co/PoZ3BicSWo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896583840963104968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896485802093494316",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "特地选了左边靠窗的位置，能看到富士山 https://t.co/fqH7hnV7UY https://t.co/PoZ3BicSWo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896485795583971328"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1896485802093494316",
+        "created_at": "2025-03-03T09:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T10:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896485802093494316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P1EORN3eDO",
+              "end": 30,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1896485802093494316/photo/1",
+              "media_key": "3_1896485795583971328",
+              "start": 7,
+              "url": "https://t.co/P1EORN3eDO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896485802093494316",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘻嘻嘻嘻嘻嘻 https://t.co/P1EORN3eDO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1410,
+          "following_count": 231,
+          "like_count": 6920,
+          "listed_count": 11,
+          "media_count": 2088,
+          "tweet_count": 8474
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

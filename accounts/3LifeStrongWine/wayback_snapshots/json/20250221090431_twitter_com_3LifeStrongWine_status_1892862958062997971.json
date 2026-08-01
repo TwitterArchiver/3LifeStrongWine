@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892862947644325888"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1892862958062997971",
+    "created_at": "2025-02-21T09:04:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T10:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1892862958062997971"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xs45Z3uS69",
+          "end": 23,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1892862958062997971/photo/1",
+          "media_key": "3_1892862947644325888",
+          "start": 0,
+          "url": "https://t.co/Xs45Z3uS69"
+        },
+        {
+          "display_url": "x.com/3LifeStrongWin…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/3LifeStrongWine/status/1892861057837703523",
+          "start": 24,
+          "url": "https://t.co/jJAvcULo9k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892862958062997971",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892861057837703523",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/Xs45Z3uS69 https://t.co/jJAvcULo9k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 771,
+        "media_key": "3_1892862947644325888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkTM0nLWwAA3gk_.png",
+        "width": 836
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1892861024715624453",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkTLErtbUAUZd0Y.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892862947644325888"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1892862958062997971",
+        "created_at": "2025-02-21T09:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T10:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892862958062997971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xs45Z3uS69",
+              "end": 23,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1892862958062997971/photo/1",
+              "media_key": "3_1892862947644325888",
+              "start": 0,
+              "url": "https://t.co/Xs45Z3uS69"
+            },
+            {
+              "display_url": "x.com/3LifeStrongWin…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/3LifeStrongWine/status/1892861057837703523",
+              "start": 24,
+              "url": "https://t.co/jJAvcULo9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892862958062997971",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892861057837703523",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/Xs45Z3uS69 https://t.co/jJAvcULo9k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892861024715624453"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1892861057837703523",
+        "created_at": "2025-02-21T08:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T09:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892861057837703523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kU9o88Gdfh",
+              "end": 30,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1892861057837703523/photo/1",
+              "media_key": "3_1892861024715624453",
+              "start": 7,
+              "url": "https://t.co/kU9o88Gdfh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892861057837703523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜呜，良爷 https://t.co/kU9o88Gdfh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1399,
+          "following_count": 227,
+          "like_count": 6705,
+          "listed_count": 10,
+          "media_count": 1961,
+          "tweet_count": 8007
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

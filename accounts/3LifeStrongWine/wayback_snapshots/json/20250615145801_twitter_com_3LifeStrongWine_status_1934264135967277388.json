@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1934124896889569535",
+    "created_at": "2025-06-15T14:58:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T15:58:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934264135967277388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1897829731992805376",
+          "start": 0,
+          "username": "TongZi14905"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934264135967277388",
+    "in_reply_to_user_id": "1897829731992805376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934124896889569535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TongZi14905 辣死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1417,
+        "media_key": "3_1934124891315326976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtdkV1oXUAA7hIx.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1934124896889569535",
+        "created_at": "2025-06-15T14:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T15:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934264135967277388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1897829731992805376",
+              "start": 0,
+              "username": "TongZi14905"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934264135967277388",
+        "in_reply_to_user_id": "1897829731992805376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934124896889569535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TongZi14905 辣死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934124891315326976"
+          ]
+        },
+        "author_id": "1897829731992805376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1934124896889569535",
+        "created_at": "2025-06-15T05:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T06:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934124896889569535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DmKZUuTSki",
+              "end": 32,
+              "expanded_url": "https://x.com/TongZi14905/status/1934124896889569535/photo/1",
+              "media_key": "3_1934124891315326976",
+              "start": 9,
+              "url": "https://t.co/DmKZUuTSki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934124896889569535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1032,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "保养教程来啦☺️ https://t.co/DmKZUuTSki"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "时光足够温柔了吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1538,
+          "following_count": 238,
+          "like_count": 7466,
+          "listed_count": 11,
+          "media_count": 2809,
+          "tweet_count": 11406
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-07T02:01:11.000Z",
+        "description": "ᐢ_   ̫ _ᐢ",
+        "id": "1897829731992805376",
+        "location": "猫猫",
+        "name": "桐原介子",
+        "pinned_tweet_id": "1933510026154664391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897830044711395329/r97gfg8w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 313,
+          "like_count": 3067,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 375
+        },
+        "username": "TongZi14905",
+        "verified": false
+      }
+    ]
+  }
+}

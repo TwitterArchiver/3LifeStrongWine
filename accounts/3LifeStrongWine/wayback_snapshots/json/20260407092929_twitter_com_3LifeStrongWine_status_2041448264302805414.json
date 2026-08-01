@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2041162735443120612",
+    "created_at": "2026-04-07T09:29:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T10:29:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041448264302805414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2033387826856026112",
+          "start": 0,
+          "username": "qiaomimi098"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041448264302805414",
+    "in_reply_to_user_id": "2033387826856026112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041445261768380609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiaomimi098 味道还行，我直接在闲鱼上找的代排队"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2041162735443120612",
+        "created_at": "2026-04-07T09:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T10:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041448264302805414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2033387826856026112",
+              "start": 0,
+              "username": "qiaomimi098"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041448264302805414",
+        "in_reply_to_user_id": "2033387826856026112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041445261768380609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiaomimi098 味道还行，我直接在闲鱼上找的代排队"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033387826856026112",
+        "conversation_id": "2041162735443120612",
+        "created_at": "2026-04-07T09:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T10:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041445261768380609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041445261768380609",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041162735443120612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 它家好吃嘛？？在纠结要不要吃，排队要好久的😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "爱意救不了往下坠的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2061,
+          "following_count": 189,
+          "like_count": 6867,
+          "listed_count": 13,
+          "media_count": 3500,
+          "tweet_count": 13760
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T03:43:11.000Z",
+        "description": "97已婚/13w的大号b了/这个号目前不想更新大尺度了/想看的戳葡萄的秘密基地👉https://t.co/RNGNxiuRm5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Babypupao_bot?…",
+                "end": 63,
+                "expanded_url": "https://t.me/Babypupao_bot?start",
+                "start": 40,
+                "url": "https://t.co/RNGNxiuRm5"
+              }
+            ]
+          }
+        },
+        "id": "2033387826856026112",
+        "name": "葡桃youli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033394060686471168/5LvHW3os_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 46,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 36
+        },
+        "username": "qiaomimi098",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T03:43:11.000Z",
+        "description": "97已婚/13w的大号b了/这个号目前不想更新大尺度了/想看的戳葡萄的秘密基地👉https://t.co/RNGNxiuRm5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Babypupao_bot?…",
+                "end": 63,
+                "expanded_url": "https://t.me/Babypupao_bot?start",
+                "start": 40,
+                "url": "https://t.co/RNGNxiuRm5"
+              }
+            ]
+          }
+        },
+        "id": "2033387826856026112",
+        "name": "葡桃youli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033394060686471168/5LvHW3os_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 46,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 36
+        },
+        "url": "",
+        "username": "qiaomimi098",
+        "verified": false
+      }
+    ]
+  }
+}

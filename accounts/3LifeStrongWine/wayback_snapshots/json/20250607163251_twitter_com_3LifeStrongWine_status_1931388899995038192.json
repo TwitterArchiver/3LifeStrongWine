@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1931387014429171921",
+    "created_at": "2025-06-07T16:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T17:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931388899995038192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1619021081238732802",
+          "start": 0,
+          "username": "love__bbh__lks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931388899995038192",
+    "in_reply_to_user_id": "1619021081238732802",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931388823675748718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@love__bbh__lks 好好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1931388821209497600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs2r5mNaQAAf7tb.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1931387014429171921",
+        "created_at": "2025-06-07T16:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T17:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931388899995038192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1619021081238732802",
+              "start": 0,
+              "username": "love__bbh__lks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931388899995038192",
+        "in_reply_to_user_id": "1619021081238732802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931388823675748718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@love__bbh__lks 好好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931388821209497600"
+          ]
+        },
+        "author_id": "1619021081238732802",
+        "conversation_id": "1931387014429171921",
+        "created_at": "2025-06-07T16:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T17:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931388823675748718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1sA1RPn66m",
+              "end": 40,
+              "expanded_url": "https://x.com/love__bbh__lks/status/1931388823675748718/photo/1",
+              "media_key": "3_1931388821209497600",
+              "start": 17,
+              "url": "https://t.co/1sA1RPn66m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931388823675748718",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931388454895841613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine https://t.co/1sA1RPn66m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "时光足够温柔了吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1535,
+          "following_count": 240,
+          "like_count": 7443,
+          "listed_count": 11,
+          "media_count": 2751,
+          "tweet_count": 11206
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-27T17:14:49.000Z",
+        "description": "清水碎碎念，别骚扰我。问隐私打钱发口令，可以喊我小柳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/love__bbh__lks",
+                "end": 23,
+                "expanded_url": "https://ngl.link/love__bbh__lks",
+                "start": 0,
+                "url": "https://t.co/oiNSPSRA4t"
+              }
+            ]
+          }
+        },
+        "id": "1619021081238732802",
+        "location": "匿名信箱👉🏻",
+        "name": "珏",
+        "pinned_tweet_id": "1891429284020957559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891325267286900736/PG6jOCBK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 234,
+          "like_count": 17446,
+          "listed_count": 4,
+          "media_count": 1380,
+          "tweet_count": 10769
+        },
+        "url": "https://t.co/oiNSPSRA4t",
+        "username": "love__bbh__lks",
+        "verified": false
+      }
+    ]
+  }
+}

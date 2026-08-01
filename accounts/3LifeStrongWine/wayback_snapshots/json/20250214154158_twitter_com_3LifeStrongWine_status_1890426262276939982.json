@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1890417487700779106",
+    "created_at": "2025-02-14T15:41:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T16:41:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890426262276939982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1777532697281458176",
+          "start": 0,
+          "username": "ssxianluomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890426262276939982",
+    "in_reply_to_user_id": "1777532697281458176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890424405336969712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ssxianluomao 我的想法是，楼上的孩子是人吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1890417487700779106",
+        "created_at": "2025-02-14T15:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T16:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890426262276939982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1777532697281458176",
+              "start": 0,
+              "username": "ssxianluomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890426262276939982",
+        "in_reply_to_user_id": "1777532697281458176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890424405336969712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ssxianluomao 我的想法是，楼上的孩子是人吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777532697281458176",
+        "conversation_id": "1890417487700779106",
+        "created_at": "2025-02-14T15:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T16:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890424405336969712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890424405336969712",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890417487700779106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 很吵的话，和楼上说说（？）小朋友可以穿一个防滑袜什么的🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1387,
+          "following_count": 217,
+          "like_count": 6562,
+          "listed_count": 10,
+          "media_count": 1863,
+          "tweet_count": 7677
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-09T03:03:38.000Z",
+        "description": "可能因为我是一只暹罗猫 ，已赛博转生。 全部都是碎碎念，别管猫猫的碎碎念！",
+        "id": "1777532697281458176",
+        "name": "ss暹罗猫",
+        "pinned_tweet_id": "1886964019602579503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871785931738648576/EdJZuGY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 736,
+          "like_count": 1146,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 785
+        },
+        "username": "ssxianluomao",
+        "verified": false
+      }
+    ]
+  }
+}

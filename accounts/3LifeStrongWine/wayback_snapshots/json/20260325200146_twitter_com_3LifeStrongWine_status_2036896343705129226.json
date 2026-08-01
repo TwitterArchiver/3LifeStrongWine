@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2036851764805148710",
+    "created_at": "2026-03-25T20:01:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T21:01:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036896343705129226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1188515634688212994",
+          "start": 0,
+          "username": "Rrabbit_Sol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036896343705129226",
+    "in_reply_to_user_id": "1188515634688212994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036863407513600361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rrabbit_Sol 但是南欧这个季节好像没啥好玩的啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2036851764805148710",
+        "created_at": "2026-03-25T20:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T21:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036896343705129226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1188515634688212994",
+              "start": 0,
+              "username": "Rrabbit_Sol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036896343705129226",
+        "in_reply_to_user_id": "1188515634688212994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036863407513600361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rrabbit_Sol 但是南欧这个季节好像没啥好玩的啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1188515634688212994",
+        "conversation_id": "2036851764805148710",
+        "created_at": "2026-03-25T17:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T18:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036863407513600361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036863407513600361",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036851764805148710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 北欧的话是这个价格了去不起根本去不起😓南欧会便宜很多的宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "願償少年淚，猶趁未老時",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VnXMe"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1914,
+          "following_count": 175,
+          "like_count": 6780,
+          "listed_count": 13,
+          "media_count": 3420,
+          "tweet_count": 13421
+        },
+        "url": "https://t.co/3g5y5VnXMe",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-27T17:59:55.000Z",
+        "description": "四爱纯攻＞S /私信带照➕自介/🇪🇺🇪🇸/不键政，傻逼滚远点/不约/发diao者🐔爆炸/爱美女＆三观正常男妈妈 /无🚪随心情回复（硬要给的话给8888就行😗）/不接广告，接玩具测评/@Rrrabbit_Sol",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "Rrrabbit_Sol"
+              }
+            ]
+          }
+        },
+        "id": "1188515634688212994",
+        "location": "围城",
+        "name": "🐰Sol",
+        "pinned_tweet_id": "2025203912748536205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925722761684520960/uPhVW2n0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4663,
+          "following_count": 242,
+          "like_count": 4940,
+          "listed_count": 6,
+          "media_count": 289,
+          "tweet_count": 4917
+        },
+        "username": "Rrabbit_Sol",
+        "verified": false
+      }
+    ]
+  }
+}

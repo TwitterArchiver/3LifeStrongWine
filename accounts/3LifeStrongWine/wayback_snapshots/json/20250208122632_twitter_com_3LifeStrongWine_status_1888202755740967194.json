@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888202744655433728",
+        "3_1888202744659693568"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1888202755740967194",
+    "created_at": "2025-02-08T12:26:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T13:26:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1888202755740967194"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jw4B66ESJS",
+          "end": 75,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1888202755740967194/photo/1",
+          "media_key": "3_1888202744655433728",
+          "start": 52,
+          "url": "https://t.co/Jw4B66ESJS"
+        },
+        {
+          "display_url": "pic.x.com/Jw4B66ESJS",
+          "end": 75,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1888202755740967194/photo/1",
+          "media_key": "3_1888202744659693568",
+          "start": 52,
+          "url": "https://t.co/Jw4B66ESJS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888202755740967194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在我的零钱盒子里找到了澳元（AU$），美元，欧元，卢布，韩元，日元，港币，阿联酋费尔还有民国袁小头…… https://t.co/Jw4B66ESJS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1888202744655433728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjQ-ZGMa0AA7Nxw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1888202744659693568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjQ-ZGNb0AAPGBq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888202744655433728",
+            "3_1888202744659693568"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1888202755740967194",
+        "created_at": "2025-02-08T12:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T13:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888202755740967194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jw4B66ESJS",
+              "end": 75,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1888202755740967194/photo/1",
+              "media_key": "3_1888202744655433728",
+              "start": 52,
+              "url": "https://t.co/Jw4B66ESJS"
+            },
+            {
+              "display_url": "pic.x.com/Jw4B66ESJS",
+              "end": 75,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1888202755740967194/photo/1",
+              "media_key": "3_1888202744659693568",
+              "start": 52,
+              "url": "https://t.co/Jw4B66ESJS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888202755740967194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在我的零钱盒子里找到了澳元（AU$），美元，欧元，卢布，韩元，日元，港币，阿联酋费尔还有民国袁小头…… https://t.co/Jw4B66ESJS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1400,
+          "following_count": 219,
+          "like_count": 6501,
+          "listed_count": 9,
+          "media_count": 1692,
+          "tweet_count": 7280
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

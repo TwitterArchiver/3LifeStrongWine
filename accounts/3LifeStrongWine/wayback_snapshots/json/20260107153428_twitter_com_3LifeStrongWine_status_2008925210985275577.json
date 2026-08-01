@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2008924635161846212",
+    "created_at": "2026-01-07T15:34:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T16:34:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008925210985275577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1680645917085683712",
+          "start": 0,
+          "username": "XunxunTAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008925210985275577",
+    "in_reply_to_user_id": "1680645917085683712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008924635161846212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XunxunTAT 这居然是ai吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2008924635161846212",
+        "created_at": "2026-01-07T15:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T16:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008925210985275577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1680645917085683712",
+              "start": 0,
+              "username": "XunxunTAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008925210985275577",
+        "in_reply_to_user_id": "1680645917085683712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008924635161846212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XunxunTAT 这居然是ai吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680645917085683712",
+        "conversation_id": "2008924635161846212",
+        "created_at": "2026-01-07T15:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T16:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008924635161846212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/corneliaedith2…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/corneliaedith2/status/2008562237351530796",
+              "start": 14,
+              "url": "https://t.co/hTI5G98ABf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008924635161846212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008562237351530796",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这一眼ai啊你们都咋了这是 https://t.co/hTI5G98ABf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "云和山和风和雨，轻轻地流过我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VnXMe"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "pinned_tweet_id": "1992598033381638574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1659,
+          "following_count": 173,
+          "like_count": 6648,
+          "listed_count": 12,
+          "media_count": 3115,
+          "tweet_count": 12536
+        },
+        "url": "https://t.co/3g5y5VnXMe",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-16T18:29:55.000Z",
+        "description": "le",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wiskee1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wiskee1",
+                "start": 0,
+                "url": "https://t.co/m964BDEmt4"
+              }
+            ]
+          }
+        },
+        "id": "1680645917085683712",
+        "location": "匿名来玩(=^ω^=)➡️",
+        "name": "薰唉(-.-)",
+        "pinned_tweet_id": "2004133527022195165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008383997060280325/XRnqafCD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 54,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 912
+        },
+        "url": "https://t.co/m964BDEmt4",
+        "username": "XunxunTAT",
+        "verified": false
+      }
+    ]
+  }
+}

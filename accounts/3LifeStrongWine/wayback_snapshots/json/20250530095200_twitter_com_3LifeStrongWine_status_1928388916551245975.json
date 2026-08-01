@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1928112532591628585",
+    "created_at": "2025-05-30T09:52:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T10:52:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928388916551245975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1896882171761270784",
+          "start": 0,
+          "username": "oiwansj"
+        },
+        {
+          "end": 20,
+          "id": "1865052657586704387",
+          "start": 9,
+          "username": "yuanouo_11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928388916551245975",
+    "in_reply_to_user_id": "1896882171761270784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928388643015524840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oiwansj @yuanouo_11 接"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1928112532591628585",
+        "created_at": "2025-05-30T09:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T10:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928388916551245975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896882171761270784",
+              "start": 0,
+              "username": "oiwansj"
+            },
+            {
+              "end": 20,
+              "id": "1865052657586704387",
+              "start": 9,
+              "username": "yuanouo_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928388916551245975",
+        "in_reply_to_user_id": "1896882171761270784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928388643015524840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oiwansj @yuanouo_11 接"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896882171761270784",
+        "conversation_id": "1928112532591628585",
+        "created_at": "2025-05-30T09:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T10:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928388643015524840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1865052657586704387",
+              "start": 0,
+              "username": "yuanouo_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928388643015524840",
+        "in_reply_to_user_id": "1865052657586704387",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928112532591628585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanouo_11 接神秘数字。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "闻有三山不知处，茂陵松柏满西风",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912318298353487872/R3xfbIV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1528,
+          "following_count": 237,
+          "like_count": 7435,
+          "listed_count": 11,
+          "media_count": 2698,
+          "tweet_count": 11005
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-04T11:15:35.000Z",
+        "description": "istj｜我要瘦20斤｜推广自辨｜小宝宝：@Yue_an968726 @mingsheng1917自用vpn安全高速9.9一年https://t.co/WqEgSXqgLG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "Yue_an968726"
+              },
+              {
+                "end": 49,
+                "start": 35,
+                "username": "mingsheng1917"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "xyz2.281968.xyz/#/register?cod…",
+                "end": 86,
+                "expanded_url": "https://xyz2.281968.xyz/#/register?code=VuWS0ql9",
+                "start": 63,
+                "url": "https://t.co/WqEgSXqgLG"
+              }
+            ]
+          }
+        },
+        "id": "1896882171761270784",
+        "location": "🚪99纯绿",
+        "name": "我是蛋挞熊",
+        "pinned_tweet_id": "1914309907740004756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896894462980169729/s1c85ArG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4262,
+          "following_count": 450,
+          "like_count": 17674,
+          "listed_count": 11,
+          "media_count": 439,
+          "tweet_count": 6345
+        },
+        "username": "oiwansj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T15:16:34.000Z",
+        "description": "05｜esfp｜清水推 想发什么就发什么 只加玩得好的互关vx｜推广&转推自辩‼️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=in3tciv9",
+                "start": 0,
+                "url": "https://t.co/SmloMAtORD"
+              }
+            ]
+          }
+        },
+        "id": "1865052657586704387",
+        "location": "自用蜂鸟vpn",
+        "name": "圆来开始喜欢你",
+        "pinned_tweet_id": "1927689498499977485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885339658038505472/vePVHRPw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12547,
+          "following_count": 407,
+          "like_count": 21571,
+          "listed_count": 9,
+          "media_count": 95,
+          "tweet_count": 3833
+        },
+        "url": "https://t.co/SmloMAtORD",
+        "username": "yuanouo_11",
+        "verified": false
+      }
+    ]
+  }
+}

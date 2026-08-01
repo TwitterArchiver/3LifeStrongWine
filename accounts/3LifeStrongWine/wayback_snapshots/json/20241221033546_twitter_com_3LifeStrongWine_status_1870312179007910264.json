@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1870312179007910264",
+    "created_at": "2024-12-21T03:35:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-21T04:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1870312179007910264"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jingsheng23724…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/jingsheng237248/status/1870305208258961752",
+          "start": 25,
+          "url": "https://t.co/qIK8XmGRvb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870312179007910264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870305208258961752",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只有获得我特殊认可的人我才会真心实意地叫一句姐姐 https://t.co/qIK8XmGRvb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1870312179007910264",
+        "created_at": "2024-12-21T03:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T04:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870312179007910264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jingsheng23724…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/jingsheng237248/status/1870305208258961752",
+              "start": 25,
+              "url": "https://t.co/qIK8XmGRvb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870312179007910264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870305208258961752",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只有获得我特殊认可的人我才会真心实意地叫一句姐姐 https://t.co/qIK8XmGRvb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870301485109518337"
+          ]
+        },
+        "author_id": "1847778949272584192",
+        "conversation_id": "1870305208258961752",
+        "created_at": "2024-12-21T03:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T03:53:18.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870301489304089000",
+          "1870305208258961752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6oPpcVbV6s",
+              "end": 36,
+              "expanded_url": "https://x.com/jingsheng237248/status/1870305208258961752/photo/1",
+              "media_key": "3_1870301485109518337",
+              "start": 13,
+              "url": "https://t.co/6oPpcVbV6s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870305208258961752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 341,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男生一直叫姐姐是什么心理 https://t.co/6oPpcVbV6s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "有时也想过花烂漫某天与世界无声道别， 可是偏偏有太多太多遗憾挂牵没画句点",
+        "id": "1529654419213541376",
+        "location": "期待一场意外，此生再无难过",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1865393368853090537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 199,
+          "like_count": 3002,
+          "listed_count": 6,
+          "media_count": 701,
+          "tweet_count": 3928
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T23:17:00.000Z",
+        "description": "正在用有限的时间，探索无限的可能 tg频道https://t.co/TxjuPeke65 ｜人在United States的ECE PhD ｜图片推文如有侵权联系删除｜同类互fo，💯回fo｜🚪5，陪聊天｜英文号@xiaobenzhu211｜Bluesky账号@xiaonaofujiang.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 105,
+                "username": "xiaobenzhu211"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "xiaonaofujiang"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/naofujiang",
+                "end": 44,
+                "expanded_url": "https://t.me/naofujiang",
+                "start": 21,
+                "url": "https://t.co/TxjuPeke65"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+-r03gqqFd_9jN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+-r03gqqFd_9jNmIx",
+                "start": 0,
+                "url": "https://t.co/hO6v9As72R"
+              }
+            ]
+          }
+        },
+        "id": "1847778949272584192",
+        "location": "你床上",
+        "name": "脑斧酱🐯🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1869529191143866745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869910686274355201/OMWep0wg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5082,
+          "following_count": 5108,
+          "like_count": 1812,
+          "listed_count": 4,
+          "media_count": 170,
+          "tweet_count": 2145
+        },
+        "url": "https://t.co/hO6v9As72R",
+        "username": "jingsheng237248",
+        "verified": true
+      }
+    ]
+  }
+}

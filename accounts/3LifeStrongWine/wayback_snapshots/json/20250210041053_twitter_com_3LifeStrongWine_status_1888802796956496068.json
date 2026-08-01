@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888802789016707073"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Jackie Chan",
+          "id": "900129701338861568",
+          "name": "Jackie Chan"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Jackie Chan",
+          "id": "900129701338861568",
+          "name": "Jackie Chan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Jackie Chan",
+          "id": "900129701338861568",
+          "name": "Jackie Chan"
+        }
+      }
+    ],
+    "conversation_id": "1888802796956496068",
+    "created_at": "2025-02-10T04:10:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T05:10:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1888802796956496068"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8mEwPS1J36",
+          "end": 43,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1888802796956496068/photo/1",
+          "media_key": "3_1888802789016707073",
+          "start": 20,
+          "url": "https://t.co/8mEwPS1J36"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888802796956496068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "总感觉成龙下1秒就要从空调外机上跳下来 https://t.co/8mEwPS1J36"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1888802789016707073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjZgIRoboAENGPK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888802789016707073"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jackie Chan",
+              "id": "900129701338861568",
+              "name": "Jackie Chan"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Jackie Chan",
+              "id": "900129701338861568",
+              "name": "Jackie Chan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jackie Chan",
+              "id": "900129701338861568",
+              "name": "Jackie Chan"
+            }
+          }
+        ],
+        "conversation_id": "1888802796956496068",
+        "created_at": "2025-02-10T04:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T05:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888802796956496068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8mEwPS1J36",
+              "end": 43,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1888802796956496068/photo/1",
+              "media_key": "3_1888802789016707073",
+              "start": 20,
+              "url": "https://t.co/8mEwPS1J36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888802796956496068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "总感觉成龙下1秒就要从空调外机上跳下来 https://t.co/8mEwPS1J36"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 217,
+          "like_count": 6519,
+          "listed_count": 9,
+          "media_count": 1755,
+          "tweet_count": 7399
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

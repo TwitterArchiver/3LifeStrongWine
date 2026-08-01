@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1882476897101365486",
+    "created_at": "2025-01-23T18:14:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T19:14:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882492176019689822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1769241653997715456",
+          "start": 0,
+          "username": "sun1392241"
+        },
+        {
+          "end": 19,
+          "id": "1809497565630722052",
+          "start": 12,
+          "username": "w1a2ng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882492176019689822",
+    "in_reply_to_user_id": "1769241653997715456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882492057316634940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sun1392241 @w1a2ng 这是真的狠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1882476897101365486",
+        "created_at": "2025-01-23T18:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T19:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882492176019689822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1769241653997715456",
+              "start": 0,
+              "username": "sun1392241"
+            },
+            {
+              "end": 19,
+              "id": "1809497565630722052",
+              "start": 12,
+              "username": "w1a2ng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882492176019689822",
+        "in_reply_to_user_id": "1769241653997715456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882492057316634940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sun1392241 @w1a2ng 这是真的狠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1882492030406000640"
+          ]
+        },
+        "author_id": "1769241653997715456",
+        "conversation_id": "1882476897101365486",
+        "created_at": "2025-01-23T18:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T19:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882492057316634940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            },
+            {
+              "end": 24,
+              "id": "1809497565630722052",
+              "start": 17,
+              "username": "w1a2ng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CNJ1AEvOdN",
+              "end": 48,
+              "expanded_url": "https://x.com/sun1392241/status/1882492057316634940/video/1",
+              "media_key": "7_1882492030406000640",
+              "start": 25,
+              "url": "https://t.co/CNJ1AEvOdN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882492057316634940",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882491658903953878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine @w1a2ng https://t.co/CNJ1AEvOdN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "白云山上白云泉，云自无心水自闲",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1338,
+          "following_count": 223,
+          "like_count": 6054,
+          "listed_count": 7,
+          "media_count": 1418,
+          "tweet_count": 6444
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-17T05:58:07.000Z",
+        "description": "送葬者",
+        "id": "1769241653997715456",
+        "location": "璃月港 往生堂",
+        "name": "胡锦桃",
+        "pinned_tweet_id": "1878326694760841493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815632981287141376/BRdWhPvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 79,
+          "like_count": 46,
+          "listed_count": 2,
+          "media_count": 599,
+          "tweet_count": 5065
+        },
+        "username": "sun1392241",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T08:00:34.000Z",
+        "description": "作者，感谢@xioshl8提供的背景。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xioshl8"
+              }
+            ]
+          }
+        },
+        "id": "1809497565630722052",
+        "name": "王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878600508866277376/KIKXf4NN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 648,
+          "like_count": 27722,
+          "listed_count": 5,
+          "media_count": 58,
+          "tweet_count": 6844
+        },
+        "username": "w1a2ng",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1932047821156573670",
+    "created_at": "2025-06-09T14:31:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T15:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932083070074777710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1541313524416139264",
+          "start": 0,
+          "username": "jiangtong1013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932083070074777710",
+    "in_reply_to_user_id": "1541313524416139264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932082789702406605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiangtong1013 😭😭看成个肌肉男了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1932047821156573670",
+        "created_at": "2025-06-09T14:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T15:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932083070074777710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1541313524416139264",
+              "start": 0,
+              "username": "jiangtong1013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932083070074777710",
+        "in_reply_to_user_id": "1541313524416139264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932082789702406605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiangtong1013 😭😭看成个肌肉男了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541313524416139264",
+        "conversation_id": "1932047821156573670",
+        "created_at": "2025-06-09T14:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T15:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932082789702406605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932082789702406605",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932081964103893021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 我是女的😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "时光足够温柔了吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1533,
+          "following_count": 238,
+          "like_count": 7463,
+          "listed_count": 11,
+          "media_count": 2770,
+          "tweet_count": 11270
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-27T06:52:46.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiangtong10131",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiangtong10131",
+                "start": 0,
+                "url": "https://t.co/5f3Toiqpsv"
+              }
+            ]
+          }
+        },
+        "id": "1541313524416139264",
+        "name": "江潼",
+        "pinned_tweet_id": "1915409373935083868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654009351450025984/JCGAVO8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1214,
+          "following_count": 433,
+          "like_count": 165072,
+          "listed_count": 9,
+          "media_count": 570,
+          "tweet_count": 12987
+        },
+        "url": "https://t.co/5f3Toiqpsv",
+        "username": "jiangtong1013",
+        "verified": false
+      }
+    ]
+  }
+}

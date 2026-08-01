@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1881141782140039317",
+    "created_at": "2025-01-20T01:54:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T02:54:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881158202936684769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1717530155042873344",
+          "start": 0,
+          "username": "nn9681"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881158202936684769",
+    "in_reply_to_user_id": "1717530155042873344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881141782140039317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nn9681 这个是人机发的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1881141782140039317",
+        "created_at": "2025-01-20T01:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T02:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881158202936684769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1717530155042873344",
+              "start": 0,
+              "username": "nn9681"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881158202936684769",
+        "in_reply_to_user_id": "1717530155042873344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881141782140039317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nn9681 这个是人机发的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881141774435143680"
+          ]
+        },
+        "author_id": "1717530155042873344",
+        "conversation_id": "1881141782140039317",
+        "created_at": "2025-01-20T00:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T01:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881141782140039317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y2pim2PxIi",
+              "end": 27,
+              "expanded_url": "https://x.com/nn9681/status/1881141782140039317/photo/1",
+              "media_key": "3_1881141774435143680",
+              "start": 4,
+              "url": "https://t.co/Y2pim2PxIi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881141782140039317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啥时候 https://t.co/Y2pim2PxIi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "看桃花究竟开出怎样的结果",
+        "id": "1529654419213541376",
+        "location": "夢在心上心便溫柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1179,
+          "following_count": 236,
+          "like_count": 5689,
+          "listed_count": 7,
+          "media_count": 1323,
+          "tweet_count": 6049
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T13:15:04.000Z",
+        "description": "没回是因为你的评论或者私信被吞了/看你主页发的内容回关/别问性生活相关的话题我没有义务回答你，问就拉黑/发骚发几把的暴毙/提问箱https://t.co/l4snfMrYsm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lqrluizy",
+                "end": 87,
+                "expanded_url": "https://ngl.link/lqrluizy",
+                "start": 64,
+                "url": "https://t.co/l4snfMrYsm"
+              }
+            ]
+          }
+        },
+        "id": "1717530155042873344",
+        "name": "🐿",
+        "pinned_tweet_id": "1880343996310147073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855628255241412608/-JFcGi_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 56,
+          "like_count": 817,
+          "listed_count": 0,
+          "media_count": 2696,
+          "tweet_count": 14268
+        },
+        "username": "nn9681",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1895849824580485459",
+    "created_at": "2025-03-01T16:24:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T17:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895872861476438402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1629074500305186817",
+          "start": 0,
+          "username": "carafutaba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895872861476438402",
+    "in_reply_to_user_id": "1629074500305186817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895851247208653163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@carafutaba 我勒个36期"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_1895851239453163520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk9qqFqXAAAxood.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1895849824580485459",
+        "created_at": "2025-03-01T16:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T17:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895872861476438402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1629074500305186817",
+              "start": 0,
+              "username": "carafutaba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895872861476438402",
+        "in_reply_to_user_id": "1629074500305186817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895851247208653163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@carafutaba 我勒个36期"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895851239453163520"
+          ]
+        },
+        "author_id": "1629074500305186817",
+        "conversation_id": "1895849824580485459",
+        "created_at": "2025-03-01T14:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T15:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895851247208653163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R6qZ3H1FCN",
+              "end": 55,
+              "expanded_url": "https://x.com/carafutaba/status/1895851247208653163/photo/1",
+              "media_key": "3_1895851239453163520",
+              "start": 32,
+              "url": "https://t.co/R6qZ3H1FCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895851247208653163",
+        "in_reply_to_user_id": "1629074500305186817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895849824580485459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没有什么比银行赚钱还容易，\n这真的是“坐享其盈”了（银行的广告 https://t.co/R6qZ3H1FCN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1413,
+          "following_count": 231,
+          "like_count": 6916,
+          "listed_count": 10,
+          "media_count": 2076,
+          "tweet_count": 8415
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-24T11:03:32.000Z",
+        "description": "🧡 春祺夏安 秋綏冬禧 🧡 双葉资本🎲 杏子教义🧸 ⛥倘若没有相遇便不会去说再见︎ ☦︎ Akashic窥视深渊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "anzu.moe",
+                "end": 23,
+                "expanded_url": "https://anzu.moe",
+                "start": 0,
+                "url": "https://t.co/uyvReMg6DJ"
+              }
+            ]
+          }
+        },
+        "id": "1629074500305186817",
+        "location": "是扶她..吧",
+        "name": "双葉杏",
+        "pinned_tweet_id": "1892602684093370529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803015602162053120/HYr1UFr__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4178,
+          "following_count": 1002,
+          "like_count": 53634,
+          "listed_count": 5,
+          "media_count": 1352,
+          "tweet_count": 14093
+        },
+        "url": "https://t.co/uyvReMg6DJ",
+        "username": "carafutaba",
+        "verified": true
+      }
+    ]
+  }
+}

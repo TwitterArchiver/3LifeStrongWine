@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1932113801056604534",
+    "created_at": "2025-06-09T16:34:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T17:34:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932114142242173120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1806577888751427584",
+          "start": 0,
+          "username": "Maria52413"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932114142242173120",
+    "in_reply_to_user_id": "1806577888751427584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932113809046695989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maria52413 多吃点小龙虾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1932113801056604534",
+        "created_at": "2025-06-09T16:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T17:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932114142242173120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1806577888751427584",
+              "start": 0,
+              "username": "Maria52413"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932114142242173120",
+        "in_reply_to_user_id": "1806577888751427584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932113809046695989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maria52413 多吃点小龙虾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806577888751427584",
+        "conversation_id": "1932113801056604534",
+        "created_at": "2025-06-09T16:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T17:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932113809046695989"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932113809046695989",
+        "in_reply_to_user_id": "1806577888751427584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932113801056604534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就是这样从小被否定 自卑焦虑一直伴随着我 \n第二个 就很简单 一个人说没钱用哭穷 仇富 ta贷款买名牌 还不上钱 怨天怨地 ta可怜吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "时光足够温柔了吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1535,
+          "following_count": 239,
+          "like_count": 7469,
+          "listed_count": 11,
+          "media_count": 2782,
+          "tweet_count": 11306
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-28T06:38:47.000Z",
+        "description": "#les 带我去看你盛开的繁花",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "les"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/maggiebai48210…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/maggiebai4821036",
+                "start": 0,
+                "url": "https://t.co/3eDFTqxWfw"
+              }
+            ]
+          }
+        },
+        "id": "1806577888751427584",
+        "location": "花园",
+        "name": "枫铃",
+        "pinned_tweet_id": "1928030374489379261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928031576803397635/JPStL2Ml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 476,
+          "like_count": 39910,
+          "listed_count": 4,
+          "media_count": 140,
+          "tweet_count": 5685
+        },
+        "url": "https://t.co/3eDFTqxWfw",
+        "username": "Maria52413",
+        "verified": false
+      }
+    ]
+  }
+}

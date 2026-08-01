@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2008160055062069646",
+    "created_at": "2026-01-05T12:56:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T13:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008160719678898207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781712570497552384",
+          "start": 0,
+          "username": "siinaaki0912"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008160719678898207",
+    "in_reply_to_user_id": "1781712570497552384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008160055062069646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siinaaki0912 为啥价格翻倍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2008160040390393857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G95q6sOagAE3oiX.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1442,
+        "media_key": "3_2008160045109067776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G95q69zbwAABd2y.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1612,
+        "media_key": "3_2008160048405778432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G95q7KFbkAAIHtq.jpg",
+        "width": 988
+      },
+      {
+        "height": 1439,
+        "media_key": "3_2008160052587397120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G95q7ZqaAAA3VAG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2008160055062069646",
+        "created_at": "2026-01-05T12:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T13:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008160719678898207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781712570497552384",
+              "start": 0,
+              "username": "siinaaki0912"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008160719678898207",
+        "in_reply_to_user_id": "1781712570497552384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008160055062069646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siinaaki0912 为啥价格翻倍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008160040390393857",
+            "3_2008160045109067776",
+            "3_2008160048405778432",
+            "3_2008160052587397120"
+          ]
+        },
+        "author_id": "1781712570497552384",
+        "conversation_id": "2008160055062069646",
+        "created_at": "2026-01-05T12:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T13:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008160055062069646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SXIjxXlKxz",
+              "end": 125,
+              "expanded_url": "https://x.com/siinaaki0912/status/2008160055062069646/photo/1",
+              "media_key": "3_2008160040390393857",
+              "start": 102,
+              "url": "https://t.co/SXIjxXlKxz"
+            },
+            {
+              "display_url": "pic.x.com/SXIjxXlKxz",
+              "end": 125,
+              "expanded_url": "https://x.com/siinaaki0912/status/2008160055062069646/photo/1",
+              "media_key": "3_2008160045109067776",
+              "start": 102,
+              "url": "https://t.co/SXIjxXlKxz"
+            },
+            {
+              "display_url": "pic.x.com/SXIjxXlKxz",
+              "end": 125,
+              "expanded_url": "https://x.com/siinaaki0912/status/2008160055062069646/photo/1",
+              "media_key": "3_2008160048405778432",
+              "start": 102,
+              "url": "https://t.co/SXIjxXlKxz"
+            },
+            {
+              "display_url": "pic.x.com/SXIjxXlKxz",
+              "end": 125,
+              "expanded_url": "https://x.com/siinaaki0912/status/2008160055062069646/photo/1",
+              "media_key": "3_2008160052587397120",
+              "start": 102,
+              "url": "https://t.co/SXIjxXlKxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008160055062069646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这身有人要吗，原价199，折价100出，可砍价，仅试穿一次，最小码依然偏大，本人身高155体重40kg，推荐155/90斤以上穿，大衣很厚实保暖，颜色是和模特图一样的\n男生买价格翻倍，mtf和小男娘除外 https://t.co/SXIjxXlKxz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "云和山和风和雨，轻轻地流过我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VnXMe"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "pinned_tweet_id": "1992598033381638574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 175,
+          "like_count": 6637,
+          "listed_count": 13,
+          "media_count": 3102,
+          "tweet_count": 12492
+        },
+        "url": "https://t.co/3g5y5VnXMe",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-20T15:52:51.000Z",
+        "description": "谢谢你有短暂的爱过我\n无门槛不接推广，互fo可+联系方式防走丢",
+        "id": "1781712570497552384",
+        "location": "我会永远视奸你👁️",
+        "name": "椎名秋",
+        "pinned_tweet_id": "1945146563191324736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999488478791536640/BPlOL-Nn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19395,
+          "following_count": 447,
+          "like_count": 8398,
+          "listed_count": 26,
+          "media_count": 964,
+          "tweet_count": 7672
+        },
+        "username": "siinaaki0912",
+        "verified": false
+      }
+    ]
+  }
+}

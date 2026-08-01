@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1887755319318880552",
+    "created_at": "2025-02-07T06:48:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T07:48:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887755319318880552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1727258252428140544",
+          "start": 3,
+          "username": "kezhiqingsuyu"
+        },
+        {
+          "end": 35,
+          "id": "1529654419213541376",
+          "start": 19,
+          "username": "3LifeStrongWine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887755319318880552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887755038132740398",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kezhiqingsuyu: @3LifeStrongWine 喵喵喵拿到啦!啊啊啊啊啊好喜欢。。。。特别巧的是。明信片里的内容是我之前也摘抄过的。酒看着甜甜的，，，好想快点喝，，，但是我没有想好买什么吃的来配。上次喝rio微醺直接喝了半瓶，，把自己喝晕了两天，，头一直…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1887755319318880552",
+        "created_at": "2025-02-07T06:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T07:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887755319318880552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1727258252428140544",
+              "start": 3,
+              "username": "kezhiqingsuyu"
+            },
+            {
+              "end": 35,
+              "id": "1529654419213541376",
+              "start": 19,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887755319318880552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887755038132740398",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kezhiqingsuyu: @3LifeStrongWine 喵喵喵拿到啦!啊啊啊啊啊好喜欢。。。。特别巧的是。明信片里的内容是我之前也摘抄过的。酒看着甜甜的，，，好想快点喝，，，但是我没有想好买什么吃的来配。上次喝rio微醺直接喝了半瓶，，把自己喝晕了两天，，头一直…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887755028947140608",
+            "3_1887755032982134785"
+          ]
+        },
+        "author_id": "1727258252428140544",
+        "conversation_id": "1887755038132740398",
+        "created_at": "2025-02-07T06:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T07:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887755038132740398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ikWIYS6WW4",
+              "end": 169,
+              "expanded_url": "https://x.com/kezhiqingsuyu/status/1887755038132740398/photo/1",
+              "media_key": "3_1887755028947140608",
+              "start": 146,
+              "url": "https://t.co/ikWIYS6WW4"
+            },
+            {
+              "display_url": "pic.x.com/ikWIYS6WW4",
+              "end": 169,
+              "expanded_url": "https://x.com/kezhiqingsuyu/status/1887755038132740398/photo/1",
+              "media_key": "3_1887755032982134785",
+              "start": 146,
+              "url": "https://t.co/ikWIYS6WW4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887755038132740398",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 喵喵喵拿到啦!啊啊啊啊啊好喜欢。。。。特别巧的是。明信片里的内容是我之前也摘抄过的。酒看着甜甜的，，，好想快点喝，，，但是我没有想好买什么吃的来配。上次喝rio微醺直接喝了半瓶，，把自己喝晕了两天，，头一直疼啊啊啊。这次长记性决定晚上再买点吃的来配着喝🌚🌚 https://t.co/ikWIYS6WW4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 220,
+          "like_count": 6494,
+          "listed_count": 9,
+          "media_count": 1667,
+          "tweet_count": 7234
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-22T09:30:44.000Z",
+        "description": "嘴贱爱评论  小割割你别气 人家不是故意的  亲友@YinLanMoon    @yu00304   爱人@perper5551  主人@yuni0771    鉴牛50r一次，先付款再发鸡照。🚪520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "YinLanMoon"
+              },
+              {
+                "end": 48,
+                "start": 40,
+                "username": "yu00304"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "perper5551"
+              },
+              {
+                "end": 77,
+                "start": 68,
+                "username": "yuni0771"
+              }
+            ]
+          }
+        },
+        "id": "1727258252428140544",
+        "location": "I wanna see you in my dreams",
+        "name": "克制倾诉欲",
+        "pinned_tweet_id": "1882465984075927646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878394843292110848/lfo268Tp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1979,
+          "following_count": 679,
+          "like_count": 23321,
+          "listed_count": 5,
+          "media_count": 176,
+          "tweet_count": 6252
+        },
+        "username": "kezhiqingsuyu",
+        "verified": false
+      }
+    ]
+  }
+}

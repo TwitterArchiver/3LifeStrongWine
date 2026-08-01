@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1919037693800906791",
+    "created_at": "2025-05-04T15:14:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T16:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919047886978920770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1130077248579465217",
+          "start": 0,
+          "username": "AntonioZore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919047886978920770",
+    "in_reply_to_user_id": "1130077248579465217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919039903796781191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AntonioZore 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1919037693800906791",
+        "created_at": "2025-05-04T15:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T16:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919047886978920770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1130077248579465217",
+              "start": 0,
+              "username": "AntonioZore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919047886978920770",
+        "in_reply_to_user_id": "1130077248579465217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919039903796781191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AntonioZore 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130077248579465217",
+        "conversation_id": "1919037693800906791",
+        "created_at": "2025-05-04T14:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T15:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919039903796781191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919039903796781191",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919037693800906791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 好看欸 生日快乐！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "闻有三山不知处，茂陵松柏满西风",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912318298353487872/R3xfbIV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1528,
+          "following_count": 241,
+          "like_count": 7394,
+          "listed_count": 11,
+          "media_count": 2612,
+          "tweet_count": 10638
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-19T11:46:26.000Z",
+        "description": "伪装成讨好型人格也是我补偿性自恋的一种手段",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakusei",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakusei",
+                "start": 0,
+                "url": "https://t.co/Jdg9bvkzr7"
+              }
+            ]
+          }
+        },
+        "id": "1130077248579465217",
+        "location": "Kyoto-fu, Japan",
+        "name": "霍星瑶",
+        "pinned_tweet_id": "1916558929883980128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914533838182891520/6DunwCsO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 258,
+          "like_count": 19179,
+          "listed_count": 1,
+          "media_count": 882,
+          "tweet_count": 13258
+        },
+        "url": "https://t.co/Jdg9bvkzr7",
+        "username": "AntonioZore",
+        "verified": false
+      }
+    ]
+  }
+}

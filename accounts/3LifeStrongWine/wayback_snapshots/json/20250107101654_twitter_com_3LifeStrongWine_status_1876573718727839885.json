@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1876554782946820209",
+    "created_at": "2025-01-07T10:16:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T11:16:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876573718727839885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1491205591754473474",
+          "start": 0,
+          "username": "keshiwohaokun"
+        },
+        {
+          "end": 27,
+          "id": "1600277431256256512",
+          "start": 15,
+          "username": "Oriyukiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876573718727839885",
+    "in_reply_to_user_id": "1491205591754473474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876573504906449167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keshiwohaokun @Oriyukiiiii 多邻国有很多都不会教你，阿飞老师的网课搭配新标日对初学者比较友好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1876554782946820209",
+        "created_at": "2025-01-07T10:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T11:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876573718727839885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1491205591754473474",
+              "start": 0,
+              "username": "keshiwohaokun"
+            },
+            {
+              "end": 27,
+              "id": "1600277431256256512",
+              "start": 15,
+              "username": "Oriyukiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876573718727839885",
+        "in_reply_to_user_id": "1491205591754473474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876573504906449167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keshiwohaokun @Oriyukiiiii 多邻国有很多都不会教你，阿飞老师的网课搭配新标日对初学者比较友好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491205591754473474",
+        "conversation_id": "1876554782946820209",
+        "created_at": "2025-01-07T10:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T11:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876573504906449167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600277431256256512",
+              "start": 0,
+              "username": "Oriyukiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876573504906449167",
+        "in_reply_to_user_id": "1600277431256256512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876573090626585065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oriyukiiiii 是这样的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "雨季里我和你的青春一起坐过了站，而我会站在原地热泪盈眶地读你的未来",
+        "id": "1529654419213541376",
+        "location": "Destination of the Wind",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 209,
+          "like_count": 4378,
+          "listed_count": 7,
+          "media_count": 952,
+          "tweet_count": 4873
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-09T00:21:40.000Z",
+        "description": "†女的，大概是活的 † sub｜ 日常推/文盲/自由散漫/不接推广 不接置顶/有🚪520 纯绿（意思是不免费陪聊 别骚扰我了）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=PT1iuT9D",
+                "start": 0,
+                "url": "https://t.co/TMKGn0r56g"
+              }
+            ]
+          }
+        },
+        "id": "1491205591754473474",
+        "location": "自用VPN↓",
+        "name": "可是我好困",
+        "pinned_tweet_id": "1829548771400884351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818981689731031040/CRhpHpuc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30249,
+          "following_count": 552,
+          "like_count": 61086,
+          "listed_count": 65,
+          "media_count": 2628,
+          "tweet_count": 29604
+        },
+        "url": "https://t.co/TMKGn0r56g",
+        "username": "keshiwohaokun",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T23:54:14.000Z",
+        "description": "碎碎念构成的集合体。 “心怀梦想的人身上那种闪闪发光的温柔，对如今的我来说太痛了。”  https://t.co/Qm0OpuzJ0u提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oriyukiiiiii",
+                "end": 67,
+                "expanded_url": "https://ngl.link/oriyukiiiiii",
+                "start": 44,
+                "url": "https://t.co/Qm0OpuzJ0u"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/Oriyuki",
+                "end": 23,
+                "expanded_url": "https://afdian.com/a/Oriyuki",
+                "start": 0,
+                "url": "https://t.co/DDg7CccjLo"
+              }
+            ]
+          }
+        },
+        "id": "1600277431256256512",
+        "location": "无处不在",
+        "name": "石獅落麻雀",
+        "pinned_tweet_id": "1837866926300975289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828968257405235200/qMZ2VQQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11750,
+          "following_count": 589,
+          "like_count": 3681,
+          "listed_count": 17,
+          "media_count": 1263,
+          "tweet_count": 4500
+        },
+        "url": "https://t.co/DDg7CccjLo",
+        "username": "Oriyukiiiii",
+        "verified": true
+      }
+    ]
+  }
+}

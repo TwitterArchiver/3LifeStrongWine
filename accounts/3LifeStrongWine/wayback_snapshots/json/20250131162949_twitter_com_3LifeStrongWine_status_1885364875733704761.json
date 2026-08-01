@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1885364082938962104",
+    "created_at": "2025-01-31T16:29:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T17:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885364875733704761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1864468641305251844",
+          "start": 0,
+          "username": "AkaNpc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885364875733704761",
+    "in_reply_to_user_id": "1864468641305251844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885364082938962104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkaNpc 曼老师的话还是那么一针见血"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1885364082938962104",
+        "created_at": "2025-01-31T16:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T17:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885364875733704761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1864468641305251844",
+              "start": 0,
+              "username": "AkaNpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885364875733704761",
+        "in_reply_to_user_id": "1864468641305251844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885364082938962104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkaNpc 曼老师的话还是那么一针见血"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864468641305251844",
+        "conversation_id": "1885364082938962104",
+        "created_at": "2025-01-31T16:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T17:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885364082938962104"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885364082938962104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "快睡吧 你喜欢的人有人陪着不用你陪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 217,
+          "like_count": 6300,
+          "listed_count": 9,
+          "media_count": 1552,
+          "tweet_count": 6812
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-05T00:35:51.000Z",
+        "description": "做S会笑场，做M会还手☁️活着玩玩的，什么都没当真至少要见面上万次｜ 随心+v",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akanpc",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akanpc",
+                "start": 0,
+                "url": "https://t.co/axvcrnKSfM"
+              }
+            ]
+          }
+        },
+        "id": "1864468641305251844",
+        "location": "迷失表參道",
+        "name": "曼醬⛓︎（过年回家争家产版）",
+        "pinned_tweet_id": "1868660805266473000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872590302583926785/o3oKSA94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1627,
+          "following_count": 49,
+          "like_count": 4898,
+          "listed_count": 3,
+          "media_count": 37,
+          "tweet_count": 999
+        },
+        "url": "https://t.co/axvcrnKSfM",
+        "username": "AkaNpc",
+        "verified": false
+      }
+    ]
+  }
+}

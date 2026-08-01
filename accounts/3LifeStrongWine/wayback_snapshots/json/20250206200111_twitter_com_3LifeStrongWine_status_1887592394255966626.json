@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1887592394255966626",
+    "created_at": "2025-02-06T20:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T21:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1887592394255966626"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3LifeStrongWin…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/3LifeStrongWine/status/1887590886361735175",
+          "start": 7,
+          "url": "https://t.co/JCr3fIAVhy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887592394255966626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887590886361735175",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我找到你们了 https://t.co/JCr3fIAVhy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1887592394255966626",
+        "created_at": "2025-02-06T20:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T21:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887592394255966626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3LifeStrongWin…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/3LifeStrongWine/status/1887590886361735175",
+              "start": 7,
+              "url": "https://t.co/JCr3fIAVhy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887592394255966626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887590886361735175",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我找到你们了 https://t.co/JCr3fIAVhy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1887590886361735175",
+        "created_at": "2025-02-06T19:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T20:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887590886361735175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3LifeStrongWin…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/3LifeStrongWine/status/1887586393704280285",
+              "start": 84,
+              "url": "https://t.co/mYh7a0XIP9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887590886361735175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887586393704280285",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不，我找到了qq的bug，随心贴的前三条是可以查看到个人资料的，但是要删掉上面的所有随心贴，那些不同人给我留下的不同记忆。燃烧了那些回忆，换来了我的执念，值吗，也值了 https://t.co/mYh7a0XIP9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 218,
+          "like_count": 6526,
+          "listed_count": 9,
+          "media_count": 1665,
+          "tweet_count": 7209
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

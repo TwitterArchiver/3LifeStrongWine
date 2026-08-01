@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1901502064976605435",
+    "created_at": "2025-03-17T05:47:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T06:47:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901510582181965873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1759703615227531264",
+          "start": 0,
+          "username": "nkdlglm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901510582181965873",
+    "in_reply_to_user_id": "1759703615227531264",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901508144167362966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nkdlglm ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1901502064976605435",
+        "created_at": "2025-03-17T05:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T06:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901510582181965873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1759703615227531264",
+              "start": 0,
+              "username": "nkdlglm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901510582181965873",
+        "in_reply_to_user_id": "1759703615227531264",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901508144167362966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nkdlglm ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759703615227531264",
+        "conversation_id": "1901502064976605435",
+        "created_at": "2025-03-17T05:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T06:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901508144167362966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901508144167362966",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901502064976605435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 看成泡面了，我就说你怎么用药泡方便面……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来｜把那无人问津的岁月熬成清茶，等一场芳香四散",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1422,
+          "following_count": 236,
+          "like_count": 7053,
+          "listed_count": 11,
+          "media_count": 2179,
+          "tweet_count": 8884
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-19T22:17:06.000Z",
+        "description": "我是马毛(乐福)her/ 日本語の勉強をする ʕ ᵔᴥᵔ ʔ 破画画的 en/中文",
+        "id": "1759703615227531264",
+        "name": "十亿年的雨零星散",
+        "pinned_tweet_id": "1899862767114608719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899018364187803649/E_GtT48f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 135,
+          "like_count": 7526,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 543
+        },
+        "username": "nkdlglm",
+        "verified": false
+      }
+    ]
+  }
+}

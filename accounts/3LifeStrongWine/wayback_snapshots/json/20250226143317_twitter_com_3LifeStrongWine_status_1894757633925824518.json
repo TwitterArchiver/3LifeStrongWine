@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1894757633925824518",
+    "created_at": "2025-02-26T14:33:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-26T15:33:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894757633925824518"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ljsabc/status/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/ljsabc/status/1894296581597532647",
+          "start": 3,
+          "url": "https://t.co/MXW9Qm1OfB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894757633925824518",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894296581597532647",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "2b https://t.co/MXW9Qm1OfB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1644,
+        "media_key": "3_1894296550475493376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GknkrR5W8AAS4i1.jpg",
+        "width": 1572
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1894757633925824518",
+        "created_at": "2025-02-26T14:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T15:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894757633925824518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ljsabc/status/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/ljsabc/status/1894296581597532647",
+              "start": 3,
+              "url": "https://t.co/MXW9Qm1OfB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894757633925824518",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894296581597532647",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2b https://t.co/MXW9Qm1OfB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894296550475493376"
+          ]
+        },
+        "author_id": "473880655",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1894296581597532647",
+        "created_at": "2025-02-25T08:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T09:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894296581597532647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bd4DNsBN3r",
+              "end": 39,
+              "expanded_url": "https://x.com/ljsabc/status/1894296581597532647/photo/1",
+              "media_key": "3_1894296550475493376",
+              "start": 16,
+              "url": "https://t.co/Bd4DNsBN3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894296581597532647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 51115,
+          "like_count": 337,
+          "quote_count": 9,
+          "reply_count": 20,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "朋友发给我的\n我已经笑拥过去了 https://t.co/Bd4DNsBN3r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 230,
+          "like_count": 6901,
+          "listed_count": 10,
+          "media_count": 2050,
+          "tweet_count": 8332
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2012-01-25T12:33:42.000Z",
+        "description": "君は知ってるかい？踊らな死ぬ事を",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miaomiao.li",
+                "end": 23,
+                "expanded_url": "http://miaomiao.li",
+                "start": 0,
+                "url": "https://t.co/c5mDVBExaU"
+              }
+            ]
+          }
+        },
+        "id": "473880655",
+        "location": "Hong Kong",
+        "name": "李萌萌",
+        "pinned_tweet_id": "1859252109465866349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881203348009091072/o-1UlgWm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7220,
+          "following_count": 418,
+          "like_count": 10921,
+          "listed_count": 49,
+          "media_count": 9004,
+          "tweet_count": 65320
+        },
+        "url": "https://t.co/c5mDVBExaU",
+        "username": "ljsabc",
+        "verified": false
+      }
+    ]
+  }
+}

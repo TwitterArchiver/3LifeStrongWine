@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1913599097220816896"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1913599113381482681",
+    "created_at": "2025-04-19T14:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T15:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913599113381482681"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qOIGmZrfLP",
+          "end": 23,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1913599113381482681/photo/1",
+          "media_key": "3_1913599097220816896",
+          "start": 0,
+          "url": "https://t.co/qOIGmZrfLP"
+        },
+        {
+          "display_url": "x.com/3lifestrongwin…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/3lifestrongwine/status/1913585723795730724",
+          "start": 24,
+          "url": "https://t.co/krDUbfFNqX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913599113381482681",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913585723795730724",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/qOIGmZrfLP https://t.co/krDUbfFNqX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_1913599097220816896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go54PYBa4AAsiyE.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1913585713280585728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go5sEU9aEAA2jf2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913599097220816896"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1913599113381482681",
+        "created_at": "2025-04-19T14:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T15:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913599113381482681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qOIGmZrfLP",
+              "end": 23,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1913599113381482681/photo/1",
+              "media_key": "3_1913599097220816896",
+              "start": 0,
+              "url": "https://t.co/qOIGmZrfLP"
+            },
+            {
+              "display_url": "x.com/3lifestrongwin…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/3lifestrongwine/status/1913585723795730724",
+              "start": 24,
+              "url": "https://t.co/krDUbfFNqX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913599113381482681",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913585723795730724",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/qOIGmZrfLP https://t.co/krDUbfFNqX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913585713280585728"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1913585723795730724",
+        "created_at": "2025-04-19T13:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T14:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913585723795730724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/21SeoUXj1E",
+              "end": 33,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1913585723795730724/photo/1",
+              "media_key": "3_1913585713280585728",
+              "start": 10,
+              "url": "https://t.co/21SeoUXj1E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913585723795730724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "法拉利sp3装修中 https://t.co/21SeoUXj1E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "东隅已逝，桑榆非晚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912318298353487872/R3xfbIV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 241,
+          "like_count": 7421,
+          "listed_count": 11,
+          "media_count": 2562,
+          "tweet_count": 10455
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

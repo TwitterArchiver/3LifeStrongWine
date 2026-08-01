@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1875774767099420672"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1875774849689571552",
+    "created_at": "2025-01-05T05:22:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T06:22:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1875774849689571552"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fINvInLChn",
+          "end": 37,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1875774849689571552/video/1",
+          "media_key": "13_1875774767099420672",
+          "start": 14,
+          "url": "https://t.co/fINvInLChn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875774849689571552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "瘦到连腰带最小孔都套不牢… https://t.co/fINvInLChn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7183,
+        "height": 1080,
+        "media_key": "13_1875774767099420672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1875774767099420672/img/aKKukUQmTx5dVohi.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1875774767099420672/pl/SCCsOTiiTsgyuXgP.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1875774767099420672/vid/avc1/480x270/carFvjtfzt0ZYcCM.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1875774767099420672/vid/avc1/640x360/KU9KfSzM3t6LaExK.mp4?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1875774767099420672/vid/avc1/1920x1080/6uAjbi9WlQ9uiZGZ.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1875774767099420672/vid/avc1/1280x720/b1eZ0EZNHcKNXfU7.mp4?tag=16"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1875774767099420672"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1875774849689571552",
+        "created_at": "2025-01-05T05:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T06:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875774849689571552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fINvInLChn",
+              "end": 37,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1875774849689571552/video/1",
+              "media_key": "13_1875774767099420672",
+              "start": 14,
+              "url": "https://t.co/fINvInLChn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875774849689571552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "瘦到连腰带最小孔都套不牢… https://t.co/fINvInLChn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "雨季里我和你的青春一起坐过了站，而我会站在原地热泪盈眶地读你的未来",
+        "id": "1529654419213541376",
+        "location": "没见过的也算不得遗憾，寥寥数年已经足够圆满",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 213,
+          "like_count": 4017,
+          "listed_count": 7,
+          "media_count": 900,
+          "tweet_count": 4665
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

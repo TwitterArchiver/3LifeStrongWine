@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1871569424861589504"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1871569431484387640",
+    "created_at": "2024-12-24T14:51:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T15:51:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1871569431484387640"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lRC6xJGyCi",
+          "end": 89,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1871569431484387640/photo/1",
+          "media_key": "3_1871569424861589504",
+          "start": 66,
+          "url": "https://t.co/lRC6xJGyCi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871569431484387640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你明明知道怎么做会永远失去我。可你还是那么做了，却还要给我发这种信息。所以你的长篇大论换来了什么？也不用对不起，反正之后还是对不起 https://t.co/lRC6xJGyCi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1138,
+        "media_key": "3_1871569424861589504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfkmedVbcAAinXw.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871569424861589504"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1871569431484387640",
+        "created_at": "2024-12-24T14:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T15:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871569431484387640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lRC6xJGyCi",
+              "end": 89,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1871569431484387640/photo/1",
+              "media_key": "3_1871569424861589504",
+              "start": 66,
+              "url": "https://t.co/lRC6xJGyCi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871569431484387640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你明明知道怎么做会永远失去我。可你还是那么做了，却还要给我发这种信息。所以你的长篇大论换来了什么？也不用对不起，反正之后还是对不起 https://t.co/lRC6xJGyCi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "有时也想过花烂漫某天与世界无声道别， 可是偏偏有太多太多遗憾挂牵没画句点",
+        "id": "1529654419213541376",
+        "location": "期待一场意外，此生再无难过",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1865393368853090537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 206,
+          "like_count": 3279,
+          "listed_count": 6,
+          "media_count": 738,
+          "tweet_count": 4143
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      }
+    ]
+  }
+}

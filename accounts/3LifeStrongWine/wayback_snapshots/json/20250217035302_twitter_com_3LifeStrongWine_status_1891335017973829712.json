@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1891145248954273809",
+    "created_at": "2025-02-17T03:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T04:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891335017973829712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1839696962918223872",
+          "start": 0,
+          "username": "qikong27547159"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891335017973829712",
+    "in_reply_to_user_id": "1839696962918223872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891145248954273809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qikong27547159 给你放生了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1891145248954273809",
+        "created_at": "2025-02-17T03:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T04:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891335017973829712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1839696962918223872",
+              "start": 0,
+              "username": "qikong27547159"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891335017973829712",
+        "in_reply_to_user_id": "1839696962918223872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891145248954273809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qikong27547159 给你放生了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891145239337062400"
+          ]
+        },
+        "author_id": "1839696962918223872",
+        "conversation_id": "1891145248954273809",
+        "created_at": "2025-02-16T15:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T16:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891145248954273809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DAw9fZkdIp",
+              "end": 51,
+              "expanded_url": "https://x.com/qikong27547159/status/1891145248954273809/photo/1",
+              "media_key": "3_1891145239337062400",
+              "start": 28,
+              "url": "https://t.co/DAw9fZkdIp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891145248954273809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 448,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这下知道我平时有多烦人了🙃朋友的生日礼物是——给我送走 https://t.co/DAw9fZkdIp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 225,
+          "like_count": 6610,
+          "listed_count": 10,
+          "media_count": 1896,
+          "tweet_count": 7789
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-27T16:02:00.000Z",
+        "description": "他们走了 在夕阳下沿着小路 空中的月亮和星星 不过是孩子们稀奇古怪的幻想",
+        "id": "1839696962918223872",
+        "location": "🤫",
+        "name": "柒mo",
+        "pinned_tweet_id": "1870980993328500984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890488110397681664/4DmM7pXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 68,
+          "like_count": 3873,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1253
+        },
+        "username": "qikong27547159",
+        "verified": false
+      }
+    ]
+  }
+}

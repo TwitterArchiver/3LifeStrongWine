@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2048810603196960992",
+    "created_at": "2026-04-27T17:09:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T18:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048811842085249376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1874432803338854400",
+          "start": 0,
+          "username": "0b1k0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048811842085249376",
+    "in_reply_to_user_id": "1874432803338854400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048811769523749190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0b1k0 ？你俩什么时候混到一起去的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2048811769523749190].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2048811769523749190",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2048811769523749190"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2048810603196960992",
+        "created_at": "2026-04-27T17:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T18:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048811842085249376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1874432803338854400",
+              "start": 0,
+              "username": "0b1k0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048811842085249376",
+        "in_reply_to_user_id": "1874432803338854400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048811769523749190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0b1k0 ？你俩什么时候混到一起去的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "如果能有转机我许愿是能够一直看着你的眼睛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2303,
+          "following_count": 114,
+          "like_count": 6907,
+          "listed_count": 13,
+          "media_count": 3578,
+          "tweet_count": 14072
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T12:29:53.000Z",
+        "description": "你真的觉得这些就是我的全部，那你也完了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0b1k0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0b1k0",
+                "start": 0,
+                "url": "https://t.co/k982cyscW3"
+              }
+            ]
+          }
+        },
+        "id": "1874432803338854400",
+        "location": "🚪288/520/1314",
+        "name": "冰块",
+        "pinned_tweet_id": "2048395005333786896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005255904485314560/IknqtxPD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 9405,
+          "following_count": 46,
+          "like_count": 529,
+          "listed_count": 21,
+          "media_count": 67,
+          "tweet_count": 645
+        },
+        "url": "https://t.co/k982cyscW3",
+        "username": "0b1k0",
+        "verified": false
+      }
+    ]
+  }
+}

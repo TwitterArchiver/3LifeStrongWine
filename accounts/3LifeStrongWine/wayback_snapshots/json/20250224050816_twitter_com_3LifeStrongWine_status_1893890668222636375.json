@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1893890668222636375",
+    "created_at": "2025-02-24T05:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T06:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893890668222636375"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3lifestrongwin…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/3lifestrongwine/status/1893886857831727281",
+          "start": 13,
+          "url": "https://t.co/ARsrDed8xy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893890668222636375",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893886857831727281",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "店里全是大叔和阿姨🥀🥀🥀 https://t.co/ARsrDed8xy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1893886848701026304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkhwDf2b0AAA0CU.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1540,
+        "media_key": "3_1893886848881115136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkhwDghXwAANEt8.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1893886848726093824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkhwDf8aUAAvSSF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1893890668222636375",
+        "created_at": "2025-02-24T05:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T06:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893890668222636375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3lifestrongwin…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/3lifestrongwine/status/1893886857831727281",
+              "start": 13,
+              "url": "https://t.co/ARsrDed8xy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893890668222636375",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893886857831727281",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "店里全是大叔和阿姨🥀🥀🥀 https://t.co/ARsrDed8xy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893886848701026304",
+            "3_1893886848881115136",
+            "3_1893886848726093824"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1893886857831727281",
+        "created_at": "2025-02-24T04:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T05:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893886857831727281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2gO3XJZ3z8",
+              "end": 30,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1893886857831727281/photo/1",
+              "media_key": "3_1893886848701026304",
+              "start": 7,
+              "url": "https://t.co/2gO3XJZ3z8"
+            },
+            {
+              "display_url": "pic.x.com/2gO3XJZ3z8",
+              "end": 30,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1893886857831727281/photo/1",
+              "media_key": "3_1893886848881115136",
+              "start": 7,
+              "url": "https://t.co/2gO3XJZ3z8"
+            },
+            {
+              "display_url": "pic.x.com/2gO3XJZ3z8",
+              "end": 30,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1893886857831727281/photo/1",
+              "media_key": "3_1893886848726093824",
+              "start": 7,
+              "url": "https://t.co/2gO3XJZ3z8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893886857831727281",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "A！M！G！ https://t.co/2gO3XJZ3z8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1410,
+          "following_count": 227,
+          "like_count": 6796,
+          "listed_count": 10,
+          "media_count": 2002,
+          "tweet_count": 8192
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

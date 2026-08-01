@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2012153564672790611",
+    "created_at": "2026-01-18T10:43:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T11:43:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012838181205590419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1730845651792265216",
+          "start": 0,
+          "username": "coconlai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012838181205590419",
+    "in_reply_to_user_id": "1730845651792265216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012822666957254776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@coconlai 男生更要保持身材啊！！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2012822666957254776].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2012822666957254776",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2012822666957254776"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2012153564672790611",
+        "created_at": "2026-01-18T10:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T11:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012838181205590419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1730845651792265216",
+              "start": 0,
+              "username": "coconlai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012838181205590419",
+        "in_reply_to_user_id": "1730845651792265216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012822666957254776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coconlai 男生更要保持身材啊！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "云和山和风和雨，轻轻地流过我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VnXMe"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "pinned_tweet_id": "1992598033381638574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1658,
+          "following_count": 172,
+          "like_count": 6792,
+          "listed_count": 12,
+          "media_count": 3167,
+          "tweet_count": 12745
+        },
+        "url": "https://t.co/3g5y5VnXMe",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-02T07:05:53.000Z",
+        "description": "希望你一切都好希望你每天都开心/废话自留地/https://t.co/bNC2c0E3hl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lemonsoda2",
+                "end": 45,
+                "expanded_url": "https://ngl.link/lemonsoda2",
+                "start": 22,
+                "url": "https://t.co/bNC2c0E3hl"
+              }
+            ]
+          }
+        },
+        "id": "1730845651792265216",
+        "location": "任意门",
+        "name": "lemon soda🍍",
+        "pinned_tweet_id": "1776085431731593639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997686564726730752/AGMc07zh_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 321,
+          "like_count": 59279,
+          "listed_count": 7,
+          "media_count": 2077,
+          "tweet_count": 27762
+        },
+        "username": "coconlai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1887156546892960169",
+    "created_at": "2025-02-05T15:09:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T16:09:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1887156546892960169"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/selaginellaaaa…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/selaginellaaaaa/status/1887069772841660911",
+          "start": 7,
+          "url": "https://t.co/GU5g9XRXKD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887156546892960169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887069772841660911",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "厨房已买保险 https://t.co/GU5g9XRXKD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1887156546892960169",
+        "created_at": "2025-02-05T15:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T16:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887156546892960169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/selaginellaaaa…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/selaginellaaaaa/status/1887069772841660911",
+              "start": 7,
+              "url": "https://t.co/GU5g9XRXKD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887156546892960169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887069772841660911",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "厨房已买保险 https://t.co/GU5g9XRXKD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887069755473096704",
+            "16_1887069755468898304"
+          ]
+        },
+        "author_id": "1863961550350065664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1887069772841660911",
+        "created_at": "2025-02-05T09:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T10:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887069772841660911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p1gkEX8fW9",
+              "end": 33,
+              "expanded_url": "https://x.com/Selaginellaaaaa/status/1887069772841660911/photo/1",
+              "media_key": "3_1887069755473096704",
+              "start": 10,
+              "url": "https://t.co/p1gkEX8fW9"
+            },
+            {
+              "display_url": "pic.x.com/p1gkEX8fW9",
+              "end": 33,
+              "expanded_url": "https://x.com/Selaginellaaaaa/status/1887069772841660911/photo/1",
+              "media_key": "16_1887069755468898304",
+              "start": 10,
+              "url": "https://t.co/p1gkEX8fW9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887069772841660911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 425,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卷女士又开始制毒了 https://t.co/p1gkEX8fW9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391,
+          "following_count": 223,
+          "like_count": 6482,
+          "listed_count": 9,
+          "media_count": 1638,
+          "tweet_count": 7121
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-03T15:01:06.000Z",
+        "description": "🤔 箱子https://t.co/gQgLuEPPqS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/selaginellaaaa…",
+                "end": 27,
+                "expanded_url": "https://ngl.link/selaginellaaaaa1",
+                "start": 4,
+                "url": "https://t.co/gQgLuEPPqS"
+              }
+            ]
+          }
+        },
+        "id": "1863961550350065664",
+        "location": "叫我卷柏就行",
+        "name": "Selaginella",
+        "pinned_tweet_id": "1869234973783491050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876307978443522048/mt_EImdI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5048,
+          "following_count": 76,
+          "like_count": 7016,
+          "listed_count": 9,
+          "media_count": 266,
+          "tweet_count": 2434
+        },
+        "username": "Selaginellaaaaa",
+        "verified": false
+      }
+    ]
+  }
+}

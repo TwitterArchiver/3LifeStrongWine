@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2041071846989414706",
+    "created_at": "2026-04-06T08:40:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T09:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041073495019606441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1716546925129056257",
+          "start": 0,
+          "username": "iioceyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041073495019606441",
+    "in_reply_to_user_id": "1716546925129056257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041071846989414706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iioceyy 怎么了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2041071846989414706",
+        "created_at": "2026-04-06T08:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T09:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041073495019606441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1716546925129056257",
+              "start": 0,
+              "username": "iioceyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041073495019606441",
+        "in_reply_to_user_id": "1716546925129056257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041071846989414706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iioceyy 怎么了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1716546925129056257",
+        "conversation_id": "2041071846989414706",
+        "created_at": "2026-04-06T08:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T09:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041071846989414706"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041071846989414706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要扫射回避型"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "最后还是失眠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2057,
+          "following_count": 182,
+          "like_count": 6895,
+          "listed_count": 13,
+          "media_count": 3492,
+          "tweet_count": 13699
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-23T20:07:50.000Z",
+        "description": "我的世界总是充斥着蝉鸣和电流",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iioceyy",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iioceyy",
+                "start": 0,
+                "url": "https://t.co/cgUXJiKei3"
+              }
+            ]
+          }
+        },
+        "id": "1716546925129056257",
+        "location": "窝的匿名信箱📬⬇️",
+        "name": "冰岛忧郁小妹在喂鸡",
+        "pinned_tweet_id": "2022560495165936114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997606470393929728/8ltjOOld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 197,
+          "like_count": 13469,
+          "listed_count": 1,
+          "media_count": 919,
+          "tweet_count": 6599
+        },
+        "url": "https://t.co/cgUXJiKei3",
+        "username": "iioceyy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-23T20:07:50.000Z",
+        "description": "我的世界总是充斥着蝉鸣和电流",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iioceyy",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iioceyy",
+                "start": 0,
+                "url": "https://t.co/cgUXJiKei3"
+              }
+            ]
+          }
+        },
+        "id": "1716546925129056257",
+        "location": "窝的匿名信箱📬⬇️",
+        "name": "冰岛忧郁小妹在喂鸡",
+        "pinned_tweet_id": "2022560495165936114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997606470393929728/8ltjOOld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 197,
+          "like_count": 13469,
+          "listed_count": 1,
+          "media_count": 919,
+          "tweet_count": 6599
+        },
+        "url": "https://t.co/cgUXJiKei3",
+        "username": "iioceyy",
+        "verified": true
+      }
+    ]
+  }
+}

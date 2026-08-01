@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2037105196422099241",
+    "created_at": "2026-03-26T13:58:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T14:58:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037167344431124827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "999196128112467968",
+          "start": 0,
+          "username": "Bauer05951482"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037167344431124827",
+    "in_reply_to_user_id": "999196128112467968",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037165976286851124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bauer05951482 yes"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2037105196422099241",
+        "created_at": "2026-03-26T13:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T14:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037167344431124827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "999196128112467968",
+              "start": 0,
+              "username": "Bauer05951482"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037167344431124827",
+        "in_reply_to_user_id": "999196128112467968",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037165976286851124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bauer05951482 yes"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "999196128112467968",
+        "conversation_id": "2037105196422099241",
+        "created_at": "2026-03-26T13:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T14:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037165976286851124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037165976286851124",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037105196422099241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 这个是在哪里办的呀？当地中国使馆么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "願償少年淚，猶趁未老時",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VnXMe"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1957,
+          "following_count": 192,
+          "like_count": 6817,
+          "listed_count": 13,
+          "media_count": 3446,
+          "tweet_count": 13496
+        },
+        "url": "https://t.co/3g5y5VnXMe",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-23T07:51:35.000Z",
+        "description": "Son, brother, PhD of @TUBerlin in Space Geodesy. Working in 🇫🇷. Views on my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 21,
+                "username": "TUBerlin"
+              }
+            ]
+          }
+        },
+        "id": "999196128112467968",
+        "name": "EndlessDream",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1474280423811289090/NmIQJsyi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 1737,
+          "like_count": 3566,
+          "listed_count": 3,
+          "media_count": 79,
+          "tweet_count": 2544
+        },
+        "username": "Bauer05951482",
+        "verified": false
+      }
+    ]
+  }
+}

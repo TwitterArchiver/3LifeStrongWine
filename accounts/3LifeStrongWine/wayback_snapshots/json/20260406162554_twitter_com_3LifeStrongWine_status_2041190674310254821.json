@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2040547468820291716",
+    "created_at": "2026-04-06T16:25:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T17:25:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041190674310254821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1974358161651085312",
+          "start": 0,
+          "username": "yizhilaoshu00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041190674310254821",
+    "in_reply_to_user_id": "1974358161651085312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040547468820291716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yizhilaoshu00 为什么粉丝这么少"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5166,
+        "height": 1236,
+        "media_key": "13_2040547405201043456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2040547405201043456/img/zX4KECYHxYKbrJu0.jpg",
+        "public_metrics": {
+          "view_count": 22
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040547405201043456/vid/avc1/320x548/tNIX4rUVq1cPpo7n.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040547405201043456/vid/avc1/480x824/i6RjWRcib6LxfzR_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040547405201043456/vid/avc1/720x1236/AfnL0aLCaYBkfL5E.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2040547405201043456/pl/nc7p4iGLQS7SUQWT.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2040547468820291716",
+        "created_at": "2026-04-06T16:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041190674310254821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1974358161651085312",
+              "start": 0,
+              "username": "yizhilaoshu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041190674310254821",
+        "in_reply_to_user_id": "1974358161651085312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040547468820291716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yizhilaoshu00 为什么粉丝这么少"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040547405201043456"
+          ]
+        },
+        "author_id": "1974358161651085312",
+        "conversation_id": "2040547468820291716",
+        "created_at": "2026-04-04T21:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T22:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040547468820291716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WLQsnwjSlI",
+              "end": 44,
+              "expanded_url": "https://x.com/yizhilaoshu00/status/2040547468820291716/video/1",
+              "media_key": "13_2040547405201043456",
+              "start": 21,
+              "url": "https://t.co/WLQsnwjSlI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040547468820291716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我什么时候长这样过。我怎么没有印象了可恶 https://t.co/WLQsnwjSlI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "最后还是失眠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2067,
+          "following_count": 187,
+          "like_count": 6900,
+          "listed_count": 13,
+          "media_count": 3498,
+          "tweet_count": 13740
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T06:17:38.000Z",
+        "description": "我是坏孩子",
+        "id": "1974358161651085312",
+        "name": "年糕汤",
+        "pinned_tweet_id": "2039799720143667253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039940176672329728/eWpYHV5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 6,
+          "like_count": 734,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 142
+        },
+        "username": "yizhilaoshu00",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T06:17:38.000Z",
+        "description": "我是坏孩子",
+        "id": "1974358161651085312",
+        "name": "年糕汤",
+        "pinned_tweet_id": "2039799720143667253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039940176672329728/eWpYHV5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 6,
+          "like_count": 734,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 142
+        },
+        "username": "yizhilaoshu00",
+        "verified": true
+      }
+    ]
+  }
+}

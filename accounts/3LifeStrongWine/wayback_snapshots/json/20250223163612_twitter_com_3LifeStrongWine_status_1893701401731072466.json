@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1893700723163942995",
+    "created_at": "2025-02-23T16:36:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T17:36:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893701401731072466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1801668252797648898",
+          "start": 0,
+          "username": "lbsovxq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893701401731072466",
+    "in_reply_to_user_id": "1801668252797648898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893701263470031239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lbsovxq bug是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1893700723163942995",
+        "created_at": "2025-02-23T16:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T17:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893701401731072466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1801668252797648898",
+              "start": 0,
+              "username": "lbsovxq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893701401731072466",
+        "in_reply_to_user_id": "1801668252797648898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893701263470031239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lbsovxq bug是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801668252797648898",
+        "conversation_id": "1893700723163942995",
+        "created_at": "2025-02-23T16:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T17:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893701263470031239"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893701263470031239",
+        "in_reply_to_user_id": "1801668252797648898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893700723163942995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老子就取关一个人，然后就他妈变成这样我没有单取你们…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 224,
+          "like_count": 6774,
+          "listed_count": 10,
+          "media_count": 1996,
+          "tweet_count": 8154
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-14T17:30:41.000Z",
+        "description": "",
+        "id": "1801668252797648898",
+        "location": "欢迎你的到来  生活顺利！MC ",
+        "name": "QQQQQQQQQQQ",
+        "pinned_tweet_id": "1882901475321622952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884662280031252481/6RpbXkmm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4287,
+          "following_count": 69,
+          "like_count": 8710,
+          "listed_count": 6,
+          "media_count": 75,
+          "tweet_count": 10177
+        },
+        "username": "lbsovxq",
+        "verified": false
+      }
+    ]
+  }
+}

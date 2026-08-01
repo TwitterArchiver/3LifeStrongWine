@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1880933115016905160",
+    "created_at": "2025-01-19T11:00:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T12:00:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880933428704825723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1491828502886330368",
+          "start": 0,
+          "username": "ppjiangjiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880933428704825723",
+    "in_reply_to_user_id": "1491828502886330368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880933242477617270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ppjiangjiang 感觉没吃多少的样子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1880933115016905160",
+        "created_at": "2025-01-19T11:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T12:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880933428704825723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1491828502886330368",
+              "start": 0,
+              "username": "ppjiangjiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880933428704825723",
+        "in_reply_to_user_id": "1491828502886330368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880933242477617270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ppjiangjiang 感觉没吃多少的样子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491828502886330368",
+        "conversation_id": "1880933115016905160",
+        "created_at": "2025-01-19T11:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T12:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880933242477617270"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880933242477617270",
+        "in_reply_to_user_id": "1491828502886330368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880933115016905160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最近真的没啥胃口啊啊啊啊啊啊我朋友还非要给我买啊啊啊啊啊真的吃不了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花究竟开出什么样的结果",
+        "id": "1529654419213541376",
+        "location": "夢在心上心便溫柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 236,
+          "like_count": 5536,
+          "listed_count": 7,
+          "media_count": 1299,
+          "tweet_count": 5936
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T17:37:35.000Z",
+        "description": "屁话大王嘟日记本^^小！抓！饱！@nekomeow_uu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "nekomeow_uu"
+              }
+            ]
+          }
+        },
+        "id": "1491828502886330368",
+        "name": "pp •ᴗ⁃͈ ✧",
+        "pinned_tweet_id": "1879387994265936239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878650226728124416/dyBM8tNK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 308,
+          "like_count": 31078,
+          "listed_count": 8,
+          "media_count": 1033,
+          "tweet_count": 7457
+        },
+        "username": "ppjiangjiang",
+        "verified": false
+      }
+    ]
+  }
+}

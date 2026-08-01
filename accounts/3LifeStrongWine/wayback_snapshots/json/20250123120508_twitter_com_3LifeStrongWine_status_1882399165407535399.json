@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1882399165407535399",
+    "created_at": "2025-01-23T12:05:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T13:05:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1882399165407535399"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3lifestrongwin…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/3lifestrongwine/status/1867583567963853126",
+          "start": 7,
+          "url": "https://t.co/mzznauJRN0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882399165407535399",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867583567963853126",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是ai画的 https://t.co/mzznauJRN0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1882399165407535399",
+        "created_at": "2025-01-23T12:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T13:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882399165407535399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3lifestrongwin…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/3lifestrongwine/status/1867583567963853126",
+              "start": 7,
+              "url": "https://t.co/mzznauJRN0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882399165407535399",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867583567963853126",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是ai画的 https://t.co/mzznauJRN0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867583559185154048",
+            "3_1867583559306711040"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1867471052374491510",
+        "created_at": "2024-12-13T14:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T15:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867583567963853126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Eat10uAPa",
+              "end": 23,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1867583567963853126/photo/1",
+              "media_key": "3_1867583559185154048",
+              "start": 0,
+              "url": "https://t.co/9Eat10uAPa"
+            },
+            {
+              "display_url": "pic.x.com/9Eat10uAPa",
+              "end": 23,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1867583567963853126/photo/1",
+              "media_key": "3_1867583559306711040",
+              "start": 0,
+              "url": "https://t.co/9Eat10uAPa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867583567963853126",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 337,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867471052374491510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/9Eat10uAPa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "白云山上白云泉，云自无心水自闲",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 227,
+          "like_count": 5953,
+          "listed_count": 7,
+          "media_count": 1397,
+          "tweet_count": 6307
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

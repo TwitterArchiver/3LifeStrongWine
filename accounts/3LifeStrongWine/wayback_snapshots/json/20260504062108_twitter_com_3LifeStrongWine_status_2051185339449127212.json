@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2051180570089292253",
+    "created_at": "2026-05-04T06:21:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T07:21:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051185339449127212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1522094329954652161",
+          "start": 0,
+          "username": "0xo_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051185339449127212",
+    "in_reply_to_user_id": "1522094329954652161",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051180570089292253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xo_snow 衣服拖地了😨😨😨😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051180557187653633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHdB2WFboAEVd4H.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2051180570089292253",
+        "created_at": "2026-05-04T06:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T07:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051185339449127212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1522094329954652161",
+              "start": 0,
+              "username": "0xo_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051185339449127212",
+        "in_reply_to_user_id": "1522094329954652161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051180570089292253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xo_snow 衣服拖地了😨😨😨😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051180557187653633"
+          ]
+        },
+        "author_id": "1522094329954652161",
+        "conversation_id": "2051180570089292253",
+        "created_at": "2026-05-04T06:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T07:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051180570089292253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tS9F8TNzRf",
+              "end": 33,
+              "expanded_url": "https://x.com/0xo_snow/status/2051180570089292253/photo/1",
+              "media_key": "3_2051180557187653633",
+              "start": 10,
+              "url": "https://t.co/tS9F8TNzRf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051180570089292253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "偷鸡贼来了大家小心 https://t.co/tS9F8TNzRf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花潭水深千尺  不及汪伦送我情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2826,
+          "following_count": 115,
+          "like_count": 6920,
+          "listed_count": 14,
+          "media_count": 3605,
+          "tweet_count": 14204
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T06:02:50.000Z",
+        "description": "=恋 🎀 变得可爱是唯一追求 ！ip北京｜一般路过美少女厨｜亮点是我的日常｜持续接线下ing入门咨询ᗜ ‸ ᗜ",
+        "id": "1522094329954652161",
+        "location": "🚪88回讯息/解锁线下•⩊•背景有赞赏码可备注微信号喵",
+        "name": "🐰れん⊹",
+        "pinned_tweet_id": "2046759706400817198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017787889955098624/u0R2iAGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18172,
+          "following_count": 422,
+          "like_count": 16073,
+          "listed_count": 35,
+          "media_count": 1287,
+          "tweet_count": 13723
+        },
+        "username": "0xo_snow",
+        "verified": true
+      }
+    ]
+  }
+}

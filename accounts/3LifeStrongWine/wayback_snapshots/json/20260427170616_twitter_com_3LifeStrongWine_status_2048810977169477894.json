@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048810970148179969",
+        "3_2048810970148229120"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2048810977169477894",
+    "created_at": "2026-04-27T17:06:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T18:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048810977169477894"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/s6zxzOvtC1",
+          "end": 37,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/2048810977169477894/photo/1",
+          "media_key": "3_2048810970148179969",
+          "start": 14,
+          "url": "https://t.co/s6zxzOvtC1"
+        },
+        {
+          "display_url": "pic.x.com/s6zxzOvtC1",
+          "end": 37,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/2048810977169477894/photo/1",
+          "media_key": "3_2048810970148229120",
+          "start": 14,
+          "url": "https://t.co/s6zxzOvtC1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048810977169477894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "味多美新出的蛋挞还挺好吃的 https://t.co/s6zxzOvtC1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2048810970148179969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG7WuOebEAEaT6R.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2048810970148229120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG7WuOeb0AAxWDi.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048810970148179969",
+            "3_2048810970148229120"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2048810977169477894",
+        "created_at": "2026-04-27T17:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T18:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048810977169477894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s6zxzOvtC1",
+              "end": 37,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/2048810977169477894/photo/1",
+              "media_key": "3_2048810970148179969",
+              "start": 14,
+              "url": "https://t.co/s6zxzOvtC1"
+            },
+            {
+              "display_url": "pic.x.com/s6zxzOvtC1",
+              "end": 37,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/2048810977169477894/photo/1",
+              "media_key": "3_2048810970148229120",
+              "start": 14,
+              "url": "https://t.co/s6zxzOvtC1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048810977169477894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "味多美新出的蛋挞还挺好吃的 https://t.co/s6zxzOvtC1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "如果能有转机我许愿是能够一直看着你的眼睛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2303,
+          "following_count": 114,
+          "like_count": 6906,
+          "listed_count": 13,
+          "media_count": 3577,
+          "tweet_count": 14068
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      }
+    ]
+  }
+}

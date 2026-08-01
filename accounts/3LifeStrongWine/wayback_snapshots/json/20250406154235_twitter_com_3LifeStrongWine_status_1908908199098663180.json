@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1908865800087150834",
+    "created_at": "2025-04-06T15:42:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T16:42:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908908199098663180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1843618227160518656",
+          "start": 0,
+          "username": "pingguozhi111"
+        },
+        {
+          "end": 30,
+          "id": "1817560473946230784",
+          "start": 15,
+          "username": "xiaogouchibaob"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908908199098663180",
+    "in_reply_to_user_id": "1843618227160518656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908908012691202430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pingguozhi111 @xiaogouchibaob 你是否少拿了一把扫帚和一顶帽子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1908865800087150834",
+        "created_at": "2025-04-06T15:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T16:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908908199098663180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1843618227160518656",
+              "start": 0,
+              "username": "pingguozhi111"
+            },
+            {
+              "end": 30,
+              "id": "1817560473946230784",
+              "start": 15,
+              "username": "xiaogouchibaob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908908199098663180",
+        "in_reply_to_user_id": "1843618227160518656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908908012691202430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pingguozhi111 @xiaogouchibaob 你是否少拿了一把扫帚和一顶帽子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843618227160518656",
+        "conversation_id": "1908865800087150834",
+        "created_at": "2025-04-06T15:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T16:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908908012691202430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1817560473946230784",
+              "start": 0,
+              "username": "xiaogouchibaob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908908012691202430",
+        "in_reply_to_user_id": "1817560473946230784",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908901828672278815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaogouchibaob 🥰🥰🥰🫶🫶🫶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "业余摄影｜我会永远站在过去热泪盈眶地读着你们的未来",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1491,
+          "following_count": 243,
+          "like_count": 7234,
+          "listed_count": 12,
+          "media_count": 2443,
+          "tweet_count": 9869
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-08T11:43:52.000Z",
+        "description": "阴暗恶毒的小老鼠一只 欢迎光临我的下水道^ ^",
+        "id": "1843618227160518656",
+        "location": "茧",
+        "name": "苹果汁🧃重度依赖",
+        "pinned_tweet_id": "1900131195108942078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904908229420998658/JkY7D4ow_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2341,
+          "following_count": 493,
+          "like_count": 8962,
+          "listed_count": 5,
+          "media_count": 218,
+          "tweet_count": 2960
+        },
+        "username": "pingguozhi111",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T13:59:34.000Z",
+        "description": "switch/love forever/小猫小狗全肯定/不约/不处/匿名箱https://t.co/RVpmbbFNYw 不接广 小号只过互关@cat0813cat 小小号@kikikiss_7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "cat0813cat"
+              },
+              {
+                "end": 97,
+                "start": 86,
+                "username": "kikikiss_7"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaogouchibaob",
+                "end": 60,
+                "expanded_url": "https://ngl.link/xiaogouchibaob",
+                "start": 37,
+                "url": "https://t.co/RVpmbbFNYw"
+              }
+            ]
+          }
+        },
+        "id": "1817560473946230784",
+        "location": "🚪188/288/520/888/1314/5200",
+        "name": "小狗吃饱饱",
+        "pinned_tweet_id": "1887329540395180280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894964711063420928/TwTDKPyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6621,
+          "following_count": 248,
+          "like_count": 13712,
+          "listed_count": 15,
+          "media_count": 339,
+          "tweet_count": 9717
+        },
+        "username": "xiaogouchibaob",
+        "verified": false
+      }
+    ]
+  }
+}

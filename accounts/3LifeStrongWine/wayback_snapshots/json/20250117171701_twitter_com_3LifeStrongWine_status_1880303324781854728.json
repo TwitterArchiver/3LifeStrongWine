@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1880202973223219239",
+    "created_at": "2025-01-17T17:17:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T18:17:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880303324781854728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841801152381558784",
+          "start": 0,
+          "username": "Amemiya_Hasumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880303324781854728",
+    "in_reply_to_user_id": "1841801152381558784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880202973223219239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amemiya_Hasumi 1957是什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1880202973223219239",
+        "created_at": "2025-01-17T17:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T18:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880303324781854728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841801152381558784",
+              "start": 0,
+              "username": "Amemiya_Hasumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880303324781854728",
+        "in_reply_to_user_id": "1841801152381558784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880202973223219239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amemiya_Hasumi 1957是什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880202961932152835"
+          ]
+        },
+        "author_id": "1841801152381558784",
+        "conversation_id": "1880202973223219239",
+        "created_at": "2025-01-17T10:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T11:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880202973223219239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A35gb0VJYO",
+              "end": 76,
+              "expanded_url": "https://x.com/Amemiya_Hasumi/status/1880202973223219239/photo/1",
+              "media_key": "3_1880202961932152835",
+              "start": 53,
+              "url": "https://t.co/A35gb0VJYO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880202973223219239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1226,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "买了新风衣和新背包\n和大姐姐一起玩\n今天又练了腿\n入了香奈儿的1957\n和许久未见的兄弟们再度聚餐，开心 https://t.co/A35gb0VJYO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "夢過無際閒雲岫，無拘春至秋，無愧逝水悠悠。一生清白月如鉤，最一往而深著風流.",
+        "id": "1529654419213541376",
+        "location": "夢在心上心便溫柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879527429754269696/Ip8jHko0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 218,
+          "like_count": 5403,
+          "listed_count": 7,
+          "media_count": 1268,
+          "tweet_count": 5756
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T11:23:15.000Z",
+        "description": "「从前种种，譬如昨日死；从后种种，譬如今日生。」\n偶尔是男娘。\nNGL：https://t.co/g6LzpRM0K2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hasumi57321",
+                "end": 59,
+                "expanded_url": "https://ngl.link/hasumi57321",
+                "start": 36,
+                "url": "https://t.co/g6LzpRM0K2"
+              }
+            ]
+          }
+        },
+        "id": "1841801152381558784",
+        "name": "雨宮 蓮見",
+        "pinned_tweet_id": "1871596096461713573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879195526870315008/bleIv9uh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 1061,
+          "like_count": 10766,
+          "listed_count": 0,
+          "media_count": 389,
+          "tweet_count": 2359
+        },
+        "username": "Amemiya_Hasumi",
+        "verified": false
+      }
+    ]
+  }
+}

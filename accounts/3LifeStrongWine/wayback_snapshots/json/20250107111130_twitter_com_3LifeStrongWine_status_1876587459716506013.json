@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1876582209148391880",
+    "created_at": "2025-01-07T11:11:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T12:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876587459716506013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1600208165269741570",
+          "start": 0,
+          "username": "MeowCatherina"
+        },
+        {
+          "end": 26,
+          "id": "1629074500305186817",
+          "start": 15,
+          "username": "carafutaba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876587459716506013",
+    "in_reply_to_user_id": "1600208165269741570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876587164789792795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeowCatherina @carafutaba 我不要坐你的车。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1876582209148391880",
+        "created_at": "2025-01-07T11:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T12:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876587459716506013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "MeowCatherina"
+            },
+            {
+              "end": 26,
+              "id": "1629074500305186817",
+              "start": 15,
+              "username": "carafutaba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876587459716506013",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876587164789792795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeowCatherina @carafutaba 我不要坐你的车。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "1876582209148391880",
+        "created_at": "2025-01-07T11:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T12:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876587164789792795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1629074500305186817",
+              "start": 0,
+              "username": "carafutaba"
+            },
+            {
+              "end": 28,
+              "id": "1529654419213541376",
+              "start": 12,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876587164789792795",
+        "in_reply_to_user_id": "1629074500305186817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876583191865421976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@carafutaba @3LifeStrongWine 这还是舒适档（） 你来坐我的车 我把东西全卸了动力拉满跑个零百给你感受一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "雨季里我和你的青春一起坐过了站，而我会站在原地热泪盈眶地读你的未来",
+        "id": "1529654419213541376",
+        "location": "Destination of the Wind",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 208,
+          "like_count": 4400,
+          "listed_count": 7,
+          "media_count": 956,
+          "tweet_count": 4884
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "20INFP｜⚠️是一只学不会说话和社交的小阿斯｜🐈/🏹/🚴/💻｜CS&EE&AM｜创业公司高管（逃）｜BA4RIO｜GPG pubKey: C1D9 84F0 BBA1 B3B9｜🏫Monash｜🚪50,啥也没有｜嗓音训练160CNY｜AI段子手｜❤️@carafutaba @StarNekoNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 127,
+                "username": "carafutaba"
+              },
+              {
+                "end": 152,
+                "start": 139,
+                "username": "StarNekoNeko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cntt.uk",
+                "end": 23,
+                "expanded_url": "http://cntt.uk",
+                "start": 0,
+                "url": "https://t.co/l3eIEXmMQf"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫窝",
+        "name": "凯瑟琳奈",
+        "pinned_tweet_id": "1828895115416613251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859246464494661632/Jwof0TVn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4928,
+          "following_count": 989,
+          "like_count": 40898,
+          "listed_count": 15,
+          "media_count": 1411,
+          "tweet_count": 15013
+        },
+        "url": "https://t.co/l3eIEXmMQf",
+        "username": "MeowCatherina",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-24T11:03:32.000Z",
+        "description": "努力去做一个普通的囡囡🧸早困早起https://t.co/VHXbjTI1jf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "carafutaba.bsky.social",
+                "end": 39,
+                "expanded_url": "https://carafutaba.bsky.social",
+                "start": 16,
+                "url": "https://t.co/VHXbjTI1jf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "anzu.moe",
+                "end": 23,
+                "expanded_url": "https://anzu.moe",
+                "start": 0,
+                "url": "https://t.co/uyvReMg6DJ"
+              }
+            ]
+          }
+        },
+        "id": "1629074500305186817",
+        "location": "在米花市米花町二丁目21番地酒廠打工",
+        "name": "双葉杏Charlotte📷🎮🍀💤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803015602162053120/HYr1UFr__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1764,
+          "following_count": 1035,
+          "like_count": 43708,
+          "listed_count": 3,
+          "media_count": 835,
+          "tweet_count": 10101
+        },
+        "url": "https://t.co/uyvReMg6DJ",
+        "username": "carafutaba",
+        "verified": true
+      }
+    ]
+  }
+}

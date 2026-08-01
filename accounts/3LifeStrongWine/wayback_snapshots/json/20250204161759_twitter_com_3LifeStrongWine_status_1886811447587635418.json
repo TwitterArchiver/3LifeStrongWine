@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1886803064906297369",
+    "created_at": "2025-02-04T16:17:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T17:17:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886811447587635418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1555857162844487682",
+          "start": 0,
+          "username": "longyue60745066"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886811447587635418",
+    "in_reply_to_user_id": "1555857162844487682",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886811037682557039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@longyue60745066 好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1886803064906297369",
+        "created_at": "2025-02-04T16:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T17:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886811447587635418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1555857162844487682",
+              "start": 0,
+              "username": "longyue60745066"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886811447587635418",
+        "in_reply_to_user_id": "1555857162844487682",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886811037682557039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@longyue60745066 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555857162844487682",
+        "conversation_id": "1886803064906297369",
+        "created_at": "2025-02-04T16:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T17:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886811037682557039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886811037682557039",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886803064906297369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 膜太厚了会引起这个问题的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1385,
+          "following_count": 219,
+          "like_count": 6436,
+          "listed_count": 9,
+          "media_count": 1627,
+          "tweet_count": 7072
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-06T10:03:58.000Z",
+        "description": "（刚来推特）~ 热衷于迫害可爱的（废物的）男孩子~♡嗯（hhh ~好像奇怪的东西苏醒了） 很讨厌不礼貌的男生哦~ 对咱感兴趣的可以私信的说哦~",
+        "id": "1555857162844487682",
+        "name": "泷月",
+        "pinned_tweet_id": "1584214936586440704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1555857311180136450/Lw1iCiso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 187,
+          "like_count": 248,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 122
+        },
+        "username": "longyue60745066",
+        "verified": false
+      }
+    ]
+  }
+}

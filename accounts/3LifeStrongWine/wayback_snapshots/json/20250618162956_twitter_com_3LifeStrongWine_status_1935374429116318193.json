@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1935252859118850451",
+    "created_at": "2025-06-18T16:29:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T17:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935374429116318193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1771729886534606849",
+          "start": 0,
+          "username": "doubao3039"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935374429116318193",
+    "in_reply_to_user_id": "1771729886534606849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935252859118850451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doubao3039 挖去，看得我好想开个花店"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935252834993229824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GttmMzRW0AAfPvT.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1935252859118850451",
+        "created_at": "2025-06-18T16:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T17:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935374429116318193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1771729886534606849",
+              "start": 0,
+              "username": "doubao3039"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935374429116318193",
+        "in_reply_to_user_id": "1771729886534606849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935252859118850451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doubao3039 挖去，看得我好想开个花店"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935252834993229824"
+          ]
+        },
+        "author_id": "1771729886534606849",
+        "conversation_id": "1935252859118850451",
+        "created_at": "2025-06-18T08:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T09:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935252859118850451"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "依旧逛花店",
+              "probability": 0.4057,
+              "start": 0,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YaKrtKOdFG",
+              "end": 29,
+              "expanded_url": "https://x.com/doubao3039/status/1935252859118850451/photo/1",
+              "media_key": "3_1935252834993229824",
+              "start": 6,
+              "url": "https://t.co/YaKrtKOdFG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935252859118850451",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 636,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧逛花店 https://t.co/YaKrtKOdFG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "泛黄的老照片里讲述了一个什么样的故事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我会带你去看这世界上最独一无二的风景",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 249,
+          "like_count": 7504,
+          "listed_count": 11,
+          "media_count": 2837,
+          "tweet_count": 11549
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-24T02:45:08.000Z",
+        "description": "对青年音过敏 想让我死的可以用青年音弹我",
+        "id": "1771729886534606849",
+        "location": "🚪188纯绿",
+        "name": "耶乎粘豆包",
+        "pinned_tweet_id": "1930980300714025453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929879961688563712/BE1yGq7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 186,
+          "like_count": 2225,
+          "listed_count": 3,
+          "media_count": 97,
+          "tweet_count": 2003
+        },
+        "username": "doubao3039",
+        "verified": false
+      }
+    ]
+  }
+}

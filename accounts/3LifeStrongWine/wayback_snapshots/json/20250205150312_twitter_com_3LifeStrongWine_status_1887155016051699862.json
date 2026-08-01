@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887155009026236416",
+        "3_1887155009026248704",
+        "3_1887155009017778176",
+        "3_1887155009009471489"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1887155016051699862",
+    "created_at": "2025-02-05T15:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T16:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1887155016051699862"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C4XV55TE32",
+          "end": 40,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1887155016051699862/photo/1",
+          "media_key": "3_1887155009026236416",
+          "start": 17,
+          "url": "https://t.co/C4XV55TE32"
+        },
+        {
+          "display_url": "pic.x.com/C4XV55TE32",
+          "end": 40,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1887155016051699862/photo/1",
+          "media_key": "3_1887155009026248704",
+          "start": 17,
+          "url": "https://t.co/C4XV55TE32"
+        },
+        {
+          "display_url": "pic.x.com/C4XV55TE32",
+          "end": 40,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1887155016051699862/photo/1",
+          "media_key": "3_1887155009017778176",
+          "start": 17,
+          "url": "https://t.co/C4XV55TE32"
+        },
+        {
+          "display_url": "pic.x.com/C4XV55TE32",
+          "end": 40,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1887155016051699862/photo/1",
+          "media_key": "3_1887155009009471489",
+          "start": 17,
+          "url": "https://t.co/C4XV55TE32"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887155016051699862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "极品写真一套，coser全国可飞 https://t.co/C4XV55TE32"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1887155016051699862].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1887155016051699862",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1887155016051699862"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 853,
+        "media_key": "3_1887155009026236416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjCFe20boAAX4J2.jpg",
+        "width": 1280
+      },
+      {
+        "height": 853,
+        "media_key": "3_1887155009026248704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjCFe20b0AA7KXo.jpg",
+        "width": 1280
+      },
+      {
+        "height": 853,
+        "media_key": "3_1887155009017778176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjCFe2yakAAFUku.jpg",
+        "width": 1280
+      },
+      {
+        "height": 853,
+        "media_key": "3_1887155009009471489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjCFe2wb0AEl5KF.jpg",
+        "width": 1280
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391,
+          "following_count": 223,
+          "like_count": 6478,
+          "listed_count": 9,
+          "media_count": 1638,
+          "tweet_count": 7118
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1878831031761129670",
+    "created_at": "2025-01-19T17:46:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T18:46:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881035549693329460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1222082544742494208",
+          "start": 0,
+          "username": "oneonegarlic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881035549693329460",
+    "in_reply_to_user_id": "1222082544742494208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878831031761129670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oneonegarlic 够"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1878831031761129670",
+        "created_at": "2025-01-19T17:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T18:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881035549693329460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1222082544742494208",
+              "start": 0,
+              "username": "oneonegarlic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881035549693329460",
+        "in_reply_to_user_id": "1222082544742494208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878831031761129670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oneonegarlic 够"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878830908528357376"
+          ]
+        },
+        "author_id": "1222082544742494208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1878831031761129670",
+        "created_at": "2025-01-13T15:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T16:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878831031761129670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jDpHXUVrjg",
+              "end": 51,
+              "expanded_url": "https://x.com/oneonegarlic/status/1878831031761129670/photo/1",
+              "media_key": "3_1878830908528357376",
+              "start": 28,
+              "url": "https://t.co/jDpHXUVrjg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878831031761129670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2core 4G 够跑windows 10 虚拟机吗🤔 https://t.co/jDpHXUVrjg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "看桃花究竟开出怎样的结果",
+        "id": "1529654419213541376",
+        "location": "夢在心上心便溫柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 236,
+          "like_count": 5675,
+          "listed_count": 7,
+          "media_count": 1323,
+          "tweet_count": 6037
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-28T09:02:52.000Z",
+        "description": "",
+        "id": "1222082544742494208",
+        "name": "𝓞𝓷𝓮𝓞𝓷𝓮𝓖𝓪𝓻𝓵𝓲𝓬",
+        "pinned_tweet_id": "1691839170887766398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682323438478954496/fgWd0AzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 360,
+          "like_count": 9274,
+          "listed_count": 14,
+          "media_count": 334,
+          "tweet_count": 3943
+        },
+        "username": "oneonegarlic",
+        "verified": false
+      }
+    ]
+  }
+}

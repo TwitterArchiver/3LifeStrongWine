@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2008067044076580903",
+    "created_at": "2026-01-05T14:50:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T15:50:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008189490385531332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1661391616870084610",
+          "start": 0,
+          "username": "0v0_Nutcracker"
+        },
+        {
+          "end": 27,
+          "id": "1873332408797515776",
+          "start": 16,
+          "username": "Vicky_8128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008189490385531332",
+    "in_reply_to_user_id": "1661391616870084610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008110406192251344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0v0_Nutcracker @Vicky_8128 北京太他妈干燥了，手上起全是皮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2008067044076580903",
+        "created_at": "2026-01-05T14:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T15:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008189490385531332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1661391616870084610",
+              "start": 0,
+              "username": "0v0_Nutcracker"
+            },
+            {
+              "end": 27,
+              "id": "1873332408797515776",
+              "start": 16,
+              "username": "Vicky_8128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008189490385531332",
+        "in_reply_to_user_id": "1661391616870084610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008110406192251344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0v0_Nutcracker @Vicky_8128 北京太他妈干燥了，手上起全是皮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661391616870084610",
+        "conversation_id": "2008067044076580903",
+        "created_at": "2026-01-05T09:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T10:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008110406192251344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1873332408797515776",
+              "start": 0,
+              "username": "Vicky_8128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008110406192251344",
+        "in_reply_to_user_id": "1873332408797515776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008067044076580903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vicky_8128 北京太大了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "云和山和风和雨，轻轻地流过我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VnXMe"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "pinned_tweet_id": "1992598033381638574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 173,
+          "like_count": 6641,
+          "listed_count": 13,
+          "media_count": 3104,
+          "tweet_count": 12499
+        },
+        "url": "https://t.co/3g5y5VnXMe",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-24T15:20:22.000Z",
+        "description": "intj｜bi 0.5｜挚爱骨科｜年上激推｜殿堂级bl鉴赏家｜人夫感毒唯｜究极杂食写手#胡桃书橱\n\n谢谢你来看我，希望你今天过得快乐",
+        "id": "1661391616870084610",
+        "name": "胡桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004215682645544960/GMSqkYG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1338,
+          "following_count": 241,
+          "like_count": 15828,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 2095
+        },
+        "username": "0v0_Nutcracker",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-29T11:37:16.000Z",
+        "description": "m/sub/switch 985法学 在考研很忙     🦋祝每个看到我的人都开开心心一切顺利",
+        "id": "1873332408797515776",
+        "name": "Vicky",
+        "pinned_tweet_id": "1974846567963340861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961119995569868800/-haqmw7O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3540,
+          "following_count": 28,
+          "like_count": 101,
+          "listed_count": 11,
+          "media_count": 28,
+          "tweet_count": 197
+        },
+        "username": "Vicky_8128",
+        "verified": false
+      }
+    ]
+  }
+}

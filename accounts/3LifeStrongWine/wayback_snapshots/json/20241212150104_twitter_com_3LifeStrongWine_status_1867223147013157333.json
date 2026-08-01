@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1867217549039222969",
+    "created_at": "2024-12-12T15:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T16:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867223147013157333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1709418120233021440",
+          "start": 0,
+          "username": "yursaiide"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867223147013157333",
+    "in_reply_to_user_id": "1709418120233021440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867223099219042745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yursaiide 嗯哼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1867217549039222969",
+        "created_at": "2024-12-12T15:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T16:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867223147013157333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1709418120233021440",
+              "start": 0,
+              "username": "yursaiide"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867223147013157333",
+        "in_reply_to_user_id": "1709418120233021440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867223099219042745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yursaiide 嗯哼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1709418120233021440",
+        "conversation_id": "1867217549039222969",
+        "created_at": "2024-12-12T15:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T16:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867223099219042745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867223099219042745",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867217549039222969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 你是男生啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "有时也想过花烂漫某天与世界无声道别， 可是偏偏有太多太多遗憾挂牵没画句点",
+        "id": "1529654419213541376",
+        "location": "长大是变温柔，是对所有人都温柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1865393368853090537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 181,
+          "like_count": 2140,
+          "listed_count": 4,
+          "media_count": 533,
+          "tweet_count": 3227
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T04:00:30.000Z",
+        "description": "",
+        "id": "1709418120233021440",
+        "name": "小雪",
+        "pinned_tweet_id": "1743830559313551522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861361698386681856/L8xJNyuq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 148,
+          "like_count": 282,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 299
+        },
+        "username": "yursaiide",
+        "verified": false
+      }
+    ]
+  }
+}

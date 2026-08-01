@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1887448111024312513",
+    "created_at": "2025-02-06T11:50:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T12:50:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887468941456576784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1863961550350065664",
+          "start": 0,
+          "username": "Selaginellaaaaa"
+        },
+        {
+          "end": 28,
+          "id": "1776958906839003136",
+          "start": 17,
+          "username": "Hlyyyyyy16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887468941456576784",
+    "in_reply_to_user_id": "1863961550350065664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887468728868278425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Selaginellaaaaa @Hlyyyyyy16 啊啊啊啊啊啊九月份我在蹲，或者蹲高三的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1887448111024312513",
+        "created_at": "2025-02-06T11:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T12:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887468941456576784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1863961550350065664",
+              "start": 0,
+              "username": "Selaginellaaaaa"
+            },
+            {
+              "end": 28,
+              "id": "1776958906839003136",
+              "start": 17,
+              "username": "Hlyyyyyy16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887468941456576784",
+        "in_reply_to_user_id": "1863961550350065664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887468728868278425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Selaginellaaaaa @Hlyyyyyy16 啊啊啊啊啊啊九月份我在蹲，或者蹲高三的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863961550350065664",
+        "conversation_id": "1887448111024312513",
+        "created_at": "2025-02-06T11:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T12:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887468728868278425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            },
+            {
+              "end": 28,
+              "id": "1776958906839003136",
+              "start": 17,
+              "username": "Hlyyyyyy16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887468728868278425",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887468527130714387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine @Hlyyyyyy16 现在已经上大学的都学完高数上了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1389,
+          "following_count": 218,
+          "like_count": 6521,
+          "listed_count": 9,
+          "media_count": 1654,
+          "tweet_count": 7174
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-03T15:01:06.000Z",
+        "description": "🤔 箱子https://t.co/gQgLuEPPqS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/selaginellaaaa…",
+                "end": 27,
+                "expanded_url": "https://ngl.link/selaginellaaaaa1",
+                "start": 4,
+                "url": "https://t.co/gQgLuEPPqS"
+              }
+            ]
+          }
+        },
+        "id": "1863961550350065664",
+        "location": "叫我卷柏就行",
+        "name": "Selaginella",
+        "pinned_tweet_id": "1869234973783491050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876307978443522048/mt_EImdI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5040,
+          "following_count": 76,
+          "like_count": 7074,
+          "listed_count": 9,
+          "media_count": 269,
+          "tweet_count": 2450
+        },
+        "username": "Selaginellaaaaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-07T13:03:25.000Z",
+        "description": "来点sao的",
+        "id": "1776958906839003136",
+        "name": "yyyyyTuT",
+        "pinned_tweet_id": "1886689853389332515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777319692237258753/H0AoCMkQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 63,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 65
+        },
+        "username": "Hlyyyyyy16",
+        "verified": false
+      }
+    ]
+  }
+}

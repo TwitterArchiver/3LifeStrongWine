@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1930995223871824204",
+    "created_at": "2025-06-07T08:31:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T09:31:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931267705526718696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1462285623943966720",
+          "start": 0,
+          "username": "Ruiuiui2002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931267705526718696",
+    "in_reply_to_user_id": "1462285623943966720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930995223871824204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruiuiui2002 这个赛道太小众了姐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1921,
+        "media_key": "3_1930995209304965120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsxF6XmagAAT_ns.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1930995223871824204",
+        "created_at": "2025-06-07T08:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T09:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931267705526718696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1462285623943966720",
+              "start": 0,
+              "username": "Ruiuiui2002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931267705526718696",
+        "in_reply_to_user_id": "1462285623943966720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930995223871824204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruiuiui2002 这个赛道太小众了姐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930995209304965120"
+          ]
+        },
+        "author_id": "1462285623943966720",
+        "conversation_id": "1930995223871824204",
+        "created_at": "2025-06-06T14:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T15:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930995223871824204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xb7hRZ1IUU",
+              "end": 28,
+              "expanded_url": "https://x.com/Ruiuiui2002/status/1930995223871824204/photo/1",
+              "media_key": "3_1930995209304965120",
+              "start": 5,
+              "url": "https://t.co/xb7hRZ1IUU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930995223871824204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2328,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拉后感: https://t.co/xb7hRZ1IUU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "时光足够温柔了吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 240,
+          "like_count": 7433,
+          "listed_count": 11,
+          "media_count": 2741,
+          "tweet_count": 11145
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-21T05:04:06.000Z",
+        "description": "想做一个幸福的女屌丝|不接推广｜过🚪只能加微信无任何福利｜自用vpn高速安全，9.9一年https://t.co/qyfy1D0mLq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youxuan.wiki/#/register?cod…",
+                "end": 67,
+                "expanded_url": "https://www.youxuan.wiki/#/register?code=yubihd5O",
+                "start": 44,
+                "url": "https://t.co/qyfy1D0mLq"
+              }
+            ]
+          }
+        },
+        "id": "1462285623943966720",
+        "location": "精神病院",
+        "name": "怕冷空气",
+        "pinned_tweet_id": "1860458766967406659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925859028430655488/J_CEFYXu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21285,
+          "following_count": 295,
+          "like_count": 38512,
+          "listed_count": 21,
+          "media_count": 2467,
+          "tweet_count": 9808
+        },
+        "username": "Ruiuiui2002",
+        "verified": false
+      }
+    ]
+  }
+}

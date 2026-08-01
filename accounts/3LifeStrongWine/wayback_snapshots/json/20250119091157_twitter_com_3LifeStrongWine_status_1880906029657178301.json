@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1880853722152174078",
+    "created_at": "2025-01-19T09:11:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T10:11:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880906029657178301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1746169580433883136",
+          "start": 0,
+          "username": "_Shu_official_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880906029657178301",
+    "in_reply_to_user_id": "1746169580433883136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880904855755379144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Shu_official_ 有人天天私信烦我，我阴阳一下"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1880904855755379144].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1880904855755379144",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1880904855755379144"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1880853722152174078",
+        "created_at": "2025-01-19T09:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T10:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880906029657178301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1746169580433883136",
+              "start": 0,
+              "username": "_Shu_official_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880906029657178301",
+        "in_reply_to_user_id": "1746169580433883136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880904855755379144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Shu_official_ 有人天天私信烦我，我阴阳一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花究竟开出什么样的结果",
+        "id": "1529654419213541376",
+        "location": "夢在心上心便溫柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1147,
+          "following_count": 236,
+          "like_count": 5529,
+          "listed_count": 7,
+          "media_count": 1297,
+          "tweet_count": 5921
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T13:57:35.000Z",
+        "description": "正在學習把數學變成咖啡☕的魔法！\nINFP-A-C  \n女/學生\n喜歡黍姐\n鑒證及各種不友好發言等🚫！\n親愛的：@RX7_8_2\n裡推：@_shu_official\nBluesky: https://t.co/uO3ZH3xeP2\n提问箱：https://t.co/tYv4IWmBbm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 56,
+                "username": "RX7_8_2"
+              },
+              {
+                "end": 82,
+                "start": 68,
+                "username": "_shu_official"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "shu-official.bsky.social",
+                "end": 115,
+                "expanded_url": "http://shu-official.bsky.social",
+                "start": 92,
+                "url": "https://t.co/uO3ZH3xeP2"
+              },
+              {
+                "display_url": "ngl.link/_yan_shu_",
+                "end": 143,
+                "expanded_url": "https://ngl.link/_yan_shu_",
+                "start": 120,
+                "url": "https://t.co/tYv4IWmBbm"
+              }
+            ]
+          }
+        },
+        "id": "1746169580433883136",
+        "location": "大炎 姜齊城",
+        "name": "Shu official",
+        "pinned_tweet_id": "1880255805137789064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879803528371408898/LJJ5Nivp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 442,
+          "like_count": 2676,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 2066
+        },
+        "username": "_Shu_official_",
+        "verified": false
+      }
+    ]
+  }
+}

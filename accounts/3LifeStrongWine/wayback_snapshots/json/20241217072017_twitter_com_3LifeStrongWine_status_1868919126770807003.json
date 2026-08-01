@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1868917379788685603",
+    "created_at": "2024-12-17T07:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T08:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868919126770807003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1724356825980768256",
+          "start": 0,
+          "username": "Anzhai_Official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868919126770807003",
+    "in_reply_to_user_id": "1724356825980768256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868917379788685603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anzhai_Official 好过分啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1868917379788685603",
+        "created_at": "2024-12-17T07:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T08:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868919126770807003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1724356825980768256",
+              "start": 0,
+              "username": "Anzhai_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868919126770807003",
+        "in_reply_to_user_id": "1724356825980768256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868917379788685603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anzhai_Official 好过分啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724356825980768256",
+        "conversation_id": "1868917379788685603",
+        "created_at": "2024-12-17T07:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T08:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868917379788685603"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1868917379788685603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你喜欢地雷系就滚去日本住!没有亲人没有朋友连姐姐都没有!这里是中国!你喜欢日本人搞的东西就去日本啊!我给你讲，如果你再说一遍你地雷系，我立马，请你出去，让你自己走去日本!这种东西是不现实的!你不相信中国，不相信中国前辈!如果我再听到与地雷系关系的，立马，滚出去!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "有时也想过花烂漫某天与世界无声道别， 可是偏偏有太多太多遗憾挂牵没画句点",
+        "id": "1529654419213541376",
+        "location": "期待一场意外，此生再无难过",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1865393368853090537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 187,
+          "like_count": 2651,
+          "listed_count": 6,
+          "media_count": 623,
+          "tweet_count": 3671
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-14T09:21:30.000Z",
+        "description": "缺爱ing🥺🥺🥺🥺网上扩列QQ🚪50，不圆角，可接委托阿巴阿巴🥺🥺，扣扣群982604361",
+        "id": "1724356825980768256",
+        "location": "武汉",
+        "name": "安斋",
+        "pinned_tweet_id": "1855595917946290215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866406608009617408/Z2xL7vmh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2115,
+          "following_count": 972,
+          "like_count": 11184,
+          "listed_count": 4,
+          "media_count": 89,
+          "tweet_count": 758
+        },
+        "username": "Anzhai_Official",
+        "verified": false
+      }
+    ]
+  }
+}

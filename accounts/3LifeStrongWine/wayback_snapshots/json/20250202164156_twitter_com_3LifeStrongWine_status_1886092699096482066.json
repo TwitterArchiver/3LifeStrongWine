@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1886092699096482066",
+    "created_at": "2025-02-02T16:41:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T17:41:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1886092699096482066"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3lifestrongwin…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/3lifestrongwine/status/1886091512578261481",
+          "start": 7,
+          "url": "https://t.co/KO5OtosEmY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886092699096482066",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886091512578261481",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不吃了，倒了 https://t.co/KO5OtosEmY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1886092699096482066",
+        "created_at": "2025-02-02T16:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T17:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886092699096482066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3lifestrongwin…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/3lifestrongwine/status/1886091512578261481",
+              "start": 7,
+              "url": "https://t.co/KO5OtosEmY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886092699096482066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886091512578261481",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不吃了，倒了 https://t.co/KO5OtosEmY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1886091512578261481",
+        "created_at": "2025-02-02T16:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T17:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886091512578261481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3lifestrongwin…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/3lifestrongwine/status/1886087039453642793",
+              "start": 35,
+              "url": "https://t.co/Dy8zSqknBR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886091512578261481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886087039453642793",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本来困困的，现在整个人辣得鼻炎好了，眼泪流了，感觉嘴肿肿的，头懵懵的 https://t.co/Dy8zSqknBR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 219,
+          "like_count": 6374,
+          "listed_count": 0,
+          "media_count": 1593,
+          "tweet_count": 6938
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

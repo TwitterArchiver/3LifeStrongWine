@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1894056629265444877",
+    "created_at": "2025-02-24T16:09:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T17:09:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894057158343320025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1533870529387458560",
+          "start": 0,
+          "username": "FinnaXS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894057158343320025",
+    "in_reply_to_user_id": "1533870529387458560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894056629265444877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FinnaXS 以后开车上路路上全是大红灯笼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1894056629265444877",
+        "created_at": "2025-02-24T16:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T17:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894057158343320025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1533870529387458560",
+              "start": 0,
+              "username": "FinnaXS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894057158343320025",
+        "in_reply_to_user_id": "1533870529387458560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894056629265444877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FinnaXS 以后开车上路路上全是大红灯笼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533870529387458560",
+        "conversation_id": "1894056629265444877",
+        "created_at": "2025-02-24T16:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T17:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894056629265444877"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1894056629265444877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "医生说在床上玩手机\n最好是开灯坐着戴着眼镜玩\n而我现在\n关灯躺着摘了眼镜🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1408,
+          "following_count": 227,
+          "like_count": 6804,
+          "listed_count": 10,
+          "media_count": 2012,
+          "tweet_count": 8220
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-06T17:57:27.000Z",
+        "description": "阴暗潮湿的毒蛇 口是心非的笨蛋 横冲直撞的怪物 🚪52000000（纯加微信不聊天）",
+        "id": "1533870529387458560",
+        "location": "悲伤逆流成河",
+        "name": "Finna",
+        "pinned_tweet_id": "1877025187733893282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830268691507777536/czFV8Wcd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 47,
+          "like_count": 2146,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 951
+        },
+        "username": "FinnaXS",
+        "verified": false
+      }
+    ]
+  }
+}

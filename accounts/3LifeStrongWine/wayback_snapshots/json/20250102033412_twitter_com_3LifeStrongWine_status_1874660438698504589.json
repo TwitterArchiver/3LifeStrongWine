@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1874659228083945894",
+    "created_at": "2025-01-02T03:34:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-02T04:34:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874660438698504589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1857134346676895744",
+          "start": 0,
+          "username": "chayuxiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874660438698504589",
+    "in_reply_to_user_id": "1857134346676895744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874659228083945894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chayuxiang 其实挺好的，我以前高中的时候一直在过这样的日子，一点不get同学玩的东西聊的东西，天天只活在自己的世界，晓看天色暮看云，从不搭理别人。也挺好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1874659228083945894",
+        "created_at": "2025-01-02T03:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T04:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874660438698504589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857134346676895744",
+              "start": 0,
+              "username": "chayuxiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874660438698504589",
+        "in_reply_to_user_id": "1857134346676895744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874659228083945894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chayuxiang 其实挺好的，我以前高中的时候一直在过这样的日子，一点不get同学玩的东西聊的东西，天天只活在自己的世界，晓看天色暮看云，从不搭理别人。也挺好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857134346676895744",
+        "conversation_id": "1874659228083945894",
+        "created_at": "2025-01-02T03:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T04:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874659228083945894"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1874659228083945894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发现我是超绝2G网体质，近期的热梗完全get不到，一般都会比外界晚两三个月知道，别人和我聊近期梗时，我也基本接不上来，当我延迟着get到那个梗的时候，热度就已经早过去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "有时也想过花烂漫某天与世界无声道别， 可是偏偏有太多太多遗憾挂牵没画句点",
+        "id": "1529654419213541376",
+        "location": "期待一场意外，此生再无难过",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1865393368853090537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 195,
+          "like_count": 3614,
+          "listed_count": 7,
+          "media_count": 847,
+          "tweet_count": 4440
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-14T18:52:27.000Z",
+        "description": "茶语香｜碎碎念账号｜普通人类♀｜想和大家交朋友｜防失联📭chayuxiang@outlook.com｜₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1857134346676895744",
+        "location": "🌏",
+        "name": "茶语香",
+        "pinned_tweet_id": "1874083452502630549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872968080667586560/TjAMHgew_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 210,
+          "like_count": 2297,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 600
+        },
+        "username": "chayuxiang",
+        "verified": false
+      }
+    ]
+  }
+}

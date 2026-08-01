@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892956697666224128"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple iPad",
+          "id": "972153731067273222",
+          "name": "Apple iPad"
+        }
+      }
+    ],
+    "conversation_id": "1892956707694985560",
+    "created_at": "2025-02-21T15:17:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T16:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1892956707694985560"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6Aa8ruun6g",
+          "end": 31,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1892956707694985560/photo/1",
+          "media_key": "3_1892956697666224128",
+          "start": 8,
+          "url": "https://t.co/6Aa8ruun6g"
+        },
+        {
+          "display_url": "x.com/3lifestrongwin…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/3lifestrongwine/status/1892890346230861910",
+          "start": 32,
+          "url": "https://t.co/SUHyijwfGZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892956707694985560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892890346230861910",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "画质还是不错的 https://t.co/6Aa8ruun6g https://t.co/SUHyijwfGZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1412,
+        "media_key": "3_1892956697666224128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkUiFlOXgAAOm0e.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1892890335547953152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkTluzEbEAApWKz.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892956697666224128"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "1892956707694985560",
+        "created_at": "2025-02-21T15:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T16:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892956707694985560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Aa8ruun6g",
+              "end": 31,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1892956707694985560/photo/1",
+              "media_key": "3_1892956697666224128",
+              "start": 8,
+              "url": "https://t.co/6Aa8ruun6g"
+            },
+            {
+              "display_url": "x.com/3lifestrongwin…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/3lifestrongwine/status/1892890346230861910",
+              "start": 32,
+              "url": "https://t.co/SUHyijwfGZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892956707694985560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892890346230861910",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "画质还是不错的 https://t.co/6Aa8ruun6g https://t.co/SUHyijwfGZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892890335547953152"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "1892890346230861910",
+        "created_at": "2025-02-21T10:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T11:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892890346230861910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GVjI6gUvhU",
+              "end": 52,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1892890346230861910/photo/1",
+              "media_key": "3_1892890335547953152",
+              "start": 29,
+              "url": "https://t.co/GVjI6gUvhU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892890346230861910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 258,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ipad pro m4稳定100+fps玩最后的生还者1 https://t.co/GVjI6gUvhU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 227,
+          "like_count": 6714,
+          "listed_count": 10,
+          "media_count": 1966,
+          "tweet_count": 8027
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

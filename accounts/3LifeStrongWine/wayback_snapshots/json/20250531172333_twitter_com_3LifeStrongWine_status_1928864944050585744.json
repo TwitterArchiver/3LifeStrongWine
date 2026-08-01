@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1928770020772856043",
+    "created_at": "2025-05-31T17:23:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T18:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928864944050585744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1248637653001494529",
+          "start": 0,
+          "username": "Q2anmo"
+        },
+        {
+          "end": 19,
+          "id": "1629074500305186817",
+          "start": 8,
+          "username": "carafutaba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928864944050585744",
+    "in_reply_to_user_id": "1248637653001494529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928862690639753501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Q2anmo @carafutaba 就欺负你怎么的不服憋着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1928770020772856043",
+        "created_at": "2025-05-31T17:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T18:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928864944050585744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1248637653001494529",
+              "start": 0,
+              "username": "Q2anmo"
+            },
+            {
+              "end": 19,
+              "id": "1629074500305186817",
+              "start": 8,
+              "username": "carafutaba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928864944050585744",
+        "in_reply_to_user_id": "1248637653001494529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928862690639753501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Q2anmo @carafutaba 就欺负你怎么的不服憋着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1248637653001494529",
+        "conversation_id": "1928770020772856043",
+        "created_at": "2025-05-31T17:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T18:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928862690639753501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1629074500305186817",
+              "start": 0,
+              "username": "carafutaba"
+            },
+            {
+              "end": 28,
+              "id": "1529654419213541376",
+              "start": 12,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928862690639753501",
+        "in_reply_to_user_id": "1629074500305186817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928856871298842838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@carafutaba @3LifeStrongWine 这人纯坏💢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "都过了这么久了怎么还是放不下你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912318298353487872/R3xfbIV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 239,
+          "like_count": 7459,
+          "listed_count": 11,
+          "media_count": 2720,
+          "tweet_count": 11074
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-10T15:43:19.000Z",
+        "description": "@Q3anmo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "Q3anmo"
+              }
+            ]
+          }
+        },
+        "id": "1248637653001494529",
+        "name": "千芊",
+        "pinned_tweet_id": "1926899255525916850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925091564696829957/BR40J6UP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1963,
+          "following_count": 246,
+          "like_count": 162333,
+          "listed_count": 29,
+          "media_count": 20,
+          "tweet_count": 36927
+        },
+        "username": "Q2anmo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-24T11:03:32.000Z",
+        "description": "じゃま じゃま じゃま 🚪自我认知上的有趣 👀加分",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "anzu.moe",
+                "end": 23,
+                "expanded_url": "https://anzu.moe",
+                "start": 0,
+                "url": "https://t.co/uyvReMg6DJ"
+              }
+            ]
+          }
+        },
+        "id": "1629074500305186817",
+        "name": "ガキ杏🧸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803015602162053120/HYr1UFr__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3855,
+          "following_count": 1107,
+          "like_count": 58944,
+          "listed_count": 5,
+          "media_count": 1812,
+          "tweet_count": 16269
+        },
+        "url": "https://t.co/uyvReMg6DJ",
+        "username": "carafutaba",
+        "verified": false
+      }
+    ]
+  }
+}

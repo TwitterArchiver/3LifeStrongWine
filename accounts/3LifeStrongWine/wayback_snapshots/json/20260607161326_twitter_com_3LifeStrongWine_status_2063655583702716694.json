@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2063651239355875612",
+    "created_at": "2026-06-07T16:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T17:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063655583702716694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1913160251551227904",
+          "start": 0,
+          "username": "ustgr6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063655583702716694",
+    "in_reply_to_user_id": "1913160251551227904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063651239355875612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ustgr6 游戏好多要是我能把24小时拆成72小时就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2063651239355875612",
+        "created_at": "2026-06-07T16:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063655583702716694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1913160251551227904",
+              "start": 0,
+              "username": "ustgr6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063655583702716694",
+        "in_reply_to_user_id": "1913160251551227904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063651239355875612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ustgr6 游戏好多要是我能把24小时拆成72小时就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913160251551227904",
+        "conversation_id": "2063651239355875612",
+        "created_at": "2026-06-07T15:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063651239355875612"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063651239355875612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽我又忘记肝游戏了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花潭水深千尺  不及汪伦送我情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2869,
+          "following_count": 102,
+          "like_count": 6808,
+          "listed_count": 14,
+          "media_count": 3706,
+          "tweet_count": 14445
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T09:19:07.000Z",
+        "description": "惹我的出门摔进粪坑\n不加v 只和喜欢的互关\n除了简介其他的话都不要信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ineedahug75835",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ineedahug75835",
+                "start": 0,
+                "url": "https://t.co/W0GgiQAFhE"
+              }
+            ]
+          }
+        },
+        "id": "1913160251551227904",
+        "location": "给我打钱我会发送刚吃的饭的照片",
+        "name": "Z",
+        "pinned_tweet_id": "2058448348471005249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063567263601659904/uY0BDhod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 675,
+          "like_count": 16578,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 1154
+        },
+        "url": "https://t.co/W0GgiQAFhE",
+        "username": "ustgr6",
+        "verified": false
+      }
+    ]
+  }
+}

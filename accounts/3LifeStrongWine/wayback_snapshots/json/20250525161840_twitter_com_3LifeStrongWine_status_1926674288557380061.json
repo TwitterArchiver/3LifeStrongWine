@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1926664230222070013",
+    "created_at": "2025-05-25T16:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T17:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926674288557380061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1777532697281458176",
+          "start": 0,
+          "username": "ssxianluomao"
+        },
+        {
+          "end": 30,
+          "id": "1863961550350065664",
+          "start": 14,
+          "username": "Selaginellaaaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926674288557380061",
+    "in_reply_to_user_id": "1777532697281458176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926665536294756362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ssxianluomao @Selaginellaaaaa 哈哈哈"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1926665536294756362].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1926665536294756362",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1926665536294756362"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1926664230222070013",
+        "created_at": "2025-05-25T16:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T17:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926674288557380061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1777532697281458176",
+              "start": 0,
+              "username": "ssxianluomao"
+            },
+            {
+              "end": 30,
+              "id": "1863961550350065664",
+              "start": 14,
+              "username": "Selaginellaaaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926674288557380061",
+        "in_reply_to_user_id": "1777532697281458176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926665536294756362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ssxianluomao @Selaginellaaaaa 哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "闻有三山不知处，茂陵松柏满西风",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912318298353487872/R3xfbIV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 236,
+          "like_count": 7409,
+          "listed_count": 11,
+          "media_count": 2671,
+          "tweet_count": 10857
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-09T03:03:38.000Z",
+        "description": "【我的推特好像会莫名其妙取关人！】本人的关注瞎来的！/我的执念万千千千/不要再有来生了/",
+        "id": "1777532697281458176",
+        "location": "赞美煤球",
+        "name": "ss暹罗猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871785931738648576/EdJZuGY9_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 244,
+          "like_count": 2449,
+          "listed_count": 0,
+          "media_count": 389,
+          "tweet_count": 1477
+        },
+        "username": "ssxianluomao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-03T15:01:06.000Z",
+        "description": "卷卷卷卷不动了就柏    熟悉了可以加墙内联系方式",
+        "id": "1863961550350065664",
+        "location": "叫我卷柏就行",
+        "name": "Selaginella",
+        "pinned_tweet_id": "1875426091894239257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876307978443522048/mt_EImdI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10533,
+          "following_count": 102,
+          "like_count": 11455,
+          "listed_count": 23,
+          "media_count": 393,
+          "tweet_count": 3925
+        },
+        "username": "Selaginellaaaaa",
+        "verified": false
+      }
+    ]
+  }
+}

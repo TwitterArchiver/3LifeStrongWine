@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1996913328451735870",
+    "created_at": "2025-12-05T13:08:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T14:08:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996929764419145745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1716546925129056257",
+          "start": 0,
+          "username": "iioceyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996929764419145745",
+    "in_reply_to_user_id": "1716546925129056257",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996913328451735870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iioceyy ？？？？？2344？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996913325423439872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Z2FuEbsAAiw0P.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1996913328451735870",
+        "created_at": "2025-12-05T13:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T14:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996929764419145745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1716546925129056257",
+              "start": 0,
+              "username": "iioceyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996929764419145745",
+        "in_reply_to_user_id": "1716546925129056257",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996913328451735870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iioceyy ？？？？？2344？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996913325423439872"
+          ]
+        },
+        "author_id": "1716546925129056257",
+        "conversation_id": "1996913328451735870",
+        "created_at": "2025-12-05T12:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T13:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996913328451735870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cfIi0bNy7N",
+              "end": 35,
+              "expanded_url": "https://x.com/iioceyy/status/1996913328451735870/photo/1",
+              "media_key": "3_1996913325423439872",
+              "start": 12,
+              "url": "https://t.co/cfIi0bNy7N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996913328451735870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "赚了一千万后又成大兵了 https://t.co/cfIi0bNy7N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我爱上的是遥远的理想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "pinned_tweet_id": "1992598033381638574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1500,
+          "following_count": 178,
+          "like_count": 6610,
+          "listed_count": 12,
+          "media_count": 3021,
+          "tweet_count": 12223
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-23T20:07:50.000Z",
+        "description": "给我钱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iioceyy",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iioceyy",
+                "start": 0,
+                "url": "https://t.co/cgUXJiKei3"
+              }
+            ]
+          }
+        },
+        "id": "1716546925129056257",
+        "location": "窝的匿名信箱📬⬇️",
+        "name": "冰岛忧郁小妹在喂鸡",
+        "pinned_tweet_id": "1984337093217435944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863854308497960960/BP0j2ArA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 202,
+          "like_count": 11053,
+          "listed_count": 1,
+          "media_count": 818,
+          "tweet_count": 6052
+        },
+        "url": "https://t.co/cgUXJiKei3",
+        "username": "iioceyy",
+        "verified": false
+      }
+    ]
+  }
+}

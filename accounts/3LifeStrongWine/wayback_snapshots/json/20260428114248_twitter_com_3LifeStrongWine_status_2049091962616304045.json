@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2049086381964574859",
+    "created_at": "2026-04-28T11:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T12:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049091962616304045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "981495576410800129",
+          "start": 0,
+          "username": "ArCe7an"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049091962616304045",
+    "in_reply_to_user_id": "981495576410800129",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049086381964574859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ArCe7an 笑的挺甜"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9433,
+        "height": 1280,
+        "media_key": "13_2049086271251759104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049086271251759104/img/d5y5By5QLkcOEjZD.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049086271251759104/vid/avc1/320x568/LGnsmM-hnvHefYIO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049086271251759104/vid/avc1/480x852/5yYby_q9_Pnzp-hK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049086271251759104/vid/avc1/720x1280/AO5zL8khwsOmu7nP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049086271251759104/pl/ZRsMIBAVD6Bz_6Ly.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2049086381964574859",
+        "created_at": "2026-04-28T11:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049091962616304045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "981495576410800129",
+              "start": 0,
+              "username": "ArCe7an"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049091962616304045",
+        "in_reply_to_user_id": "981495576410800129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049086381964574859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ArCe7an 笑的挺甜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049086271251759104"
+          ]
+        },
+        "author_id": "981495576410800129",
+        "conversation_id": "2049086381964574859",
+        "created_at": "2026-04-28T11:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049086381964574859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c8wFHwsSo5",
+              "end": 37,
+              "expanded_url": "https://x.com/ArCe7an/status/2049086381964574859/video/1",
+              "media_key": "13_2049086271251759104",
+              "start": 14,
+              "url": "https://t.co/c8wFHwsSo5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049086381964574859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "越看越觉得自己化妆技术不错 https://t.co/c8wFHwsSo5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花潭水深千尺  不及汪伦送我情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2355,
+          "following_count": 114,
+          "like_count": 6907,
+          "listed_count": 13,
+          "media_count": 3580,
+          "tweet_count": 14087
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-04T11:35:55.000Z",
+        "description": "",
+        "id": "981495576410800129",
+        "name": "ArCe7an",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013211259496218624/fvNZB60N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 17,
+          "like_count": 33610,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 1628
+        },
+        "username": "ArCe7an",
+        "verified": false
+      }
+    ]
+  }
+}

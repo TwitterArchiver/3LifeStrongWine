@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1902581900096762238",
+    "created_at": "2025-03-20T04:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T05:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902584333262889224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1887374434987855872",
+          "start": 0,
+          "username": "OvO_kjy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902584333262889224",
+    "in_reply_to_user_id": "1887374434987855872",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902584295933559274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvO_kjy 🤓🤓🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1902581900096762238",
+        "created_at": "2025-03-20T04:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T05:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902584333262889224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1887374434987855872",
+              "start": 0,
+              "username": "OvO_kjy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902584333262889224",
+        "in_reply_to_user_id": "1887374434987855872",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902584295933559274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvO_kjy 🤓🤓🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887374434987855872",
+        "conversation_id": "1902581900096762238",
+        "created_at": "2025-03-20T04:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T05:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902584295933559274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902584295933559274",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902581900096762238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 懂的人点开直接划到最后一句了😌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来｜把那无人问津的岁月熬成清茶，等一场芳香四散",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 231,
+          "like_count": 7091,
+          "listed_count": 11,
+          "media_count": 2201,
+          "tweet_count": 9023
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-06T05:35:17.000Z",
+        "description": "叫我小瑜\n提问箱https://t.co/tBmElkSrvT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youuiie",
+                "end": 31,
+                "expanded_url": "https://ngl.link/youuiie",
+                "start": 8,
+                "url": "https://t.co/tBmElkSrvT"
+              }
+            ]
+          }
+        },
+        "id": "1887374434987855872",
+        "location": "在爱与光中",
+        "name": "悲伤章鱼烧",
+        "pinned_tweet_id": "1898982999171178651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901853945888415744/Jc66OnUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 60,
+          "like_count": 1639,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 866
+        },
+        "username": "OvO_kjy",
+        "verified": false
+      }
+    ]
+  }
+}

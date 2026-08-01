@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1881005557529924047",
+    "created_at": "2025-01-19T17:00:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T18:00:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881023864597316003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1718887354826637312",
+          "start": 0,
+          "username": "MeowSakur76073"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881023864597316003",
+    "in_reply_to_user_id": "1718887354826637312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881023695046783228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeowSakur76073 三生老师我啊，，，还跟法国校长合过影呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1881005557529924047",
+        "created_at": "2025-01-19T17:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T18:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881023864597316003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1718887354826637312",
+              "start": 0,
+              "username": "MeowSakur76073"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881023864597316003",
+        "in_reply_to_user_id": "1718887354826637312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881023695046783228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeowSakur76073 三生老师我啊，，，还跟法国校长合过影呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1718887354826637312",
+        "conversation_id": "1881005557529924047",
+        "created_at": "2025-01-19T16:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T17:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881023695046783228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881023695046783228",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881005557529924047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 国际推主（点头）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "看桃花究竟开出怎样的结果",
+        "id": "1529654419213541376",
+        "location": "夢在心上心便溫柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1169,
+          "following_count": 235,
+          "like_count": 5664,
+          "listed_count": 7,
+          "media_count": 1320,
+          "tweet_count": 6019
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-30T07:08:23.000Z",
+        "description": "shim | husband:@shiroko2024 | shy,not talkative | hate myself | custom cars | cute things | 🦊🐱🐶 | BA,steam1263370335:CS2,NFS,gal, | novel,movie,anime,music",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "shiroko2024"
+              }
+            ]
+          }
+        },
+        "id": "1718887354826637312",
+        "location": "heaven😇",
+        "name": "Meow Sakura",
+        "pinned_tweet_id": "1855495682293166411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721932776847577088/JtQXeoOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 4745,
+          "like_count": 5399,
+          "listed_count": 1,
+          "media_count": 293,
+          "tweet_count": 4883
+        },
+        "username": "MeowSakur76073",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1886293211456606253",
+    "created_at": "2025-02-03T06:05:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T07:05:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886294812015665417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600277431256256512",
+          "start": 0,
+          "username": "Oriyukiiiii"
+        },
+        {
+          "end": 25,
+          "id": "1681242891598069761",
+          "start": 13,
+          "username": "KawaiiNera_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886294812015665417",
+    "in_reply_to_user_id": "1600277431256256512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886294670298275888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oriyukiiiii @KawaiiNera_ 一般不都是带着去专柜当场挑当场买吗，哪有不问好直接送的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1886293211456606253",
+        "created_at": "2025-02-03T06:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T07:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886294812015665417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600277431256256512",
+              "start": 0,
+              "username": "Oriyukiiiii"
+            },
+            {
+              "end": 25,
+              "id": "1681242891598069761",
+              "start": 13,
+              "username": "KawaiiNera_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886294812015665417",
+        "in_reply_to_user_id": "1600277431256256512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886294670298275888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oriyukiiiii @KawaiiNera_ 一般不都是带着去专柜当场挑当场买吗，哪有不问好直接送的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600277431256256512",
+        "conversation_id": "1886293211456606253",
+        "created_at": "2025-02-03T06:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T07:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886294670298275888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1681242891598069761",
+              "start": 0,
+              "username": "KawaiiNera_"
+            },
+            {
+              "end": 29,
+              "id": "1529654419213541376",
+              "start": 13,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886294670298275888",
+        "in_reply_to_user_id": "1681242891598069761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886294433962082661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawaiiNera_ @3LifeStrongWine 一般来说最容易出错的是口红，偏偏还要硬送"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 220,
+          "like_count": 6399,
+          "listed_count": 9,
+          "media_count": 1607,
+          "tweet_count": 7001
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-06T23:54:14.000Z",
+        "description": "碎碎念构成的集合体。 “心怀梦想的人身上那种闪闪发光的温柔，对如今的我来说太痛了。”  https://t.co/Qm0OpuzJ0u提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oriyukiiiiii",
+                "end": 67,
+                "expanded_url": "https://ngl.link/oriyukiiiiii",
+                "start": 44,
+                "url": "https://t.co/Qm0OpuzJ0u"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/Oriyuki",
+                "end": 23,
+                "expanded_url": "https://afdian.com/a/Oriyuki",
+                "start": 0,
+                "url": "https://t.co/DDg7CccjLo"
+              }
+            ]
+          }
+        },
+        "id": "1600277431256256512",
+        "location": "无处不在",
+        "name": "石獅落麻雀",
+        "pinned_tweet_id": "1837866926300975289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828968257405235200/qMZ2VQQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12070,
+          "following_count": 586,
+          "like_count": 3942,
+          "listed_count": 16,
+          "media_count": 1420,
+          "tweet_count": 5171
+        },
+        "url": "https://t.co/DDg7CccjLo",
+        "username": "Oriyukiiiii",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-18T10:02:06.000Z",
+        "description": "My name is Nera! 跨🏳️‍⚧️/泛性戀🏳️‍🌈 小帳：@MissWsaikou “她是一个谜，包裹在神秘的面纱之下。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "MissWsaikou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kawaiinera",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kawaiinera",
+                "start": 0,
+                "url": "https://t.co/itzT1umtwf"
+              }
+            ]
+          }
+        },
+        "id": "1681242891598069761",
+        "location": "墨爾本的野人小屋",
+        "name": "x77uratezz_",
+        "pinned_tweet_id": "1867578459125612744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872682935910068225/mVXaIrX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 1699,
+          "like_count": 20351,
+          "listed_count": 1,
+          "media_count": 1046,
+          "tweet_count": 12021
+        },
+        "url": "https://t.co/itzT1umtwf",
+        "username": "KawaiiNera_",
+        "verified": false
+      }
+    ]
+  }
+}

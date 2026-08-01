@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2037173667902222644",
+    "created_at": "2026-03-28T19:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T20:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037971363638424052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2004112673706033152",
+          "start": 0,
+          "username": "y33only"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037971363638424052",
+    "in_reply_to_user_id": "2004112673706033152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037363422770458837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y33only 没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2037173667902222644",
+        "created_at": "2026-03-28T19:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T20:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037971363638424052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2004112673706033152",
+              "start": 0,
+              "username": "y33only"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037971363638424052",
+        "in_reply_to_user_id": "2004112673706033152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037363422770458837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y33only 没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004112673706033152",
+        "conversation_id": "2037173667902222644",
+        "created_at": "2026-03-27T02:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T03:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037363422770458837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037363422770458837",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037173667902222644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 这种短途还有供正餐吗，那吃的不错了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我一定带你脱离苦海，我答应过你。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VnXMe"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1996,
+          "following_count": 175,
+          "like_count": 6864,
+          "listed_count": 13,
+          "media_count": 3469,
+          "tweet_count": 13578
+        },
+        "url": "https://t.co/3g5y5VnXMe",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-25T08:51:27.000Z",
+        "description": "你的心好沉",
+        "id": "2004112673706033152",
+        "location": "地球ONLINE UTC+8 甬台温大区",
+        "name": "yss",
+        "pinned_tweet_id": "2020503471267762213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004121918312796160/NIG6MRmC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 162,
+          "like_count": 52,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 417
+        },
+        "username": "y33only",
+        "verified": false
+      }
+    ]
+  }
+}

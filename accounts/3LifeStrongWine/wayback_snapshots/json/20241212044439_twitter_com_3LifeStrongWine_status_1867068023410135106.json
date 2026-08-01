@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1867064642167779342",
+    "created_at": "2024-12-12T04:44:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T05:44:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867068023410135106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1240172010338054144",
+          "start": 0,
+          "username": "jinxadc3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867068023410135106",
+    "in_reply_to_user_id": "1240172010338054144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867067972835238355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinxadc3 可以呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1867064642167779342",
+        "created_at": "2024-12-12T04:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T05:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867068023410135106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1240172010338054144",
+              "start": 0,
+              "username": "jinxadc3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867068023410135106",
+        "in_reply_to_user_id": "1240172010338054144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867067972835238355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinxadc3 可以呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1240172010338054144",
+        "conversation_id": "1867064642167779342",
+        "created_at": "2024-12-12T04:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T05:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867067972835238355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867067972835238355",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867067487424221221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 快上课了 要不裹着被子去吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "有时也想过花烂漫某天与世界无声道别， 可是偏偏有太多太多遗憾挂牵没画句点",
+        "id": "1529654419213541376",
+        "location": "长大是变温柔，是对所有人都温柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1865393368853090537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 181,
+          "like_count": 2083,
+          "listed_count": 4,
+          "media_count": 519,
+          "tweet_count": 3155
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-18T07:03:53.000Z",
+        "description": "",
+        "id": "1240172010338054144",
+        "location": "0.1km",
+        "name": "九年.十三载",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739296775352246272/A68GE5OB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 192,
+          "like_count": 191,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 217
+        },
+        "username": "jinxadc3",
+        "verified": false
+      }
+    ]
+  }
+}

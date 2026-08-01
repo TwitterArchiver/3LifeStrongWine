@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1877294207716442286",
+    "created_at": "2025-01-09T13:40:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T14:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877349606729933167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1675893781554667521",
+          "start": 0,
+          "username": "yxxx206181"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877349606729933167",
+    "in_reply_to_user_id": "1675893781554667521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877348214799466667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yxxx206181 我从人间走过 阳光正暖  也算有幸相逢挚友二三"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1877348214799466667].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1877348214799466667",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1877348214799466667"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1877294207716442286",
+        "created_at": "2025-01-09T13:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T14:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877349606729933167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1675893781554667521",
+              "start": 0,
+              "username": "yxxx206181"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877349606729933167",
+        "in_reply_to_user_id": "1675893781554667521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877348214799466667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yxxx206181 我从人间走过 阳光正暖  也算有幸相逢挚友二三"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "雨季里我和你的青春一起坐过了站，而我会站在原地热泪盈眶地读你的未来",
+        "id": "1529654419213541376",
+        "location": "Destination of the Wind",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1099,
+          "following_count": 210,
+          "like_count": 4672,
+          "listed_count": 7,
+          "media_count": 1016,
+          "tweet_count": 5048
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-03T15:46:43.000Z",
+        "description": "草，这辈子死定了！|喜欢🍰和🍊和💰|一些碎碎念|可以叫我et",
+        "id": "1675893781554667521",
+        "location": "外太空",
+        "name": "全世界的人听我説",
+        "pinned_tweet_id": "1874128078672429146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871961437783879680/IOoXTznp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 116,
+          "like_count": 7489,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 2582
+        },
+        "username": "yxxx206181",
+        "verified": false
+      }
+    ]
+  }
+}

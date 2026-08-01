@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1892347531251654773",
+    "created_at": "2025-02-19T22:57:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T23:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892347714362626349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1568585483814567939",
+          "start": 0,
+          "username": "dianziemo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892347714362626349",
+    "in_reply_to_user_id": "1568585483814567939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892347531251654773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dianziemo 是这样的，很多事情在一瞬间就释怀了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1892347531251654773",
+        "created_at": "2025-02-19T22:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T23:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892347714362626349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1568585483814567939",
+              "start": 0,
+              "username": "dianziemo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892347714362626349",
+        "in_reply_to_user_id": "1568585483814567939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892347531251654773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dianziemo 是这样的，很多事情在一瞬间就释怀了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568585483814567939",
+        "conversation_id": "1892347531251654773",
+        "created_at": "2025-02-19T22:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T23:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892347531251654773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1892347531251654773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉与很多东西都和解了，心静静的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 222,
+          "like_count": 6648,
+          "listed_count": 0,
+          "media_count": 1926,
+          "tweet_count": 7887
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-10T13:01:49.000Z",
+        "description": "我们一起去探索这个世界吧！！",
+        "id": "1568585483814567939",
+        "location": "ic443",
+        "name": "电子恶魔",
+        "pinned_tweet_id": "1882128628496191749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869285605517258753/C87KbGZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7509,
+          "following_count": 1433,
+          "like_count": 15153,
+          "listed_count": 14,
+          "media_count": 867,
+          "tweet_count": 26134
+        },
+        "username": "dianziemo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1889157312948146285",
+    "created_at": "2025-02-11T04:33:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T05:33:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889170973473321024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1557982495710257152",
+          "start": 0,
+          "username": "timsab2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889170973473321024",
+    "in_reply_to_user_id": "1557982495710257152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889169875861463428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@timsab2 去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1889157312948146285",
+        "created_at": "2025-02-11T04:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T05:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889170973473321024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1557982495710257152",
+              "start": 0,
+              "username": "timsab2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889170973473321024",
+        "in_reply_to_user_id": "1557982495710257152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889169875861463428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@timsab2 去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557982495710257152",
+        "conversation_id": "1889157312948146285",
+        "created_at": "2025-02-11T04:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T05:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889169875861463428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889169875861463428",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889157312948146285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 重慶大廈不去拜訪一下？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1393,
+          "following_count": 218,
+          "like_count": 6527,
+          "listed_count": 9,
+          "media_count": 1791,
+          "tweet_count": 7492
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-12T06:49:20.000Z",
+        "description": "|♥|死了| 这会考完了学完了休息版|",
+        "id": "1557982495710257152",
+        "location": "Pok Fu Lam Road, Hong Kong ",
+        "name": "-1",
+        "pinned_tweet_id": "1803384742072443017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863250418895065089/mYCRJqxe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 2260,
+          "like_count": 45179,
+          "listed_count": 4,
+          "media_count": 240,
+          "tweet_count": 3909
+        },
+        "username": "timsab2",
+        "verified": false
+      }
+    ]
+  }
+}

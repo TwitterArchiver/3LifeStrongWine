@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1902035534819795370",
+    "created_at": "2025-03-19T03:57:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T04:57:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902207774911820129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1851327101946953728",
+          "start": 0,
+          "username": "060105o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902207774911820129",
+    "in_reply_to_user_id": "1851327101946953728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902049153821372873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@060105o 不会的，我肯定不会答应的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1902035534819795370",
+        "created_at": "2025-03-19T03:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T04:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902207774911820129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1851327101946953728",
+              "start": 0,
+              "username": "060105o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902207774911820129",
+        "in_reply_to_user_id": "1851327101946953728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902049153821372873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@060105o 不会的，我肯定不会答应的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851327101946953728",
+        "conversation_id": "1902035534819795370",
+        "created_at": "2025-03-18T17:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T18:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902049153821372873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902049153821372873",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902035890530390382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 笑死。别年仅20就负债400万。 脊梁骨都弯了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来｜把那无人问津的岁月熬成清茶，等一场芳香四散",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1436,
+          "following_count": 236,
+          "like_count": 7060,
+          "listed_count": 11,
+          "media_count": 2189,
+          "tweet_count": 8951
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-29T18:16:07.000Z",
+        "description": "哇咔/e人/双向情感障碍/自残/o冰块/羽毛球/跳舞/夹娃/06/164cm 50kg/双性恋/生活推/夹娃娃/治愈/满怀希望就会所向披靡/希望可以和更多的人成为朋友 一起聊天给你带来乐趣 /是一个刚接触推的小小白 /即使你没有米但是你真诚有趣有分享生活的欲望你依然可以和我成为朋友( *^-^)ρ(*╯^╰)༶ඬ༝ඬ",
+        "id": "1851327101946953728",
+        "location": "🚪10r",
+        "name": "哇咔",
+        "pinned_tweet_id": "1901684621726945354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855710973828702208/HGKYxt_T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1450,
+          "following_count": 263,
+          "like_count": 6133,
+          "listed_count": 2,
+          "media_count": 882,
+          "tweet_count": 5587
+        },
+        "username": "060105o",
+        "verified": false
+      }
+    ]
+  }
+}

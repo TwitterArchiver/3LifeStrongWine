@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2036461984330424332"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "2036462043927118277",
+    "created_at": "2026-03-24T15:16:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T16:16:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036462043927118277"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SDuhN30AOY",
+          "end": 28,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/2036462043927118277/video/1",
+          "media_key": "13_2036461984330424332",
+          "start": 5,
+          "url": "https://t.co/SDuhN30AOY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036462043927118277",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好厚的雪 https://t.co/SDuhN30AOY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7100,
+        "height": 1280,
+        "media_key": "13_2036461984330424332",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2036461984330424332/img/b0kvbP06JZwYyGoP.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036461984330424332/vid/avc1/320x568/FRN70gszY8aBFY23.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036461984330424332/vid/avc1/480x852/m87X9XGGAJQzWgP0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036461984330424332/vid/avc1/720x1280/wvLMNnT8xjV1nqTL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036461984330424332/pl/nTiEajPZDNCXXhqB.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036461984330424332"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "2036462043927118277",
+        "created_at": "2026-03-24T15:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036462043927118277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SDuhN30AOY",
+              "end": 28,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/2036462043927118277/video/1",
+              "media_key": "13_2036461984330424332",
+              "start": 5,
+              "url": "https://t.co/SDuhN30AOY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036462043927118277",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好厚的雪 https://t.co/SDuhN30AOY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "願償少年淚，猶趁未老時",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VnXMe"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 176,
+          "like_count": 6760,
+          "listed_count": 13,
+          "media_count": 3407,
+          "tweet_count": 13359
+        },
+        "url": "https://t.co/3g5y5VnXMe",
+        "username": "3LifeStrongWine",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1993245009265803652",
+    "created_at": "2025-11-25T15:06:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T16:06:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993335452351570413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1838194243732635648",
+          "start": 0,
+          "username": "hhhawang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993335452351570413",
+    "in_reply_to_user_id": "1838194243732635648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993245009265803652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhhawang 生日快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1993245009265803652",
+        "created_at": "2025-11-25T15:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T16:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993335452351570413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1838194243732635648",
+              "start": 0,
+              "username": "hhhawang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993335452351570413",
+        "in_reply_to_user_id": "1838194243732635648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993245009265803652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhhawang 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838194243732635648",
+        "conversation_id": "1993245009265803652",
+        "created_at": "2025-11-25T09:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T10:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993245009265803652"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993245009265803652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 286,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我从昨晚就期待我爸妈能今天借着生日的理由给我发钱。。但是到现在都没有。。我有点想提醒。。但是vx聊天框还停留在昨晚把他俩说了一顿。。好捉急喔。。早知道昨晚就不给他俩说话了。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我爱上的是遥远的理想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "pinned_tweet_id": "1992598033381638574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1506,
+          "following_count": 181,
+          "like_count": 6602,
+          "listed_count": 12,
+          "media_count": 3010,
+          "tweet_count": 12187
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-23T12:30:48.000Z",
+        "description": "🛌",
+        "id": "1838194243732635648",
+        "name": "静夜思",
+        "pinned_tweet_id": "1969707646241640618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991887625448566784/j_b9Wcrk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 27,
+          "like_count": 4922,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 777
+        },
+        "username": "hhhawang",
+        "verified": false
+      }
+    ]
+  }
+}

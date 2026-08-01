@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934786732135964672"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1934786741766164917",
+    "created_at": "2025-06-17T01:34:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T02:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934786741766164917"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UX2ovUAQy8",
+          "end": 43,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1934786741766164917/photo/1",
+          "media_key": "3_1934786732135964672",
+          "start": 20,
+          "url": "https://t.co/UX2ovUAQy8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934786741766164917",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这特么考试，字儿太多了，写的我手都疼了 https://t.co/UX2ovUAQy8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_1934786732135964672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtm-SC0aYAALXLz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934786732135964672"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1934786741766164917",
+        "created_at": "2025-06-17T01:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T02:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934786741766164917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UX2ovUAQy8",
+              "end": 43,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1934786741766164917/photo/1",
+              "media_key": "3_1934786732135964672",
+              "start": 20,
+              "url": "https://t.co/UX2ovUAQy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934786741766164917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这特么考试，字儿太多了，写的我手都疼了 https://t.co/UX2ovUAQy8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "泛黄的老照片里讲述了一个什么样的故事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 236,
+          "like_count": 7484,
+          "listed_count": 11,
+          "media_count": 2824,
+          "tweet_count": 11465
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2074767537137746274",
+    "created_at": "2026-07-08T08:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T09:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074769443608281279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1736547026353946624",
+          "start": 0,
+          "username": "9D2AEC2B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074769443608281279",
+    "in_reply_to_user_id": "1736547026353946624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074769089000829419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9D2AEC2B 村上隆也还行，但是我还是喜欢纯白"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2074767537137746274",
+        "created_at": "2026-07-08T08:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T09:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074769443608281279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1736547026353946624",
+              "start": 0,
+              "username": "9D2AEC2B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074769443608281279",
+        "in_reply_to_user_id": "1736547026353946624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074769089000829419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9D2AEC2B 村上隆也还行，但是我还是喜欢纯白"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736547026353946624",
+        "conversation_id": "2074767537137746274",
+        "created_at": "2026-07-08T08:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T09:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074769089000829419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074769089000829419",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074767537137746274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 感觉村上隆白三彩也还行 不算老气"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花潭水深千尺  不及汪伦送我情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2849,
+          "following_count": 104,
+          "like_count": 6811,
+          "listed_count": 14,
+          "media_count": 3722,
+          "tweet_count": 14507
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-18T00:41:00.000Z",
+        "description": "",
+        "id": "1736547026353946624",
+        "location": "≤500m",
+        "name": "⊂",
+        "pinned_tweet_id": "1921990473532453357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046962420975833088/0WMKDb8N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 108,
+          "like_count": 25327,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "9D2AEC2B",
+        "verified": false
+      }
+    ]
+  }
+}

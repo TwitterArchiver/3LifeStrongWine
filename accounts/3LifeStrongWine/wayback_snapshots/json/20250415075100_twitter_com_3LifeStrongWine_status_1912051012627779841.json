@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1912027750069834120",
+    "created_at": "2025-04-15T07:51:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T08:51:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912051012627779841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1749848735436427265",
+          "start": 0,
+          "username": "Orangepeel98426"
+        },
+        {
+          "end": 25,
+          "id": "1533870529387458560",
+          "start": 17,
+          "username": "FinnaXS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912051012627779841",
+    "in_reply_to_user_id": "1749848735436427265",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912049812473590066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Orangepeel98426 @FinnaXS 吉娃娃洗澡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1912027750069834120",
+        "created_at": "2025-04-15T07:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T08:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912051012627779841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1749848735436427265",
+              "start": 0,
+              "username": "Orangepeel98426"
+            },
+            {
+              "end": 25,
+              "id": "1533870529387458560",
+              "start": 17,
+              "username": "FinnaXS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912051012627779841",
+        "in_reply_to_user_id": "1749848735436427265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912049812473590066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orangepeel98426 @FinnaXS 吉娃娃洗澡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749848735436427265",
+        "conversation_id": "1912027750069834120",
+        "created_at": "2025-04-15T07:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T08:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912049812473590066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1533870529387458560",
+              "start": 0,
+              "username": "FinnaXS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912049812473590066",
+        "in_reply_to_user_id": "1533870529387458560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912033979865375197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FinnaXS 哈哈哈哈哈你笑死我了 我已经洗完了🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "东隅已逝，桑榆非晚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909122304141148160/VzRDqCNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 244,
+          "like_count": 7424,
+          "listed_count": 12,
+          "media_count": 2527,
+          "tweet_count": 10324
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-23T17:37:16.000Z",
+        "description": "特别特别谢谢你们关注我❤️|我承认我说话无聊还爱卖点烂萌｜我们@Pscouopie4u|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "Pscouopie4u"
+              }
+            ]
+          }
+        },
+        "id": "1749848735436427265",
+        "location": "夜雨",
+        "name": "冰川橙子皮",
+        "pinned_tweet_id": "1908754170611441847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909605863238537216/_q4Vx3Sd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2374,
+          "following_count": 457,
+          "like_count": 106725,
+          "listed_count": 13,
+          "media_count": 273,
+          "tweet_count": 11663
+        },
+        "username": "Orangepeel98426",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-06T17:57:27.000Z",
+        "description": "离开我 别离开我 爱我赤裸的灵魂而不是肉体  🚪💲52000000（纯加微信不聊天）",
+        "id": "1533870529387458560",
+        "location": "悲伤逆流成河",
+        "name": "黄油煎蛋真好吃",
+        "pinned_tweet_id": "1877025187733893282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830268691507777536/czFV8Wcd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 95,
+          "like_count": 8158,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 3417
+        },
+        "username": "FinnaXS",
+        "verified": false
+      }
+    ]
+  }
+}

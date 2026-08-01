@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062903513013972992"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1593002362444005382",
+          "name": "Casetify"
+        }
+      }
+    ],
+    "conversation_id": "2062903521889169473",
+    "created_at": "2026-06-05T14:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T15:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062903521889169473"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QCPk1JFbDt",
+          "end": 44,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/2062903521889169473/photo/1",
+          "media_key": "3_2062903513013972992",
+          "start": 21,
+          "url": "https://t.co/QCPk1JFbDt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062903521889169473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "casetify的手机壳真好看也是真的沉 https://t.co/QCPk1JFbDt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062903513013972992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDn0LsacAAgXdy.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062903513013972992"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1593002362444005382",
+              "name": "Casetify"
+            }
+          }
+        ],
+        "conversation_id": "2062903521889169473",
+        "created_at": "2026-06-05T14:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062903521889169473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QCPk1JFbDt",
+              "end": 44,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/2062903521889169473/photo/1",
+              "media_key": "3_2062903513013972992",
+              "start": 21,
+              "url": "https://t.co/QCPk1JFbDt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062903521889169473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "casetify的手机壳真好看也是真的沉 https://t.co/QCPk1JFbDt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花潭水深千尺  不及汪伦送我情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2864,
+          "following_count": 100,
+          "like_count": 6822,
+          "listed_count": 14,
+          "media_count": 3689,
+          "tweet_count": 14410
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1895714614115275238",
+    "created_at": "2025-03-01T06:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T07:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895715828907327968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1568585483814567939",
+          "start": 0,
+          "username": "dianziemo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895715828907327968",
+    "in_reply_to_user_id": "1568585483814567939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895715551366037766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dianziemo 又咸又酸又辣的感觉，一般放番茄就不放黑胡椒了，咸淡调味在做番茄酱料的时候调好就行啦，可以放点芝士碎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1895714614115275238",
+        "created_at": "2025-03-01T06:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T07:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895715828907327968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1568585483814567939",
+              "start": 0,
+              "username": "dianziemo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895715828907327968",
+        "in_reply_to_user_id": "1568585483814567939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895715551366037766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dianziemo 又咸又酸又辣的感觉，一般放番茄就不放黑胡椒了，咸淡调味在做番茄酱料的时候调好就行啦，可以放点芝士碎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568585483814567939",
+        "conversation_id": "1895714614115275238",
+        "created_at": "2025-03-01T05:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T06:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895715551366037766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895715551366037766",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895715256024121603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 番茄的那种，然后放了一些黑胡椒大蒜盐还有欧芹碎，大蒜盐放多了。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1414,
+          "following_count": 232,
+          "like_count": 6896,
+          "listed_count": 10,
+          "media_count": 2059,
+          "tweet_count": 8355
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-10T13:01:49.000Z",
+        "description": "我们一起去探索这个世界吧！！",
+        "id": "1568585483814567939",
+        "location": "ic443",
+        "name": "电子恶魔",
+        "pinned_tweet_id": "1882128628496191749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869285605517258753/C87KbGZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10281,
+          "following_count": 1461,
+          "like_count": 15398,
+          "listed_count": 19,
+          "media_count": 896,
+          "tweet_count": 27077
+        },
+        "username": "dianziemo",
+        "verified": false
+      }
+    ]
+  }
+}

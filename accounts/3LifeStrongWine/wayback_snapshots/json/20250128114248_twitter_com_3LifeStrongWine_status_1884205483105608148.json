@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1884184590874780093",
+    "created_at": "2025-01-28T11:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T12:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884205483105608148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1836295510388543489",
+          "start": 0,
+          "username": "x_luvmepls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884205483105608148",
+    "in_reply_to_user_id": "1836295510388543489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884205036294791490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x_luvmepls 这就给你送过去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1884184590874780093",
+        "created_at": "2025-01-28T11:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T12:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884205483105608148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1836295510388543489",
+              "start": 0,
+              "username": "x_luvmepls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884205483105608148",
+        "in_reply_to_user_id": "1836295510388543489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884205036294791490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_luvmepls 这就给你送过去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836295510388543489",
+        "conversation_id": "1884184590874780093",
+        "created_at": "2025-01-28T11:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T12:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884205036294791490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884205036294791490",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884184590874780093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 麻烦把花和旁边那瓶茅台送到我家来 谢谢三生老师"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "凡所有相  皆是虚妄",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 217,
+          "like_count": 6222,
+          "listed_count": 8,
+          "media_count": 1502,
+          "tweet_count": 6683
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-18T06:45:52.000Z",
+        "description": "碎碎念唱歌摄影穿搭自拍｜提问箱👉🏻https://t.co/X1E6NFfQXz 小号@rainseverydayy只过互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 43,
+                "username": "rainseverydayy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/luvmepls1",
+                "end": 40,
+                "expanded_url": "https://ngl.link/luvmepls1",
+                "start": 17,
+                "url": "https://t.co/X1E6NFfQXz"
+              }
+            ]
+          }
+        },
+        "id": "1836295510388543489",
+        "name": "🌧️",
+        "pinned_tweet_id": "1883827693290226022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837215724734943232/xK35mc7P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1385,
+          "following_count": 312,
+          "like_count": 6864,
+          "listed_count": 3,
+          "media_count": 666,
+          "tweet_count": 4909
+        },
+        "username": "x_luvmepls",
+        "verified": false
+      }
+    ]
+  }
+}

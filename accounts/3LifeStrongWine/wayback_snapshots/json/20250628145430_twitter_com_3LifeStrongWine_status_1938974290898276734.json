@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1938496559769145394",
+    "created_at": "2025-06-28T14:54:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T15:54:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938974290898276734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1779093261954465792",
+          "start": 0,
+          "username": "Readyt01ove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938974290898276734",
+    "in_reply_to_user_id": "1779093261954465792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938974184048337005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Readyt01ove 给我时光机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1938496559769145394",
+        "created_at": "2025-06-28T14:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T15:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938974290898276734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1779093261954465792",
+              "start": 0,
+              "username": "Readyt01ove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938974290898276734",
+        "in_reply_to_user_id": "1779093261954465792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938974184048337005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Readyt01ove 给我时光机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779093261954465792",
+        "conversation_id": "1938496559769145394",
+        "created_at": "2025-06-28T14:54:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T15:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938974184048337005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938974184048337005",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938974052766609894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 来来来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "泛黄的老照片里讲述了一个什么样的故事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我会带你去看这世界上最独一无二的风景",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586,
+          "following_count": 190,
+          "like_count": 7155,
+          "listed_count": 11,
+          "media_count": 2864,
+          "tweet_count": 11656
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-13T10:24:39.000Z",
+        "description": "一个温良的小女子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=0yw6dllt",
+                "start": 0,
+                "url": "https://t.co/UB8ayckVXR"
+              }
+            ]
+          }
+        },
+        "id": "1779093261954465792",
+        "location": "蜂鸟VPN",
+        "name": "hani",
+        "pinned_tweet_id": "1933489662179619078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905455049461129216/5OEi7A7T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3090,
+          "following_count": 140,
+          "like_count": 35251,
+          "listed_count": 9,
+          "media_count": 126,
+          "tweet_count": 2097
+        },
+        "url": "https://t.co/UB8ayckVXR",
+        "username": "Readyt01ove",
+        "verified": false
+      }
+    ]
+  }
+}

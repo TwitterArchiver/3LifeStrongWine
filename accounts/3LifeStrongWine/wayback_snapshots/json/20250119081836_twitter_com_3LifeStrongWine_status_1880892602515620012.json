@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1880879214209249491",
+    "created_at": "2025-01-19T08:18:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T09:18:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880892602515620012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1813111782577471488",
+          "start": 0,
+          "username": "painismybesf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880892602515620012",
+    "in_reply_to_user_id": "1813111782577471488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880879214209249491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@painismybesf 可爱银渐层"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1880879214209249491",
+        "created_at": "2025-01-19T08:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T09:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880892602515620012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813111782577471488",
+              "start": 0,
+              "username": "painismybesf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880892602515620012",
+        "in_reply_to_user_id": "1813111782577471488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880879214209249491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@painismybesf 可爱银渐层"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1880879183183953921"
+          ]
+        },
+        "author_id": "1813111782577471488",
+        "conversation_id": "1880879214209249491",
+        "created_at": "2025-01-19T07:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T08:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880879214209249491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3JHELP8K5F",
+              "end": 23,
+              "expanded_url": "https://x.com/painismybesf/status/1880879214209249491/video/1",
+              "media_key": "7_1880879183183953921",
+              "start": 0,
+              "url": "https://t.co/3JHELP8K5F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880879214209249491",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3JHELP8K5F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花究竟开出什么样的结果",
+        "id": "1529654419213541376",
+        "location": "夢在心上心便溫柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879527429754269696/Ip8jHko0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1147,
+          "following_count": 234,
+          "like_count": 5518,
+          "listed_count": 7,
+          "media_count": 1293,
+          "tweet_count": 5903
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T07:22:01.000Z",
+        "description": "咕噜",
+        "id": "1813111782577471488",
+        "name": "真情",
+        "pinned_tweet_id": "1814713736483225720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874321196705341444/3aWEGw6X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 113,
+          "like_count": 1034,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 1388
+        },
+        "username": "painismybesf",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1867595283296924081",
+    "created_at": "2024-12-13T16:46:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T17:46:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867612164774650206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "772342122548637696",
+          "start": 0,
+          "username": "YureruOrange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867612164774650206",
+    "in_reply_to_user_id": "772342122548637696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867595283296924081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YureruOrange 很好看！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1867595283296924081",
+        "created_at": "2024-12-13T16:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T17:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867612164774650206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "772342122548637696",
+              "start": 0,
+              "username": "YureruOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867612164774650206",
+        "in_reply_to_user_id": "772342122548637696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867595283296924081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YureruOrange 很好看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867595268155424768"
+          ]
+        },
+        "author_id": "772342122548637696",
+        "conversation_id": "1867595283296924081",
+        "created_at": "2024-12-13T15:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T16:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867595283296924081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6A9zKHZt01",
+              "end": 28,
+              "expanded_url": "https://x.com/YureruOrange/status/1867595283296924081/photo/1",
+              "media_key": "3_1867595268155424768",
+              "start": 5,
+              "url": "https://t.co/6A9zKHZt01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867595283296924081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "整条围巾 https://t.co/6A9zKHZt01"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "有时也想过花烂漫某天与世界无声道别， 可是偏偏有太多太多遗憾挂牵没画句点",
+        "id": "1529654419213541376",
+        "location": "长大是变温柔，是对所有人都温柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1865393368853090537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 187,
+          "like_count": 2289,
+          "listed_count": 5,
+          "media_count": 565,
+          "tweet_count": 3398
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2016-09-04T07:54:46.000Z",
+        "description": "mtf",
+        "id": "772342122548637696",
+        "name": "茗脆角",
+        "pinned_tweet_id": "1831748048067948578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803300492363309058/_1ca2Kpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1301,
+          "following_count": 355,
+          "like_count": 697,
+          "listed_count": 5,
+          "media_count": 9,
+          "tweet_count": 31
+        },
+        "username": "YureruOrange",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1881028287264408059",
+    "created_at": "2025-01-19T17:22:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T18:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881029590023582167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1629074500305186817",
+          "start": 0,
+          "username": "carafutaba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881029590023582167",
+    "in_reply_to_user_id": "1629074500305186817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881028287264408059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@carafutaba 又开始到处玩了，我都回家了👊👊👊你快点回来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1881028287264408059",
+        "created_at": "2025-01-19T17:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T18:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881029590023582167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1629074500305186817",
+              "start": 0,
+              "username": "carafutaba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881029590023582167",
+        "in_reply_to_user_id": "1629074500305186817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881028287264408059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@carafutaba 又开始到处玩了，我都回家了👊👊👊你快点回来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881028280477974528"
+          ]
+        },
+        "author_id": "1629074500305186817",
+        "conversation_id": "1881028287264408059",
+        "created_at": "2025-01-19T17:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T18:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881028287264408059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ct45emWvA2",
+              "end": 41,
+              "expanded_url": "https://x.com/carafutaba/status/1881028287264408059/photo/1",
+              "media_key": "3_1881028280477974528",
+              "start": 18,
+              "url": "https://t.co/ct45emWvA2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881028287264408059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完蛋，发现了个宝藏酒店（同学推荐的 https://t.co/ct45emWvA2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "看桃花究竟开出怎样的结果",
+        "id": "1529654419213541376",
+        "location": "夢在心上心便溫柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1170,
+          "following_count": 235,
+          "like_count": 5669,
+          "listed_count": 7,
+          "media_count": 1322,
+          "tweet_count": 6026
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-24T11:03:32.000Z",
+        "description": "一个普通囡囡🧸要早困早起 https://t.co/VHXbjTI1jf 小黑喵@meowcatherina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 40,
+                "username": "meowcatherina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "carafutaba.bsky.social",
+                "end": 36,
+                "expanded_url": "https://carafutaba.bsky.social",
+                "start": 13,
+                "url": "https://t.co/VHXbjTI1jf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "anzu.moe",
+                "end": 23,
+                "expanded_url": "https://anzu.moe",
+                "start": 0,
+                "url": "https://t.co/uyvReMg6DJ"
+              }
+            ]
+          }
+        },
+        "id": "1629074500305186817",
+        "location": "米花市米花町二丁目22番地",
+        "name": "双葉杏Charlotte📷🎮🍀💤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803015602162053120/HYr1UFr__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1852,
+          "following_count": 1181,
+          "like_count": 46239,
+          "listed_count": 3,
+          "media_count": 915,
+          "tweet_count": 10954
+        },
+        "url": "https://t.co/uyvReMg6DJ",
+        "username": "carafutaba",
+        "verified": true
+      }
+    ]
+  }
+}

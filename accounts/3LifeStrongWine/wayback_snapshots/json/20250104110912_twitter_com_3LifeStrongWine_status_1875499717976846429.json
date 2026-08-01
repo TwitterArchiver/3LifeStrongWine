@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1875497165222809953",
+    "created_at": "2025-01-04T11:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T12:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875499717976846429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600277431256256512",
+          "start": 0,
+          "username": "Oriyukiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875499717976846429",
+    "in_reply_to_user_id": "1600277431256256512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875497165222809953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oriyukiiiii 嗯？你哪年的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1875497165222809953",
+        "created_at": "2025-01-04T11:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T12:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875499717976846429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600277431256256512",
+              "start": 0,
+              "username": "Oriyukiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875499717976846429",
+        "in_reply_to_user_id": "1600277431256256512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875497165222809953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oriyukiiiii 嗯？你哪年的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600277431256256512",
+        "conversation_id": "1875497165222809953",
+        "created_at": "2025-01-04T10:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T11:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875497165222809953"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1875497165222809953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 216,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们以为我多大，我今天也就21啊？不会看我天天发的文字以为我是28+了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "雨季里我和你的青春一起坐过了站，而我会站在原地热泪盈眶地读你的未来",
+        "id": "1529654419213541376",
+        "location": "没见过的也算不得遗憾，寥寥数年已经足够圆满",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1070,
+          "following_count": 211,
+          "like_count": 3954,
+          "listed_count": 7,
+          "media_count": 891,
+          "tweet_count": 4609
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-06T23:54:14.000Z",
+        "description": "碎碎念构成的集合体。 “心怀梦想的人身上那种闪闪发光的温柔，对如今的我来说太痛了。”  https://t.co/Qm0OpuzJ0u提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oriyukiiiiii",
+                "end": 67,
+                "expanded_url": "https://ngl.link/oriyukiiiiii",
+                "start": 44,
+                "url": "https://t.co/Qm0OpuzJ0u"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/Oriyuki",
+                "end": 23,
+                "expanded_url": "https://afdian.com/a/Oriyuki",
+                "start": 0,
+                "url": "https://t.co/DDg7CccjLo"
+              }
+            ]
+          }
+        },
+        "id": "1600277431256256512",
+        "location": "无处不在",
+        "name": "石獅落麻雀",
+        "pinned_tweet_id": "1837866926300975289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828968257405235200/qMZ2VQQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11307,
+          "following_count": 583,
+          "like_count": 3632,
+          "listed_count": 18,
+          "media_count": 1242,
+          "tweet_count": 4400
+        },
+        "url": "https://t.co/DDg7CccjLo",
+        "username": "Oriyukiiiii",
+        "verified": true
+      }
+    ]
+  }
+}

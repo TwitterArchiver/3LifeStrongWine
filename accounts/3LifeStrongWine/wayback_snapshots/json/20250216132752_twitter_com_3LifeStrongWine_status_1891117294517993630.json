@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1891113206338191776",
+    "created_at": "2025-02-16T13:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T14:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891117294517993630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1248637653001494529",
+          "start": 0,
+          "username": "Fomalhautawa"
+        },
+        {
+          "end": 24,
+          "id": "1889354518581878784",
+          "start": 14,
+          "username": "genya2027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891117294517993630",
+    "in_reply_to_user_id": "1248637653001494529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891117201232400871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fomalhautawa @genya2027 那不是烫金，那是金漆，我自己涂的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1891113206338191776",
+        "created_at": "2025-02-16T13:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T14:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891117294517993630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1248637653001494529",
+              "start": 0,
+              "username": "Fomalhautawa"
+            },
+            {
+              "end": 24,
+              "id": "1889354518581878784",
+              "start": 14,
+              "username": "genya2027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891117294517993630",
+        "in_reply_to_user_id": "1248637653001494529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891117201232400871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fomalhautawa @genya2027 那不是烫金，那是金漆，我自己涂的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1248637653001494529",
+        "conversation_id": "1891113206338191776",
+        "created_at": "2025-02-16T13:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T14:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891117201232400871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1889354518581878784",
+              "start": 0,
+              "username": "genya2027"
+            },
+            {
+              "end": 27,
+              "id": "1529654419213541376",
+              "start": 11,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891117201232400871",
+        "in_reply_to_user_id": "1889354518581878784",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891117003777179950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@genya2027 @3LifeStrongWine 👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 219,
+          "like_count": 6592,
+          "listed_count": 10,
+          "media_count": 1893,
+          "tweet_count": 7767
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-10T15:43:19.000Z",
+        "description": "你好哦，姓师怎么称呼都行，现居上海。/\n发些日常·食物·抽象，偶尔会说点怪话。/\n私信评论都会互动哦，我很温和的，请随意。/\n经常会清理一些推文，望见谅。/\n愿你喜乐安康。",
+        "id": "1248637653001494529",
+        "location": "萱华轩",
+        "name": "S𝔥𝔦𝔰𝔴",
+        "pinned_tweet_id": "1890668271692620221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883561348619218944/wfuWIRmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 209,
+          "like_count": 66226,
+          "listed_count": 8,
+          "media_count": 40,
+          "tweet_count": 14959
+        },
+        "username": "Fomalhautawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T16:43:54.000Z",
+        "description": "无论去与往 皆是梦中人",
+        "id": "1889354518581878784",
+        "name": "陈艳琼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889529928846286850/GojMt_gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 87,
+          "like_count": 1604,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 138
+        },
+        "username": "genya2027",
+        "verified": false
+      }
+    ]
+  }
+}

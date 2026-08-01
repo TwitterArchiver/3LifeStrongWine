@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1902030309727904094",
+    "created_at": "2025-03-19T15:27:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T16:27:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902381380614680958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1757581189869887488",
+          "start": 0,
+          "username": "gnyu36643"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902381380614680958",
+    "in_reply_to_user_id": "1757581189869887488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902374971646869795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gnyu36643 不考虑，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1902030309727904094",
+        "created_at": "2025-03-19T15:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T16:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902381380614680958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1757581189869887488",
+              "start": 0,
+              "username": "gnyu36643"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902381380614680958",
+        "in_reply_to_user_id": "1757581189869887488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902374971646869795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gnyu36643 不考虑，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757581189869887488",
+        "conversation_id": "1902030309727904094",
+        "created_at": "2025-03-19T15:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T16:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902374971646869795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902374971646869795",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902030309727904094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 考不考虑通货膨胀🤨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来｜把那无人问津的岁月熬成清茶，等一场芳香四散",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1451,
+          "following_count": 232,
+          "like_count": 7078,
+          "listed_count": 11,
+          "media_count": 2195,
+          "tweet_count": 8988
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-14T01:43:27.000Z",
+        "description": "来自中国🇨🇳/高三牲/地科学习者🌏/喜欢听华语歌🎶/偶尔键政/欢迎互fo😉/希望世界和平🕊",
+        "id": "1757581189869887488",
+        "location": "西南官话 川黔片 成渝小片",
+        "name": "甘悦🌟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866707491687632897/90BzBPuM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 480,
+          "like_count": 9930,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1337
+        },
+        "username": "gnyu36643",
+        "verified": false
+      }
+    ]
+  }
+}

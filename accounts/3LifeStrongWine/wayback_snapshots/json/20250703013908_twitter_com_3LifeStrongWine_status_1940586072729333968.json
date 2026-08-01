@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1940584532908167388",
+    "created_at": "2025-07-03T01:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T02:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940586072729333968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1730845651792265216",
+          "start": 0,
+          "username": "coconlai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940586072729333968",
+    "in_reply_to_user_id": "1730845651792265216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940584532908167388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@coconlai 多少钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1940584532908167388",
+        "created_at": "2025-07-03T01:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T02:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940586072729333968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1730845651792265216",
+              "start": 0,
+              "username": "coconlai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940586072729333968",
+        "in_reply_to_user_id": "1730845651792265216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940584532908167388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coconlai 多少钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730845651792265216",
+        "conversation_id": "1940584532908167388",
+        "created_at": "2025-07-03T01:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T02:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940584532908167388"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1940584532908167388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "熊 你衣服怎么这么贵😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "泛黄的老照片里讲述了一个什么样的故事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我会带你去看这世界上最独一无二的风景",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1590,
+          "following_count": 187,
+          "like_count": 7146,
+          "listed_count": 11,
+          "media_count": 2878,
+          "tweet_count": 11725
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-02T07:05:53.000Z",
+        "description": "希望你一切都好希望你每天都开心/喜欢的人/讲废话",
+        "id": "1730845651792265216",
+        "location": "任意门",
+        "name": "lemon soda😈",
+        "pinned_tweet_id": "1907801085714350212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927139486749655040/6X_3WG2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 340,
+          "like_count": 54822,
+          "listed_count": 8,
+          "media_count": 1789,
+          "tweet_count": 24944
+        },
+        "username": "coconlai",
+        "verified": false
+      }
+    ]
+  }
+}

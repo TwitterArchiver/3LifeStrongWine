@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1941422839363666309",
+    "created_at": "2025-07-05T12:05:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T13:05:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941468444840559030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1393065220323647494",
+          "start": 0,
+          "username": "dangshuang0608"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941468444840559030",
+    "in_reply_to_user_id": "1393065220323647494",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941468334861713515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dangshuang0608 小心给你炸死"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8637,
+        "height": 960,
+        "media_key": "7_1941468307367829504",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1941468307367829504/pu/img/XRzeGHVgVD4QxTj5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1941468307367829504/pu/vid/avc1/320x710/Ywgvie6fkv49vusB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1941468307367829504/pu/vid/avc1/432x960/uZJIz95T8RRaKmIS.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1941468307367829504/pu/pl/bukgQGAFqMD6WDkf.m3u8?tag=12"
+          }
+        ],
+        "width": 432
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1941422839363666309",
+        "created_at": "2025-07-05T12:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T13:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941468444840559030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1393065220323647494",
+              "start": 0,
+              "username": "dangshuang0608"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941468444840559030",
+        "in_reply_to_user_id": "1393065220323647494",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941468334861713515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dangshuang0608 小心给你炸死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1941468307367829504"
+          ]
+        },
+        "author_id": "1393065220323647494",
+        "conversation_id": "1941422839363666309",
+        "created_at": "2025-07-05T12:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T13:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941468334861713515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kgl6WabsBM",
+              "end": 44,
+              "expanded_url": "https://x.com/dangshuang0608/status/1941468334861713515/video/1",
+              "media_key": "7_1941468307367829504",
+              "start": 21,
+              "url": "https://t.co/Kgl6WabsBM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941468334861713515",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941422839363666309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 🤚😭✋ https://t.co/Kgl6WabsBM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "泛黄的老照片里讲述了一个什么样的故事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我会带你去看这世界上最独一无二的风景",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1595,
+          "following_count": 187,
+          "like_count": 7148,
+          "listed_count": 11,
+          "media_count": 2887,
+          "tweet_count": 11757
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-14T04:46:55.000Z",
+        "description": "Life is so wonderful…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dangshuang",
+                "end": 23,
+                "expanded_url": "http://t.me/dangshuang",
+                "start": 0,
+                "url": "https://t.co/v2rIN31BR3"
+              }
+            ]
+          }
+        },
+        "id": "1393065220323647494",
+        "location": "Kuala Lumpur",
+        "name": "霜",
+        "pinned_tweet_id": "1928039030383620552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833119548117319680/63fWi4wI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1496,
+          "following_count": 562,
+          "like_count": 4987,
+          "listed_count": 3,
+          "media_count": 683,
+          "tweet_count": 5619
+        },
+        "url": "https://t.co/v2rIN31BR3",
+        "username": "dangshuang0608",
+        "verified": true
+      }
+    ]
+  }
+}

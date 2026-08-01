@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1890253351516008697",
+    "created_at": "2025-02-14T04:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T05:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890253351516008697"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3LifeStrongWin…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/3LifeStrongWine/status/1890245127077310802",
+          "start": 22,
+          "url": "https://t.co/5k2jOUCFpZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890253351516008697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890245127077310802",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "气死我了，搞张卡难道我还要再跑一趟上海去吗 https://t.co/5k2jOUCFpZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1890253351516008697",
+        "created_at": "2025-02-14T04:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T05:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890253351516008697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3LifeStrongWin…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/3LifeStrongWine/status/1890245127077310802",
+              "start": 22,
+              "url": "https://t.co/5k2jOUCFpZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890253351516008697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890245127077310802",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "气死我了，搞张卡难道我还要再跑一趟上海去吗 https://t.co/5k2jOUCFpZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890245120655781894"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1890245127077310802",
+        "created_at": "2025-02-14T03:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T04:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890245127077310802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cmWu6upBcL",
+              "end": 31,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1890245127077310802/photo/1",
+              "media_key": "3_1890245120655781894",
+              "start": 8,
+              "url": "https://t.co/cmWu6upBcL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890245127077310802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个还能申到吗 https://t.co/cmWu6upBcL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 218,
+          "like_count": 6534,
+          "listed_count": 10,
+          "media_count": 1847,
+          "tweet_count": 7613
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

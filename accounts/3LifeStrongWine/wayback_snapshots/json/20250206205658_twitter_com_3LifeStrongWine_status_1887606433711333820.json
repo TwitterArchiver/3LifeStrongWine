@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1887584661632917815",
+    "created_at": "2025-02-06T20:56:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T21:56:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887606433711333820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1733255083440357376",
+          "start": 0,
+          "username": "7639xy_k"
+        },
+        {
+          "end": 26,
+          "id": "1531971331902050304",
+          "start": 10,
+          "username": "Liangbuxiangchi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887606433711333820",
+    "in_reply_to_user_id": "1733255083440357376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887603374323016082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7639xy_k @Liangbuxiangchi 卖相不错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1887584661632917815",
+        "created_at": "2025-02-06T20:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T21:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887606433711333820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1733255083440357376",
+              "start": 0,
+              "username": "7639xy_k"
+            },
+            {
+              "end": 26,
+              "id": "1531971331902050304",
+              "start": 10,
+              "username": "Liangbuxiangchi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887606433711333820",
+        "in_reply_to_user_id": "1733255083440357376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887603374323016082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7639xy_k @Liangbuxiangchi 卖相不错"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887603368501338112"
+          ]
+        },
+        "author_id": "1733255083440357376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1887584661632917815",
+        "created_at": "2025-02-06T20:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T21:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887603374323016082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531971331902050304",
+              "start": 0,
+              "username": "Liangbuxiangchi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gLvKi7TFmF",
+              "end": 71,
+              "expanded_url": "https://x.com/7639xy_k/status/1887603374323016082/photo/1",
+              "media_key": "3_1887603368501338112",
+              "start": 48,
+              "url": "https://t.co/gLvKi7TFmF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887603374323016082",
+        "in_reply_to_user_id": "1531971331902050304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887584661632917815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liangbuxiangchi 陪一张我之前的挂壁饭、胡萝卜和鸡蛋是foodbank白嫖的。 https://t.co/gLvKi7TFmF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 219,
+          "like_count": 6529,
+          "listed_count": 9,
+          "media_count": 1665,
+          "tweet_count": 7227
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-08T22:40:22.000Z",
+        "description": "友好少数群体//刷到我的能不能和我互fo （可能会冒犯的地方：间歇性有意炒作）【@TPR_luv放飞自我胡言乱语版】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 40,
+                "username": "TPR_luv"
+              }
+            ]
+          }
+        },
+        "id": "1733255083440357376",
+        "location": "Anywhere",
+        "name": "曦夜少吃两口",
+        "pinned_tweet_id": "1886999298061295989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885596000112566272/hx71NmDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 602,
+          "like_count": 32171,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 3233
+        },
+        "username": "7639xy_k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T12:10:13.000Z",
+        "description": "不接线下 取关请双取 会回关主页有内容的人 现居广东茂名桌游店 欢迎线下交友一起玩 狼人杀/血染/桌游/PS5 不互推互转 【港美指路】@painofuuuuuuuu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "painofuuuuuuuu"
+              }
+            ]
+          }
+        },
+        "id": "1531971331902050304",
+        "location": "🚪100纯绿",
+        "name": "这是我的义肢",
+        "pinned_tweet_id": "1864953513509556548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856607186224590849/b1VZP-gQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4487,
+          "following_count": 1314,
+          "like_count": 30269,
+          "listed_count": 5,
+          "media_count": 771,
+          "tweet_count": 7344
+        },
+        "username": "Liangbuxiangchi",
+        "verified": false
+      }
+    ]
+  }
+}

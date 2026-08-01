@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1870105630960431105"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1870105648681345420",
+    "created_at": "2024-12-20T13:55:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-20T14:55:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1870105648681345420"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KwTNKaaKCD",
+          "end": 34,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1870105648681345420/video/1",
+          "media_key": "7_1870105630960431105",
+          "start": 11,
+          "url": "https://t.co/KwTNKaaKCD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870105648681345420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以前自己给甲面抛光了 https://t.co/KwTNKaaKCD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3733,
+        "height": 1280,
+        "media_key": "7_1870105630960431105",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1870105630960431105/pu/img/FmFmxV74gOFyuzhc.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1870105630960431105/pu/vid/avc1/320x568/kEZZ-U3ykZ-5KCbF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1870105630960431105/pu/vid/avc1/480x852/5lMLRtTZC0PYqCNT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1870105630960431105/pu/vid/avc1/720x1280/9196kbPrqyg7xA8T.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1870105630960431105/pu/pl/qa9NJFhl6KpIyYS-.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1870105630960431105"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1870105648681345420",
+        "created_at": "2024-12-20T13:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T14:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870105648681345420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KwTNKaaKCD",
+              "end": 34,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1870105648681345420/video/1",
+              "media_key": "7_1870105630960431105",
+              "start": 11,
+              "url": "https://t.co/KwTNKaaKCD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870105648681345420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前自己给甲面抛光了 https://t.co/KwTNKaaKCD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "有时也想过花烂漫某天与世界无声道别， 可是偏偏有太多太多遗憾挂牵没画句点",
+        "id": "1529654419213541376",
+        "location": "期待一场意外，此生再无难过",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1865393368853090537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 195,
+          "like_count": 2944,
+          "listed_count": 6,
+          "media_count": 690,
+          "tweet_count": 3878
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      }
+    ]
+  }
+}

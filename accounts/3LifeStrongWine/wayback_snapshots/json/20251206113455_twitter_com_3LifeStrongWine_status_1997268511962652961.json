@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1997212952173367576",
+    "created_at": "2025-12-06T11:34:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T12:34:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997268511962652961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1779093261954465792",
+          "start": 0,
+          "username": "HaniOvO_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997268511962652961",
+    "in_reply_to_user_id": "1779093261954465792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997229333312860412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaniOvO_ 在哪看到的，礼品店吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_1997229325494661120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7eVfWEaMAA1fAc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1997212952173367576",
+        "created_at": "2025-12-06T11:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T12:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997268511962652961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1779093261954465792",
+              "start": 0,
+              "username": "HaniOvO_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997268511962652961",
+        "in_reply_to_user_id": "1779093261954465792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997229333312860412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaniOvO_ 在哪看到的，礼品店吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997229325494661120"
+          ]
+        },
+        "author_id": "1779093261954465792",
+        "conversation_id": "1997212952173367576",
+        "created_at": "2025-12-06T08:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T09:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997229333312860412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VRQF1wvNY2",
+              "end": 40,
+              "expanded_url": "https://x.com/HaniOvO_/status/1997229333312860412/photo/1",
+              "media_key": "3_1997229325494661120",
+              "start": 17,
+              "url": "https://t.co/VRQF1wvNY2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997229333312860412",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997212952173367576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine https://t.co/VRQF1wvNY2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我爱上的是遥远的理想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "pinned_tweet_id": "1992598033381638574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 178,
+          "like_count": 6610,
+          "listed_count": 12,
+          "media_count": 3023,
+          "tweet_count": 12233
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-13T10:24:39.000Z",
+        "description": "私訊只回覆青年音。主人@Readyt01ove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "Readyt01ove"
+              }
+            ]
+          }
+        },
+        "id": "1779093261954465792",
+        "location": "距离你1km",
+        "name": "hani",
+        "pinned_tweet_id": "1922650768458354949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991679077066121216/rhiO9CTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6264,
+          "following_count": 108,
+          "like_count": 40243,
+          "listed_count": 12,
+          "media_count": 178,
+          "tweet_count": 2754
+        },
+        "username": "HaniOvO_",
+        "verified": false
+      }
+    ]
+  }
+}

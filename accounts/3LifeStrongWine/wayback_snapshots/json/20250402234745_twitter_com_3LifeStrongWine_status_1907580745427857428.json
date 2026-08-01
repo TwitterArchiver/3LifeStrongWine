@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1907574274304651649",
+    "created_at": "2025-04-02T23:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T00:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907580745427857428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1522588511005659137",
+          "start": 0,
+          "username": "ye43667841"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907580745427857428",
+    "in_reply_to_user_id": "1522588511005659137",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907580606529343616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ye43667841 不好吃…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1907574274304651649",
+        "created_at": "2025-04-02T23:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T00:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907580745427857428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1522588511005659137",
+              "start": 0,
+              "username": "ye43667841"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907580745427857428",
+        "in_reply_to_user_id": "1522588511005659137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907580606529343616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ye43667841 不好吃…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522588511005659137",
+        "conversation_id": "1907574274304651649",
+        "created_at": "2025-04-02T23:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T00:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907580606529343616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907580606529343616",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907574274304651649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 早上好(好多好吃的🤤🤤)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来｜把那无人问津的岁月熬成清茶，等一场芳香四散",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1485,
+          "following_count": 228,
+          "like_count": 7147,
+          "listed_count": 12,
+          "media_count": 2343,
+          "tweet_count": 9513
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-06T14:46:21.000Z",
+        "description": "看到啥好吃的都想吃一口，喜欢聊天，想找找朋友打打游戏，祝每个人都天天开心",
+        "id": "1522588511005659137",
+        "location": "哪里有饭就有我——",
+        "name": "薰",
+        "pinned_tweet_id": "1890987942811734323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782536099031920640/4kmkswX8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 748,
+          "like_count": 9740,
+          "listed_count": 5,
+          "media_count": 232,
+          "tweet_count": 4078
+        },
+        "username": "ye43667841",
+        "verified": false
+      }
+    ]
+  }
+}

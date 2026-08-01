@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1884258855481483588",
+    "created_at": "2025-01-28T15:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T16:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884269839558357291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1478756568816521218",
+          "start": 0,
+          "username": "SleeepingDoggy_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884269839558357291",
+    "in_reply_to_user_id": "1478756568816521218",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884261135106638080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SleeepingDoggy_ 好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1884258855481483588",
+        "created_at": "2025-01-28T15:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T16:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884269839558357291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1478756568816521218",
+              "start": 0,
+              "username": "SleeepingDoggy_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884269839558357291",
+        "in_reply_to_user_id": "1478756568816521218",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884261135106638080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SleeepingDoggy_ 好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1478756568816521218",
+        "conversation_id": "1884258855481483588",
+        "created_at": "2025-01-28T15:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T16:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884261135106638080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884261135106638080",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884258855481483588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 其实我觉得没什么必要买保护壳！我之前也想买 后来担心进水之后不出来 就没买。感觉如果不是把它往锋利的地方擦碰的话不会有什么很大的伤害的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "凡所有相  皆是虚妄",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 217,
+          "like_count": 6257,
+          "listed_count": 8,
+          "media_count": 1506,
+          "tweet_count": 6706
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-05T15:53:41.000Z",
+        "description": "你想的话可以和我一起玩^ ^",
+        "id": "1478756568816521218",
+        "location": "我是个幸福的小女孩！",
+        "name": "睡狗酱",
+        "pinned_tweet_id": "1815377386189234626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883503710711746560/hrw2cR0s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2359,
+          "following_count": 181,
+          "like_count": 40191,
+          "listed_count": 23,
+          "media_count": 1924,
+          "tweet_count": 20883
+        },
+        "username": "SleeepingDoggy_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1882002933853872193",
+    "created_at": "2025-01-22T15:03:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T16:03:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882081699695337535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1850030386115641344",
+          "start": 0,
+          "username": "Mercy7lin321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882081699695337535",
+    "in_reply_to_user_id": "1850030386115641344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882041090146197584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mercy7lin321 因为民转军"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1882002933853872193",
+        "created_at": "2025-01-22T15:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T16:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882081699695337535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1850030386115641344",
+              "start": 0,
+              "username": "Mercy7lin321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882081699695337535",
+        "in_reply_to_user_id": "1850030386115641344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882041090146197584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercy7lin321 因为民转军"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850030386115641344",
+        "conversation_id": "1882002933853872193",
+        "created_at": "2025-01-22T12:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T13:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882041090146197584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882041090146197584",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882002933853872193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 为什么拿A320的侧杆开战斗机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "白云山上白云泉，云自无心水自闲",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 227,
+          "like_count": 5952,
+          "listed_count": 7,
+          "media_count": 1398,
+          "tweet_count": 6297
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-26T04:23:37.000Z",
+        "description": "06捡破烂男大 INTJ-A 21世纪管仲范蠡 见字如面    ✉️:https://t.co/BljcLXbqjH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mercy57680",
+                "end": 58,
+                "expanded_url": "https://ngl.link/mercy57680",
+                "start": 35,
+                "url": "https://t.co/BljcLXbqjH"
+              }
+            ]
+          }
+        },
+        "id": "1850030386115641344",
+        "location": "狗不理市嘎巴菜区 ",
+        "name": "Mercy",
+        "pinned_tweet_id": "1880467096137814206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870478101031092224/pyOBQIQk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 298,
+          "like_count": 14495,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 236
+        },
+        "username": "Mercy7lin321",
+        "verified": false
+      }
+    ]
+  }
+}

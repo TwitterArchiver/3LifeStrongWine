@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2038276475741417920",
+    "created_at": "2026-03-29T17:08:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T18:08:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038302205464162688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1999056359141339136",
+          "start": 0,
+          "username": "mossdew7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038302205464162688",
+    "in_reply_to_user_id": "1999056359141339136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038302146295418944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mossdew7 确实萌！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2038276475741417920",
+        "created_at": "2026-03-29T17:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T18:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038302205464162688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1999056359141339136",
+              "start": 0,
+              "username": "mossdew7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038302205464162688",
+        "in_reply_to_user_id": "1999056359141339136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038302146295418944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mossdew7 确实萌！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999056359141339136",
+        "conversation_id": "2038276475741417920",
+        "created_at": "2026-03-29T17:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T18:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038302146295418944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038302146295418944",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038302056415399992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 世界上有10个人喜欢你，我呀，我啊，我哇，吾，孤，朕，在下，鄙人，本人，me。( •̅ ω •̅ )(•̅灬•̅ )(•́ω•̀ )"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我一定带你脱离苦海，我答应过你。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VnXMe"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2037,
+          "following_count": 178,
+          "like_count": 6879,
+          "listed_count": 13,
+          "media_count": 3477,
+          "tweet_count": 13613
+        },
+        "url": "https://t.co/3g5y5VnXMe",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T09:59:22.000Z",
+        "description": "欣赏你流浪，像是种信仰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kparad1se",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kparad1se",
+                "start": 0,
+                "url": "https://t.co/DKMOjjrL0t"
+              }
+            ]
+          }
+        },
+        "id": "1999056359141339136",
+        "name": "怜刀流",
+        "pinned_tweet_id": "2000064493196595443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036847568089747456/-cdhNPux_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 33,
+          "like_count": 5715,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 1549
+        },
+        "url": "https://t.co/DKMOjjrL0t",
+        "username": "mossdew7",
+        "verified": false
+      }
+    ]
+  }
+}

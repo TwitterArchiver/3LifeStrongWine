@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880265335913492480"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1880265342192349657",
+    "created_at": "2025-01-17T14:46:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T15:46:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1880265342192349657"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Eqh9xOH53Z",
+          "end": 86,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1880265342192349657/photo/1",
+          "media_key": "3_1880265335913492480",
+          "start": 63,
+          "url": "https://t.co/Eqh9xOH53Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880265342192349657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最难的时候别老想着太远的将来，只要鼓励自己能熬过今天就好，有太多的猝不及防，但有些东西根本不配占据你的情绪，人生就是一场体验 https://t.co/Eqh9xOH53Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 896,
+        "media_key": "3_1880265335913492480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhgLXGaasAAKIxs.jpg",
+        "width": 786
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880265335913492480"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1880265342192349657",
+        "created_at": "2025-01-17T14:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T15:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880265342192349657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eqh9xOH53Z",
+              "end": 86,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1880265342192349657/photo/1",
+              "media_key": "3_1880265335913492480",
+              "start": 63,
+              "url": "https://t.co/Eqh9xOH53Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880265342192349657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最难的时候别老想着太远的将来，只要鼓励自己能熬过今天就好，有太多的猝不及防，但有些东西根本不配占据你的情绪，人生就是一场体验 https://t.co/Eqh9xOH53Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "可惜我们终于来到一个句号。｜雨季里我和你的青春一起坐过了站，而我会站在原地热泪盈眶地读你的未来",
+        "id": "1529654419213541376",
+        "location": "时光如梭岁月如河没必要刻舟求剑",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879527429754269696/Ip8jHko0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1136,
+          "following_count": 218,
+          "like_count": 5398,
+          "listed_count": 7,
+          "media_count": 1263,
+          "tweet_count": 5729
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1898031183340228804",
+    "created_at": "2025-03-07T15:24:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T16:24:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898032074239754309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1533870529387458560",
+          "start": 0,
+          "username": "FinnaXS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898032074239754309",
+    "in_reply_to_user_id": "1533870529387458560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898031836804354472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FinnaXS 我哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1898031183340228804",
+        "created_at": "2025-03-07T15:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T16:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898032074239754309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1533870529387458560",
+              "start": 0,
+              "username": "FinnaXS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898032074239754309",
+        "in_reply_to_user_id": "1533870529387458560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898031836804354472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FinnaXS 我哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533870529387458560",
+        "conversation_id": "1898031183340228804",
+        "created_at": "2025-03-07T15:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T16:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898031836804354472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898031836804354472",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898031183340228804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 是的，我那么伤感的事情你还一直笑！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1411,
+          "following_count": 232,
+          "like_count": 6926,
+          "listed_count": 11,
+          "media_count": 2110,
+          "tweet_count": 8525
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-06T17:57:27.000Z",
+        "description": "阴暗潮湿的毒蛇 口是心非的笨蛋 爱我赤裸的灵魂而不是肉体🚪52000（纯加微信不聊天）",
+        "id": "1533870529387458560",
+        "location": "悲伤逆流成河",
+        "name": "黄油煎蛋真好吃",
+        "pinned_tweet_id": "1877025187733893282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830268691507777536/czFV8Wcd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 57,
+          "like_count": 3822,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1494
+        },
+        "username": "FinnaXS",
+        "verified": false
+      }
+    ]
+  }
+}

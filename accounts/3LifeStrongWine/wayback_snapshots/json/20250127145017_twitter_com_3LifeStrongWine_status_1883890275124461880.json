@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1883851181765865520",
+    "created_at": "2025-01-27T14:50:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T15:50:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883890275124461880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1865579172745371648",
+          "start": 0,
+          "username": "Mrcool0610"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883890275124461880",
+    "in_reply_to_user_id": "1865579172745371648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883889188074078558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mrcool0610 是我用这软件太晚了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1883851181765865520",
+        "created_at": "2025-01-27T14:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T15:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883890275124461880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1865579172745371648",
+              "start": 0,
+              "username": "Mrcool0610"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883890275124461880",
+        "in_reply_to_user_id": "1865579172745371648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883889188074078558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mrcool0610 是我用这软件太晚了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865579172745371648",
+        "conversation_id": "1883851181765865520",
+        "created_at": "2025-01-27T14:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T15:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883889188074078558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883889188074078558",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883851181765865520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine (￣∇￣)很早就有了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "凡所有相  皆是虚妄",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1371,
+          "following_count": 219,
+          "like_count": 6204,
+          "listed_count": 8,
+          "media_count": 1491,
+          "tweet_count": 6662
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-08T02:08:47.000Z",
+        "description": "一个智商情商负数 口无遮拦的中年油腻男lsp~~ 半个摄影爱好者 风景打鸟为主 既是打工人也是老板 分享枯燥内容~.~",
+        "id": "1865579172745371648",
+        "location": "Somewhere in the world",
+        "name": "Mrcool",
+        "pinned_tweet_id": "1869946807154852027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865626177228128256/-tTsWOP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 214,
+          "like_count": 5713,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 811
+        },
+        "username": "Mrcool0610",
+        "verified": false
+      }
+    ]
+  }
+}

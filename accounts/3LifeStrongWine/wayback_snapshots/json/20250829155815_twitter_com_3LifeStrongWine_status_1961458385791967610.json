@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1961449002739888402",
+    "created_at": "2025-08-29T15:58:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T16:58:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961458385791967610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1618566507868606464",
+          "start": 0,
+          "username": "Pscouopie4u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961458385791967610",
+    "in_reply_to_user_id": "1618566507868606464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961458070808383650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pscouopie4u 你也想去吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1961449002739888402",
+        "created_at": "2025-08-29T15:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T16:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961458385791967610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1618566507868606464",
+              "start": 0,
+              "username": "Pscouopie4u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961458385791967610",
+        "in_reply_to_user_id": "1618566507868606464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961458070808383650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pscouopie4u 你也想去吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618566507868606464",
+        "conversation_id": "1961449002739888402",
+        "created_at": "2025-08-29T15:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T16:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961458070808383650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961458070808383650",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961449002739888402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 我已经蹲住了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "泛黄的老照片里讲述了一个什么样的故事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我会带你去看这世界上最独一无二的风景",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1549,
+          "following_count": 183,
+          "like_count": 6834,
+          "listed_count": 13,
+          "media_count": 2977,
+          "tweet_count": 12063
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-26T11:08:33.000Z",
+        "description": "碎碎念大王💭/日常🫧/ enfp-t | 05♓ /废话人格🗑@Pouoppy228🤍 | 180+大奶腹肌翘臀还有好看的手素真爱😋/嘻嘻互关宝宝俺萌➕V多多聊天好不好～！🥰 /陌生男私信先打钱💰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Pouoppy228"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilwoo3122812",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilwoo3122812",
+                "start": 0,
+                "url": "https://t.co/cj8wXW3O7e"
+              }
+            ]
+          }
+        },
+        "id": "1618566507868606464",
+        "location": "🚪纯绿88/188/288不封顶🌕我爱神秘数字📮",
+        "name": "葡萄柠檬c🐾（半死不活版🚬）",
+        "pinned_tweet_id": "1960527023417516039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958387235872804864/JU9JGwEB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1761,
+          "following_count": 491,
+          "like_count": 107154,
+          "listed_count": 7,
+          "media_count": 1171,
+          "tweet_count": 17794
+        },
+        "url": "https://t.co/cj8wXW3O7e",
+        "username": "Pscouopie4u",
+        "verified": false
+      }
+    ]
+  }
+}

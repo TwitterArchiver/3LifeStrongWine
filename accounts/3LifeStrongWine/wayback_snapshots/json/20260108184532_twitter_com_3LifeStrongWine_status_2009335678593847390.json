@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2009334667221299424",
+    "created_at": "2026-01-08T18:45:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T19:45:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009335678593847390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1846596847324090368",
+          "start": 0,
+          "username": "gummy_yummy_123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009335678593847390",
+    "in_reply_to_user_id": "1846596847324090368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009334908452524189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gummy_yummy_123 就一个五星"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2009334667221299424",
+        "created_at": "2026-01-08T18:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T19:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009335678593847390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1846596847324090368",
+              "start": 0,
+              "username": "gummy_yummy_123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009335678593847390",
+        "in_reply_to_user_id": "1846596847324090368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009334908452524189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gummy_yummy_123 就一个五星"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846596847324090368",
+        "conversation_id": "2009334667221299424",
+        "created_at": "2026-01-08T18:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T19:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009334908452524189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009334908452524189",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009334667221299424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 富公哦 我连这是啥酒店都不知道🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "云和山和风和雨，轻轻地流过我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VnXMe"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "pinned_tweet_id": "1992598033381638574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1662,
+          "following_count": 166,
+          "like_count": 6659,
+          "listed_count": 12,
+          "media_count": 3120,
+          "tweet_count": 12584
+        },
+        "url": "https://t.co/3g5y5VnXMe",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-16T16:59:45.000Z",
+        "description": "dont cry",
+        "id": "1846596847324090368",
+        "location": "人潮拥挤握住湿热的手心",
+        "name": "老鼠眼球软糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002027866972950528/F5zXA9LI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 92,
+          "like_count": 4121,
+          "listed_count": 0,
+          "media_count": 799,
+          "tweet_count": 4267
+        },
+        "username": "gummy_yummy_123",
+        "verified": false
+      }
+    ]
+  }
+}

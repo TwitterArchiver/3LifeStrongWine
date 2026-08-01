@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2024280988340404550",
+    "created_at": "2026-02-19T05:36:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T06:36:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024357337688113648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1526242362766282757",
+          "start": 0,
+          "username": "ainn22sun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024357337688113648",
+    "in_reply_to_user_id": "1526242362766282757",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024310946253197634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ainn22sun 下一秒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2024280988340404550",
+        "created_at": "2026-02-19T05:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T06:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024357337688113648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1526242362766282757",
+              "start": 0,
+              "username": "ainn22sun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024357337688113648",
+        "in_reply_to_user_id": "1526242362766282757",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024310946253197634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ainn22sun 下一秒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1526242362766282757",
+        "conversation_id": "2024280988340404550",
+        "created_at": "2026-02-19T02:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T03:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024310946253197634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024310946253197634",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024280988340404550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 我妈啥时候这么有钱(ᐡ ɞ̴̶̷ . ɞ̴̶̷ ᐡ)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "此后锦书休寄  画楼云雨无凭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1724,
+          "following_count": 171,
+          "like_count": 6822,
+          "listed_count": 12,
+          "media_count": 3307,
+          "tweet_count": 13093
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-16T16:45:27.000Z",
+        "description": "潮水一样的值得高兴的事",
+        "id": "1526242362766282757",
+        "name": "Sanri",
+        "pinned_tweet_id": "1923477260243181698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999587435515904/1xrDZzRI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 213,
+          "like_count": 4151,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 1331
+        },
+        "username": "ainn22sun",
+        "verified": false
+      }
+    ]
+  }
+}

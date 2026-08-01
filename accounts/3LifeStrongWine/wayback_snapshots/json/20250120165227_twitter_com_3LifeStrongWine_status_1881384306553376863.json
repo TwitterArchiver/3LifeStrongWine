@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1881361222068842555",
+    "created_at": "2025-01-20T16:52:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T17:52:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881384306553376863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1708585338137145344",
+          "start": 0,
+          "username": "lullashamboa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881384306553376863",
+    "in_reply_to_user_id": "1708585338137145344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881384177842716842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lullashamboa 外观已经解禁了，性能还没解禁，但是貌似提升不大，只有20%-30%"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1881361222068842555",
+        "created_at": "2025-01-20T16:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T17:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881384306553376863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1708585338137145344",
+              "start": 0,
+              "username": "lullashamboa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881384306553376863",
+        "in_reply_to_user_id": "1708585338137145344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881384177842716842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lullashamboa 外观已经解禁了，性能还没解禁，但是貌似提升不大，只有20%-30%"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708585338137145344",
+        "conversation_id": "1881361222068842555",
+        "created_at": "2025-01-20T16:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T17:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881384177842716842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881384177842716842",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881361222068842555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine vocal我out了我刷到5090d开箱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "白云山上白云泉，云自无心水自闲",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 234,
+          "like_count": 5778,
+          "listed_count": 7,
+          "media_count": 1350,
+          "tweet_count": 6126
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T20:51:12.000Z",
+        "description": "♂♂♂我爱学习😣😖😫😩🥺看到我在刷推请叫我去学习",
+        "id": "1708585338137145344",
+        "name": "薯片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743705207106838528/nMYoTFgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 261,
+          "like_count": 660,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 641
+        },
+        "username": "lullashamboa",
+        "verified": false
+      }
+    ]
+  }
+}

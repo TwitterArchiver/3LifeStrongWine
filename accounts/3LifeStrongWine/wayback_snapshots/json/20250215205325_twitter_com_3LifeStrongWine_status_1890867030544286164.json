@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1890788160365281524",
+    "created_at": "2025-02-15T20:53:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T21:53:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890867030544286164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781712570497552384",
+          "start": 0,
+          "username": "siinaaki0912"
+        },
+        {
+          "end": 27,
+          "id": "1248637653001494529",
+          "start": 14,
+          "username": "Fomalhautawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890867030544286164",
+    "in_reply_to_user_id": "1781712570497552384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890848617855856798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siinaaki0912 @Fomalhautawa 随便买一种茶跟水溶c柠檬味1:1兑着喝就是简易版的柠檬茶，可以加点蜂蜜，味道更好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1890788160365281524",
+        "created_at": "2025-02-15T20:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T21:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890867030544286164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781712570497552384",
+              "start": 0,
+              "username": "siinaaki0912"
+            },
+            {
+              "end": 27,
+              "id": "1248637653001494529",
+              "start": 14,
+              "username": "Fomalhautawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890867030544286164",
+        "in_reply_to_user_id": "1781712570497552384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890848617855856798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siinaaki0912 @Fomalhautawa 随便买一种茶跟水溶c柠檬味1:1兑着喝就是简易版的柠檬茶，可以加点蜂蜜，味道更好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781712570497552384",
+        "conversation_id": "1890788160365281524",
+        "created_at": "2025-02-15T19:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T20:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890848617855856798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1248637653001494529",
+              "start": 0,
+              "username": "Fomalhautawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890848617855856798",
+        "in_reply_to_user_id": "1248637653001494529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890848342168543311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fomalhautawa 没事，长期保持这样的作息就不算熬夜☝️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 219,
+          "like_count": 6587,
+          "listed_count": 10,
+          "media_count": 1878,
+          "tweet_count": 7723
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-20T15:52:51.000Z",
+        "description": "叫我小秋就好\n06/155cm/38kg/sub/宅/\n不接推广",
+        "id": "1781712570497552384",
+        "location": "我会永远视奸你👁️",
+        "name": "椎名_秋",
+        "pinned_tweet_id": "1876568812927262887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890474819436834818/2LNberBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15857,
+          "following_count": 443,
+          "like_count": 4405,
+          "listed_count": 22,
+          "media_count": 521,
+          "tweet_count": 4466
+        },
+        "username": "siinaaki0912",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-10T15:43:19.000Z",
+        "description": "你好哦，姓师怎么称呼都行，现居上海。/\n发些日常·食物·抽象，偶尔会说点怪话。/\n私信评论都会互动哦，我很温和的，请随意。/\n经常会清理一些推文，望见谅。/\n愿你喜乐安康。",
+        "id": "1248637653001494529",
+        "location": "萱华轩",
+        "name": "S𝔥𝔦𝔰𝔴",
+        "pinned_tweet_id": "1890668271692620221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883561348619218944/wfuWIRmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 204,
+          "like_count": 64764,
+          "listed_count": 7,
+          "media_count": 34,
+          "tweet_count": 14553
+        },
+        "username": "Fomalhautawa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1883162616421617927",
+    "created_at": "2025-01-25T14:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T15:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883164094301388993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1838553863349325824",
+          "start": 0,
+          "username": "Chantxiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883164094301388993",
+    "in_reply_to_user_id": "1838553863349325824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883163131171787094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chantxiao 对哦，我是道士啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1883162616421617927",
+        "created_at": "2025-01-25T14:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T15:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883164094301388993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1838553863349325824",
+              "start": 0,
+              "username": "Chantxiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883164094301388993",
+        "in_reply_to_user_id": "1838553863349325824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883163131171787094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chantxiao 对哦，我是道士啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838553863349325824",
+        "conversation_id": "1883162616421617927",
+        "created_at": "2025-01-25T14:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T15:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883163131171787094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883163131171787094",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883162616421617927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 三生老师 快用雷法劈它"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "凡所有相  皆是虚妄",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 222,
+          "like_count": 6144,
+          "listed_count": 7,
+          "media_count": 1452,
+          "tweet_count": 6566
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-24T12:19:53.000Z",
+        "description": "有点意思，但有的不多",
+        "id": "1838553863349325824",
+        "location": "china",
+        "name": "pigpig",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876888212515545088/_GDaWUPr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 115,
+          "like_count": 1197,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 223
+        },
+        "username": "Chantxiao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1908541673409568861",
+    "created_at": "2025-04-05T15:36:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T16:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908544177316794461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1827416305038987264",
+          "start": 0,
+          "username": "candf0131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908544177316794461",
+    "in_reply_to_user_id": "1827416305038987264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908541673409568861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@candf0131 最后一句可以不用说其实"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 304,
+        "media_key": "3_1908541665490640896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnyAiGqaIAA5o0k.jpg",
+        "width": 1132
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1908541673409568861",
+        "created_at": "2025-04-05T15:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T16:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908544177316794461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1827416305038987264",
+              "start": 0,
+              "username": "candf0131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908544177316794461",
+        "in_reply_to_user_id": "1827416305038987264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908541673409568861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@candf0131 最后一句可以不用说其实"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908541665490640896"
+          ]
+        },
+        "author_id": "1827416305038987264",
+        "conversation_id": "1908541673409568861",
+        "created_at": "2025-04-05T15:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T16:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908541673409568861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N6yn9bgkDb",
+              "end": 47,
+              "expanded_url": "https://x.com/candf0131/status/1908541673409568861/photo/1",
+              "media_key": "3_1908541665490640896",
+              "start": 24,
+              "url": "https://t.co/N6yn9bgkDb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908541673409568861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "同学问我要我照片然后。（同学能别这么说话吗。） https://t.co/N6yn9bgkDb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "业余摄影｜我会永远站在过去热泪盈眶地读着你们的未来",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1491,
+          "following_count": 245,
+          "like_count": 7188,
+          "listed_count": 12,
+          "media_count": 2421,
+          "tweet_count": 9774
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-24T18:43:02.000Z",
+        "description": "一个绝望的侄女。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/haochi2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/haochi2",
+                "start": 0,
+                "url": "https://t.co/AwAYrB4j88"
+              }
+            ]
+          }
+        },
+        "id": "1827416305038987264",
+        "location": "🚪52000",
+        "name": "土豆泥世界第一",
+        "pinned_tweet_id": "1872702198477668715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849132688491552768/4Ljbr_pI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 48,
+          "like_count": 2550,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 2182
+        },
+        "url": "https://t.co/AwAYrB4j88",
+        "username": "candf0131",
+        "verified": false
+      }
+    ]
+  }
+}

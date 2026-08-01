@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1895833505457979880",
+    "created_at": "2025-06-09T14:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T15:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932083793650982935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1566739868688199680",
+          "start": 0,
+          "username": "ChiangShauYuKan"
+        },
+        {
+          "end": 30,
+          "id": "1491080744508489731",
+          "start": 17,
+          "username": "0308_sodashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932083793650982935",
+    "in_reply_to_user_id": "1566739868688199680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895833505457979880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChiangShauYuKan @0308_sodashi 这个臭不臭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1184,
+        "media_key": "3_1895833485694418945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk9agrwbQAENEzp.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1895833505457979880",
+        "created_at": "2025-06-09T14:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T15:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932083793650982935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1566739868688199680",
+              "start": 0,
+              "username": "ChiangShauYuKan"
+            },
+            {
+              "end": 30,
+              "id": "1491080744508489731",
+              "start": 17,
+              "username": "0308_sodashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932083793650982935",
+        "in_reply_to_user_id": "1566739868688199680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895833505457979880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChiangShauYuKan @0308_sodashi 这个臭不臭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895833485694418945"
+          ]
+        },
+        "author_id": "1566739868688199680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1895833505457979880",
+        "created_at": "2025-03-01T13:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T14:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895833505457979880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1491080744508489731",
+              "start": 10,
+              "username": "0308_sodashi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EZloOSIoCP",
+              "end": 47,
+              "expanded_url": "https://x.com/ChiangShauYuKan/status/1895833505457979880/photo/1",
+              "media_key": "3_1895833485694418945",
+              "start": 24,
+              "url": "https://t.co/EZloOSIoCP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895833505457979880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 819,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "非常好火腿来自叶师傅@0308_sodashi https://t.co/EZloOSIoCP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "时光足够温柔了吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1533,
+          "following_count": 238,
+          "like_count": 7464,
+          "listed_count": 11,
+          "media_count": 2770,
+          "tweet_count": 11273
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-05T10:47:56.000Z",
+        "description": "Thought I'd something more to say",
+        "id": "1566739868688199680",
+        "location": "横幅由窝摄于2023.11.19",
+        "name": "醬燒魚乾",
+        "pinned_tweet_id": "1600083273652183040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927542879137792000/lvJcA1nn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2362,
+          "following_count": 836,
+          "like_count": 182054,
+          "listed_count": 5,
+          "media_count": 941,
+          "tweet_count": 22633
+        },
+        "username": "ChiangShauYuKan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T16:05:39.000Z",
+        "description": "葉靜流｜上海在住｜鉄道・帝国海軍・競馬が好き｜艦これ柱島泊地｜恋人：@34usamirenko86",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 34,
+                "username": "34usamirenko86"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "whofuckingcares.com",
+                "end": 23,
+                "expanded_url": "http://whofuckingcares.com",
+                "start": 0,
+                "url": "https://t.co/bup4Aua3Sh"
+              }
+            ]
+          }
+        },
+        "id": "1491080744508489731",
+        "location": "Osaka-shi Tennoji-ku, Osaka",
+        "name": "葉",
+        "pinned_tweet_id": "1759592076940120409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919203537982234624/LqxHYaS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3171,
+          "following_count": 2880,
+          "like_count": 106511,
+          "listed_count": 14,
+          "media_count": 4449,
+          "tweet_count": 29488
+        },
+        "url": "https://t.co/bup4Aua3Sh",
+        "username": "0308_sodashi",
+        "verified": false
+      }
+    ]
+  }
+}

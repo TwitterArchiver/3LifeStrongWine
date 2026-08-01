@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930626336122683392"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1930626343248564706",
+    "created_at": "2025-06-05T14:02:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T15:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1930626343248564706"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F6jODWYaUi",
+          "end": 32,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1930626343248564706/photo/1",
+          "media_key": "3_1930626336122683392",
+          "start": 9,
+          "url": "https://t.co/F6jODWYaUi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930626343248564706",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我室友喊了两嗓子 https://t.co/F6jODWYaUi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 496,
+        "media_key": "3_1930626336122683392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsr2bH6bQAAO3ck.jpg",
+        "width": 416
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930626336122683392"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1930626343248564706",
+        "created_at": "2025-06-05T14:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T15:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930626343248564706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F6jODWYaUi",
+              "end": 32,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1930626343248564706/photo/1",
+              "media_key": "3_1930626336122683392",
+              "start": 9,
+              "url": "https://t.co/F6jODWYaUi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930626343248564706",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我室友喊了两嗓子 https://t.co/F6jODWYaUi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "时光足够温柔了吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912318298353487872/R3xfbIV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 239,
+          "like_count": 7447,
+          "listed_count": 11,
+          "media_count": 2732,
+          "tweet_count": 11122
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

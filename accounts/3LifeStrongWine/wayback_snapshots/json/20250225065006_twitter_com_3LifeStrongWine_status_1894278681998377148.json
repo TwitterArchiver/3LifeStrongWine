@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1894278681998377148",
+    "created_at": "2025-02-25T06:50:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T07:50:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894278681998377148"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yumibb927/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/yumibb927/status/1893843792341385661",
+          "start": 7,
+          "url": "https://t.co/HM4SXhvjuk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894278681998377148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893843792341385661",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这玩意是啥啊 https://t.co/HM4SXhvjuk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1336,
+        "media_key": "3_1893843785227907072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkhI436XMAABFuV.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1894278681998377148",
+        "created_at": "2025-02-25T06:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T07:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894278681998377148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yumibb927/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/yumibb927/status/1893843792341385661",
+              "start": 7,
+              "url": "https://t.co/HM4SXhvjuk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894278681998377148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893843792341385661",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这玩意是啥啊 https://t.co/HM4SXhvjuk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893843785227907072"
+          ]
+        },
+        "author_id": "1691408692967546881",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1893843792341385661",
+        "created_at": "2025-02-24T02:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T03:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893843792341385661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yxwnLmpGew",
+              "end": 26,
+              "expanded_url": "https://x.com/yumibb927/status/1893843792341385661/photo/1",
+              "media_key": "3_1893843785227907072",
+              "start": 3,
+              "url": "https://t.co/yxwnLmpGew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893843792341385661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1357,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "报次 https://t.co/yxwnLmpGew"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1407,
+          "following_count": 229,
+          "like_count": 6842,
+          "listed_count": 10,
+          "media_count": 2024,
+          "tweet_count": 8251
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-15T11:17:35.000Z",
+        "description": "随缘更新/🚪我是皇帝/不约不线下/不回私信",
+        "id": "1691408692967546881",
+        "location": "你心里",
+        "name": "玉米粒",
+        "pinned_tweet_id": "1887124586820698289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858840315446390784/fkPPP-2c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6104,
+          "following_count": 48,
+          "like_count": 796,
+          "listed_count": 12,
+          "media_count": 114,
+          "tweet_count": 2015
+        },
+        "username": "yumibb927",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1892873376261189976",
+    "created_at": "2025-02-21T16:48:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T17:48:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892979762668413207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1618583820747575299",
+          "start": 0,
+          "username": "jack6295141"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892979762668413207",
+    "in_reply_to_user_id": "1618583820747575299",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892971031222178216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jack6295141 是啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1892873376261189976",
+        "created_at": "2025-02-21T16:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T17:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892979762668413207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1618583820747575299",
+              "start": 0,
+              "username": "jack6295141"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892979762668413207",
+        "in_reply_to_user_id": "1618583820747575299",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892971031222178216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jack6295141 是啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618583820747575299",
+        "conversation_id": "1892873376261189976",
+        "created_at": "2025-02-21T16:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T17:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892971031222178216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892971031222178216",
+        "in_reply_to_user_id": "1618583820747575299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892970936799830483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 或者说，都原价买游戏？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1400,
+          "following_count": 227,
+          "like_count": 6716,
+          "listed_count": 10,
+          "media_count": 1968,
+          "tweet_count": 8032
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-26T12:17:30.000Z",
+        "description": "欢迎有人来闲聊。",
+        "id": "1618583820747575299",
+        "name": "Jack",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619234771825197057/DUGEbBzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 55,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 322
+        },
+        "username": "jack6295141",
+        "verified": false
+      }
+    ]
+  }
+}

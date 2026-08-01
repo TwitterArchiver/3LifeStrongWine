@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1891497288045908397",
+    "created_at": "2025-02-17T15:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T16:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891514875647562201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1810545287133618176",
+          "start": 0,
+          "username": "duqinghuan12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891514875647562201",
+    "in_reply_to_user_id": "1810545287133618176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891514338864763230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duqinghuan12138 一般是不收的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1891497288045908397",
+        "created_at": "2025-02-17T15:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T16:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891514875647562201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1810545287133618176",
+              "start": 0,
+              "username": "duqinghuan12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891514875647562201",
+        "in_reply_to_user_id": "1810545287133618176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891514338864763230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duqinghuan12138 一般是不收的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810545287133618176",
+        "conversation_id": "1891497288045908397",
+        "created_at": "2025-02-17T15:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T16:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891514338864763230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891514338864763230",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891497288045908397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 三生道长有没有考虑收回信啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 227,
+          "like_count": 6636,
+          "listed_count": 10,
+          "media_count": 1907,
+          "tweet_count": 7834
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-09T05:23:36.000Z",
+        "description": "这个人很懒，啥也没写",
+        "id": "1810545287133618176",
+        "location": "i'm everywhere",
+        "name": "芜湖！",
+        "pinned_tweet_id": "1886226936210637144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810560678765490176/l49Mppeb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 972,
+          "like_count": 4522,
+          "listed_count": 6,
+          "media_count": 38,
+          "tweet_count": 1280
+        },
+        "username": "duqinghuan12138",
+        "verified": false
+      }
+    ]
+  }
+}

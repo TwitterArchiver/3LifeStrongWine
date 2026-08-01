@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2041176847309008922",
+    "created_at": "2026-04-06T16:40:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T17:40:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041194243696595375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1570237333387251713",
+          "start": 0,
+          "username": "smtmym11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041194243696595375",
+    "in_reply_to_user_id": "1570237333387251713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041176847309008922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smtmym11 不好意思室友睡觉了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2041176847309008922",
+        "created_at": "2026-04-06T16:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041194243696595375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1570237333387251713",
+              "start": 0,
+              "username": "smtmym11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041194243696595375",
+        "in_reply_to_user_id": "1570237333387251713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041176847309008922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smtmym11 不好意思室友睡觉了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570237333387251713",
+        "conversation_id": "2041176847309008922",
+        "created_at": "2026-04-06T15:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041176847309008922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "椰梨’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1DGLd…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1DGLdvOadZvGm",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 🥰",
+              "unwound_url": "https://twitter.com/i/spaces/1DGLdvOadZvGm/peek",
+              "url": "https://t.co/847v2X0ZaX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041176847309008922",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 424,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/847v2X0ZaX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "最后还是失眠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2066,
+          "following_count": 187,
+          "like_count": 6902,
+          "listed_count": 13,
+          "media_count": 3498,
+          "tweet_count": 13744
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-15T02:25:44.000Z",
+        "description": "我要和抹茶味百醇麻酱素毛肚地瓜干过一辈子",
+        "id": "1570237333387251713",
+        "name": "椰梨",
+        "pinned_tweet_id": "1902268588704075785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021222853727952896/Js20qpBf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30211,
+          "following_count": 206,
+          "like_count": 9822,
+          "listed_count": 79,
+          "media_count": 768,
+          "tweet_count": 9039
+        },
+        "username": "smtmym11",
+        "verified": false
+      }
+    ]
+  }
+}

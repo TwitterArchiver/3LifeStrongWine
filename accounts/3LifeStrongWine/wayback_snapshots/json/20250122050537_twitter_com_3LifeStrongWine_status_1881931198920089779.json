@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1881926658300751956",
+    "created_at": "2025-01-22T05:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T06:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881931198920089779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1491828502886330368",
+          "start": 0,
+          "username": "ppjiangjiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881931198920089779",
+    "in_reply_to_user_id": "1491828502886330368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881926658300751956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ppjiangjiang 把命给你，是指把自己卖了钱给你吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1881926658300751956",
+        "created_at": "2025-01-22T05:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T06:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881931198920089779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1491828502886330368",
+              "start": 0,
+              "username": "ppjiangjiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881931198920089779",
+        "in_reply_to_user_id": "1491828502886330368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881926658300751956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ppjiangjiang 把命给你，是指把自己卖了钱给你吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491828502886330368",
+        "conversation_id": "1881926658300751956",
+        "created_at": "2025-01-22T04:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T05:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881926658300751956"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881926658300751956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别成天说把命给我了你命又不好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "白云山上白云泉，云自无心水自闲",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1304,
+          "following_count": 231,
+          "like_count": 5917,
+          "listed_count": 7,
+          "media_count": 1384,
+          "tweet_count": 6257
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-10T17:37:35.000Z",
+        "description": "屁话大王嘟日记本^^小！抓！饱！@nekomeow_uu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "nekomeow_uu"
+              }
+            ]
+          }
+        },
+        "id": "1491828502886330368",
+        "name": "pp •ᴗ⁃͈ ✧",
+        "pinned_tweet_id": "1879917159977304183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878650226728124416/dyBM8tNK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 325,
+          "like_count": 32198,
+          "listed_count": 8,
+          "media_count": 1055,
+          "tweet_count": 7635
+        },
+        "username": "ppjiangjiang",
+        "verified": false
+      }
+    ]
+  }
+}

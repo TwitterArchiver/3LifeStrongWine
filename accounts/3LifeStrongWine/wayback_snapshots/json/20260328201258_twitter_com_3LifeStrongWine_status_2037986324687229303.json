@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2037884611959853530",
+    "created_at": "2026-03-28T20:12:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T21:12:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037986324687229303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2017977830093860864",
+          "start": 0,
+          "username": "finoa0726"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037986324687229303",
+    "in_reply_to_user_id": "2017977830093860864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037884611959853530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@finoa0726 我感觉你呢宿舍的门锁快坏了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14033,
+        "height": 1280,
+        "media_key": "7_2037884582532718592",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2037884582532718592/pu/img/B-vlpikZ3Do_ISOv.jpg",
+        "public_metrics": {
+          "view_count": 349
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037884582532718592/pu/vid/avc1/320x568/uLBEWns50pwnHb5f.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037884582532718592/pu/vid/avc1/480x852/Sppm31BW2ByN0ZsX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037884582532718592/pu/vid/avc1/720x1280/qbiDomg_M8FW-CLL.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2037884582532718592/pu/pl/m6FEAAX4wLfPDUCT.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2037884611959853530",
+        "created_at": "2026-03-28T20:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T21:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037986324687229303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2017977830093860864",
+              "start": 0,
+              "username": "finoa0726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037986324687229303",
+        "in_reply_to_user_id": "2017977830093860864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037884611959853530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@finoa0726 我感觉你呢宿舍的门锁快坏了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2037884582532718592"
+          ]
+        },
+        "author_id": "2017977830093860864",
+        "conversation_id": "2037884611959853530",
+        "created_at": "2026-03-28T13:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T14:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037884611959853530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KxXvGkaw1w",
+              "end": 39,
+              "expanded_url": "https://x.com/finoa0726/status/2037884611959853530/video/1",
+              "media_key": "7_2037884582532718592",
+              "start": 16,
+              "url": "https://t.co/KxXvGkaw1w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037884611959853530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1244,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不戴眼镜眼睛是完全无法聚焦的。 https://t.co/KxXvGkaw1w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我一定带你脱离苦海，我答应过你。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VnXMe"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1997,
+          "following_count": 175,
+          "like_count": 6868,
+          "listed_count": 13,
+          "media_count": 3470,
+          "tweet_count": 13589
+        },
+        "url": "https://t.co/3g5y5VnXMe",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-01T15:06:43.000Z",
+        "description": "本体是一颗青苹果，请善待🍏。请你今天也过好。\n文案不可搬运。匿名信箱：https://t.co/EKkFsQSS9Q",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/finoa07262",
+                "end": 58,
+                "expanded_url": "https://ngl.link/finoa07262",
+                "start": 35,
+                "url": "https://t.co/EKkFsQSS9Q"
+              }
+            ]
+          }
+        },
+        "id": "2017977830093860864",
+        "name": "就把祝福别在襟上吧。",
+        "pinned_tweet_id": "2029484661173543224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017990376460800000/FgPb_TqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 97,
+          "like_count": 2167,
+          "listed_count": 1,
+          "media_count": 221,
+          "tweet_count": 2502
+        },
+        "username": "finoa0726",
+        "verified": false
+      }
+    ]
+  }
+}

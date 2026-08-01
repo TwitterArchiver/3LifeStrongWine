@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1893337514590564354",
+    "created_at": "2025-02-22T17:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T18:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893350000668684295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1615586607482163201",
+          "start": 0,
+          "username": "moeKafuuChino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893350000668684295",
+    "in_reply_to_user_id": "1615586607482163201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893337514590564354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moeKafuuChino 但是电脑还要开着，风扇嗡嗡嗡转个不停"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1893337506491277312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkZ8bkpWIAA2MDI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1893337514590564354",
+        "created_at": "2025-02-22T17:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T18:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893350000668684295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1615586607482163201",
+              "start": 0,
+              "username": "moeKafuuChino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893350000668684295",
+        "in_reply_to_user_id": "1615586607482163201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893337514590564354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moeKafuuChino 但是电脑还要开着，风扇嗡嗡嗡转个不停"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893337506491277312"
+          ]
+        },
+        "author_id": "1615586607482163201",
+        "conversation_id": "1893337514590564354",
+        "created_at": "2025-02-22T16:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T17:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893337514590564354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lOTvSgoeiL",
+              "end": 69,
+              "expanded_url": "https://x.com/moeKafuuChino/status/1893337514590564354/photo/1",
+              "media_key": "3_1893337506491277312",
+              "start": 46,
+              "url": "https://t.co/lOTvSgoeiL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893337514590564354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已经懒到不想下床坐着玩电脑了，今天晚上索性直接远程桌面，反正走的是内网远程质量也很不错。 https://t.co/lOTvSgoeiL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 224,
+          "like_count": 6747,
+          "listed_count": 10,
+          "media_count": 1979,
+          "tweet_count": 8067
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-18T05:47:30.000Z",
+        "description": "不是智乃，是智乃的男朋友🩵",
+        "id": "1615586607482163201",
+        "name": "智乃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893118856316755970/t9tDHzRV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1622,
+          "following_count": 1160,
+          "like_count": 35199,
+          "listed_count": 6,
+          "media_count": 149,
+          "tweet_count": 982
+        },
+        "username": "moeKafuuChino",
+        "verified": false
+      }
+    ]
+  }
+}

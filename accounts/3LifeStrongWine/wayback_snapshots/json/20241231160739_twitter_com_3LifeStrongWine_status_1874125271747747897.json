@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1874125208388620288"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1874125271747747897",
+    "created_at": "2024-12-31T16:07:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-31T17:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1874125271747747897"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Im4grrzac0",
+          "end": 40,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1874125271747747897/video/1",
+          "media_key": "13_1874125208388620288",
+          "start": 17,
+          "url": "https://t.co/Im4grrzac0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874125271747747897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "解放碑这也太tm多人了，挤死我了 https://t.co/Im4grrzac0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6140,
+        "height": 1280,
+        "media_key": "13_1874125208388620288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1874125208388620288/img/-nLsnLJf6a0BCu-8.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1874125208388620288/vid/avc1/320x568/SgqoIAKkgpkQRPOh.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1874125208388620288/vid/avc1/480x852/jCFRhhmm8HmitSk5.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1874125208388620288/vid/avc1/720x1280/N-Dicb78Zfdfjl8R.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1874125208388620288/pl/7pojmQn6WoNe381g.m3u8?tag=16"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1874125208388620288"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1874125271747747897",
+        "created_at": "2024-12-31T16:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T17:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874125271747747897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Im4grrzac0",
+              "end": 40,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1874125271747747897/video/1",
+              "media_key": "13_1874125208388620288",
+              "start": 17,
+              "url": "https://t.co/Im4grrzac0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874125271747747897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "解放碑这也太tm多人了，挤死我了 https://t.co/Im4grrzac0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "有时也想过花烂漫某天与世界无声道别， 可是偏偏有太多太多遗憾挂牵没画句点",
+        "id": "1529654419213541376",
+        "location": "期待一场意外，此生再无难过",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1865393368853090537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 195,
+          "like_count": 3547,
+          "listed_count": 7,
+          "media_count": 832,
+          "tweet_count": 4396
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

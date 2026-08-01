@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1880474323351376209",
+    "created_at": "2025-01-18T04:38:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T05:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880474935744979251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1813111782577471488",
+          "start": 0,
+          "username": "painismybesf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880474935744979251",
+    "in_reply_to_user_id": "1813111782577471488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880474886285717812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@painismybesf 客气"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1880474323351376209",
+        "created_at": "2025-01-18T04:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T05:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880474935744979251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813111782577471488",
+              "start": 0,
+              "username": "painismybesf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880474935744979251",
+        "in_reply_to_user_id": "1813111782577471488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880474886285717812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@painismybesf 客气"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813111782577471488",
+        "conversation_id": "1880474323351376209",
+        "created_at": "2025-01-18T04:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T05:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880474886285717812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880474886285717812",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880474704273895673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 妈呀真谢谢 真谢谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花究竟开出什么样的结果",
+        "id": "1529654419213541376",
+        "location": "夢在心上心便溫柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879527429754269696/Ip8jHko0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 218,
+          "like_count": 5414,
+          "listed_count": 7,
+          "media_count": 1275,
+          "tweet_count": 5779
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T07:22:01.000Z",
+        "description": "咕噜",
+        "id": "1813111782577471488",
+        "name": "真情",
+        "pinned_tweet_id": "1814713736483225720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874321196705341444/3aWEGw6X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 113,
+          "like_count": 1027,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1360
+        },
+        "username": "painismybesf",
+        "verified": false
+      }
+    ]
+  }
+}

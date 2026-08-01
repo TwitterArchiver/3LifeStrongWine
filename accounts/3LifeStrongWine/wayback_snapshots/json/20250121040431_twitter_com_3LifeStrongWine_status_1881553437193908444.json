@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1881405313997471956",
+    "created_at": "2025-01-21T04:04:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T05:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881553437193908444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1145460779879030784",
+          "start": 0,
+          "username": "asur_leo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881553437193908444",
+    "in_reply_to_user_id": "1145460779879030784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881553088148025519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asur_leo 三星x2 英特尔x1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1881405313997471956",
+        "created_at": "2025-01-21T04:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T05:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881553437193908444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1145460779879030784",
+              "start": 0,
+              "username": "asur_leo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881553437193908444",
+        "in_reply_to_user_id": "1145460779879030784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881553088148025519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asur_leo 三星x2 英特尔x1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1145460779879030784",
+        "conversation_id": "1881405313997471956",
+        "created_at": "2025-01-21T04:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T05:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881553088148025519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881553088148025519",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881552880857235882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 我已经试了三次了……你固态硬盘的是什么牌子的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "白云山上白云泉，云自无心水自闲",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 231,
+          "like_count": 5836,
+          "listed_count": 7,
+          "media_count": 1358,
+          "tweet_count": 6173
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-30T22:35:06.000Z",
+        "description": "勤以修身，俭以脱贫，节以制矩，约以定规。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sexpoetries",
+                "end": 23,
+                "expanded_url": "https://t.me/sexpoetries",
+                "start": 0,
+                "url": "https://t.co/6ZFHBUVvZ3"
+              }
+            ]
+          }
+        },
+        "id": "1145460779879030784",
+        "location": "阴影",
+        "name": "孤独不苦（不做人了）",
+        "pinned_tweet_id": "1514858867469189120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1716336062904352768/jPBS9cZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 104,
+          "like_count": 54611,
+          "listed_count": 6,
+          "media_count": 134,
+          "tweet_count": 22409
+        },
+        "url": "https://t.co/6ZFHBUVvZ3",
+        "username": "asur_leo",
+        "verified": false
+      }
+    ]
+  }
+}

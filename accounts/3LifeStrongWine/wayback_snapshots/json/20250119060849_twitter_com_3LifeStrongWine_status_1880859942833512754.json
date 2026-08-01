@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1880853372313763859",
+    "created_at": "2025-01-19T06:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T07:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880859942833512754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1420038775149895692",
+          "start": 0,
+          "username": "sugarbaby22cd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880859942833512754",
+    "in_reply_to_user_id": "1420038775149895692",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880859317903237394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sugarbaby22cd …"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1880853372313763859",
+        "created_at": "2025-01-19T06:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T07:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880859942833512754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1420038775149895692",
+              "start": 0,
+              "username": "sugarbaby22cd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880859942833512754",
+        "in_reply_to_user_id": "1420038775149895692",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880859317903237394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sugarbaby22cd …"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420038775149895692",
+        "conversation_id": "1880853372313763859",
+        "created_at": "2025-01-19T06:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T07:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880859317903237394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880859317903237394",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880858808580472844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 变成女高了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花究竟开出什么样的结果",
+        "id": "1529654419213541376",
+        "location": "夢在心上心便溫柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879527429754269696/Ip8jHko0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 233,
+          "like_count": 5508,
+          "listed_count": 7,
+          "media_count": 1289,
+          "tweet_count": 5892
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-27T15:10:19.000Z",
+        "description": "丨🫧属相是小猫丨xp是用钱砸我🫧丨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sugarbabyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sugarbabyu",
+                "start": 0,
+                "url": "https://t.co/xrkiicl47X"
+              }
+            ]
+          }
+        },
+        "id": "1420038775149895692",
+        "location": "加V🚪   期待收到520",
+        "name": "小欲OvO",
+        "pinned_tweet_id": "1867157642839298208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876949206251794432/HtiLz9RJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1918,
+          "following_count": 935,
+          "like_count": 8702,
+          "listed_count": 14,
+          "media_count": 593,
+          "tweet_count": 2801
+        },
+        "url": "https://t.co/xrkiicl47X",
+        "username": "sugarbaby22cd",
+        "verified": false
+      }
+    ]
+  }
+}

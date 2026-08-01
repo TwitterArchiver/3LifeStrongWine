@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1890866486035513684",
+    "created_at": "2025-02-15T20:51:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T21:51:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890866486035513684"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3lifestrongwin…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/3lifestrongwine/status/1890865863835681278",
+          "start": 17,
+          "url": "https://t.co/pqaKpTW14g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890866486035513684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890865863835681278",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怪不得这么厉害原来是阳寿技能。。 https://t.co/pqaKpTW14g"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1890866486035513684",
+        "created_at": "2025-02-15T20:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T21:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890866486035513684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3lifestrongwin…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/3lifestrongwine/status/1890865863835681278",
+              "start": 17,
+              "url": "https://t.co/pqaKpTW14g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890866486035513684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890865863835681278",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怪不得这么厉害原来是阳寿技能。。 https://t.co/pqaKpTW14g"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1874299070728274280",
+        "created_at": "2025-02-15T20:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T21:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890865863835681278"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890865863835681278",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890865434104107189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "梦中我最爱用雷法，还有剑诀，我的雷法撇出来的雷都是紫金色的，剑诀可以同时生成几千把巴掌大小剑或者100把一米二长剑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 219,
+          "like_count": 6587,
+          "listed_count": 10,
+          "media_count": 1878,
+          "tweet_count": 7721
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

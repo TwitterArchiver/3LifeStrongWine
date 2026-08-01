@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1907393074277634375",
+    "created_at": "2025-04-02T11:22:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T12:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907393074277634375"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3lifestrongwin…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/3lifestrongwine/status/1907392772350611830",
+          "start": 13,
+          "url": "https://t.co/Z26al51sFP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907393074277634375",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907392772350611830",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我明明是要生成那个圈圈， https://t.co/Z26al51sFP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1907392769821491200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnhrnkxbwAApujy.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1907393074277634375",
+        "created_at": "2025-04-02T11:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T12:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907393074277634375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3lifestrongwin…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/3lifestrongwine/status/1907392772350611830",
+              "start": 13,
+              "url": "https://t.co/Z26al51sFP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907393074277634375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907392772350611830",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我明明是要生成那个圈圈， https://t.co/Z26al51sFP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907392769821491200"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1907392772350611830",
+        "created_at": "2025-04-02T11:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T12:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907392772350611830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 39,
+              "id": "1573169818345172992",
+              "start": 26,
+              "username": "gaga20220923"
+            },
+            {
+              "end": 53,
+              "id": "1522862031795372032",
+              "start": 40,
+              "username": "Alouette_zzz"
+            },
+            {
+              "end": 74,
+              "id": "1248637653001494529",
+              "start": 61,
+              "username": "Fomalhautawa"
+            },
+            {
+              "end": 94,
+              "id": "1592865779241734144",
+              "start": 82,
+              "username": "yuanyuan774"
+            },
+            {
+              "end": 111,
+              "id": "1863961550350065664",
+              "start": 95,
+              "username": "Selaginellaaaaa"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinityweet.me/family-tree",
+              "end": 139,
+              "expanded_url": "https://infinityweet.me/family-tree",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1906929018898874368/AQwG6fH3?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1906929018898874368/AQwG6fH3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 116,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinityweet.me/family-tree",
+              "url": "https://t.co/TD0C0PDzHO"
+            },
+            {
+              "display_url": "pic.x.com/aPP3vsbn2o",
+              "end": 163,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1907392772350611830/photo/1",
+              "media_key": "3_1907392769821491200",
+              "start": 140,
+              "url": "https://t.co/aPP3vsbn2o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907392772350611830",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 私のTwitter家族:\n👫 親: @gaga20220923 @Alouette_zzz\n👰 配偶者: @Fomalhautawa\n👶 子ども: @yuanyuan774 @Selaginellaaaaa\n\n➡️ https://t.co/TD0C0PDzHO https://t.co/aPP3vsbn2o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来｜把那无人问津的岁月熬成清茶，等一场芳香四散",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 233,
+          "like_count": 7133,
+          "listed_count": 12,
+          "media_count": 2336,
+          "tweet_count": 9472
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1867621393694961694",
+    "created_at": "2024-12-13T17:35:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T18:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867624283532669153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1785362543176982528",
+          "start": 0,
+          "username": "Quanye_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867624283532669153",
+    "in_reply_to_user_id": "1785362543176982528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867624203429851162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quanye_0 不是一直好的啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1867621393694961694",
+        "created_at": "2024-12-13T17:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T18:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867624283532669153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1785362543176982528",
+              "start": 0,
+              "username": "Quanye_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867624283532669153",
+        "in_reply_to_user_id": "1785362543176982528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867624203429851162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quanye_0 不是一直好的啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785362543176982528",
+        "conversation_id": "1867621393694961694",
+        "created_at": "2024-12-13T17:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T18:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867624203429851162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867624203429851162",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867621393694961694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 出生在这么好的家庭，为什么会做这种事情……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "有时也想过花烂漫某天与世界无声道别， 可是偏偏有太多太多遗憾挂牵没画句点",
+        "id": "1529654419213541376",
+        "location": "长大是变温柔，是对所有人都温柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1865393368853090537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 187,
+          "like_count": 2314,
+          "listed_count": 5,
+          "media_count": 573,
+          "tweet_count": 3429
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-30T17:36:37.000Z",
+        "description": "可以叫我才羽井原/いはら/也可以叫我神户泉野/いずみの//06男高//ISTP//绘画初学者/日语生/动漫漫画爱好者/音乐爱好者 钢琴入门者/不鉴证//心理情况正常//高强度网络冲浪//互fo//愿望是有朝一日可以在日本定居生活",
+        "id": "1785362543176982528",
+        "location": "熊本県熊本市",
+        "name": "Kobe泉野",
+        "pinned_tweet_id": "1867108251915129093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866343777637720064/q42l7T3V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 968,
+          "like_count": 2468,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 855
+        },
+        "username": "Quanye_0",
+        "verified": false
+      }
+    ]
+  }
+}

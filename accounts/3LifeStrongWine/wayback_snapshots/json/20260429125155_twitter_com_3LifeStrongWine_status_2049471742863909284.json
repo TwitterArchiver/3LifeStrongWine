@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2045916056401908076",
+    "created_at": "2026-04-29T12:51:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T13:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049471742863909284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2004834355982860289",
+          "start": 0,
+          "username": "TangMoon69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049471742863909284",
+    "in_reply_to_user_id": "2004834355982860289",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049471469021995463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TangMoon69 真的好喝！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2045916056401908076",
+        "created_at": "2026-04-29T12:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049471742863909284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2004834355982860289",
+              "start": 0,
+              "username": "TangMoon69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049471742863909284",
+        "in_reply_to_user_id": "2004834355982860289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049471469021995463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TangMoon69 真的好喝！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004834355982860289",
+        "conversation_id": "2045916056401908076",
+        "created_at": "2026-04-29T12:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049471469021995463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049471469021995463",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045916056401908076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 我也特别喜欢这家的精酿啤酒，我推荐给我了我朋友，我朋友也爱上了~good😎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花潭水深千尺  不及汪伦送我情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2513,
+          "following_count": 115,
+          "like_count": 6920,
+          "listed_count": 14,
+          "media_count": 3586,
+          "tweet_count": 14160
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T08:39:07.000Z",
+        "description": "计算机博士｜CS PhD\n误入X，左看右看 and 碎碎念",
+        "id": "2004834355982860289",
+        "name": "李淳罡",
+        "pinned_tweet_id": "2020095216322322618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004834418461196288/QRNZGh-V_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 11,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 65
+        },
+        "username": "TangMoon69",
+        "verified": false
+      }
+    ]
+  }
+}

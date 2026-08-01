@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1889629194872852480"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1889629427056680985",
+    "created_at": "2025-02-12T10:55:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T11:55:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889629427056680985"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tm8Ox5fpkg",
+          "end": 42,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1889629427056680985/video/1",
+          "media_key": "13_1889629194872852480",
+          "start": 19,
+          "url": "https://t.co/tm8Ox5fpkg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889629427056680985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "升空的烟火，从上面看，还是从侧面看？ https://t.co/tm8Ox5fpkg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6500,
+        "height": 1280,
+        "media_key": "13_1889629194872852480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1889629194872852480/img/Ix4M4czlxJ8dt2Vu.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1889629194872852480/vid/avc1/320x568/yTav67Qk-Sm3UJwP.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1889629194872852480/vid/avc1/480x852/9bjuYiaxr8ZQ6-kO.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1889629194872852480/vid/avc1/720x1280/LLRfWWsRutT4VGtn.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1889629194872852480/pl/1_9asOOBxKcwsdnx.m3u8?tag=16"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1889629194872852480"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1889629427056680985",
+        "created_at": "2025-02-12T10:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T11:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889629427056680985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tm8Ox5fpkg",
+              "end": 42,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1889629427056680985/video/1",
+              "media_key": "13_1889629194872852480",
+              "start": 19,
+              "url": "https://t.co/tm8Ox5fpkg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889629427056680985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "升空的烟火，从上面看，还是从侧面看？ https://t.co/tm8Ox5fpkg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1389,
+          "following_count": 217,
+          "like_count": 6523,
+          "listed_count": 10,
+          "media_count": 1825,
+          "tweet_count": 7559
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

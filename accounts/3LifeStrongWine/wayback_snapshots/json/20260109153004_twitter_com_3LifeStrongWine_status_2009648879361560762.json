@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1917199874963177557",
+    "created_at": "2026-01-09T15:30:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T16:30:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009648879361560762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1917093346956460032",
+          "start": 0,
+          "username": "Readyt01ove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009648879361560762",
+    "in_reply_to_user_id": "1917093346956460032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917199874963177557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Readyt01ove 诀别书？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24258,
+        "height": 1082,
+        "media_key": "13_1917199776078340096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1917199776078340096/img/ihLhqTKRmFRwyetu.jpg",
+        "public_metrics": {
+          "view_count": 1579
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1917199776078340096/vid/avc1/320x480/7ITHbs0AcQwQRPLf.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1917199776078340096/vid/avc1/480x720/xuJOLVamZve0C8HC.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1917199776078340096/vid/avc1/720x1082/RzMgajP8K53eA-uy.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1917199776078340096/pl/0qROHcWakEGKFsOx.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1917199874963177557",
+        "created_at": "2026-01-09T15:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T16:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009648879361560762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1917093346956460032",
+              "start": 0,
+              "username": "Readyt01ove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009648879361560762",
+        "in_reply_to_user_id": "1917093346956460032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917199874963177557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Readyt01ove 诀别书？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1917199776078340096"
+          ]
+        },
+        "author_id": "1917093346956460032",
+        "conversation_id": "1917199874963177557",
+        "created_at": "2025-04-29T12:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T13:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917199874963177557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/saxoODFqvf",
+              "end": 41,
+              "expanded_url": "https://x.com/thememor1esofus/status/1917199874963177557/video/1",
+              "media_key": "13_1917199776078340096",
+              "start": 18,
+              "url": "https://t.co/saxoODFqvf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917199874963177557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6794,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你说想哭就弹琴我咋越弹越想哭。。😅 https://t.co/saxoODFqvf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "云和山和风和雨，轻轻地流过我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VnXMe"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "pinned_tweet_id": "1992598033381638574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1662,
+          "following_count": 168,
+          "like_count": 6673,
+          "listed_count": 12,
+          "media_count": 3125,
+          "tweet_count": 12597
+        },
+        "url": "https://t.co/3g5y5VnXMe",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-29T05:47:38.000Z",
+        "description": "韩振全肯定‼️",
+        "id": "1917093346956460032",
+        "name": "痕迹器官",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995014843167117312/-xOFx6eH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 241,
+          "like_count": 5055,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 62
+        },
+        "username": "Readyt01ove",
+        "verified": false
+      }
+    ]
+  }
+}

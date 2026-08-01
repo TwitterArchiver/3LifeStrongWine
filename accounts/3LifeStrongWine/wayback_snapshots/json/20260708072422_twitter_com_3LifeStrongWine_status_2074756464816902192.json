@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2074756344972783684",
+    "created_at": "2026-07-08T07:24:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T08:24:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074756464816902192"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074756464816902192",
+    "in_reply_to_user_id": "1529654419213541376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074756344972783684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "后边没写完，就没发"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1684,
+        "media_key": "3_2074754444508700672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsCLL0aoAAG-nL.jpg",
+        "width": 1190
+      },
+      {
+        "height": 1684,
+        "media_key": "3_2074754444508745728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsCLL0bUAAV_d0.jpg",
+        "width": 1190
+      },
+      {
+        "height": 1684,
+        "media_key": "3_2074754444500324352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsCLLya0AAZQ2W.jpg",
+        "width": 1190
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2074756344972783684",
+        "created_at": "2026-07-08T07:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074756464816902192"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074756464816902192",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074756344972783684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后边没写完，就没发"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074754444508700672",
+            "3_2074754444508745728",
+            "3_2074754444500324352"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2074756344972783684",
+        "created_at": "2026-07-08T07:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074756344972783684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jFrwzvF7bQ",
+              "end": 171,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/2074756344972783684/photo/1",
+              "media_key": "3_2074754444508700672",
+              "start": 148,
+              "url": "https://t.co/jFrwzvF7bQ"
+            },
+            {
+              "display_url": "pic.x.com/jFrwzvF7bQ",
+              "end": 171,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/2074756344972783684/photo/1",
+              "media_key": "3_2074754444508745728",
+              "start": 148,
+              "url": "https://t.co/jFrwzvF7bQ"
+            },
+            {
+              "display_url": "pic.x.com/jFrwzvF7bQ",
+              "end": 171,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/2074756344972783684/photo/1",
+              "media_key": "3_2074754444500324352",
+              "start": 148,
+              "url": "https://t.co/jFrwzvF7bQ"
+            },
+            {
+              "display_url": "x.com/3LifeStrongWin…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/3LifeStrongWine/status/2074693446422712604",
+              "start": 172,
+              "url": "https://t.co/70PbiP24ss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074756344972783684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "写这个东西呢首先是想科普下去做妇科检查≠私生活不检点啊balabala之类的观念，妇科检查不是“私生活检查”，而是每个女性都该定期做的健康守护。其次，是想拆解大众从小被灌输的传统观念其实早就落后了。传统观念把“妇科”污名化成“已婚/有性生活的人才去的地方”，把女性身体健康绑上道德审判。这不仅让很多人延迟就医，还制造了不必要的羞耻感。在文中介绍了“妇科”这个名字的由来、常见女性疾病、以及家庭/医院/社会三重压力对女性的影响。科普这个东西是为了减少偏见和压力，让社会认知向正确的方向偏移一些，我觉得这是在变相的保护身边的女生"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074693446422712604",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "写这个东西呢首先是想科普下去做妇科检查≠私生活不检点啊balabala之类的观念，妇科检查不是“私生活检查”，而是每个女性都该定期做的健康守护。其次，是想拆解大众从小被灌输的传统观念其实早就落后了。传统观念把“妇科”污名化成“已婚/有性生活的人才去的地方”，把女性身体健康绑上道德审判。这不仅让 https://t.co/jFrwzvF7bQ https://t.co/70PbiP24ss"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花潭水深千尺  不及汪伦送我情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2849,
+          "following_count": 100,
+          "like_count": 6803,
+          "listed_count": 14,
+          "media_count": 3719,
+          "tweet_count": 14493
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

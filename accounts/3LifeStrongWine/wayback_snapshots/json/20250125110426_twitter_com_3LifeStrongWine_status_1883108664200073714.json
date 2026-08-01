@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1883102285410312425",
+    "created_at": "2025-01-25T11:04:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T12:04:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883108664200073714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1145460779879030784",
+          "start": 0,
+          "username": "asur_leo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883108664200073714",
+    "in_reply_to_user_id": "1145460779879030784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883107634519380119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asur_leo 马上给你火线接外壳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1883102285410312425",
+        "created_at": "2025-01-25T11:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T12:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883108664200073714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1145460779879030784",
+              "start": 0,
+              "username": "asur_leo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883108664200073714",
+        "in_reply_to_user_id": "1145460779879030784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883107634519380119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asur_leo 马上给你火线接外壳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1145460779879030784",
+        "conversation_id": "1883102285410312425",
+        "created_at": "2025-01-25T11:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T12:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883107634519380119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883107634519380119",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883102285410312425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 三生师傅，帮忙改个电，我家遥控开关需要加一根零线👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "凡所有相  皆是虚妄",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 222,
+          "like_count": 6133,
+          "listed_count": 7,
+          "media_count": 1446,
+          "tweet_count": 6552
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-30T22:35:06.000Z",
+        "description": "勤以修身，俭以脱贫，节以制矩，约以定规。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sexpoetries",
+                "end": 23,
+                "expanded_url": "https://t.me/sexpoetries",
+                "start": 0,
+                "url": "https://t.co/6ZFHBUVvZ3"
+              }
+            ]
+          }
+        },
+        "id": "1145460779879030784",
+        "location": "阴影",
+        "name": "孤独不苦（不做人了）",
+        "pinned_tweet_id": "1514858867469189120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1716336062904352768/jPBS9cZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 104,
+          "like_count": 55444,
+          "listed_count": 6,
+          "media_count": 137,
+          "tweet_count": 22552
+        },
+        "url": "https://t.co/6ZFHBUVvZ3",
+        "username": "asur_leo",
+        "verified": false
+      }
+    ]
+  }
+}

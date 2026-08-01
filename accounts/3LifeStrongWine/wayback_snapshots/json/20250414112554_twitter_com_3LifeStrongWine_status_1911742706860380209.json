@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1911388738850021824",
+    "created_at": "2025-04-14T11:25:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T12:25:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911742706860380209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1825808151935070210",
+          "start": 0,
+          "username": "strawberry_0zz"
+        },
+        {
+          "end": 29,
+          "id": "1460219308764663816",
+          "start": 16,
+          "username": "KxhsiwiqldO0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911742706860380209",
+    "in_reply_to_user_id": "1825808151935070210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911742606339432908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@strawberry_0zz @KxhsiwiqldO0 我也超爱买东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1911388738850021824",
+        "created_at": "2025-04-14T11:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T12:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911742706860380209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1825808151935070210",
+              "start": 0,
+              "username": "strawberry_0zz"
+            },
+            {
+              "end": 29,
+              "id": "1460219308764663816",
+              "start": 16,
+              "username": "KxhsiwiqldO0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911742706860380209",
+        "in_reply_to_user_id": "1825808151935070210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911742606339432908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@strawberry_0zz @KxhsiwiqldO0 我也超爱买东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825808151935070210",
+        "conversation_id": "1911388738850021824",
+        "created_at": "2025-04-14T11:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T12:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911742606339432908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1460219308764663816",
+              "start": 0,
+              "username": "KxhsiwiqldO0"
+            },
+            {
+              "end": 30,
+              "id": "1529654419213541376",
+              "start": 14,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911742606339432908",
+        "in_reply_to_user_id": "1460219308764663816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911709346226119106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KxhsiwiqldO0 @3LifeStrongWine 我家给的是1k5一个月根本不够，后来自己做游戏代练一个月1k5-2k，加起来3k多才够我花，我物欲超高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "东隅已逝，桑榆非晚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909122304141148160/VzRDqCNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1505,
+          "following_count": 245,
+          "like_count": 7417,
+          "listed_count": 12,
+          "media_count": 2522,
+          "tweet_count": 10289
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-20T08:13:13.000Z",
+        "description": "圈地自萌 | 天下第一倒霉蛋 | 下水道鼠鼠的碎碎念 ，我很吵很负能量别关注我，别来说教我⚠️ | 剑三在双梦，游戏扩列dd其他不扩 || 大号@Rosabel_0，没有门不聊骚不接线下不接推广什么都不接什么都不聊❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 72,
+                "username": "Rosabel_0"
+              }
+            ]
+          }
+        },
+        "id": "1825808151935070210",
+        "location": "双梦镇",
+        "name": "茗烟",
+        "pinned_tweet_id": "1911539296382976206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902997870719946752/aW185lup_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9572,
+          "following_count": 44,
+          "like_count": 270,
+          "listed_count": 23,
+          "media_count": 309,
+          "tweet_count": 2625
+        },
+        "username": "strawberry_0zz",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-15T12:13:31.000Z",
+        "description": "朋友圈",
+        "id": "1460219308764663816",
+        "name": "Kxhsiwiqld",
+        "pinned_tweet_id": "1910883061132349900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867962913568567296/h-9ctdVG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 353,
+          "like_count": 1985,
+          "listed_count": 6,
+          "media_count": 14,
+          "tweet_count": 767
+        },
+        "username": "KxhsiwiqldO0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1892481208493494478",
+    "created_at": "2025-02-20T07:47:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T08:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1892481208493494478"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3lifestrongwin…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/3lifestrongwine/status/1892168055632924742",
+          "start": 17,
+          "url": "https://t.co/2BKheiCNIo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892481208493494478",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892168055632924742",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我這輩子都不想去umada倒車了 https://t.co/2BKheiCNIo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1892168048377024512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkJU0JrbUAAjZ76.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1892481208493494478",
+        "created_at": "2025-02-20T07:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T08:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892481208493494478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3lifestrongwin…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/3lifestrongwine/status/1892168055632924742",
+              "start": 17,
+              "url": "https://t.co/2BKheiCNIo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892481208493494478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892168055632924742",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我這輩子都不想去umada倒車了 https://t.co/2BKheiCNIo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892168048377024512"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1892168055632924742",
+        "created_at": "2025-02-19T11:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T12:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892168055632924742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dn77Tv4BXw",
+              "end": 40,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1892168055632924742/photo/1",
+              "media_key": "3_1892168048377024512",
+              "start": 17,
+              "url": "https://t.co/Dn77Tv4BXw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892168055632924742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1819,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我焯，这日本丽思卡尔顿什么吊价格 https://t.co/Dn77Tv4BXw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 222,
+          "like_count": 6652,
+          "listed_count": 10,
+          "media_count": 1928,
+          "tweet_count": 7897
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

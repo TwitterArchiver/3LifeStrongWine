@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2055665199081042406",
+    "created_at": "2026-05-16T16:40:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T17:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055689858501562726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2003185096241885184",
+          "start": 0,
+          "username": "yutu679524"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055689858501562726",
+    "in_reply_to_user_id": "2003185096241885184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055681802518630652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yutu679524 这个是我目前手里最便宜的了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2055665199081042406",
+        "created_at": "2026-05-16T16:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055689858501562726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2003185096241885184",
+              "start": 0,
+              "username": "yutu679524"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055689858501562726",
+        "in_reply_to_user_id": "2003185096241885184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055681802518630652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yutu679524 这个是我目前手里最便宜的了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003185096241885184",
+        "conversation_id": "2055665199081042406",
+        "created_at": "2026-05-16T16:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055681802518630652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055681802518630652",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055665199081042406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 拿響是不是有点奢侈了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花潭水深千尺  不及汪伦送我情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2861,
+          "following_count": 101,
+          "like_count": 6827,
+          "listed_count": 14,
+          "media_count": 3644,
+          "tweet_count": 14288
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T19:25:35.000Z",
+        "description": "05年并非很老的登\n知名心理委员。\n知名深夜电台主持人\n健身房固定刷新NPC\nps：如果你是我墙内的朋友你就当作没看见这个号好吗🫠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%BC%8A%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%BC%8A%E6%A3%AE1",
+                "start": 0,
+                "url": "https://t.co/vMYpTl3tjQ"
+              }
+            ]
+          }
+        },
+        "id": "2003185096241885184",
+        "location": "门槛0.01RMB",
+        "name": "伊森Ethan",
+        "pinned_tweet_id": "2047724961767547270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003702879165845504/zrS5380b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 43,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 136
+        },
+        "url": "https://t.co/vMYpTl3tjQ",
+        "username": "yutu679524",
+        "verified": false
+      }
+    ]
+  }
+}

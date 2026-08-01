@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1934635589065965857",
+    "created_at": "2025-06-16T15:34:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T16:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934635589065965857"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/selaginellaaaa…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/selaginellaaaaa/status/1934596211820097881",
+          "start": 31,
+          "url": "https://t.co/PocpIMGyRX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934635589065965857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934596211820097881",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "知道为什么第二张只亮一半脸吗，因为快门太快了跟闪光速度不同步 https://t.co/PocpIMGyRX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_1934596203628707840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtkQ_00bwAAzvSX.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_1934596203649634304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtkQ_05bEAATNqL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1934635589065965857",
+        "created_at": "2025-06-16T15:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T16:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934635589065965857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/selaginellaaaa…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/selaginellaaaaa/status/1934596211820097881",
+              "start": 31,
+              "url": "https://t.co/PocpIMGyRX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934635589065965857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934596211820097881",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "知道为什么第二张只亮一半脸吗，因为快门太快了跟闪光速度不同步 https://t.co/PocpIMGyRX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934596203628707840",
+            "3_1934596203649634304"
+          ]
+        },
+        "author_id": "1863961550350065664",
+        "conversation_id": "1934596211820097881",
+        "created_at": "2025-06-16T12:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T13:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934596211820097881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hKcwPRNsW1",
+              "end": 46,
+              "expanded_url": "https://x.com/Selaginellaaaaa/status/1934596211820097881/photo/1",
+              "media_key": "3_1934596203628707840",
+              "start": 23,
+              "url": "https://t.co/hKcwPRNsW1"
+            },
+            {
+              "display_url": "pic.x.com/hKcwPRNsW1",
+              "end": 46,
+              "expanded_url": "https://x.com/Selaginellaaaaa/status/1934596211820097881/photo/1",
+              "media_key": "3_1934596203649634304",
+              "start": 23,
+              "url": "https://t.co/hKcwPRNsW1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934596211820097881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1547,
+          "like_count": 73,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三生拍的不对焦照片还有半张脸隐匿于黑暗的照片 https://t.co/hKcwPRNsW1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "泛黄的老照片里讲述了一个什么样的故事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 236,
+          "like_count": 7478,
+          "listed_count": 11,
+          "media_count": 2821,
+          "tweet_count": 11451
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-03T15:01:06.000Z",
+        "description": "卷卷卷卷不动了就柏",
+        "id": "1863961550350065664",
+        "location": "叫我卷柏就行",
+        "name": "Selaginella",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876307978443522048/mt_EImdI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10433,
+          "following_count": 99,
+          "like_count": 11933,
+          "listed_count": 23,
+          "media_count": 411,
+          "tweet_count": 4081
+        },
+        "username": "Selaginellaaaaa",
+        "verified": false
+      }
+    ]
+  }
+}

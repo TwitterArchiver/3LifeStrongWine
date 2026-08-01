@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1996868807076598039",
+    "created_at": "2025-12-05T15:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T16:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996963848386236560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1661391616870084610",
+          "start": 0,
+          "username": "0v0_Nutcracker"
+        },
+        {
+          "end": 29,
+          "id": "1919363955929362432",
+          "start": 16,
+          "username": "xiaomingmumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996963848386236560",
+    "in_reply_to_user_id": "1661391616870084610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996871422556479849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0v0_Nutcracker @xiaomingmumu 好图拿了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 705,
+        "media_key": "3_1996871408018952192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ZP9zkakAA4UUF.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1996868807076598039",
+        "created_at": "2025-12-05T15:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T16:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996963848386236560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1661391616870084610",
+              "start": 0,
+              "username": "0v0_Nutcracker"
+            },
+            {
+              "end": 29,
+              "id": "1919363955929362432",
+              "start": 16,
+              "username": "xiaomingmumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996963848386236560",
+        "in_reply_to_user_id": "1661391616870084610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996871422556479849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0v0_Nutcracker @xiaomingmumu 好图拿了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996871408018952192"
+          ]
+        },
+        "author_id": "1661391616870084610",
+        "conversation_id": "1996868807076598039",
+        "created_at": "2025-12-05T09:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T10:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996871422556479849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1919363955929362432",
+              "start": 0,
+              "username": "xiaomingmumu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KFLsAvM4sW",
+              "end": 37,
+              "expanded_url": "https://x.com/0v0_Nutcracker/status/1996871422556479849/photo/1",
+              "media_key": "3_1996871408018952192",
+              "start": 14,
+              "url": "https://t.co/KFLsAvM4sW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996871422556479849",
+        "in_reply_to_user_id": "1919363955929362432",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996868807076598039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomingmumu https://t.co/KFLsAvM4sW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我爱上的是遥远的理想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "pinned_tweet_id": "1992598033381638574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1500,
+          "following_count": 178,
+          "like_count": 6610,
+          "listed_count": 12,
+          "media_count": 3022,
+          "tweet_count": 12228
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-24T15:20:22.000Z",
+        "description": "intj｜bi 0.5｜热情比格｜挚爱骨科｜年上激推｜殿堂级bl鉴赏家｜究极杂食写手\n谢谢你来看我，希望你今天过得快乐\n（在下精神脆弱非常玻璃心不喜欢我请直接拉黑一别两宽此生不见别骂我我会很难过QAQ｜🈲不网恋不约炮不看私信男的别烦我｜备考淡推，爱你哦～）",
+        "id": "1661391616870084610",
+        "name": "胡桃夹子",
+        "pinned_tweet_id": "1972704894525251845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991199152542478338/kV3it-9Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 247,
+          "like_count": 10250,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1245
+        },
+        "username": "0v0_Nutcracker",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T12:10:10.000Z",
+        "description": "操死全世界",
+        "id": "1919363955929362432",
+        "name": "一根烂棉签",
+        "pinned_tweet_id": "1993572232871002197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919365089695879168/PGXeeDBt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 172,
+          "like_count": 3004,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1356
+        },
+        "username": "xiaomingmumu",
+        "verified": false
+      }
+    ]
+  }
+}

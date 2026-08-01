@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1886100448291233831",
+    "created_at": "2025-02-02T17:22:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T18:22:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886102948062830806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1531998806560104457",
+          "start": 0,
+          "username": "cengchuan31"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886102948062830806",
+    "in_reply_to_user_id": "1531998806560104457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886102390795067581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cengchuan31 龙舌兰+伏特加+朗姆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1886100448291233831",
+        "created_at": "2025-02-02T17:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T18:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886102948062830806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1531998806560104457",
+              "start": 0,
+              "username": "cengchuan31"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886102948062830806",
+        "in_reply_to_user_id": "1531998806560104457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886102390795067581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cengchuan31 龙舌兰+伏特加+朗姆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531998806560104457",
+        "conversation_id": "1886100448291233831",
+        "created_at": "2025-02-02T17:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T18:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886102390795067581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886102390795067581",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886101756209516897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 是这种味道嘛🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1379,
+          "following_count": 220,
+          "like_count": 6385,
+          "listed_count": 0,
+          "media_count": 1601,
+          "tweet_count": 6969
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-01T13:59:23.000Z",
+        "description": "你好吗夜之城",
+        "id": "1531998806560104457",
+        "location": "Nebula M87",
+        "name": "detective bunny",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1531998991214424066/TGzGDfbp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 757,
+          "like_count": 7325,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 2212
+        },
+        "username": "cengchuan31",
+        "verified": false
+      }
+    ]
+  }
+}

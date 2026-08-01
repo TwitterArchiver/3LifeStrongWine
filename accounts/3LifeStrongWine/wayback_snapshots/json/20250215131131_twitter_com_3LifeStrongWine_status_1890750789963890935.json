@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1890750789963890935",
+    "created_at": "2025-02-15T13:11:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T14:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890750789963890935"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3lifestrongwin…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/3lifestrongwine/status/1890748446417535405",
+          "start": 14,
+          "url": "https://t.co/0yVT1Dm9HW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890750789963890935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890748446417535405",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我希望来个大哥看穿我的倔强 https://t.co/0yVT1Dm9HW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1890750789963890935",
+        "created_at": "2025-02-15T13:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T14:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890750789963890935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3lifestrongwin…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/3lifestrongwine/status/1890748446417535405",
+              "start": 14,
+              "url": "https://t.co/0yVT1Dm9HW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890750789963890935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890748446417535405",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我希望来个大哥看穿我的倔强 https://t.co/0yVT1Dm9HW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890748414117412864"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1890748446417535405",
+        "created_at": "2025-02-15T13:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T14:02:06.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890748421834772728",
+          "1890748446417535405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j3od222oMM",
+              "end": 42,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1890748446417535405/photo/1",
+              "media_key": "3_1890748414117412864",
+              "start": 19,
+              "url": "https://t.co/j3od222oMM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890748446417535405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真他妈服了啊，每把都要这么打才能赢 https://t.co/j3od222oMM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 220,
+          "like_count": 6570,
+          "listed_count": 10,
+          "media_count": 1872,
+          "tweet_count": 7694
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

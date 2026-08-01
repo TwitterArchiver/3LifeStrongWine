@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1908337054108573696"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1908338207001121011",
+    "created_at": "2025-04-05T01:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T02:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908338207001121011"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eAIX6lm9Ci",
+          "end": 23,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1908338207001121011/video/1",
+          "media_key": "13_1908337054108573696",
+          "start": 0,
+          "url": "https://t.co/eAIX6lm9Ci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908338207001121011",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/eAIX6lm9Ci"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4000,
+        "height": 1280,
+        "media_key": "13_1908337054108573696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1908337054108573696/img/v8LTlgS1VBOHN5Nx.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1908337054108573696/vid/avc1/320x568/jO22GL42ak4TV1yW.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1908337054108573696/vid/avc1/480x852/TEeLN_EkHFD97-wb.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1908337054108573696/vid/avc1/720x1280/qXRYEtCXNgnG7p2D.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1908337054108573696/pl/W4k50hOEztlo4kfb.m3u8?tag=16"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1908337054108573696"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1908338207001121011",
+        "created_at": "2025-04-05T01:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T02:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908338207001121011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eAIX6lm9Ci",
+              "end": 23,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1908338207001121011/video/1",
+              "media_key": "13_1908337054108573696",
+              "start": 0,
+              "url": "https://t.co/eAIX6lm9Ci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908338207001121011",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/eAIX6lm9Ci"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "业余摄影｜我会永远站在过去热泪盈眶地读着你们的未来",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1482,
+          "following_count": 226,
+          "like_count": 7163,
+          "listed_count": 12,
+          "media_count": 2391,
+          "tweet_count": 9627
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

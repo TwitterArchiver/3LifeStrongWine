@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1909967271470231652",
+    "created_at": "2025-04-09T15:43:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T16:43:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909995563577479201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1703762928",
+          "start": 0,
+          "username": "1965chich"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909995563577479201",
+    "in_reply_to_user_id": "1703762928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909967271470231652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1965chich 天才"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1909967271470231652",
+        "created_at": "2025-04-09T15:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T16:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909995563577479201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1703762928",
+              "start": 0,
+              "username": "1965chich"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909995563577479201",
+        "in_reply_to_user_id": "1703762928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909967271470231652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1965chich 天才"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703762928",
+        "conversation_id": "1909967271470231652",
+        "created_at": "2025-04-09T13:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T14:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909967271470231652"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909967271470231652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3137,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喝下0度的水\n却可以尿出37度的尿\n说明我是个烧货"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "十五日得半卷诗稿，遇墨迹化魂水中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909122304141148160/VzRDqCNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1500,
+          "following_count": 247,
+          "like_count": 7329,
+          "listed_count": 12,
+          "media_count": 2481,
+          "tweet_count": 10100
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2013-08-27T05:20:31.000Z",
+        "description": "🇨🇳爱中国 145/44kg 欢迎来到KFC的内心世界 带学生 有点社恐 喜欢看帅帅的女孩子/无性恋 /非跨/不会尊重人的关小黑屋/心里第一：浪浪宝贝 /爸爸：@kaijiangtuotu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "kaijiangtuotu_"
+              }
+            ]
+          }
+        },
+        "id": "1703762928",
+        "name": "Kentucky Fried Chicken",
+        "pinned_tweet_id": "1909566905138266537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882590512760446976/XdK6-PCg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5291,
+          "following_count": 995,
+          "like_count": 15657,
+          "listed_count": 7,
+          "media_count": 225,
+          "tweet_count": 4520
+        },
+        "username": "1965chich",
+        "verified": false
+      }
+    ]
+  }
+}

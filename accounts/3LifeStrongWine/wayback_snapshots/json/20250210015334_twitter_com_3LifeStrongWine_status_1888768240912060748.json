@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888768228631166976",
+        "3_1888768228631154688"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1888768240912060748",
+    "created_at": "2025-02-10T01:53:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T02:53:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1888768240912060748"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/a2aRsBNCar",
+          "end": 33,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1888768240912060748/photo/1",
+          "media_key": "3_1888768228631166976",
+          "start": 10,
+          "url": "https://t.co/a2aRsBNCar"
+        },
+        {
+          "display_url": "pic.x.com/a2aRsBNCar",
+          "end": 33,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1888768240912060748/photo/1",
+          "media_key": "3_1888768228631154688",
+          "start": 10,
+          "url": "https://t.co/a2aRsBNCar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888768240912060748",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不愧是你啊Citi https://t.co/a2aRsBNCar"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1888768228631166976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjZAsmKawAAdVBV.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1888768228631154688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjZAsmKakAAnHVz.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888768228631166976",
+            "3_1888768228631154688"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1888768240912060748",
+        "created_at": "2025-02-10T01:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T02:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888768240912060748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a2aRsBNCar",
+              "end": 33,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1888768240912060748/photo/1",
+              "media_key": "3_1888768228631166976",
+              "start": 10,
+              "url": "https://t.co/a2aRsBNCar"
+            },
+            {
+              "display_url": "pic.x.com/a2aRsBNCar",
+              "end": 33,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1888768240912060748/photo/1",
+              "media_key": "3_1888768228631154688",
+              "start": 10,
+              "url": "https://t.co/a2aRsBNCar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888768240912060748",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不愧是你啊Citi https://t.co/a2aRsBNCar"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1389,
+          "following_count": 217,
+          "like_count": 6519,
+          "listed_count": 9,
+          "media_count": 1747,
+          "tweet_count": 7385
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

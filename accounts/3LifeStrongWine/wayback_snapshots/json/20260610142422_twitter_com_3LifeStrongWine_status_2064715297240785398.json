@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2064587280036323812",
+    "created_at": "2026-06-10T14:24:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T15:24:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064715297240785398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1242408384336252929",
+          "start": 0,
+          "username": "A0LUxySUrldn9w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064715297240785398",
+    "in_reply_to_user_id": "1242408384336252929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064618545808584957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A0LUxySUrldn9w0 无所谓反正我有工作了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2064587280036323812",
+        "created_at": "2026-06-10T14:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064715297240785398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1242408384336252929",
+              "start": 0,
+              "username": "A0LUxySUrldn9w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064715297240785398",
+        "in_reply_to_user_id": "1242408384336252929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064618545808584957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A0LUxySUrldn9w0 无所谓反正我有工作了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1242408384336252929",
+        "conversation_id": "2064587280036323812",
+        "created_at": "2026-06-10T07:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064618545808584957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064618545808584957",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064587280036323812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 生服巨累巨压力\n而且这个大概率是KPI面，字节有面试KPI要求，大多数简历还可以的都会被多次邀请面试，但大多数时候都是KPI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花潭水深千尺  不及汪伦送我情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2868,
+          "following_count": 100,
+          "like_count": 6810,
+          "listed_count": 14,
+          "media_count": 3710,
+          "tweet_count": 14472
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-24T11:10:26.000Z",
+        "description": "Hamilton faces an endless uphill climb\n提问箱：https://t.co/Wrdnw5UqHC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/A0LUxySUrldn9w…",
+                "end": 66,
+                "expanded_url": "https://ngl.link/A0LUxySUrldn9w078532",
+                "start": 43,
+                "url": "https://t.co/Wrdnw5UqHC"
+              }
+            ]
+          }
+        },
+        "id": "1242408384336252929",
+        "location": "小马利亚",
+        "name": "花散里翎音",
+        "pinned_tweet_id": "2055581176719704119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055277906759417856/3R3p2LX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 389,
+          "like_count": 5767,
+          "listed_count": 2,
+          "media_count": 504,
+          "tweet_count": 3429
+        },
+        "username": "A0LUxySUrldn9w0",
+        "verified": false
+      }
+    ]
+  }
+}

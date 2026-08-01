@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1884121747596927246",
+    "created_at": "2025-01-28T07:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T08:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884142883256819997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1772293349921427456",
+          "start": 0,
+          "username": "SheepKillerrrr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884142883256819997",
+    "in_reply_to_user_id": "1772293349921427456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884123963049271710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SheepKillerrrr 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1884121747596927246",
+        "created_at": "2025-01-28T07:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T08:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884142883256819997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1772293349921427456",
+              "start": 0,
+              "username": "SheepKillerrrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884142883256819997",
+        "in_reply_to_user_id": "1772293349921427456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884123963049271710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SheepKillerrrr 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772293349921427456",
+        "conversation_id": "1884121747596927246",
+        "created_at": "2025-01-28T06:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T07:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884123963049271710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884123963049271710",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884121747596927246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 手好好看啊三生老师"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "凡所有相  皆是虚妄",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1374,
+          "following_count": 217,
+          "like_count": 6220,
+          "listed_count": 8,
+          "media_count": 1498,
+          "tweet_count": 6677
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-25T16:04:16.000Z",
+        "description": "廉价的酒请陪我梦一场吧",
+        "id": "1772293349921427456",
+        "name": "微型机器小羊.",
+        "pinned_tweet_id": "1883109434081300772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791409450521440256/F0tsvCTl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 40,
+          "like_count": 14098,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 828
+        },
+        "username": "SheepKillerrrr",
+        "verified": false
+      }
+    ]
+  }
+}

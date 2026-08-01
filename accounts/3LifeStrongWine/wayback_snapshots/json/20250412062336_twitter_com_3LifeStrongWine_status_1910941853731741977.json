@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1910889192261046781",
+    "created_at": "2025-04-12T06:23:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T07:23:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910941853731741977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1851534705927340033",
+          "start": 0,
+          "username": "kluli265460"
+        },
+        {
+          "end": 25,
+          "id": "1592865779241734144",
+          "start": 13,
+          "username": "yuanyuan774"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910941853731741977",
+    "in_reply_to_user_id": "1851534705927340033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910940048226140553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kluli265460 @yuanyuan774 生日快乐，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1910889192261046781",
+        "created_at": "2025-04-12T06:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T07:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910941853731741977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1851534705927340033",
+              "start": 0,
+              "username": "kluli265460"
+            },
+            {
+              "end": 25,
+              "id": "1592865779241734144",
+              "start": 13,
+              "username": "yuanyuan774"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910941853731741977",
+        "in_reply_to_user_id": "1851534705927340033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910940048226140553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kluli265460 @yuanyuan774 生日快乐，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851534705927340033",
+        "conversation_id": "1910889192261046781",
+        "created_at": "2025-04-12T06:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T07:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910940048226140553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592865779241734144",
+              "start": 0,
+              "username": "yuanyuan774"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910940048226140553",
+        "in_reply_to_user_id": "1592865779241734144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910897001295651120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanyuan774 欠欠宝宝😽😽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "东隅已逝，桑榆非晚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909122304141148160/VzRDqCNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1497,
+          "following_count": 246,
+          "like_count": 7379,
+          "listed_count": 12,
+          "media_count": 2499,
+          "tweet_count": 10181
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-30T08:01:04.000Z",
+        "description": "一只小话痨｜找小乖乖玩@EnenXkk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "EnenXkk"
+              }
+            ]
+          }
+        },
+        "id": "1851534705927340033",
+        "location": "🚪188纯绿",
+        "name": "小可恩恩",
+        "pinned_tweet_id": "1892809255507681366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908102794609135616/IRR3zRp5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5583,
+          "following_count": 221,
+          "like_count": 21620,
+          "listed_count": 10,
+          "media_count": 131,
+          "tweet_count": 7805
+        },
+        "username": "kluli265460",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T13:03:00.000Z",
+        "description": "不爱看滚出去",
+        "id": "1592865779241734144",
+        "location": "（不打钱不要骚扰我 ）（别他妈发几把了 操你妈）",
+        "name": "你是不是欠",
+        "pinned_tweet_id": "1909425317795537083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910922776661110785/0cJwW1VC_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4563,
+          "following_count": 208,
+          "like_count": 17129,
+          "listed_count": 9,
+          "media_count": 551,
+          "tweet_count": 12269
+        },
+        "username": "yuanyuan774",
+        "verified": false
+      }
+    ]
+  }
+}

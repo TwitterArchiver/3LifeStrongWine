@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2039721600317333632",
+    "created_at": "2026-04-02T15:12:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T16:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039722671764885776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1952612167343374336",
+          "start": 0,
+          "username": "gugugubobi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039722671764885776",
+    "in_reply_to_user_id": "1952612167343374336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039721600317333632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gugugubobi bobi去哪玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3332,
+        "media_key": "3_2039721594910871552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6L-9FbEAAVYRT.jpg",
+        "width": 2498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2039721600317333632",
+        "created_at": "2026-04-02T15:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039722671764885776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1952612167343374336",
+              "start": 0,
+              "username": "gugugubobi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039722671764885776",
+        "in_reply_to_user_id": "1952612167343374336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039721600317333632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gugugubobi bobi去哪玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039721594910871552"
+          ]
+        },
+        "author_id": "1952612167343374336",
+        "conversation_id": "2039721600317333632",
+        "created_at": "2026-04-02T15:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039721600317333632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m9Q4tc99NF",
+              "end": 29,
+              "expanded_url": "https://x.com/gugugubobi/status/2039721600317333632/photo/1",
+              "media_key": "3_2039721594910871552",
+              "start": 6,
+              "url": "https://t.co/m9Q4tc99NF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039721600317333632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收行李箱中 https://t.co/m9Q4tc99NF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "最后还是失眠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2059,
+          "following_count": 182,
+          "like_count": 6890,
+          "listed_count": 13,
+          "media_count": 3486,
+          "tweet_count": 13671
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T06:06:49.000Z",
+        "description": "ed 我想说什么就说什么 不关注我不回复 不加人 非单身但也没谈",
+        "id": "1952612167343374336",
+        "location": "永远的初心不改",
+        "name": "bobi",
+        "pinned_tweet_id": "2002371728643588513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952615390724628480/8sBaOw0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5677,
+          "following_count": 237,
+          "like_count": 1778,
+          "listed_count": 14,
+          "media_count": 689,
+          "tweet_count": 5749
+        },
+        "username": "gugugubobi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1875131451131523168",
+    "created_at": "2025-01-03T10:45:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T11:45:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1875131451131523168"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3LifeStrongWin…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/3LifeStrongWine/status/1874675451739971770",
+          "start": 46,
+          "url": "https://t.co/5G6CDuMf8Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875131451131523168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874675451739971770",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "无论是不是互关都可以，但如果你的主页内容比较少的话我写的东西可能也会少一些，也会更主观一些 https://t.co/5G6CDuMf8Z"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1875131451131523168",
+        "created_at": "2025-01-03T10:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T11:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875131451131523168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3LifeStrongWin…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/3LifeStrongWine/status/1874675451739971770",
+              "start": 46,
+              "url": "https://t.co/5G6CDuMf8Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875131451131523168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874675451739971770",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "无论是不是互关都可以，但如果你的主页内容比较少的话我写的东西可能也会少一些，也会更主观一些 https://t.co/5G6CDuMf8Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874675443753963520"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1874675451739971770",
+        "created_at": "2025-01-02T04:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T05:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874675451739971770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/80glTXTIL7",
+              "end": 84,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1874675451739971770/photo/1",
+              "media_key": "3_1874675443753963520",
+              "start": 61,
+              "url": "https://t.co/80glTXTIL7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874675451739971770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1121,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想把这些明信片都寄出去，如果想要的话，请私信我，都是我在不同的城市买的明信片，会贴着邮票寄出，背后的话是我对你贴文的印象 https://t.co/80glTXTIL7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "有时也想过花烂漫某天与世界无声道别， 可是偏偏有太多太多遗憾挂牵没画句点",
+        "id": "1529654419213541376",
+        "location": "期待一场意外，此生再无难过",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 198,
+          "like_count": 3771,
+          "listed_count": 7,
+          "media_count": 870,
+          "tweet_count": 4524
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

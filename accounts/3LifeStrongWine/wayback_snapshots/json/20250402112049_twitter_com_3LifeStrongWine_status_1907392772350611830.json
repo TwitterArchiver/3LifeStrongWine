@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907392769821491200"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1907392772350611830",
+    "created_at": "2025-04-02T11:20:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T12:20:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907392772350611830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 39,
+          "id": "1573169818345172992",
+          "start": 26,
+          "username": "gaga20220923"
+        },
+        {
+          "end": 53,
+          "id": "1522862031795372032",
+          "start": 40,
+          "username": "Alouette_zzz"
+        },
+        {
+          "end": 74,
+          "id": "1248637653001494529",
+          "start": 61,
+          "username": "Fomalhautawa"
+        },
+        {
+          "end": 94,
+          "id": "1592865779241734144",
+          "start": 82,
+          "username": "yuanyuan774"
+        },
+        {
+          "end": 111,
+          "id": "1863961550350065664",
+          "start": 95,
+          "username": "Selaginellaaaaa"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+          "display_url": "infinityweet.me/family-tree",
+          "end": 139,
+          "expanded_url": "https://infinityweet.me/family-tree",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/1906929018898874368/AQwG6fH3?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1906929018898874368/AQwG6fH3?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 116,
+          "status": 200,
+          "title": "Family Tree • Infinitweet",
+          "unwound_url": "https://infinityweet.me/family-tree",
+          "url": "https://t.co/TD0C0PDzHO"
+        },
+        {
+          "display_url": "pic.x.com/aPP3vsbn2o",
+          "end": 163,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1907392772350611830/photo/1",
+          "media_key": "3_1907392769821491200",
+          "start": 140,
+          "url": "https://t.co/aPP3vsbn2o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907392772350611830",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "👨‍👩‍👧‍👦 私のTwitter家族:\n👫 親: @gaga20220923 @Alouette_zzz\n👰 配偶者: @Fomalhautawa\n👶 子ども: @yuanyuan774 @Selaginellaaaaa\n\n➡️ https://t.co/TD0C0PDzHO https://t.co/aPP3vsbn2o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1907392769821491200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnhrnkxbwAApujy.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907392769821491200"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1907392772350611830",
+        "created_at": "2025-04-02T11:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T12:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907392772350611830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 39,
+              "id": "1573169818345172992",
+              "start": 26,
+              "username": "gaga20220923"
+            },
+            {
+              "end": 53,
+              "id": "1522862031795372032",
+              "start": 40,
+              "username": "Alouette_zzz"
+            },
+            {
+              "end": 74,
+              "id": "1248637653001494529",
+              "start": 61,
+              "username": "Fomalhautawa"
+            },
+            {
+              "end": 94,
+              "id": "1592865779241734144",
+              "start": 82,
+              "username": "yuanyuan774"
+            },
+            {
+              "end": 111,
+              "id": "1863961550350065664",
+              "start": 95,
+              "username": "Selaginellaaaaa"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinityweet.me/family-tree",
+              "end": 139,
+              "expanded_url": "https://infinityweet.me/family-tree",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1906929018898874368/AQwG6fH3?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1906929018898874368/AQwG6fH3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 116,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinityweet.me/family-tree",
+              "url": "https://t.co/TD0C0PDzHO"
+            },
+            {
+              "display_url": "pic.x.com/aPP3vsbn2o",
+              "end": 163,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1907392772350611830/photo/1",
+              "media_key": "3_1907392769821491200",
+              "start": 140,
+              "url": "https://t.co/aPP3vsbn2o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907392772350611830",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 私のTwitter家族:\n👫 親: @gaga20220923 @Alouette_zzz\n👰 配偶者: @Fomalhautawa\n👶 子ども: @yuanyuan774 @Selaginellaaaaa\n\n➡️ https://t.co/TD0C0PDzHO https://t.co/aPP3vsbn2o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来｜把那无人问津的岁月熬成清茶，等一场芳香四散",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1483,
+          "following_count": 232,
+          "like_count": 7132,
+          "listed_count": 12,
+          "media_count": 2335,
+          "tweet_count": 9469
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-23T04:38:15.000Z",
+        "description": "",
+        "id": "1573169818345172992",
+        "name": "牛逼的人名字都要取13个字",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611525518297567232/t-9Uxh7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 110,
+          "like_count": 6086,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 441
+        },
+        "username": "gaga20220923",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-07T08:53:09.000Z",
+        "description": "聊天/分享日常 \n宝宝@wslcdg20",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "wslcdg20"
+              }
+            ]
+          }
+        },
+        "id": "1522862031795372032",
+        "location": "里八华",
+        "name": "小叙大王",
+        "pinned_tweet_id": "1874419696596074498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872653372173512704/cTCEH8j1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 305,
+          "like_count": 42329,
+          "listed_count": 5,
+          "media_count": 623,
+          "tweet_count": 6997
+        },
+        "username": "Alouette_zzz",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-10T15:43:19.000Z",
+        "description": "你好哦，這裡是師師。\n謝謝你來。\n@Ning0809pepsi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "Ning0809pepsi"
+              }
+            ]
+          }
+        },
+        "id": "1248637653001494529",
+        "location": "萱華軒",
+        "name": "白師師",
+        "pinned_tweet_id": "1906040752888832458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906965908238811136/l42BzsxV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1663,
+          "following_count": 283,
+          "like_count": 128077,
+          "listed_count": 21,
+          "media_count": 46,
+          "tweet_count": 28424
+        },
+        "username": "Fomalhautawa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T13:03:00.000Z",
+        "description": "只能看着我",
+        "id": "1592865779241734144",
+        "location": "不接推广（不打钱不要骚扰我 ）（别他妈发几把了 操你妈）",
+        "name": "你是不是欠",
+        "pinned_tweet_id": "1907277940192133353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907366939682291712/aEdsg4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3848,
+          "following_count": 176,
+          "like_count": 13778,
+          "listed_count": 4,
+          "media_count": 453,
+          "tweet_count": 9545
+        },
+        "username": "yuanyuan774",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-03T15:01:06.000Z",
+        "description": "md没🚪不熟不加好友能不能别私信了     卷卷卷卷不动了就柏",
+        "id": "1863961550350065664",
+        "location": "叫我卷柏就行",
+        "name": "Selaginella",
+        "pinned_tweet_id": "1875426091894239257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876307978443522048/mt_EImdI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9994,
+          "following_count": 89,
+          "like_count": 10027,
+          "listed_count": 24,
+          "media_count": 320,
+          "tweet_count": 3364
+        },
+        "username": "Selaginellaaaaa",
+        "verified": false
+      }
+    ]
+  }
+}

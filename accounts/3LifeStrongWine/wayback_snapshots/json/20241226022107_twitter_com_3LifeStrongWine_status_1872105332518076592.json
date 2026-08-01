@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1872104993941295503",
+    "created_at": "2024-12-26T02:21:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T03:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872105332518076592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1333708823169732608",
+          "start": 0,
+          "username": "Lizimumuamuamua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872105332518076592",
+    "in_reply_to_user_id": "1333708823169732608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872105167795200071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lizimumuamuamua 只可惜我的相机现在不在我手里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1872104993941295503",
+        "created_at": "2024-12-26T02:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T03:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872105332518076592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1333708823169732608",
+              "start": 0,
+              "username": "Lizimumuamuamua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872105332518076592",
+        "in_reply_to_user_id": "1333708823169732608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872105167795200071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lizimumuamuamua 只可惜我的相机现在不在我手里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1333708823169732608",
+        "conversation_id": "1872104993941295503",
+        "created_at": "2024-12-26T02:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T03:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872105167795200071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872105167795200071",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872104993941295503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 全是好东西！🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "有时也想过花烂漫某天与世界无声道别， 可是偏偏有太多太多遗憾挂牵没画句点",
+        "id": "1529654419213541376",
+        "location": "期待一场意外，此生再无难过",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1865393368853090537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 197,
+          "like_count": 3314,
+          "listed_count": 6,
+          "media_count": 747,
+          "tweet_count": 4173
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-01T09:45:45.000Z",
+        "description": "充满好奇！(还是一个不专业摄影爱好者、希望大家喜欢我拍的照片😊(isfp",
+        "id": "1333708823169732608",
+        "location": "Hunan",
+        "name": "吱吱",
+        "pinned_tweet_id": "1861105895977156847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1630382036358774784/9qQZLJfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 151,
+          "like_count": 2713,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1204
+        },
+        "username": "Lizimumuamuamua",
+        "verified": false
+      }
+    ]
+  }
+}

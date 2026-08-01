@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074773214035931136"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "2074773223980618034",
+    "created_at": "2026-07-08T08:30:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T09:30:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074773223980618034"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/c64IXXrvB8",
+          "end": 27,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/2074773223980618034/photo/1",
+          "media_key": "3_2074773214035931136",
+          "start": 4,
+          "url": "https://t.co/c64IXXrvB8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074773223980618034",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "下班吧 https://t.co/c64IXXrvB8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074773214035931136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsTPtwbcAAYQB1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074773214035931136"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "2074773223980618034",
+        "created_at": "2026-07-08T08:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T09:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074773223980618034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c64IXXrvB8",
+              "end": 27,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/2074773223980618034/photo/1",
+              "media_key": "3_2074773214035931136",
+              "start": 4,
+              "url": "https://t.co/c64IXXrvB8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074773223980618034",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下班吧 https://t.co/c64IXXrvB8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花潭水深千尺  不及汪伦送我情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2849,
+          "following_count": 104,
+          "like_count": 6819,
+          "listed_count": 14,
+          "media_count": 3723,
+          "tweet_count": 14509
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

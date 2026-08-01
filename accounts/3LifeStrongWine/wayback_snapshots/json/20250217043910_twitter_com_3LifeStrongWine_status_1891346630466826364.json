@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1891123495012122810",
+    "created_at": "2025-02-17T04:39:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T05:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891346630466826364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1814525373348003840",
+          "start": 0,
+          "username": "ayuuy4425736"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891346630466826364",
+    "in_reply_to_user_id": "1814525373348003840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891346312118825223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayuuy4425736 不带壳难受的慌，总是怕摔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1891123495012122810",
+        "created_at": "2025-02-17T04:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T05:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891346630466826364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1814525373348003840",
+              "start": 0,
+              "username": "ayuuy4425736"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891346630466826364",
+        "in_reply_to_user_id": "1814525373348003840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891346312118825223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayuuy4425736 不带壳难受的慌，总是怕摔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814525373348003840",
+        "conversation_id": "1891123495012122810",
+        "created_at": "2025-02-17T04:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T05:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891346312118825223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891346312118825223",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891123495012122810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 不带壳就好啦，或者用凯夫拉的壳，裸奔和薄壳手感都贼好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1393,
+          "following_count": 226,
+          "like_count": 6622,
+          "listed_count": 10,
+          "media_count": 1898,
+          "tweet_count": 7808
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-20T04:59:36.000Z",
+        "description": "想回家，跑路完成60%",
+        "id": "1814525373348003840",
+        "location": "哪里",
+        "name": "ayuuy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821157097373102080/crG37Rip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 165,
+          "like_count": 1659,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 3896
+        },
+        "username": "ayuuy4425736",
+        "verified": false
+      }
+    ]
+  }
+}

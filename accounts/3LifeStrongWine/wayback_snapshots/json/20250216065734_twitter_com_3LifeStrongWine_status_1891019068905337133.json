@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1890950777050403164",
+    "created_at": "2025-02-16T06:57:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T07:57:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891019068905337133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1543108880682475522",
+          "start": 0,
+          "username": "maobingXR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891019068905337133",
+    "in_reply_to_user_id": "1543108880682475522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890950777050403164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maobingXR 看到就想到我新熨的风衣，坐了一趟飞机就又皱皱巴巴了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1890950777050403164",
+        "created_at": "2025-02-16T06:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T07:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891019068905337133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1543108880682475522",
+              "start": 0,
+              "username": "maobingXR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891019068905337133",
+        "in_reply_to_user_id": "1543108880682475522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890950777050403164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maobingXR 看到就想到我新熨的风衣，坐了一趟飞机就又皱皱巴巴了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890950773430951936"
+          ]
+        },
+        "author_id": "1543108880682475522",
+        "conversation_id": "1890950777050403164",
+        "created_at": "2025-02-16T02:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T03:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890950777050403164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RLP5zic8cB",
+              "end": 67,
+              "expanded_url": "https://x.com/maobingXR/status/1890950777050403164/photo/1",
+              "media_key": "3_1890950773430951936",
+              "start": 44,
+              "url": "https://t.co/RLP5zic8cB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890950777050403164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 543,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "此人拍照时还喜滋滋地想今天穿的非常职业非常帅，到了办公室挂衣服的时候才发现外套没有熨🥲 https://t.co/RLP5zic8cB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 219,
+          "like_count": 6593,
+          "listed_count": 10,
+          "media_count": 1885,
+          "tweet_count": 7742
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-02T05:46:50.000Z",
+        "description": "祝福人类，也祝福人类文明。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/maobingxr1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/maobingxr1",
+                "start": 0,
+                "url": "https://t.co/7fS0w5dkml"
+              }
+            ]
+          }
+        },
+        "id": "1543108880682475522",
+        "location": "爱",
+        "name": "一杯猫饼",
+        "pinned_tweet_id": "1890725653550350566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636388198321643521/Uppd41_5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 73,
+          "like_count": 1754,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 895
+        },
+        "url": "https://t.co/7fS0w5dkml",
+        "username": "maobingXR",
+        "verified": false
+      }
+    ]
+  }
+}

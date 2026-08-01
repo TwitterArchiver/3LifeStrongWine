@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1893706195661094968",
+    "created_at": "2025-02-23T17:03:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T18:03:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893708394093052324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1675893781554667521",
+          "start": 0,
+          "username": "attto206181"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893708394093052324",
+    "in_reply_to_user_id": "1675893781554667521",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893708085148938611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@attto206181 好吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1893706195661094968",
+        "created_at": "2025-02-23T17:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T18:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893708394093052324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1675893781554667521",
+              "start": 0,
+              "username": "attto206181"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893708394093052324",
+        "in_reply_to_user_id": "1675893781554667521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893708085148938611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@attto206181 好吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675893781554667521",
+        "conversation_id": "1893706195661094968",
+        "created_at": "2025-02-23T17:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T18:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893708085148938611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893708085148938611",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893707032814923779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 住宿呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 224,
+          "like_count": 6794,
+          "listed_count": 10,
+          "media_count": 1998,
+          "tweet_count": 8178
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-03T15:46:43.000Z",
+        "description": "草，这辈子死定了！|喜欢🍰和🍊和💰|一些碎碎念|可以叫我et",
+        "id": "1675893781554667521",
+        "location": "外太空",
+        "name": "全世界的人听我説",
+        "pinned_tweet_id": "1874128078672429146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892258843276591107/fLzOFpfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 120,
+          "like_count": 9021,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 3340
+        },
+        "username": "attto206181",
+        "verified": false
+      }
+    ]
+  }
+}

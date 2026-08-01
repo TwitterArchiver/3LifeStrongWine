@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1867487020681244956",
+    "created_at": "2024-12-13T08:33:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T09:33:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867487949732131193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1733183818960633856",
+          "start": 0,
+          "username": "whitething05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867487949732131193",
+    "in_reply_to_user_id": "1733183818960633856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867487602171162696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitething05 我直接买一箱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1867487020681244956",
+        "created_at": "2024-12-13T08:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T09:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867487949732131193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1733183818960633856",
+              "start": 0,
+              "username": "whitething05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867487949732131193",
+        "in_reply_to_user_id": "1733183818960633856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867487602171162696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitething05 我直接买一箱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733183818960633856",
+        "conversation_id": "1867487020681244956",
+        "created_at": "2024-12-13T08:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T09:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867487602171162696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867487602171162696",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867487020681244956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 冰红茶，热带风味。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "有时也想过花烂漫某天与世界无声道别， 可是偏偏有太多太多遗憾挂牵没画句点",
+        "id": "1529654419213541376",
+        "location": "长大是变温柔，是对所有人都温柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1865393368853090537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 183,
+          "like_count": 2195,
+          "listed_count": 4,
+          "media_count": 542,
+          "tweet_count": 3302
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-08T17:56:55.000Z",
+        "description": "我的脑子缺了一块 丨INFP-T丨双相情感障碍丨overdose丨泛性恋丨药理学丨文学丨友🏳️‍⚧️丨约死丨一般会回fo",
+        "id": "1733183818960633856",
+        "location": "死无葬身之地",
+        "name": "有机化学",
+        "pinned_tweet_id": "1867221392368013727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861474547872210945/aqttihVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 190,
+          "like_count": 5047,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 285
+        },
+        "username": "whitething05",
+        "verified": false
+      }
+    ]
+  }
+}

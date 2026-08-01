@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1892890346230861910",
+    "created_at": "2025-02-21T14:10:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T15:10:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892940058388291973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1356514988223918080",
+          "start": 0,
+          "username": "StarrySkyOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892940058388291973",
+    "in_reply_to_user_id": "1356514988223918080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892938903226573159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StarrySkyOvO 手感挺好的，elecom的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1892890346230861910",
+        "created_at": "2025-02-21T14:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T15:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892940058388291973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1356514988223918080",
+              "start": 0,
+              "username": "StarrySkyOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892940058388291973",
+        "in_reply_to_user_id": "1356514988223918080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892938903226573159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarrySkyOvO 手感挺好的，elecom的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356514988223918080",
+        "conversation_id": "1892890346230861910",
+        "created_at": "2025-02-21T14:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T15:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892938903226573159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892938903226573159",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892890346230861910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 类纸膜用着咋样\n我的贴的是普通膜现在全是爪印🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 227,
+          "like_count": 6709,
+          "listed_count": 10,
+          "media_count": 1963,
+          "tweet_count": 8015
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-02T08:09:33.000Z",
+        "description": " EN/漢語/日本語 INFP-T Dev 友跨🏳️‍🌈 常驻027 接拍📷可飞全国主要城市(西部三省除外) 逃生舱@StarrySkyUS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "StarrySkyUS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StarrySkyOvO",
+                "end": 23,
+                "expanded_url": "https://t.me/StarrySkyOvO",
+                "start": 0,
+                "url": "https://t.co/qZoRN6mwUP"
+              }
+            ]
+          }
+        },
+        "id": "1356514988223918080",
+        "location": "🚪0 欢迎扩列",
+        "name": "StarrySky",
+        "pinned_tweet_id": "1847092753504915700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579650782344855553/SF85JWDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3834,
+          "following_count": 3441,
+          "like_count": 30,
+          "listed_count": 29,
+          "media_count": 1967,
+          "tweet_count": 18644
+        },
+        "url": "https://t.co/qZoRN6mwUP",
+        "username": "StarrySkyOvO",
+        "verified": false
+      }
+    ]
+  }
+}

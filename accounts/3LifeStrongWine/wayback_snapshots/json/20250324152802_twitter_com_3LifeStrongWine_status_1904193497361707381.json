@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1904193400980832606",
+    "created_at": "2025-03-24T15:28:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T16:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904193497361707381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1510950662888058882",
+          "start": 0,
+          "username": "Butter3ear"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904193497361707381",
+    "in_reply_to_user_id": "1510950662888058882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904193400980832606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Butter3ear twice是什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1904193400980832606",
+        "created_at": "2025-03-24T15:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T16:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904193497361707381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510950662888058882",
+              "start": 0,
+              "username": "Butter3ear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904193497361707381",
+        "in_reply_to_user_id": "1510950662888058882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904193400980832606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Butter3ear twice是什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510950662888058882",
+        "conversation_id": "1904193400980832606",
+        "created_at": "2025-03-24T15:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T16:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904193400980832606"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904193400980832606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大学生不能失去twice"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来｜把那无人问津的岁月熬成清茶，等一场芳香四散",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1476,
+          "following_count": 238,
+          "like_count": 7104,
+          "listed_count": 11,
+          "media_count": 2248,
+          "tweet_count": 9215
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-04T12:01:45.000Z",
+        "description": "这里是本废话博主的球球空间 胡言乱语＋内心戏小剧场＋屁大点事分享家 话多的像爆米花 | 开心流泪猫猫头丨我老爹@IBGDRGN丨互关的宝宝请多多找我玩儿丨汪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 55,
+                "username": "IBGDRGN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "llgjc1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://llgjc1.com/#/register?code=F5V7pAiX",
+                "start": 0,
+                "url": "https://t.co/SN0AXIB37D"
+              }
+            ]
+          }
+        },
+        "id": "1510950662888058882",
+        "location": "🪜",
+        "name": "醋醋醋醋醋",
+        "pinned_tweet_id": "1861452846165828068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888251632376594432/vc83kJI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2521,
+          "following_count": 248,
+          "like_count": 7156,
+          "listed_count": 3,
+          "media_count": 242,
+          "tweet_count": 2599
+        },
+        "url": "https://t.co/SN0AXIB37D",
+        "username": "Butter3ear",
+        "verified": false
+      }
+    ]
+  }
+}

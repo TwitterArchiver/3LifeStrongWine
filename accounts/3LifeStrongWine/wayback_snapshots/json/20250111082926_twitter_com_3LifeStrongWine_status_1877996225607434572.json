@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1877996216539369472"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1877996225607434572",
+    "created_at": "2025-01-11T08:29:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T09:29:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1877996225607434572"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ryAbokjk8R",
+          "end": 41,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1877996225607434572/photo/1",
+          "media_key": "3_1877996216539369472",
+          "start": 18,
+          "url": "https://t.co/ryAbokjk8R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877996225607434572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "未灭的烟头这是什么新颖的参拜方式吗 https://t.co/ryAbokjk8R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1877996216539369472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg_7m-BbUAAtESC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877996216539369472"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1877996225607434572",
+        "created_at": "2025-01-11T08:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T09:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877996225607434572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ryAbokjk8R",
+              "end": 41,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1877996225607434572/photo/1",
+              "media_key": "3_1877996216539369472",
+              "start": 18,
+              "url": "https://t.co/ryAbokjk8R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877996225607434572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "未灭的烟头这是什么新颖的参拜方式吗 https://t.co/ryAbokjk8R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "分享从我眼中看到的世界🌸｜雨季里我和你的青春一起坐过了站，而我会站在原地热泪盈眶地读你的未来",
+        "id": "1529654419213541376",
+        "location": "风的目的地.",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 211,
+          "like_count": 4900,
+          "listed_count": 7,
+          "media_count": 1102,
+          "tweet_count": 5285
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

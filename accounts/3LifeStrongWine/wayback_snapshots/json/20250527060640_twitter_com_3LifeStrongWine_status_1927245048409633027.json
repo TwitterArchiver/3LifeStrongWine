@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927245037366054914"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1927245048409633027",
+    "created_at": "2025-05-27T06:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T07:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927245048409633027"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/taZsosHSPK",
+          "end": 58,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1927245048409633027/photo/1",
+          "media_key": "3_1927245037366054914",
+          "start": 35,
+          "url": "https://t.co/taZsosHSPK"
+        },
+        {
+          "display_url": "x.com/3LifeStrongWin…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/3LifeStrongWine/status/1927243229629432318",
+          "start": 59,
+          "url": "https://t.co/IJof7HeEau"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927245048409633027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927243229629432318",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哈哈哈哈哈拿这张图发了个朋友圈，我朋友以为我买了富士的新相机用的滤镜 https://t.co/taZsosHSPK https://t.co/IJof7HeEau"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1090,
+        "media_key": "3_1927245037366054914",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr7zJodWkAICNoh.jpg",
+        "width": 1344
+      },
+      {
+        "height": 2731,
+        "media_key": "3_1927243075379687424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr7xXbfWcAAEU64.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927245037366054914"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1927245048409633027",
+        "created_at": "2025-05-27T06:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T07:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927245048409633027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/taZsosHSPK",
+              "end": 58,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1927245048409633027/photo/1",
+              "media_key": "3_1927245037366054914",
+              "start": 35,
+              "url": "https://t.co/taZsosHSPK"
+            },
+            {
+              "display_url": "x.com/3LifeStrongWin…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/3LifeStrongWine/status/1927243229629432318",
+              "start": 59,
+              "url": "https://t.co/IJof7HeEau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927245048409633027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927243229629432318",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈哈拿这张图发了个朋友圈，我朋友以为我买了富士的新相机用的滤镜 https://t.co/taZsosHSPK https://t.co/IJof7HeEau"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927243075379687424"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1927243229629432318",
+        "created_at": "2025-05-27T05:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T06:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927243229629432318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ux9LJOMgxq",
+              "end": 44,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1927243229629432318/photo/1",
+              "media_key": "3_1927243075379687424",
+              "start": 21,
+              "url": "https://t.co/ux9LJOMgxq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927243229629432318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "童年记忆中那个夏天的模样早已模糊在脑海中 https://t.co/ux9LJOMgxq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "闻有三山不知处，茂陵松柏满西风",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912318298353487872/R3xfbIV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 236,
+          "like_count": 7417,
+          "listed_count": 11,
+          "media_count": 2680,
+          "tweet_count": 10921
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

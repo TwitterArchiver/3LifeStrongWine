@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025149332971028483",
+        "3_2025149332966813696",
+        "3_2025149332929085442",
+        "3_2025149332966834180"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2025149344782188595",
+    "created_at": "2026-02-21T10:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T11:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025149344782188595"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IxsZt0ROjZ",
+          "end": 23,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/2025149344782188595/photo/1",
+          "media_key": "3_2025149332971028483",
+          "start": 0,
+          "url": "https://t.co/IxsZt0ROjZ"
+        },
+        {
+          "display_url": "pic.x.com/IxsZt0ROjZ",
+          "end": 23,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/2025149344782188595/photo/1",
+          "media_key": "3_2025149332966813696",
+          "start": 0,
+          "url": "https://t.co/IxsZt0ROjZ"
+        },
+        {
+          "display_url": "pic.x.com/IxsZt0ROjZ",
+          "end": 23,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/2025149344782188595/photo/1",
+          "media_key": "3_2025149332929085442",
+          "start": 0,
+          "url": "https://t.co/IxsZt0ROjZ"
+        },
+        {
+          "display_url": "pic.x.com/IxsZt0ROjZ",
+          "end": 23,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/2025149344782188595/photo/1",
+          "media_key": "3_2025149332966834180",
+          "start": 0,
+          "url": "https://t.co/IxsZt0ROjZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025149344782188595",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/IxsZt0ROjZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025149332971028483",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBrGlrDbgAMFJIX.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2025149332966813696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBrGlrCbMAA9HVp.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2025149332929085442",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBrGlq5bgAI7cGz.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2025149332966834180",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBrGlrCbgAQFUdJ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025149332971028483",
+            "3_2025149332966813696",
+            "3_2025149332929085442",
+            "3_2025149332966834180"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025149344782188595",
+        "created_at": "2026-02-21T10:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T11:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025149344782188595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IxsZt0ROjZ",
+              "end": 23,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/2025149344782188595/photo/1",
+              "media_key": "3_2025149332971028483",
+              "start": 0,
+              "url": "https://t.co/IxsZt0ROjZ"
+            },
+            {
+              "display_url": "pic.x.com/IxsZt0ROjZ",
+              "end": 23,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/2025149344782188595/photo/1",
+              "media_key": "3_2025149332966813696",
+              "start": 0,
+              "url": "https://t.co/IxsZt0ROjZ"
+            },
+            {
+              "display_url": "pic.x.com/IxsZt0ROjZ",
+              "end": 23,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/2025149344782188595/photo/1",
+              "media_key": "3_2025149332929085442",
+              "start": 0,
+              "url": "https://t.co/IxsZt0ROjZ"
+            },
+            {
+              "display_url": "pic.x.com/IxsZt0ROjZ",
+              "end": 23,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/2025149344782188595/photo/1",
+              "media_key": "3_2025149332966834180",
+              "start": 0,
+              "url": "https://t.co/IxsZt0ROjZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025149344782188595",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IxsZt0ROjZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "此后锦书休寄  画楼云雨无凭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 172,
+          "like_count": 6835,
+          "listed_count": 12,
+          "media_count": 3321,
+          "tweet_count": 13139
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      }
+    ]
+  }
+}

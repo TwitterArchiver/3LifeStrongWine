@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1888142552815280206",
+    "created_at": "2025-02-08T10:43:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T11:43:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888176862217773521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1312262944827207686",
+          "start": 0,
+          "username": "pdlforSASAS2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888176862217773521",
+    "in_reply_to_user_id": "1312262944827207686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888176574119481856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pdlforSASAS2 飞机超过2小时我都浑身难受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1888142552815280206",
+        "created_at": "2025-02-08T10:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T11:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888176862217773521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1312262944827207686",
+              "start": 0,
+              "username": "pdlforSASAS2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888176862217773521",
+        "in_reply_to_user_id": "1312262944827207686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888176574119481856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pdlforSASAS2 飞机超过2小时我都浑身难受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1312262944827207686",
+        "conversation_id": "1888142552815280206",
+        "created_at": "2025-02-08T10:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T11:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888176574119481856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888176574119481856",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888142552815280206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 我坐火车16小时的都做过几次了，去广州也要十几个小时硬座，也不是很久👀👇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 219,
+          "like_count": 6495,
+          "listed_count": 9,
+          "media_count": 1684,
+          "tweet_count": 7264
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-03T05:27:29.000Z",
+        "description": "淡推/不互fo/MtF/持证含糖/休學中/特別想手術/HRT始于：26/6/2024",
+        "id": "1312262944827207686",
+        "location": "loved place",
+        "name": "超可愛いササちゃん🏳️‍⚧️🇹🇼",
+        "pinned_tweet_id": "1874419528224133172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1312264003834449920/rrIq1muy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 137,
+          "like_count": 289,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 370
+        },
+        "username": "pdlforSASAS2",
+        "verified": false
+      }
+    ]
+  }
+}

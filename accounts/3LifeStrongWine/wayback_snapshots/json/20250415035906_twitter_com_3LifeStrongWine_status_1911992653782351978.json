@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1911388738850021824",
+    "created_at": "2025-04-15T03:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T04:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911992653782351978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1353683586210295808",
+          "start": 0,
+          "username": "jer0217"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911992653782351978",
+    "in_reply_to_user_id": "1353683586210295808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911979468350197834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jer0217 太对了姐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1911388738850021824",
+        "created_at": "2025-04-15T03:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T04:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911992653782351978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1353683586210295808",
+              "start": 0,
+              "username": "jer0217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911992653782351978",
+        "in_reply_to_user_id": "1353683586210295808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911979468350197834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jer0217 太对了姐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353683586210295808",
+        "conversation_id": "1911388738850021824",
+        "created_at": "2025-04-15T03:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T04:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911979468350197834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911979468350197834",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911388738850021824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 得看城市和当时年份啊。我二线城市，19年物价低，之前我妈给我一个月1600，基本一个星期要400够花了实在没钱了还能要。我妈妈的牌友就多嘴说给我钱给多了，说他女儿一个星期就800，我气的骂他，我说那你女儿要不就谈对象了，你还不知道呢，要么就天天在学校里面捡垃圾吃。骂得他再也不敢bb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "东隅已逝，桑榆非晚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909122304141148160/VzRDqCNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1505,
+          "following_count": 244,
+          "like_count": 7423,
+          "listed_count": 12,
+          "media_count": 2526,
+          "tweet_count": 10320
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-25T12:38:20.000Z",
+        "description": "IGj337er｜🍑@JerJerJer1011",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "JerJerJer1011"
+              }
+            ]
+          }
+        },
+        "id": "1353683586210295808",
+        "location": "🚪🍺",
+        "name": "Jer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882347676936581120/NvQgyq8s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141963,
+          "following_count": 223,
+          "like_count": 39236,
+          "listed_count": 238,
+          "media_count": 2858,
+          "tweet_count": 21763
+        },
+        "username": "jer0217",
+        "verified": false
+      }
+    ]
+  }
+}

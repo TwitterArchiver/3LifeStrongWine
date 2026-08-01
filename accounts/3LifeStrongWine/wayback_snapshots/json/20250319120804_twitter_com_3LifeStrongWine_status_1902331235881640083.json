@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1902030309727904094",
+    "created_at": "2025-03-19T12:08:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T13:08:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902331235881640083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1901105462462083073",
+          "start": 0,
+          "username": "K599360"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902331235881640083",
+    "in_reply_to_user_id": "1901105462462083073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902330920339902787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K599360 什么鬼玩意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1902030309727904094",
+        "created_at": "2025-03-19T12:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T13:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902331235881640083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1901105462462083073",
+              "start": 0,
+              "username": "K599360"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902331235881640083",
+        "in_reply_to_user_id": "1901105462462083073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902330920339902787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K599360 什么鬼玩意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901105462462083073",
+        "conversation_id": "1902030309727904094",
+        "created_at": "2025-03-19T12:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T13:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902330920339902787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902330920339902787",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902030309727904094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 你也是mirei的粉丝吗\n我也是\n我还看过她的演唱会\n🥵🥵🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来｜把那无人问津的岁月熬成清茶，等一场芳香四散",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1446,
+          "following_count": 237,
+          "like_count": 7067,
+          "listed_count": 11,
+          "media_count": 2192,
+          "tweet_count": 8968
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-16T02:57:25.000Z",
+        "description": "",
+        "id": "1901105462462083073",
+        "name": "K",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901105572973604866/bGU2nojU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 55,
+          "like_count": 910,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 756
+        },
+        "username": "K599360",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1875806833375625353",
+    "created_at": "2025-01-05T07:35:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T08:35:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875808290460070381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1362960365055668225",
+          "start": 0,
+          "username": "POI74103174"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875808290460070381",
+    "in_reply_to_user_id": "1362960365055668225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875806833375625353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@POI74103174 确实，点名表扬南海電車、小田急電鉄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1875806833375625353",
+        "created_at": "2025-01-05T07:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T08:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875808290460070381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1362960365055668225",
+              "start": 0,
+              "username": "POI74103174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875808290460070381",
+        "in_reply_to_user_id": "1362960365055668225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875806833375625353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@POI74103174 确实，点名表扬南海電車、小田急電鉄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1362960365055668225",
+        "conversation_id": "1875806833375625353",
+        "created_at": "2025-01-05T07:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T08:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875806833375625353"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1875806833375625353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "顺便近铁的特急坐着比新干线舒服多了🥹普通指定席就和绿车一样舒服😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "雨季里我和你的青春一起坐过了站，而我会站在原地热泪盈眶地读你的未来",
+        "id": "1529654419213541376",
+        "location": "Destination of the Wind",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 213,
+          "like_count": 4037,
+          "listed_count": 7,
+          "media_count": 911,
+          "tweet_count": 4686
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-20T03:00:58.000Z",
+        "description": "叫我Poi就好了。藝術系留学生；写真／日記；冬と北海道が好き。(经常打错字，互动得多的话可能会回fo哦「Youth is wasted on the young.」@Poi74103175",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 82,
+                "username": "Poi74103175"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/poi39543",
+                "end": 23,
+                "expanded_url": "https://ngl.link/poi39543",
+                "start": 0,
+                "url": "https://t.co/KCvHJzFvHf"
+              }
+            ]
+          }
+        },
+        "id": "1362960365055668225",
+        "location": "Motorway South",
+        "name": "鸛鳥踟躕",
+        "pinned_tweet_id": "1786390162064433658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862755456038428672/lCjgNRpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2213,
+          "following_count": 272,
+          "like_count": 35852,
+          "listed_count": 5,
+          "media_count": 1419,
+          "tweet_count": 10990
+        },
+        "url": "https://t.co/KCvHJzFvHf",
+        "username": "POI74103174",
+        "verified": true
+      }
+    ]
+  }
+}

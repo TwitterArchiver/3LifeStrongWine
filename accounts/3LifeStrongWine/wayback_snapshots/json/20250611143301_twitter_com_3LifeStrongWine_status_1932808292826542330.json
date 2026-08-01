@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1932806657626767480",
+    "created_at": "2025-06-11T14:33:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T15:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932808292826542330"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1932808292826542330",
+    "in_reply_to_user_id": "1529654419213541376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932806657626767480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是我给别人拍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1932806647015223297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtK1Z67bMAEBd0b.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1932806657626767480",
+        "created_at": "2025-06-11T14:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T15:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932808292826542330"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932808292826542330",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932806657626767480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是我给别人拍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932806647015223297"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1932806657626767480",
+        "created_at": "2025-06-11T14:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T15:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932806657626767480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AJuh8nwSox",
+              "end": 31,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1932806657626767480/photo/1",
+              "media_key": "3_1932806647015223297",
+              "start": 8,
+              "url": "https://t.co/AJuh8nwSox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932806657626767480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天拍的毕业照 https://t.co/AJuh8nwSox"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "时光足够温柔了吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 238,
+          "like_count": 7477,
+          "listed_count": 11,
+          "media_count": 2791,
+          "tweet_count": 11349
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

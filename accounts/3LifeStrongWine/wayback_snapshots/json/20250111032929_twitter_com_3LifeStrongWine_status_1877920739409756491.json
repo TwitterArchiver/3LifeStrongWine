@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1877920739409756491",
+    "created_at": "2025-01-11T03:29:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T04:29:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877920739409756491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1784952411595161600",
+          "start": 3,
+          "username": "sunshinemudkip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877920739409756491",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877916628983374329",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sunshinemudkip: “怎样都可以”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1877920739409756491",
+        "created_at": "2025-01-11T03:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T04:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877920739409756491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1784952411595161600",
+              "start": 3,
+              "username": "sunshinemudkip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877920739409756491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877916628983374329",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sunshinemudkip: “怎样都可以”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784952411595161600",
+        "conversation_id": "1877916628983374329",
+        "created_at": "2025-01-11T03:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T04:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877916628983374329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/keshiwohaokun/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/keshiwohaokun/status/1877848944128192702",
+              "start": 8,
+              "url": "https://t.co/f6dnSKAsV3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877916628983374329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877848944128192702",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“怎样都可以” https://t.co/f6dnSKAsV3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "分享从我眼中看到的世界🌸｜雨季里我和你的青春一起坐过了站，而我会站在原地热泪盈眶地读你的未来",
+        "id": "1529654419213541376",
+        "location": "风的目的地.",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 210,
+          "like_count": 4873,
+          "listed_count": 7,
+          "media_count": 1081,
+          "tweet_count": 5245
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-29T14:27:02.000Z",
+        "description": "追求自由的懒鬼，但点赞狂魔",
+        "id": "1784952411595161600",
+        "name": "太阳水跃鱼੭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831683219273441280/p362Wvap_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 118,
+          "like_count": 3645,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 541
+        },
+        "username": "sunshinemudkip",
+        "verified": false
+      }
+    ]
+  }
+}

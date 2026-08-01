@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1877354722136395945",
+    "created_at": "2025-01-09T14:03:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T15:03:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877355526620631260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1749848735436427265",
+          "start": 0,
+          "username": "ZZZ_98426"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877355526620631260",
+    "in_reply_to_user_id": "1749848735436427265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877354722136395945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZZZ_98426 抢走了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1877354722136395945",
+        "created_at": "2025-01-09T14:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T15:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877355526620631260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1749848735436427265",
+              "start": 0,
+              "username": "ZZZ_98426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877355526620631260",
+        "in_reply_to_user_id": "1749848735436427265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877354722136395945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZZZ_98426 抢走了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877354679450968064"
+          ]
+        },
+        "author_id": "1749848735436427265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1877354722136395945",
+        "created_at": "2025-01-09T14:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T15:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877354722136395945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eyaBcrJEOP",
+              "end": 33,
+              "expanded_url": "https://x.com/ZZZ_98426/status/1877354722136395945/photo/1",
+              "media_key": "3_1877354679450968064",
+              "start": 10,
+              "url": "https://t.co/eyaBcrJEOP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877354722136395945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "糖醋麻辣味的巨好吃 https://t.co/eyaBcrJEOP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "雨季里我和你的青春一起坐过了站，而我会站在原地热泪盈眶地读你的未来",
+        "id": "1529654419213541376",
+        "location": "Destination of the Wind",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677266021881901056/LIQ7Ynl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1099,
+          "following_count": 210,
+          "like_count": 4674,
+          "listed_count": 7,
+          "media_count": 1016,
+          "tweet_count": 5049
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-23T17:37:16.000Z",
+        "description": "99岁老人/听我讲很多话的人都是世界上最好的人！！（嘻嘻看帖子就好了）🥰/拜金 （别和我认识一下）私信看着回🤚（正常聊天）谢谢你的关注🥺🥺",
+        "id": "1749848735436427265",
+        "location": "橙的🛏️",
+        "name": "屋顶橙子皮",
+        "pinned_tweet_id": "1760558813118443965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876936496441163776/Y4eB7Lws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 190,
+          "like_count": 41540,
+          "listed_count": 6,
+          "media_count": 126,
+          "tweet_count": 3431
+        },
+        "username": "ZZZ_98426",
+        "verified": false
+      }
+    ]
+  }
+}

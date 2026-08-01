@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1884258848279875584",
+        "3_1884258848250421248"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1884258855481483588",
+    "created_at": "2025-01-28T15:14:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T16:14:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884258855481483588"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/14m17TfQ5S",
+          "end": 51,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1884258855481483588/photo/1",
+          "media_key": "3_1884258848279875584",
+          "start": 28,
+          "url": "https://t.co/14m17TfQ5S"
+        },
+        {
+          "display_url": "pic.x.com/14m17TfQ5S",
+          "end": 51,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1884258855481483588/photo/1",
+          "media_key": "3_1884258848250421248",
+          "start": 28,
+          "url": "https://t.co/14m17TfQ5S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884258855481483588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你他妈一破硅胶要我20块钱？\n转头淘宝买3块钱还包邮的 https://t.co/14m17TfQ5S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1884258848279875584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiY7cHSb0AAxawM.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1884258848250421248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiY7cHLaYAAGkTO.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884258848279875584",
+            "3_1884258848250421248"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1884258855481483588",
+        "created_at": "2025-01-28T15:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T16:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884258855481483588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/14m17TfQ5S",
+              "end": 51,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1884258855481483588/photo/1",
+              "media_key": "3_1884258848279875584",
+              "start": 28,
+              "url": "https://t.co/14m17TfQ5S"
+            },
+            {
+              "display_url": "pic.x.com/14m17TfQ5S",
+              "end": 51,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1884258855481483588/photo/1",
+              "media_key": "3_1884258848250421248",
+              "start": 28,
+              "url": "https://t.co/14m17TfQ5S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884258855481483588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你他妈一破硅胶要我20块钱？\n转头淘宝买3块钱还包邮的 https://t.co/14m17TfQ5S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "凡所有相  皆是虚妄",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1375,
+          "following_count": 217,
+          "like_count": 6252,
+          "listed_count": 8,
+          "media_count": 1506,
+          "tweet_count": 6704
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

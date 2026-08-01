@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1902033636331020535",
+    "created_at": "2025-03-18T16:26:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T17:26:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902033793193816265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1650760116918943744",
+          "start": 0,
+          "username": "yusanyyy8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902033793193816265",
+    "in_reply_to_user_id": "1650760116918943744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902033636331020535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yusanyyy8 哇哦好清新"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6366,
+        "height": 1280,
+        "media_key": "7_1902033586850807808",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1902033586850807808/pu/img/ZQL42smvYtEFb-0K.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1902033586850807808/pu/vid/avc1/320x568/eiGlskdGkbMo8v8f.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1902033586850807808/pu/vid/avc1/480x852/eDmlr72unmh3WnwV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1902033586850807808/pu/vid/avc1/720x1280/u8OUPJB9TfEQoiwk.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1902033586850807808/pu/pl/n64teHp2_48eJvdm.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1902033636331020535",
+        "created_at": "2025-03-18T16:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T17:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902033793193816265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1650760116918943744",
+              "start": 0,
+              "username": "yusanyyy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902033793193816265",
+        "in_reply_to_user_id": "1650760116918943744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902033636331020535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yusanyyy8 哇哦好清新"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1902033586850807808"
+          ]
+        },
+        "author_id": "1650760116918943744",
+        "conversation_id": "1902033636331020535",
+        "created_at": "2025-03-18T16:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T17:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902033636331020535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bGziFA7YsD",
+              "end": 52,
+              "expanded_url": "https://x.com/yusanyyy8/status/1902033636331020535/video/1",
+              "media_key": "7_1902033586850807808",
+              "start": 29,
+              "url": "https://t.co/bGziFA7YsD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902033636331020535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就这样 暂时还不知道如何布置 感觉可能需要再多贴一点海报 https://t.co/bGziFA7YsD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我会永远站在过去热泪盈眶地读着你们的未来｜把那无人问津的岁月熬成清茶，等一场芳香四散",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1432,
+          "following_count": 236,
+          "like_count": 7058,
+          "listed_count": 11,
+          "media_count": 2189,
+          "tweet_count": 8919
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-25T07:14:30.000Z",
+        "description": "酷儿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/ZnwIMvxxKK"
+              }
+            ]
+          }
+        },
+        "id": "1650760116918943744",
+        "location": "鼠鼠星",
+        "name": "南鼠🍀",
+        "pinned_tweet_id": "1895738591047033314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892591220695920640/2Znqf_LP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3646,
+          "following_count": 938,
+          "like_count": 50787,
+          "listed_count": 5,
+          "media_count": 410,
+          "tweet_count": 9858
+        },
+        "url": "https://t.co/ZnwIMvxxKK",
+        "username": "yusanyyy8",
+        "verified": false
+      }
+    ]
+  }
+}

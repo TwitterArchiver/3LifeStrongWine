@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2042657936477163872",
+    "created_at": "2026-04-10T17:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T18:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042658247883272637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1936462024898383872",
+          "start": 0,
+          "username": "changledawang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042658247883272637",
+    "in_reply_to_user_id": "1936462024898383872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042657936477163872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@changledawang 不盼着有福气我淡淡的顺顺的就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2042657936477163872",
+        "created_at": "2026-04-10T17:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T18:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042658247883272637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1936462024898383872",
+              "start": 0,
+              "username": "changledawang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042658247883272637",
+        "in_reply_to_user_id": "1936462024898383872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042657936477163872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@changledawang 不盼着有福气我淡淡的顺顺的就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936462024898383872",
+        "conversation_id": "2042657936477163872",
+        "created_at": "2026-04-10T17:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T18:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042657936477163872"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042657936477163872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讨厌我的人你们够有福气 我一直都很惨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我一定带你脱离苦海我答应过你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2042,
+          "following_count": 185,
+          "like_count": 6897,
+          "listed_count": 12,
+          "media_count": 3529,
+          "tweet_count": 13875
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T16:31:47.000Z",
+        "description": "别对我指指点点 管好你的嘴 此号不讨好任何人",
+        "id": "1936462024898383872",
+        "location": "🚪88/188/288",
+        "name": "废话少讲好吗",
+        "pinned_tweet_id": "1947680858607116686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041937031371390976/LdcvRlt7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 58,
+          "like_count": 713,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 301
+        },
+        "username": "changledawang",
+        "verified": false
+      }
+    ]
+  }
+}

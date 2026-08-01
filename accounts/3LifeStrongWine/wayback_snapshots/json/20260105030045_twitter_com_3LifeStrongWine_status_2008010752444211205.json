@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2007492505831649785",
+    "created_at": "2026-01-05T03:00:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T04:00:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008010752444211205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1242074475400548352",
+          "start": 0,
+          "username": "A1oneSKy"
+        },
+        {
+          "end": 21,
+          "id": "1789528204207915008",
+          "start": 10,
+          "username": "Yukinyacat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008010752444211205",
+    "in_reply_to_user_id": "1242074475400548352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007495209136078885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A1oneSKy @Yukinyacat 给你玩姐姐的大a1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2007492505831649785",
+        "created_at": "2026-01-05T03:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T04:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008010752444211205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1242074475400548352",
+              "start": 0,
+              "username": "A1oneSKy"
+            },
+            {
+              "end": 21,
+              "id": "1789528204207915008",
+              "start": 10,
+              "username": "Yukinyacat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008010752444211205",
+        "in_reply_to_user_id": "1242074475400548352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007495209136078885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A1oneSKy @Yukinyacat 给你玩姐姐的大a1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1242074475400548352",
+        "conversation_id": "2007492505831649785",
+        "created_at": "2026-01-03T16:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T17:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007495209136078885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1789528204207915008",
+              "start": 0,
+              "username": "Yukinyacat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007495209136078885",
+        "in_reply_to_user_id": "1789528204207915008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007495104513405327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yukinyacat 呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "云和山和风和雨，轻轻地流过我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VnXMe"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "理想国",
+        "name": "luv.",
+        "pinned_tweet_id": "1992598033381638574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987187673644343298/JNckJb5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 175,
+          "like_count": 6631,
+          "listed_count": 13,
+          "media_count": 3098,
+          "tweet_count": 12481
+        },
+        "url": "https://t.co/3g5y5VnXMe",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-23T13:03:36.000Z",
+        "description": "한국어 계정: @alonesky_kr 可爱老婆@jcmarkevo 可爱宝宝@Mario_2333",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "alonesky_kr"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "jcmarkevo"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "Mario_2333"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "alonesky.site",
+                "end": 23,
+                "expanded_url": "https://alonesky.site",
+                "start": 0,
+                "url": "https://t.co/oEkdekBHL8"
+              }
+            ]
+          }
+        },
+        "id": "1242074475400548352",
+        "name": "𝓐𝓛𝓸𝓷𝓮𝓢𝓚𝔂",
+        "pinned_tweet_id": "1567905692379664384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950855415992078337/jdc1F1qB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 1391,
+          "like_count": 4782,
+          "listed_count": 4,
+          "media_count": 4781,
+          "tweet_count": 17406
+        },
+        "url": "https://t.co/oEkdekBHL8",
+        "username": "A1oneSKy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-12T05:29:38.000Z",
+        "description": "Per aspera ad astra | E-mount user | Engineering student | Amateur photographer&illustrator | Have a nice day ~",
+        "id": "1789528204207915008",
+        "location": "Sham Shui Po District",
+        "name": "𝒴𝓊𝓀𝒾❄️🎀",
+        "pinned_tweet_id": "2004771952180027736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007353189650354176/IcLGH4xF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 112,
+          "like_count": 43007,
+          "listed_count": 3,
+          "media_count": 29,
+          "tweet_count": 297
+        },
+        "username": "Yukinyacat",
+        "verified": false
+      }
+    ]
+  }
+}

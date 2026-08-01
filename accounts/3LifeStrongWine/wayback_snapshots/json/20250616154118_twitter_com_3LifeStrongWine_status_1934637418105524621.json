@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934637398799138816"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1934635589065965857",
+    "created_at": "2025-06-16T15:41:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T16:41:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934637418105524621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1487351578419871746",
+          "start": 0,
+          "username": "kirakira1026"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gMpUVbgu9l",
+          "end": 43,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1934637418105524621/photo/1",
+          "media_key": "3_1934637398799138816",
+          "start": 20,
+          "url": "https://t.co/gMpUVbgu9l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934637418105524621",
+    "in_reply_to_user_id": "1487351578419871746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934636864029536577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirakira1026 是否在寻找 https://t.co/gMpUVbgu9l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1934637398799138816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtk2dsybwAAmrfz.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934637398799138816"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1934635589065965857",
+        "created_at": "2025-06-16T15:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T16:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934637418105524621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1487351578419871746",
+              "start": 0,
+              "username": "kirakira1026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gMpUVbgu9l",
+              "end": 43,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1934637418105524621/photo/1",
+              "media_key": "3_1934637398799138816",
+              "start": 20,
+              "url": "https://t.co/gMpUVbgu9l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934637418105524621",
+        "in_reply_to_user_id": "1487351578419871746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934636864029536577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirakira1026 是否在寻找 https://t.co/gMpUVbgu9l"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1487351578419871746",
+        "conversation_id": "1934635589065965857",
+        "created_at": "2025-06-16T15:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T16:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934636864029536577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934636864029536577",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934635589065965857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 第二张很有氛围感啊，截一截去当专辑封面都行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "泛黄的老照片里讲述了一个什么样的故事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930816989695750144/hEPGxvxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 236,
+          "like_count": 7478,
+          "listed_count": 11,
+          "media_count": 2822,
+          "tweet_count": 11456
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-29T09:07:14.000Z",
+        "description": "19岁｜♏️｜switch｜ENTP ｜不加任何联系方式（大字标红）｜恐怖片品鉴大师｜提问箱https://t.co/HgCYQp4pPU｜私信会看但不一定回｜不接推广！！！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kirakira1026",
+                "end": 69,
+                "expanded_url": "https://ngl.link/kirakira1026",
+                "start": 46,
+                "url": "https://t.co/HgCYQp4pPU"
+              }
+            ]
+          }
+        },
+        "id": "1487351578419871746",
+        "location": "双人被",
+        "name": "伊月🌙",
+        "pinned_tweet_id": "1869746551066951735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913144971525582848/tHhIDzqU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20743,
+          "following_count": 983,
+          "like_count": 21176,
+          "listed_count": 49,
+          "media_count": 173,
+          "tweet_count": 8305
+        },
+        "username": "kirakira1026",
+        "verified": false
+      }
+    ]
+  }
+}

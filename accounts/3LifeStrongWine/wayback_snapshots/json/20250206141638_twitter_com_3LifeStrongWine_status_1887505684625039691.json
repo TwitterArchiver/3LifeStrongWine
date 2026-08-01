@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1887504676532465856",
+    "created_at": "2025-02-06T14:16:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T15:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887505684625039691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1645154173707755520",
+          "start": 0,
+          "username": "lx101067"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887505684625039691",
+    "in_reply_to_user_id": "1645154173707755520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887504676532465856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lx101067 我的了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1887504676532465856",
+        "created_at": "2025-02-06T14:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T15:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887505684625039691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1645154173707755520",
+              "start": 0,
+              "username": "lx101067"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887505684625039691",
+        "in_reply_to_user_id": "1645154173707755520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887504676532465856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lx101067 我的了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887504659541262336"
+          ]
+        },
+        "author_id": "1645154173707755520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1887504676532465856",
+        "created_at": "2025-02-06T14:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T15:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887504676532465856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SR8zbeBZtg",
+              "end": 45,
+              "expanded_url": "https://x.com/lx101067/status/1887504676532465856/photo/1",
+              "media_key": "3_1887504659541262336",
+              "start": 22,
+              "url": "https://t.co/SR8zbeBZtg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887504676532465856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友给我买的这个糖  味道其实还不错卧槽。 https://t.co/SR8zbeBZtg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 219,
+          "like_count": 6523,
+          "listed_count": 9,
+          "media_count": 1656,
+          "tweet_count": 7181
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-09T19:58:23.000Z",
+        "description": "碎碎念/发疯/自娱自乐博主/死高p线下查无此人/互关随意加v爱你们     (*´  `*)/提问箱https://t.co/u3K4SfdO0k防走丢小号:@in67luvNight",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 79,
+                "username": "in67luvNight"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/night36853/",
+                "end": 73,
+                "expanded_url": "https://ngl.link/night36853/",
+                "start": 50,
+                "url": "https://t.co/u3K4SfdO0k"
+              }
+            ]
+          }
+        },
+        "id": "1645154173707755520",
+        "location": "🚪67陪聊and开放朋友圈",
+        "name": "Night",
+        "pinned_tweet_id": "1865760014247555294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887364570559438848/S5hihnZq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2619,
+          "following_count": 638,
+          "like_count": 10551,
+          "listed_count": 6,
+          "media_count": 928,
+          "tweet_count": 7844
+        },
+        "username": "lx101067",
+        "verified": false
+      }
+    ]
+  }
+}

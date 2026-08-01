@@ -1,0 +1,494 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596144668673",
+          "name": "Airline - Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Japan Airlines (JAL)",
+          "id": "1038084419695738883",
+          "name": "Japan Airlines"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Air travel",
+          "id": "849076200261603328",
+          "name": "Air travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Air travel",
+          "id": "849076200261603328",
+          "name": "Air travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japan Airlines (JAL)",
+          "id": "1038084419695738883",
+          "name": "Japan Airlines"
+        }
+      }
+    ],
+    "conversation_id": "1912724261606944908",
+    "created_at": "2025-04-17T04:42:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T05:42:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912728343906251189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1491080744508489731",
+          "start": 0,
+          "username": "0308_sodashi"
+        },
+        {
+          "end": 30,
+          "id": "1241896484691312640",
+          "start": 14,
+          "username": "1884_meijichoco"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912728343906251189",
+    "in_reply_to_user_id": "1491080744508489731",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912728070894809276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0308_sodashi @1884_meijichoco 日本航空的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144668673",
+              "name": "Airline - Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Japan Airlines (JAL)",
+              "id": "1038084419695738883",
+              "name": "Japan Airlines"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Air travel",
+              "id": "849076200261603328",
+              "name": "Air travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Air travel",
+              "id": "849076200261603328",
+              "name": "Air travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japan Airlines (JAL)",
+              "id": "1038084419695738883",
+              "name": "Japan Airlines"
+            }
+          }
+        ],
+        "conversation_id": "1912724261606944908",
+        "created_at": "2025-04-17T04:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T05:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912728343906251189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1491080744508489731",
+              "start": 0,
+              "username": "0308_sodashi"
+            },
+            {
+              "end": 30,
+              "id": "1241896484691312640",
+              "start": 14,
+              "username": "1884_meijichoco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912728343906251189",
+        "in_reply_to_user_id": "1491080744508489731",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912728070894809276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0308_sodashi @1884_meijichoco 日本航空的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491080744508489731",
+        "conversation_id": "1912724261606944908",
+        "created_at": "2025-04-17T04:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T05:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912728070894809276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1241896484691312640",
+              "start": 0,
+              "username": "1884_meijichoco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912728070894809276",
+        "in_reply_to_user_id": "1241896484691312640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912724261606944908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1884_meijichoco 下面那个jal是什么（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "东隅已逝，桑榆非晚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912318298353487872/R3xfbIV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1514,
+          "following_count": 242,
+          "like_count": 7426,
+          "listed_count": 12,
+          "media_count": 2535,
+          "tweet_count": 10383
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-08T16:05:39.000Z",
+        "description": "葉靜流｜上海在住｜鉄道・帝国海軍・競馬が好き｜艦これ柱島泊地｜恋人：@34usamirenko86",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 34,
+                "username": "34usamirenko86"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "whofuckingcares.com",
+                "end": 23,
+                "expanded_url": "http://whofuckingcares.com",
+                "start": 0,
+                "url": "https://t.co/bup4Aua3Sh"
+              }
+            ]
+          }
+        },
+        "id": "1491080744508489731",
+        "location": "Osaka-shi Tennoji-ku, Osaka",
+        "name": "葉",
+        "pinned_tweet_id": "1759592076940120409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887548538747559936/GI8FWS4s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3120,
+          "following_count": 2758,
+          "like_count": 101526,
+          "listed_count": 13,
+          "media_count": 4292,
+          "tweet_count": 28713
+        },
+        "url": "https://t.co/bup4Aua3Sh",
+        "username": "0308_sodashi",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-23T01:16:14.000Z",
+        "description": "🦒",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/profiles/76561…",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/profiles/76561198856682437/",
+                "start": 0,
+                "url": "https://t.co/yM98hK1x9R"
+              }
+            ]
+          }
+        },
+        "id": "1241896484691312640",
+        "location": "Je t'attends sur scène",
+        "name": "明治🍫🥛🐧",
+        "pinned_tweet_id": "1534010004327391232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1575774212027211777/lnuvfCkv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3251,
+          "following_count": 966,
+          "like_count": 38931,
+          "listed_count": 29,
+          "media_count": 1552,
+          "tweet_count": 14137
+        },
+        "url": "https://t.co/yM98hK1x9R",
+        "username": "1884_meijichoco",
+        "verified": false
+      }
+    ]
+  }
+}

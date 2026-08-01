@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1909946919079592173",
+    "created_at": "2025-05-25T15:46:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T16:46:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926666149158093045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1506185810135109633",
+          "start": 0,
+          "username": "buhekele_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926666149158093045",
+    "in_reply_to_user_id": "1506185810135109633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909946919079592173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buhekele_ 哈哈哈哈这游戏是这样的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 802,
+        "media_key": "3_1909946909222993920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoF-mDgXgAA5Rvv.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1909946919079592173",
+        "created_at": "2025-05-25T15:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T16:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926666149158093045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1506185810135109633",
+              "start": 0,
+              "username": "buhekele_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926666149158093045",
+        "in_reply_to_user_id": "1506185810135109633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909946919079592173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buhekele_ 哈哈哈哈这游戏是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909946909222993920"
+          ]
+        },
+        "author_id": "1506185810135109633",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1909946919079592173",
+        "created_at": "2025-04-09T12:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T13:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909946919079592173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9UlTAPiLwf",
+              "end": 23,
+              "expanded_url": "https://x.com/buhekele_/status/1909946919079592173/photo/1",
+              "media_key": "3_1909946909222993920",
+              "start": 0,
+              "url": "https://t.co/9UlTAPiLwf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909946919079592173",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2200,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9UlTAPiLwf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "闻有三山不知处，茂陵松柏满西风",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912318298353487872/R3xfbIV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 235,
+          "like_count": 7407,
+          "listed_count": 11,
+          "media_count": 2670,
+          "tweet_count": 10836
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-22T08:27:46.000Z",
+        "description": "这里是小面包～纯恨战神 // 困困困困吃吃吃吃 // 碎碎念 // 取关随意 别视奸我 互关来 @Bread_jaeyyyy 淡推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "Bread_jaeyyyy"
+              }
+            ]
+          }
+        },
+        "id": "1506185810135109633",
+        "location": "被窝",
+        "name": "yanww_🍞",
+        "pinned_tweet_id": "1926497074779996385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839923612905590784/pFw6rbZ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2745,
+          "following_count": 228,
+          "like_count": 19238,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 2714
+        },
+        "username": "buhekele_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1910589370605985796"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1910589377232986468",
+    "created_at": "2025-04-11T07:02:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T08:02:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1910589377232986468"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3UvKCUYcu0",
+          "end": 35,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1910589377232986468/photo/1",
+          "media_key": "3_1910589370605985796",
+          "start": 12,
+          "url": "https://t.co/3UvKCUYcu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910589377232986468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这就是我家到学校的距离 https://t.co/3UvKCUYcu0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 150,
+        "media_key": "3_1910589370605985796",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoPG6OqbYAQDbc9.jpg",
+        "width": 380
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910589370605985796"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1910589377232986468",
+        "created_at": "2025-04-11T07:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T08:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910589377232986468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3UvKCUYcu0",
+              "end": 35,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1910589377232986468/photo/1",
+              "media_key": "3_1910589370605985796",
+              "start": 12,
+              "url": "https://t.co/3UvKCUYcu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910589377232986468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这就是我家到学校的距离 https://t.co/3UvKCUYcu0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "东隅已逝，桑榆非晚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909122304141148160/VzRDqCNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1497,
+          "following_count": 244,
+          "like_count": 7368,
+          "listed_count": 12,
+          "media_count": 2491,
+          "tweet_count": 10165
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

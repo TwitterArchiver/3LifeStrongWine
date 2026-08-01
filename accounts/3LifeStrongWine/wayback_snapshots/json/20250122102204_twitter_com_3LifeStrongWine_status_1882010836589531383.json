@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1882002933853872193",
+    "created_at": "2025-01-22T10:22:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T11:22:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882010836589531383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1483810835373989891",
+          "start": 0,
+          "username": "xiaowan65216365"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882010836589531383",
+    "in_reply_to_user_id": "1483810835373989891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882007782884528459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaowan65216365 皇牌空战7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1882002933853872193",
+        "created_at": "2025-01-22T10:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T11:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882010836589531383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1483810835373989891",
+              "start": 0,
+              "username": "xiaowan65216365"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882010836589531383",
+        "in_reply_to_user_id": "1483810835373989891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882007782884528459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaowan65216365 皇牌空战7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1483810835373989891",
+        "conversation_id": "1882002933853872193",
+        "created_at": "2025-01-22T10:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T11:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882007782884528459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882007782884528459",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882002933853872193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 这是啥游戏啊我去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "白云山上白云泉，云自无心水自闲",
+        "id": "1529654419213541376",
+        "location": "看桃花开出怎样的结果",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1311,
+          "following_count": 230,
+          "like_count": 5941,
+          "listed_count": 7,
+          "media_count": 1391,
+          "tweet_count": 6279
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-19T14:37:34.000Z",
+        "description": "许愿像轻松熊一样轻松 无福利。小号：@xiaoyuanbao521推广自辨！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "xiaoyuanbao521"
+              }
+            ]
+          }
+        },
+        "id": "1483810835373989891",
+        "location": "距离3.6km",
+        "name": "Dango",
+        "pinned_tweet_id": "1881956919273025876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869184142212300800/xhnsNcRk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9239,
+          "following_count": 177,
+          "like_count": 15722,
+          "listed_count": 15,
+          "media_count": 214,
+          "tweet_count": 1203
+        },
+        "username": "xiaowan65216365",
+        "verified": false
+      }
+    ]
+  }
+}

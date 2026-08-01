@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1880210542343917777",
+    "created_at": "2025-01-19T08:55:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T09:55:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880901913543422384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1816611125359943680",
+          "start": 0,
+          "username": "jinyi74862"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880901913543422384",
+    "in_reply_to_user_id": "1816611125359943680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880901855129354546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinyi74862 因为这个啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1880210542343917777",
+        "created_at": "2025-01-19T08:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T09:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880901913543422384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816611125359943680",
+              "start": 0,
+              "username": "jinyi74862"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880901913543422384",
+        "in_reply_to_user_id": "1816611125359943680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880901855129354546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinyi74862 因为这个啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816611125359943680",
+        "conversation_id": "1880210542343917777",
+        "created_at": "2025-01-19T08:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T09:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880901855129354546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880901855129354546",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880210542343917777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 终于想起来为什么关注你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花究竟开出什么样的结果",
+        "id": "1529654419213541376",
+        "location": "夢在心上心便溫柔",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1147,
+          "following_count": 236,
+          "like_count": 5526,
+          "listed_count": 7,
+          "media_count": 1294,
+          "tweet_count": 5913
+        },
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T23:07:11.000Z",
+        "description": "赛博幽灵 | 碎碎念很多但心态还挺好 | 爱好是看书网球打游戏偶尔爬爬山玩点桌游 | 每天的快乐来自于搞抽象和被在乎 | 痛苦来源于写作业 | 幸福不是随随便便就能得到的，而是通过经历痛苦和挣扎才获得的。人类的本质在于追求更高的目标，而不是仅仅满足于眼前的享乐。| 总有一天会撞地球的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jinyi74862",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jinyi74862",
+                "start": 0,
+                "url": "https://t.co/1QaESEIHyM"
+              }
+            ]
+          }
+        },
+        "id": "1816611125359943680",
+        "location": "大抵是不存在吧",
+        "name": "小星撞地球",
+        "pinned_tweet_id": "1845091616400474257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872132327582871552/uSMh679C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 44,
+          "like_count": 4540,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 2250
+        },
+        "url": "https://t.co/1QaESEIHyM",
+        "username": "jinyi74862",
+        "verified": false
+      }
+    ]
+  }
+}

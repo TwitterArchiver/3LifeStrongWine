@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908529835863138305"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "1908529839780605981",
+    "created_at": "2025-04-05T14:39:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T15:39:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908529839780605981"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dSdY4C8v8g",
+          "end": 48,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/1908529839780605981/photo/1",
+          "media_key": "3_1908529835863138305",
+          "start": 25,
+          "url": "https://t.co/dSdY4C8v8g"
+        },
+        {
+          "display_url": "x.com/3lifestrongwin…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/3lifestrongwine/status/1908528978056323216",
+          "start": 49,
+          "url": "https://t.co/cAKJijnzur"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908529839780605981",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908528978056323216",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "和老朋友一起喝点啤酒，听着歌，看着外面大阪的夜晚 https://t.co/dSdY4C8v8g https://t.co/cAKJijnzur"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1908529835863138305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnx1xh3bYAEEnEj.jpg",
+        "width": 1152
+      },
+      {
+        "duration_ms": 12435,
+        "height": 1920,
+        "media_key": "13_1908528919529259008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1908528919529259008/img/yEj_u3qDEUXto1vn.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1908528919529259008/vid/avc1/480x852/AAhHZRTH96NErotB.mp4?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1908528919529259008/vid/avc1/320x568/Hp_aM8sSHDfY4vW2.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1908528919529259008/vid/avc1/720x1280/fO84ZAg9BXLBugYq.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1908528919529259008/pl/qa7P4WUnpXkxjGGA.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1908528919529259008/vid/avc1/1080x1920/laRw0MJj4trK2HzO.mp4?tag=16"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908529835863138305"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1908529839780605981",
+        "created_at": "2025-04-05T14:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T15:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908529839780605981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dSdY4C8v8g",
+              "end": 48,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1908529839780605981/photo/1",
+              "media_key": "3_1908529835863138305",
+              "start": 25,
+              "url": "https://t.co/dSdY4C8v8g"
+            },
+            {
+              "display_url": "x.com/3lifestrongwin…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/3lifestrongwine/status/1908528978056323216",
+              "start": 49,
+              "url": "https://t.co/cAKJijnzur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908529839780605981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908528978056323216",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和老朋友一起喝点啤酒，听着歌，看着外面大阪的夜晚 https://t.co/dSdY4C8v8g https://t.co/cAKJijnzur"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1908528919529259008"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1908528978056323216",
+        "created_at": "2025-04-05T14:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T15:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908528978056323216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A9g2qMZ4Kg",
+              "end": 23,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1908528978056323216/video/1",
+              "media_key": "13_1908528919529259008",
+              "start": 0,
+              "url": "https://t.co/A9g2qMZ4Kg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908528978056323216",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/A9g2qMZ4Kg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "业余摄影｜我会永远站在过去热泪盈眶地读着你们的未来",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898040581177458689/UpKMNjEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1491,
+          "following_count": 231,
+          "like_count": 7180,
+          "listed_count": 12,
+          "media_count": 2421,
+          "tweet_count": 9761
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

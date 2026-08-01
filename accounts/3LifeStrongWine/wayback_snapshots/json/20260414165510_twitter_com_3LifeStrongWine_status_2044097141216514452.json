@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2044055782359019941",
+    "created_at": "2026-04-14T16:55:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T17:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044097141216514452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1749848735436427265",
+          "start": 0,
+          "username": "unkmit98"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044097141216514452",
+    "in_reply_to_user_id": "1749848735436427265",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044097062858346944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@unkmit98 硌死我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2044055782359019941",
+        "created_at": "2026-04-14T16:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T17:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044097141216514452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1749848735436427265",
+              "start": 0,
+              "username": "unkmit98"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044097141216514452",
+        "in_reply_to_user_id": "1749848735436427265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044097062858346944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@unkmit98 硌死我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749848735436427265",
+        "conversation_id": "2044055782359019941",
+        "created_at": "2026-04-14T16:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T17:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044097062858346944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044097062858346944",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044096689120886865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 别摘下来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "如果能有转机我许愿是能够一直看着你的眼睛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 115,
+          "like_count": 6930,
+          "listed_count": 12,
+          "media_count": 3545,
+          "tweet_count": 13959
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T17:37:16.000Z",
+        "description": "空心橙子｜泪涔涔也往前进",
+        "id": "1749848735436427265",
+        "name": "橙子皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043338886483730432/laZu2BD8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4726,
+          "following_count": 435,
+          "like_count": 178811,
+          "listed_count": 23,
+          "media_count": 15,
+          "tweet_count": 21911
+        },
+        "username": "unkmit98",
+        "verified": false
+      }
+    ]
+  }
+}

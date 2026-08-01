@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2038453277952725081",
+    "created_at": "2026-04-06T16:57:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T17:57:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041198593651191856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1787670874549817344",
+          "start": 0,
+          "username": "elaineL187506"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041198593651191856",
+    "in_reply_to_user_id": "1787670874549817344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041198455012692060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@elaineL187506 这玩意一点儿都不好用，还死贵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2038453277952725081",
+        "created_at": "2026-04-06T16:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041198593651191856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787670874549817344",
+              "start": 0,
+              "username": "elaineL187506"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041198593651191856",
+        "in_reply_to_user_id": "1787670874549817344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041198455012692060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@elaineL187506 这玩意一点儿都不好用，还死贵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787670874549817344",
+        "conversation_id": "2038453277952725081",
+        "created_at": "2026-04-06T16:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041198455012692060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041198455012692060",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041192512627642469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 我吃了几次，也是入睡很慢，一直做梦很累。我为了降低佐匹克隆依赖性，拿它替代的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "爱意救不了往下坠的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "luv.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041196358301073408/IUIPZZdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2066,
+          "following_count": 188,
+          "like_count": 6903,
+          "listed_count": 13,
+          "media_count": 3498,
+          "tweet_count": 13748
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-07T02:29:04.000Z",
+        "description": "碎碎念/INFP/抑郁症康复中还在吃药会失忆嗜睡失眠/想给我发私信请关注我/偶尔失忆请谅解/不和不好玩的人聊天",
+        "id": "1787670874549817344",
+        "name": "废废小蝴蝶",
+        "pinned_tweet_id": "1992502453036831166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024736619102978048/xA4RGJfW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 214,
+          "like_count": 550,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1607
+        },
+        "username": "elaineL187506",
+        "verified": true
+      }
+    ]
+  }
+}

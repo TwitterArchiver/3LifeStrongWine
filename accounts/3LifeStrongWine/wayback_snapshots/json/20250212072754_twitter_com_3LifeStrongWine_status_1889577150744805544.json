@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1889577150744805544",
+    "created_at": "2025-02-12T07:27:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T08:27:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889577150744805544"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3lifestrongwin…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/3lifestrongwine/status/1889576643112419490",
+          "start": 29,
+          "url": "https://t.co/G4IUalAjvt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889577150744805544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889576643112419490",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我妈让助理给自己定business，给我就定eco😮‍💨 https://t.co/G4IUalAjvt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1889577150744805544",
+        "created_at": "2025-02-12T07:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T08:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889577150744805544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3lifestrongwin…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/3lifestrongwine/status/1889576643112419490",
+              "start": 29,
+              "url": "https://t.co/G4IUalAjvt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889577150744805544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889576643112419490",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我妈让助理给自己定business，给我就定eco😮‍💨 https://t.co/G4IUalAjvt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889576631926398980"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "1889576643112419490",
+        "created_at": "2025-02-12T07:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T08:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889576643112419490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SUbfKB1CDR",
+              "end": 39,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/1889576643112419490/photo/1",
+              "media_key": "3_1889576631926398980",
+              "start": 16,
+              "url": "https://t.co/SUbfKB1CDR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889576643112419490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给自己选了个非常吵的位置。。。 https://t.co/SUbfKB1CDR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 217,
+          "like_count": 6524,
+          "listed_count": 10,
+          "media_count": 1822,
+          "tweet_count": 7554
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "1885284222912651354",
+    "created_at": "2025-02-01T14:16:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T15:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885693745829654857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1314839423457153024",
+          "start": 0,
+          "username": "blty14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885693745829654857",
+    "in_reply_to_user_id": "1314839423457153024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885693508767326295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blty14 不是这个下三路"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "1885284222912651354",
+        "created_at": "2025-02-01T14:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T15:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885693745829654857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1314839423457153024",
+              "start": 0,
+              "username": "blty14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885693745829654857",
+        "in_reply_to_user_id": "1314839423457153024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885693508767326295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blty14 不是这个下三路"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1314839423457153024",
+        "conversation_id": "1885284222912651354",
+        "created_at": "2025-02-01T14:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T15:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885693508767326295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885693508767326295",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885690288129384540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 中下辅吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "我本是桂花院落闲散的人，满襟酒气，小池塘边跌坐看鱼，眉挑烟火过一生。",
+        "id": "1529654419213541376",
+        "location": "浮生三千不过大梦一场",
+        "name": "三生醇醪🍊",
+        "pinned_tweet_id": "1874675451739971770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880897655347515392/ROg_kky0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 217,
+          "like_count": 6310,
+          "listed_count": 9,
+          "media_count": 1567,
+          "tweet_count": 6848
+        },
+        "username": "3LifeStrongWine",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-10T08:05:58.000Z",
+        "description": "",
+        "id": "1314839423457153024",
+        "name": "bls",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877641458624397312/h0kvjOrV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 109,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 30
+        },
+        "username": "blty14",
+        "verified": false
+      }
+    ]
+  }
+}
