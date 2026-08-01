@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061788421434249216",
+        "3_2061788421430169600"
+      ]
+    },
+    "author_id": "1529654419213541376",
+    "conversation_id": "2061788433044140093",
+    "created_at": "2026-06-02T12:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T13:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061788433044140093"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qew216siMG",
+          "end": 39,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/2061788433044140093/photo/1",
+          "media_key": "3_2061788421434249216",
+          "start": 16,
+          "url": "https://t.co/qew216siMG"
+        },
+        {
+          "display_url": "pic.x.com/qew216siMG",
+          "end": 39,
+          "expanded_url": "https://x.com/3LifeStrongWine/status/2061788433044140093/photo/1",
+          "media_key": "3_2061788421430169600",
+          "start": 16,
+          "url": "https://t.co/qew216siMG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061788433044140093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有没有用过的求推荐和避雷🙏🙏🙏 https://t.co/qew216siMG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1593,
+        "media_key": "3_2061788421434249216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzxpT2aEAAxnYn.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1598,
+        "media_key": "3_2061788421430169600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzxpT1b0AAz0Er.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061788421434249216",
+            "3_2061788421430169600"
+          ]
+        },
+        "author_id": "1529654419213541376",
+        "conversation_id": "2061788433044140093",
+        "created_at": "2026-06-02T12:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061788433044140093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qew216siMG",
+              "end": 39,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/2061788433044140093/photo/1",
+              "media_key": "3_2061788421434249216",
+              "start": 16,
+              "url": "https://t.co/qew216siMG"
+            },
+            {
+              "display_url": "pic.x.com/qew216siMG",
+              "end": 39,
+              "expanded_url": "https://x.com/3LifeStrongWine/status/2061788433044140093/photo/1",
+              "media_key": "3_2061788421430169600",
+              "start": 16,
+              "url": "https://t.co/qew216siMG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061788433044140093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有用过的求推荐和避雷🙏🙏🙏 https://t.co/qew216siMG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花潭水深千尺  不及汪伦送我情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2870,
+          "following_count": 100,
+          "like_count": 6829,
+          "listed_count": 14,
+          "media_count": 3682,
+          "tweet_count": 14384
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      }
+    ]
+  }
+}
