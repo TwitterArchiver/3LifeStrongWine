@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2090056737365852558",
+    "created_at": "2026-08-19T14:00:07.000Z",
+    "display_text_range": [
+      12,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T15:00:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090076348543115743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1335285227040600066",
+          "start": 0,
+          "username": "Alex_nero_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090076348543115743",
+    "in_reply_to_user_id": "1335285227040600066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090067708331352499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alex_nero_ 我用了几天感觉还好吧，没有很明显发热"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2090056737365852558",
+        "created_at": "2026-08-19T14:00:07.000Z",
+        "display_text_range": [
+          12,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090076348543115743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1335285227040600066",
+              "start": 0,
+              "username": "Alex_nero_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090076348543115743",
+        "in_reply_to_user_id": "1335285227040600066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090067708331352499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alex_nero_ 我用了几天感觉还好吧，没有很明显发热"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1335285227040600066",
+        "conversation_id": "2090056737365852558",
+        "created_at": "2026-08-19T13:25:47.000Z",
+        "display_text_range": [
+          17,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T14:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090067708331352499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090067708331352499",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090056737365852558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 牛犇富鸽们儿上科技🤓但你要是这么改感觉你的散热压力很大"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花潭水深千尺  不及汪伦送我情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "is_identity_verified": false,
+        "location": "我想带你看我走到过的每一个地方",
+        "most_recent_tweet_id": "2090076348543115743",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1529654419213541376/1776235954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2806,
+          "following_count": 90,
+          "like_count": 6806,
+          "listed_count": 14,
+          "media_count": 3753,
+          "tweet_count": 14583
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-05T18:09:56.000Z",
+        "description": "用舍由时 行藏在我🚬🤡",
+        "id": "1335285227040600066",
+        "is_identity_verified": false,
+        "location": "-14cm",
+        "most_recent_tweet_id": "2090067708331352499",
+        "name": "徐涛",
+        "pinned_tweet_id": "1987167444650373320",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1335285227040600066/1648046468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770463698391646208/tXz6oIb5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 2338,
+          "like_count": 9260,
+          "listed_count": 2,
+          "media_count": 640,
+          "tweet_count": 3628
+        },
+        "url": "",
+        "username": "Alex_nero_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
