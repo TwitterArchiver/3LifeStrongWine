@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2106392688979550238",
+    "created_at": "2026-10-03T14:46:16.000Z",
+    "display_text_range": [
+      17,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T15:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106395412961870309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1894019500485603328",
+          "start": 0,
+          "username": "fs8G7srHMX74174"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106395412961870309",
+    "in_reply_to_user_id": "1894019500485603328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106392688979550238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fs8G7srHMX74174 要是真的能做到不在乎就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2106392688979550238",
+        "created_at": "2026-10-03T14:46:16.000Z",
+        "display_text_range": [
+          17,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T15:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106395412961870309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1894019500485603328",
+              "start": 0,
+              "username": "fs8G7srHMX74174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106395412961870309",
+        "in_reply_to_user_id": "1894019500485603328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106392688979550238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fs8G7srHMX74174 要是真的能做到不在乎就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894019500485603328",
+        "conversation_id": "2106392688979550238",
+        "created_at": "2026-10-03T14:35:26.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T15:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106392688979550238"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106392688979550238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "珍惜别人不能留下任何人 还是耍起更舒服呀好爽哦"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "不然秋月春风夜  争那闲思往事何",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106395412961870309",
+        "name": "算了吧",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1529654419213541376/1776235954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2854,
+          "following_count": 86,
+          "like_count": 6773,
+          "listed_count": 14,
+          "media_count": 3762,
+          "tweet_count": 14616
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-24T13:40:32.000Z",
+        "description": "善良的活下去吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qntwx.com/N3NB87",
+                "end": 23,
+                "expanded_url": "https://qntwx.com/N3NB87",
+                "start": 0,
+                "url": "https://t.co/n7RYPd86Zq"
+              }
+            ]
+          }
+        },
+        "id": "1894019500485603328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106392892327723452",
+        "name": "sora",
+        "pinned_tweet_id": "2023381632745611563",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894019500485603328/1740404659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929938244210438151/BEQrSKma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 68,
+          "like_count": 2030,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 755
+        },
+        "url": "https://t.co/n7RYPd86Zq",
+        "username": "fs8G7srHMX74174",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

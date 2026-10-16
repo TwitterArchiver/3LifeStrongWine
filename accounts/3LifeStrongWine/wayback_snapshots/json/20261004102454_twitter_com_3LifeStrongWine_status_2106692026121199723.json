@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2106685319647273057",
+    "created_at": "2026-10-04T10:24:54.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T11:24:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106692026121199723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1834955424929648640",
+          "start": 0,
+          "username": "rabbot1Il"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106692026121199723",
+    "in_reply_to_user_id": "1834955424929648640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106685319647273057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rabbot1Il 生日快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2106685319647273057",
+        "created_at": "2026-10-04T10:24:54.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T11:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106692026121199723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1834955424929648640",
+              "start": 0,
+              "username": "rabbot1Il"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106692026121199723",
+        "in_reply_to_user_id": "1834955424929648640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106685319647273057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rabbot1Il 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834955424929648640",
+        "conversation_id": "2106685319647273057",
+        "created_at": "2026-10-04T09:58:15.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T10:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106685319647273057"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106685319647273057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好烦 过几天生日不知道怎么过"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "不然秋月春风夜  争那闲思往事何",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106692026121199723",
+        "name": "算了吧",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1529654419213541376/1776235954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3045,
+          "following_count": 86,
+          "like_count": 6775,
+          "listed_count": 15,
+          "media_count": 3762,
+          "tweet_count": 14617
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-14T14:00:51.000Z",
+        "description": "欢迎来到我的内心世界",
+        "id": "1834955424929648640",
+        "is_identity_verified": false,
+        "location": "距离1,249,385.8km",
+        "most_recent_tweet_id": "2106691432484626836",
+        "name": "？",
+        "pinned_tweet_id": "2070812089317552362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834955424929648640/1781905358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071452726253555712/_Gma4gSF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1936,
+          "following_count": 228,
+          "like_count": 8734,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 3862
+        },
+        "url": "",
+        "username": "rabbot1Il",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

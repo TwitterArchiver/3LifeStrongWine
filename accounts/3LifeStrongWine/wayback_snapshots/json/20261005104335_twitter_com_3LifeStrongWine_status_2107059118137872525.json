@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2106050216688603357",
+    "created_at": "2026-10-05T10:43:35.000Z",
+    "display_text_range": [
+      16,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T11:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107059118137872525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1889968760574119937",
+          "start": 0,
+          "username": "mich_alan50792"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107059118137872525",
+    "in_reply_to_user_id": "1889968760574119937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107033802631758255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mich_alan50792 这个真的好遗憾，当长大之后想回望过去的自己的时候，发现自己的过去被自己亲手毁掉了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2106050216688603357",
+        "created_at": "2026-10-05T10:43:35.000Z",
+        "display_text_range": [
+          16,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T11:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107059118137872525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1889968760574119937",
+              "start": 0,
+              "username": "mich_alan50792"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107059118137872525",
+        "in_reply_to_user_id": "1889968760574119937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107033802631758255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mich_alan50792 这个真的好遗憾，当长大之后想回望过去的自己的时候，发现自己的过去被自己亲手毁掉了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889968760574119937",
+        "conversation_id": "2106050216688603357",
+        "created_at": "2026-10-05T09:02:59.000Z",
+        "display_text_range": [
+          17,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T10:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107033802631758255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107033802631758255",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106050216688603357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 以前很小的时候很冲动，把爸妈的一台笔电从五楼扔了下去（放现在高低得判高空抛物）。后来长大了才知道那台电脑有我刚出生的样子，当时的技术修不好了也没有备份，所以想想真的可惜和后悔"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "不然秋月春风夜  争那闲思往事何",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107059118137872525",
+        "name": "算了吧",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1529654419213541376/1776235954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3185,
+          "following_count": 86,
+          "like_count": 6784,
+          "listed_count": 14,
+          "media_count": 3762,
+          "tweet_count": 14624
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-13T09:24:16.000Z",
+        "description": "",
+        "id": "1889968760574119937",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107033802631758255",
+        "name": "Alan Mich",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889968826550480897/DTjvE8kd_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 68,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "mich_alan50792",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

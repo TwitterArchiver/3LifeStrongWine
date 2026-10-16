@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1529654419213541376",
+    "conversation_id": "2106965370880037188",
+    "created_at": "2026-10-05T10:38:23.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T11:38:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107057807472337147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1834420183852875776",
+          "start": 0,
+          "username": "sword_3rd_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107057807472337147",
+    "in_reply_to_user_id": "1834420183852875776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106965370880037188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sword_3rd_ 耍起！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2106965370880037188",
+        "created_at": "2026-10-05T10:38:23.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T11:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107057807472337147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1834420183852875776",
+              "start": 0,
+              "username": "sword_3rd_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107057807472337147",
+        "in_reply_to_user_id": "1834420183852875776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106965370880037188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sword_3rd_ 耍起！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834420183852875776",
+        "conversation_id": "2106965370880037188",
+        "created_at": "2026-10-05T04:31:04.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T05:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106965370880037188"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106965370880037188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "放弃占有欲，放弃两性亲密关系，放弃无端悲伤，放弃回忆，耍起。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "不然秋月春风夜  争那闲思往事何",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107057807472337147",
+        "name": "算了吧",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1529654419213541376/1776235954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3184,
+          "following_count": 86,
+          "like_count": 6781,
+          "listed_count": 14,
+          "media_count": 3762,
+          "tweet_count": 14623
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-13T02:33:57.000Z",
+        "description": "//只是自说自话",
+        "id": "1834420183852875776",
+        "is_identity_verified": false,
+        "location": "双刃剑的第三面",
+        "most_recent_tweet_id": "2106965370880037188",
+        "name": "k_",
+        "pinned_tweet_id": "2105076929191907764",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834420183852875776/1791166821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051116798460977152/YvD0s5Pj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 241,
+          "like_count": 4283,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1001
+        },
+        "url": "",
+        "username": "sword_3rd_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
